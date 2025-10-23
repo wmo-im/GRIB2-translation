@@ -1,0 +1,7 @@
+Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status
+Tabla de cifrado 1.5 – Número del modelo de identificación,,0,,Definición del calendario,,,,Operational
+Tabla de cifrado 1.5 – Número del modelo de identificación,,1,,Compensación paleontológica,,,,Operational
+Tabla de cifrado 1.5 – Número del modelo de identificación,,2,,Definición del calendario y compensación paleontológica,,,,Operational
+Tabla de cifrado 1.5 – Número del modelo de identificación,,3–32767,,Reservadas,,,,Operational
+Tabla de cifrado 1.5 – Número del modelo de identificación,,32768–65534,,Reservadas para uso local,,,,Operational
+Tabla de cifrado 1.5 – Número del modelo de identificación,,65535,,Valor faltante,,,,Operational

@@ -1,0 +1,5 @@
+Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status
+Tabla de cifrado 5.40 – Tipo de compresión,,0,,Sin pérdidas,,,,Operational
+Tabla de cifrado 5.40 – Tipo de compresión,,1,,Con pérdidas,,,,Operational
+Tabla de cifrado 5.40 – Tipo de compresión,,2-254,,Reservadas,,,,Operational
+Tabla de cifrado 5.40 – Tipo de compresión,,255,,Valor faltante,,,,Operational

@@ -1,0 +1,7 @@
+Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status
+Tabla de cifrado 4.246 – Intensidad de la tormenta,,0,,No hay tormenta,,,,Operational
+Tabla de cifrado 4.246 – Intensidad de la tormenta,,1,,Tormenta débil,,,,Operational
+Tabla de cifrado 4.246 – Intensidad de la tormenta,,2,,Tormenta moderada,,,,Operational
+Tabla de cifrado 4.246 – Intensidad de la tormenta,,3,,Tormenta fuerte,,,,Operational
+Tabla de cifrado 4.246 – Intensidad de la tormenta,,4-254,,Reservadas,,,,Operational
+Tabla de cifrado 4.246 – Intensidad de la tormenta,,255,,Valor faltante,,,,Operational

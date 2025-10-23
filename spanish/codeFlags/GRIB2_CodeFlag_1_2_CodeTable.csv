@@ -1,0 +1,8 @@
+Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status
+Tabla de cifrado 1.2 – Significación de la hora de referencia,,0,,Análisis,,,,Operational
+Tabla de cifrado 1.2 – Significación de la hora de referencia,,1,,Comienzo de la previsión,,,,Operational
+Tabla de cifrado 1.2 – Significación de la hora de referencia,,2,,Hora de verificación de la previsión,,,,Operational
+Tabla de cifrado 1.2 – Significación de la hora de referencia,,3,,Hora de la observación,,,,Operational
+Tabla de cifrado 1.2 – Significación de la hora de referencia,,4–191,,Reservadas,,,,Operational
+Tabla de cifrado 1.2 – Significación de la hora de referencia,,192–254,,Reservadas para uso local,,,,Operational
+Tabla de cifrado 1.2 – Significación de la hora de referencia,,255,,Valor faltante,,,,Operational

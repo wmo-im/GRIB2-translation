@@ -1,0 +1,23 @@
+Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status
+Modelo de definición de la retícula 3.12 — Mercator transversal,15,,Forma de la Tierra,véase la Tabla de cifrado 3.2,,,,Operational
+Modelo de definición de la retícula 3.12 — Mercator transversal,16,,Factor de escala del radio de la Tierra esférica,,,,,Operational
+Modelo de definición de la retícula 3.12 — Mercator transversal,17-20,,Valor ajustado del radio de la Tierra esférica,,,,,Operational
+Modelo de definición de la retícula 3.12 — Mercator transversal,21,,Factor de escala del eje mayor de la Tierra esferoidal achatada,,,,,Operational
+Modelo de definición de la retícula 3.12 — Mercator transversal,22-25,,Valor ajustado del eje mayor de la Tierra esferoidal achatada,,,,,Operational
+Modelo de definición de la retícula 3.12 — Mercator transversal,26,,Factor de escala del eje menor de la Tierra esferoidal achatada,,,,,Operational
+Modelo de definición de la retícula 3.12 — Mercator transversal,27-30,,Valor ajustado del eje menor de la Tierra esferoidal achatada,,,,,Operational
+Modelo de definición de la retícula 3.12 — Mercator transversal,31-34,,Ni - número de puntos a lo largo del eje i,,,,,Operational
+Modelo de definición de la retícula 3.12 — Mercator transversal,35-38,,Nj - número de puntos a lo largo del eje j,,,,,Operational
+Modelo de definición de la retícula 3.12 — Mercator transversal,39-42,,LaR - latitud geográfica del punto de referencia,,,,,Operational
+Modelo de definición de la retícula 3.12 — Mercator transversal,43-46,,LoR - longitud geográfica del punto de referencia,,,,,Operational
+Modelo de definición de la retícula 3.12 — Mercator transversal,47,,Banderines de resolución y de componentes,véase la Tabla de banderines 3.3,,,,Operational
+Modelo de definición de la retícula 3.12 — Mercator transversal,48-51,,m - factor de escala en el punto de referencia – relación entre la distancia en el mapa y la distancia en el esferoide,valores de coma flotante IEEE de 32 bits,,,,Operational
+Modelo de definición de la retícula 3.12 — Mercator transversal,52-55,,"XR v falsa distancia en dirección este, coordenada en la dirección i del punto de referencia, en unidades de 10-2 m",,,,,Operational
+Modelo de definición de la retícula 3.12 — Mercator transversal,56-59,,"YR - falsa distancia en dirección norte, coordenada en la dirección j del punto de referencia, en unidades de 10-2 m",,,,,Operational
+Modelo de definición de la retícula 3.12 — Mercator transversal,60,,Modo de barrido,véanse los banderines de la Tabla de banderines 3.4,,,,Operational
+Modelo de definición de la retícula 3.12 — Mercator transversal,61-64,,"Di - incremento de longitud en la dirección i, en unidades de 10-2 m",,,,,Operational
+Modelo de definición de la retícula 3.12 — Mercator transversal,65-68,,"Dj - incremento de longitud en la dirección j, en unidades de 10-2 m",,,,,Operational
+Modelo de definición de la retícula 3.12 — Mercator transversal,69-72,,"x1 - coordenada del primer punto de retícula en la dirección i, en unidades de 10-2 m",,,,,Operational
+Modelo de definición de la retícula 3.12 — Mercator transversal,73-76,,"y1 - coordenada del primer punto de retícula en la dirección j, en unidades de 10-2 m",,,,,Operational
+Modelo de definición de la retícula 3.12 — Mercator transversal,77-80,,"x2 - coordenada del último punto de retícula en la dirección i, en unidades de 10-2 m",,,,,Operational
+Modelo de definición de la retícula 3.12 — Mercator transversal,81-84,,"y2 - coordenada del último punto de retícula en la dirección j, en unidades de 10-2 m",,,,,Operational

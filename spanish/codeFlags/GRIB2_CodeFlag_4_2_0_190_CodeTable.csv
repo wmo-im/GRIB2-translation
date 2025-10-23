@@ -1,0 +1,5 @@
+Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status
+Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 190: cadena de caracteres CCITT IA5",0,,Cadena de texto arbitraria,,,CCITTIA5,Operational
+Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 190: cadena de caracteres CCITT IA5",1-191,,Reservados,,,,Operational
+Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 190: cadena de caracteres CCITT IA5",192-254,,Reservados para uso local,,,,Operational
+Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 190: cadena de caracteres CCITT IA5",255,,Valor faltante,,,,Operational

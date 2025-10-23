@@ -1,0 +1,7 @@
+Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status
+Tabla de cifrado 4.12 – Modo de funcionamiento,,0,,Modo de mantenimiento,,,,Operational
+Tabla de cifrado 4.12 – Modo de funcionamiento,,1,,Cielo despejado,,,,Operational
+Tabla de cifrado 4.12 – Modo de funcionamiento,,2,,Precipitación,,,,Operational
+Tabla de cifrado 4.12 – Modo de funcionamiento,,3-191,,Reservadas,,,,Operational
+Tabla de cifrado 4.12 – Modo de funcionamiento,,192-254,,Reservadas para uso local,,,,Operational
+Tabla de cifrado 4.12 – Modo de funcionamiento,,255,,Valor faltante,,,,Operational

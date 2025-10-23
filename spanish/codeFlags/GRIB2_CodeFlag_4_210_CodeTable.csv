@@ -1,0 +1,6 @@
+Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status
+Tabla de cifrado 4.210 – Intensidad de la estela de condensación,,0,,Ausencia de estela de condensación,,,,Operational
+Tabla de cifrado 4.210 – Intensidad de la estela de condensación,,1,,Presencia de estela de condensación,,,,Operational
+Tabla de cifrado 4.210 – Intensidad de la estela de condensación,,2-191,,Reservadas,,,,Operational
+Tabla de cifrado 4.210 – Intensidad de la estela de condensación,,192-254,,Reservadas para uso local,,,,Operational
+Tabla de cifrado 4.210 – Intensidad de la estela de condensación,,255,,Valor faltante,,,,Operational

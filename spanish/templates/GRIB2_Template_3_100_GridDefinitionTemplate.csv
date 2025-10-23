@@ -1,0 +1,12 @@
+Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status
+"Modelo de definición de la retícula 3.100 — Retícula triangular, basada en un icosaedro (véase la parte B, adjunto I de GRIB)",15,,n2 - exponente de 2 para el número de intervalos sobre los costados del triángulo principal,,,,,Operational
+"Modelo de definición de la retícula 3.100 — Retícula triangular, basada en un icosaedro (véase la parte B, adjunto I de GRIB)",16,,n3 - exponente de 3 para el número de intervalos sobre los costados del triángulo principal,,,,,Operational
+"Modelo de definición de la retícula 3.100 — Retícula triangular, basada en un icosaedro (véase la parte B, adjunto I de GRIB)",17-18,,ni - número de intervalos sobre los costados de los triángulos del icosaedro,,,,,Operational
+"Modelo de definición de la retícula 3.100 — Retícula triangular, basada en un icosaedro (véase la parte B, adjunto I de GRIB)",19,,nd - número de rombos,,,,,Operational
+"Modelo de definición de la retícula 3.100 — Retícula triangular, basada en un icosaedro (véase la parte B, adjunto I de GRIB)",20-23,,Latitud del punto del polo del icosaedro sobre la esfera,,,,,Operational
+"Modelo de definición de la retícula 3.100 — Retícula triangular, basada en un icosaedro (véase la parte B, adjunto I de GRIB)",24-27,,Longitud del punto del polo del icosaedro sobre la esfera,,,,,Operational
+"Modelo de definición de la retícula 3.100 — Retícula triangular, basada en un icosaedro (véase la parte B, adjunto I de GRIB)",28-31,,Longitud de la línea central del primer rombo del icosaedro sobre la esfera,,,,,Operational
+"Modelo de definición de la retícula 3.100 — Retícula triangular, basada en un icosaedro (véase la parte B, adjunto I de GRIB)",32,,Posición de los puntos de retícula,véase la Tabla de cifrado 3.8,,,,Operational
+"Modelo de definición de la retícula 3.100 — Retícula triangular, basada en un icosaedro (véase la parte B, adjunto I de GRIB)",33,,Orden de la numeración de los rombos,banderines - véase la Tabla de banderines 3.9,,,,Operational
+"Modelo de definición de la retícula 3.100 — Retícula triangular, basada en un icosaedro (véase la parte B, adjunto I de GRIB)",34,,Modo de exploración de un rombo,banderines - véase la Tabla de banderines 3.10,,,,Operational
+"Modelo de definición de la retícula 3.100 — Retícula triangular, basada en un icosaedro (véase la parte B, adjunto I de GRIB)",35-38,,nt - número total de puntos de la retícula,,,,,Operational

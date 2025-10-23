@@ -1,0 +1,6 @@
+Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status
+"Datos espectrales, empaquetado simple",12-15,,Valor de referencia (R) (valor de coma flotante IEEE de 32 bits),,,,,Operational
+"Datos espectrales, empaquetado simple",16-17,,Factor de escala binario (E),,,,,Operational
+"Datos espectrales, empaquetado simple",18-19,,Factor de escala decimal (D),,,,,Operational
+"Datos espectrales, empaquetado simple",20,,Número de bits utilizados para cada valor empaquetado (anchura del campo),,,,,Operational
+"Datos espectrales, empaquetado simple",21-24,,"Parte real del coeficiente (0,0) (valor de coma flotante IEEE de 32 bits)",,,,,Operational

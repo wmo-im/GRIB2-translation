@@ -1,0 +1,6 @@
+Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status
+Tabla de cifrado 4.8 – Método de agrupación,,0,,Correlación de anomalía,,,,Operational
+Tabla de cifrado 4.8 – Método de agrupación,,1,,Media cuadrática,,,,Operational
+Tabla de cifrado 4.8 – Método de agrupación,,2-191,,Reservadas,,,,Operational
+Tabla de cifrado 4.8 – Método de agrupación,,192-254,,Reservadas para uso local,,,,Operational
+Tabla de cifrado 4.8 – Método de agrupación,,255,,Valor faltante,,,,Operational

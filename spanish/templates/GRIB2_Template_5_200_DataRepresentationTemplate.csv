@@ -1,0 +1,6 @@
+Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status
+"Modelo de representación de los datos 5.200 — Datos en los puntos de la retícula, empaquetado en longitud de línea con valores de nivel",12,1,Número de bit utilizado para cada valor empaquetado en longitud de línea con valores de nivel,,,,,Operational
+"Modelo de representación de los datos 5.200 — Datos en los puntos de la retícula, empaquetado en longitud de línea con valores de nivel",13-14,2,MV – Valor máximo dentro de los niveles utilizados en el empaquetado,,,,,Operational
+"Modelo de representación de los datos 5.200 — Datos en los puntos de la retícula, empaquetado en longitud de línea con valores de nivel",15-16,2,MVL – Valor máximo del nivel (predefinido),,,,,Operational
+"Modelo de representación de los datos 5.200 — Datos en los puntos de la retícula, empaquetado en longitud de línea con valores de nivel",17,1,Factor de escala decimal o valor representativo de cada nivel,,,,,Operational
+"Modelo de representación de los datos 5.200 — Datos en los puntos de la retícula, empaquetado en longitud de línea con valores de nivel",18-(19+2(lv-1)),,"Lista de valores representativos de MVL, ajustados a escala, respecto de cada nivel entre lv=1 y MVL",,,,,Operational

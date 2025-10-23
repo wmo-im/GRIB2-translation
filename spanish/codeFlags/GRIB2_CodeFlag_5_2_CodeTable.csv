@@ -1,0 +1,8 @@
+Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status
+Tabla de cifrado 5.2 Definición de la función de los valores de las coordenadas matriciales,,0,,Juego de valores de coordenadas explícitas,,,,Operational
+Tabla de cifrado 5.2 Definición de la función de los valores de las coordenadas matriciales,,1,,Coordenadas lineales f(1) = C1 f(n) = f(n-1) + C2,,,,Operational
+Tabla de cifrado 5.2 Definición de la función de los valores de las coordenadas matriciales,,2-10,,Reservadas,,,,Operational
+Tabla de cifrado 5.2 Definición de la función de los valores de las coordenadas matriciales,,11,,Coordenadas geométricas f(1) = C1 f(n) = C2 x f(n-1),,,,Operational
+Tabla de cifrado 5.2 Definición de la función de los valores de las coordenadas matriciales,,12-191,,Reservadas,,,,Operational
+Tabla de cifrado 5.2 Definición de la función de los valores de las coordenadas matriciales,,192-254,,Reservadas para uso local,,,,Operational
+Tabla de cifrado 5.2 Definición de la función de los valores de las coordenadas matriciales,,255,,Valor faltante,,,,Operational

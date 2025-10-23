@@ -1,0 +1,14 @@
+Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status
+Tabla de cifrado 4.7 – Predicción derivada,,0,,Media no ponderada de todos los miembros,,,,Operational
+Tabla de cifrado 4.7 – Predicción derivada,,1,,Media ponderada de todos los miembros,,,,Operational
+Tabla de cifrado 4.7 – Predicción derivada,,2,,Desviación estándar con respecto a la media del grupo de miembros,,,,Operational
+Tabla de cifrado 4.7 – Predicción derivada,,3,,"Desviación estándar con respecto a la media del grupo de miembros, normalizada",,,,Operational
+Tabla de cifrado 4.7 – Predicción derivada,,4,,Dispersión de todos los miembros,,,,Operational
+Tabla de cifrado 4.7 – Predicción derivada,,5,,Índice de anomalía grande de todos los miembros (véase la nota 1),,,,Operational
+Tabla de cifrado 4.7 – Predicción derivada,,6,,Media no ponderada de los miembros del grupo,,,,Operational
+Tabla de cifrado 4.7 – Predicción derivada,,7,,Intervalo intercuartílico (intervalo entre el cuantil 25 y 75),,,,Operational
+Tabla de cifrado 4.7 – Predicción derivada,,8,,Máximo de todos los miembros del conjunto (véase la nota 2),,,,Operational
+Tabla de cifrado 4.7 – Predicción derivada,,9,,Mínimo de todos los miembros del conjunto (véase la nota 2),,,,Operational
+Tabla de cifrado 4.7 – Predicción derivada,,10-191,,Reservadas,,,,Operational
+Tabla de cifrado 4.7 – Predicción derivada,,192-254,,Reservadas para uso local,,,,Operational
+Tabla de cifrado 4.7 – Predicción derivada,,255,,Valor faltante,,,,Operational

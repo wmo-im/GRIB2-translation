@@ -1,0 +1,5 @@
+Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status
+Tabla de cifrado 4.223 – Indicador de detección de incendios,,0,,No se ha detectado ningún incendio,,,,Operational
+Tabla de cifrado 4.223 – Indicador de detección de incendios,,1,,Se ha detectado un posible incendio,,,,Operational
+Tabla de cifrado 4.223 – Indicador de detección de incendios,,2,,Se ha detectado un probable incendio,,,,Operational
+Tabla de cifrado 4.223 – Indicador de detección de incendios,,3,,Valor faltante,,,,Operational

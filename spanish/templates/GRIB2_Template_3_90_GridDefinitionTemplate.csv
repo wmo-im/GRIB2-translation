@@ -1,0 +1,22 @@
+Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status
+Modelo de definición de la retícula 3.90 — Perspectiva vista del espacio ο proyección ortogonal,15,,Forma de la Tierra,véase la Tabla de cifrado 3.2,,,,Operational
+Modelo de definición de la retícula 3.90 — Perspectiva vista del espacio ο proyección ortogonal,16,,Factor de escala del radio de la Tierra esférica,,,,,Operational
+Modelo de definición de la retícula 3.90 — Perspectiva vista del espacio ο proyección ortogonal,17-20,,Valor ajustado del radio de la Tierra esférica,,,,,Operational
+Modelo de definición de la retícula 3.90 — Perspectiva vista del espacio ο proyección ortogonal,21,,Factor de escala del eje mayor de la Tierra esferoidal achatada,,,,,Operational
+Modelo de definición de la retícula 3.90 — Perspectiva vista del espacio ο proyección ortogonal,22-25,,Valor ajustado del eje mayor de la Tierra esferoidal achatada,,,,,Operational
+Modelo de definición de la retícula 3.90 — Perspectiva vista del espacio ο proyección ortogonal,26,,Factor de escala del eje menor de la Tierra esferoidal achatada,,,,,Operational
+Modelo de definición de la retícula 3.90 — Perspectiva vista del espacio ο proyección ortogonal,27-30,,Valor ajustado del eje menor de la Tierra esferoidal achatada,,,,,Operational
+Modelo de definición de la retícula 3.90 — Perspectiva vista del espacio ο proyección ortogonal,31-34,,Nx - número de puntos a lo largo del eje de las x,columnas,,,,Operational
+Modelo de definición de la retícula 3.90 — Perspectiva vista del espacio ο proyección ortogonal,35-38,,Ny - número de puntos a lo largo del eje de las y,filas o líneas,,,,Operational
+Modelo de definición de la retícula 3.90 — Perspectiva vista del espacio ο proyección ortogonal,39-42,,Lap - latitud del punto de proyección del satélite,,,,,Operational
+Modelo de definición de la retícula 3.90 — Perspectiva vista del espacio ο proyección ortogonal,43-46,,Lop - longitud del punto de proyección del satélite,,,,,Operational
+Modelo de definición de la retícula 3.90 — Perspectiva vista del espacio ο proyección ortogonal,47,,Banderines de resolución y de componentes,véase la Tabla de banderines 3.3,,,,Operational
+Modelo de definición de la retícula 3.90 — Perspectiva vista del espacio ο proyección ortogonal,48-51,,"dx - diámetro aparente de la Tierra en longitudes de retícula, en la dirección x",,,,,Operational
+Modelo de definición de la retícula 3.90 — Perspectiva vista del espacio ο proyección ortogonal,52-55,,"dy - diámetro aparente de la Tierra en longitudes de retícula, en la dirección y",,,,,Operational
+Modelo de definición de la retícula 3.90 — Perspectiva vista del espacio ο proyección ortogonal,56-59,,Xp - coordenada x del punto en la vertical del satélite,"en 10-3 longitudes de retícula, expresada en forma de entero",,,,Operational
+Modelo de definición de la retícula 3.90 — Perspectiva vista del espacio ο proyección ortogonal,60-63,,Yp - coordenada y del punto en la vertical del satélite,"en 10-3 longitudes de retícula, expresada en forma de entero",,,,Operational
+Modelo de definición de la retícula 3.90 — Perspectiva vista del espacio ο proyección ortogonal,64,,Modo de exploración,banderines - véase la Tabla de banderines 3.4,,,,Operational
+Modelo de definición de la retícula 3.90 — Perspectiva vista del espacio ο proyección ortogonal,65-68,,"Orientación de la retícula, es decir, el ángulo entre el eje y en el sentido ascendente y el meridiano del punto de proyección del satélite en el sentido ascendente de la latitud",véase la nota 3,,,,Operational
+Modelo de definición de la retícula 3.90 — Perspectiva vista del espacio ο proyección ortogonal,69-72,,"Nr - altura de la cámara en relación con el centro de la Tierra, medida en unidades del radio terrestre  multiplicado por un factor de escala 106",ecuatorial,,,,Operational
+Modelo de definición de la retícula 3.90 — Perspectiva vista del espacio ο proyección ortogonal,73-76,,Xo - coordenada x de origen de la imagen sectorial,,,,,Operational
+Modelo de definición de la retícula 3.90 — Perspectiva vista del espacio ο proyección ortogonal,77-80,,Yo - coordenada y de origen de la imagen sectorial,,,,,Operational

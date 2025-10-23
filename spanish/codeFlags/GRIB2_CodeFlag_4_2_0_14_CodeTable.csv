@@ -1,0 +1,7 @@
+Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status
+Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 14: oligogases",0,,Ozono total,,,Dobson,Operational
+Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 14: oligogases",1,,Relación de mezcla del ozono,,,kg kg-1,Operational
+Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 14: oligogases",2,,Ozono total integrado en columna,,,Dobson,Operational
+Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 14: oligogases",3-191,,Reservados,,,,Operational
+Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 14: oligogases",192-254,,Reservados para uso local,,,,Operational
+Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 14: oligogases",255,,Valor faltante,,,,Operational

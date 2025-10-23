@@ -1,0 +1,9 @@
+Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status
+Datos de puntos de retícula — Compresión sin pérdidas recomendada por el Comité Consultivo en Sistemas de Datos Espaciales (CCSDS),12-15,,Valor de referencia (R) (valor de coma flotante IEEE de 32 bits),,,,,Operational
+Datos de puntos de retícula — Compresión sin pérdidas recomendada por el Comité Consultivo en Sistemas de Datos Espaciales (CCSDS),16-17,,Factor de escala binario (E),,,,,Operational
+Datos de puntos de retícula — Compresión sin pérdidas recomendada por el Comité Consultivo en Sistemas de Datos Espaciales (CCSDS),18-19,,Factor de escala decimal (D),,,,,Operational
+Datos de puntos de retícula — Compresión sin pérdidas recomendada por el Comité Consultivo en Sistemas de Datos Espaciales (CCSDS),20,,Número de bits requeridos para alojar los valores de datos resultantes convertidos a escala y referenciados,(véase la nota 1),,,,Operational
+Datos de puntos de retícula — Compresión sin pérdidas recomendada por el Comité Consultivo en Sistemas de Datos Espaciales (CCSDS),21,,Tipo de valores de campo originales,(véase la Tabla de cifrado 5.1),,,,Operational
+Datos de puntos de retícula — Compresión sin pérdidas recomendada por el Comité Consultivo en Sistemas de Datos Espaciales (CCSDS),22,,Máscara de opciones de compresión del CSDS,(véase la nota 3),,,,Operational
+Datos de puntos de retícula — Compresión sin pérdidas recomendada por el Comité Consultivo en Sistemas de Datos Espaciales (CCSDS),23,,Tamaño del bloque,,,,,Operational
+Datos de puntos de retícula — Compresión sin pérdidas recomendada por el Comité Consultivo en Sistemas de Datos Espaciales (CCSDS),24-25,,Intervalo de las muestras de referencia,,,,,Operational

@@ -1,0 +1,21 @@
+Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status
+Modelo de definición de la retícula 3.10 — Proyección de Mercator,15,,Forma de la Tierra,véase la Tabla de cifrado 3.2,,,,Operational
+Modelo de definición de la retícula 3.10 — Proyección de Mercator,16,,Factor de escala del radio de la Tierra esférica,,,,,Operational
+Modelo de definición de la retícula 3.10 — Proyección de Mercator,17-20,,Valor ajustado del radio de la Tierra esférica,,,,,Operational
+Modelo de definición de la retícula 3.10 — Proyección de Mercator,21,,Factor de escala del eje mayor de la Tierra esferoidal achatada,,,,,Operational
+Modelo de definición de la retícula 3.10 — Proyección de Mercator,22-25,,Valor ajustado del eje mayor de la Tierra esferoidal achatada,,,,,Operational
+Modelo de definición de la retícula 3.10 — Proyección de Mercator,26,,Factor de escala del eje menor de la Tierra esferoidal achatada,,,,,Operational
+Modelo de definición de la retícula 3.10 — Proyección de Mercator,27-30,,Valor ajustado del eje menor de la Tierra esferoidal achatada,,,,,Operational
+Modelo de definición de la retícula 3.10 — Proyección de Mercator,31-34,,Ni - número de puntos a lo largo de un paralelo,,,,,Operational
+Modelo de definición de la retícula 3.10 — Proyección de Mercator,35-38,,Nj - número de puntos a lo largo de un meridiano,,,,,Operational
+Modelo de definición de la retícula 3.10 — Proyección de Mercator,39-42,,La1 - latitud del primer punto de la retícula,,,,,Operational
+Modelo de definición de la retícula 3.10 — Proyección de Mercator,43-46,,Lo1 - longitud del primer punto de la retícula,,,,,Operational
+Modelo de definición de la retícula 3.10 — Proyección de Mercator,47,,Banderines de resolución y de componentes,véase la Tabla de banderines 3.3,,,,Operational
+Modelo de definición de la retícula 3.10 — Proyección de Mercator,48-51,,LaD - latitud de intersección del cilindro de proyección de Mercator con la Tierra  para las cuales se especifican Di y Dj),es,,,,Operational
+Modelo de definición de la retícula 3.10 — Proyección de Mercator,52-55,,La2 - latitud del último punto de la retícula,,,,,Operational
+Modelo de definición de la retícula 3.10 — Proyección de Mercator,56-59,,Lo2 - longitud del último punto de la retícula,,,,,Operational
+Modelo de definición de la retícula 3.10 — Proyección de Mercator,60,,Modo de exploración,banderines - véase la Tabla de banderines 3.4,,,,Operational
+Modelo de definición de la retícula 3.10 — Proyección de Mercator,61-64,,"Orientación de la retícula, ángulo entre la dirección i en el mapa y el ecuador",véase la nota 1,,,,Operational
+Modelo de definición de la retícula 3.10 — Proyección de Mercator,65-68,,Di - longitud de la retícula en la dirección de la longitud,véase la nota 2,,,,Operational
+Modelo de definición de la retícula 3.10 — Proyección de Mercator,69-72,,Dj - longitud de la retícula en la dirección de la latitud,véase la nota 2,,,,Operational
+Modelo de definición de la retícula 3.10 — Proyección de Mercator,73-nn,,Lista del número de puntos a lo largo de cada meridiano o paralelo.  y 3) del Modelo de definición de retícula 3.1),Estos octetos están presentes únicamente para las retículas casi regulares que se describen en las notas 2,,,,Operational

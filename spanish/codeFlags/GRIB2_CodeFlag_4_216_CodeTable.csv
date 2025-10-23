@@ -1,0 +1,5 @@
+Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status
+Tabla de cifrado 4.216 – Altitud del terreno cubierto de nieve,,0-90,,Altitud en incrementos de 100 metros,,,,Operational
+Tabla de cifrado 4.216 – Altitud del terreno cubierto de nieve,,91-253,,Reservadas,,,,Operational
+Tabla de cifrado 4.216 – Altitud del terreno cubierto de nieve,,254,,Nube,,,,Operational
+Tabla de cifrado 4.216 – Altitud del terreno cubierto de nieve,,255,,Valor faltante,,,,Operational

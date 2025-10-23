@@ -1,0 +1,8 @@
+Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status
+Tabla de cifrado 1.6 – Tipo de calendario,,0,,Gregoriano,,,,Operational
+Tabla de cifrado 1.6 – Tipo de calendario,,1,,360 días,,,,Operational
+Tabla de cifrado 1.6 – Tipo de calendario,,2,,365 días,,,,Operational
+Tabla de cifrado 1.6 – Tipo de calendario,,3,,Gregoriano proléptico,,,,Operational
+Tabla de cifrado 1.6 – Tipo de calendario,,4–191,,Reservadas,,,,Operational
+Tabla de cifrado 1.6 – Tipo de calendario,,192–254,,Reservadas para uso local,,,,Operational
+Tabla de cifrado 1.6 – Tipo de calendario,,255,,Valor faltante,,,,Operational

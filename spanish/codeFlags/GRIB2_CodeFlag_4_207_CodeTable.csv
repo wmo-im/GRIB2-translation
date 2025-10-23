@@ -1,0 +1,10 @@
+Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status
+Tabla de cifrado 4.207 – Engelamiento,,0,,Ningún engelamiento,,,,Operational
+Tabla de cifrado 4.207 – Engelamiento,,1,,Ligero engelamiento,,,,Operational
+Tabla de cifrado 4.207 – Engelamiento,,2,,Engelamiento moderado,,,,Operational
+Tabla de cifrado 4.207 – Engelamiento,,3,,Engelamiento grave,,,,Operational
+Tabla de cifrado 4.207 – Engelamiento,,4,,Traza,,,,Operational
+Tabla de cifrado 4.207 – Engelamiento,,5,,Fuerte engelamiento,,,,Operational
+Tabla de cifrado 4.207 – Engelamiento,,6-191,,Reservadas,,,,Operational
+Tabla de cifrado 4.207 – Engelamiento,,192-254,,Reservadas para uso local,,,,Operational
+Tabla de cifrado 4.207 – Engelamiento,,255,,Valor faltante,,,,Operational

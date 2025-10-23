@@ -1,0 +1,11 @@
+﻿Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status
+"Campo de especialización de los datos procesados en el mensaje GRIB, número de la tabla maestra de la clave GRIB",,0,Productos meteorológicos,,,,,Operational
+"Campo de especialización de los datos procesados en el mensaje GRIB, número de la tabla maestra de la clave GRIB",,1,Productos hidrológicos,,,,,Operational
+"Campo de especialización de los datos procesados en el mensaje GRIB, número de la tabla maestra de la clave GRIB",,2,Productos para la superficie terrestre,,,,,Operational
+"Campo de especialización de los datos procesados en el mensaje GRIB, número de la tabla maestra de la clave GRIB",,3,Productos de teledetección por satélite (anteriormente “productos espaciales”),,,,,Operational
+"Campo de especialización de los datos procesados en el mensaje GRIB, número de la tabla maestra de la clave GRIB",,4,Productos de meteorología espacial,,,,,Operational
+"Campo de especialización de los datos procesados en el mensaje GRIB, número de la tabla maestra de la clave GRIB",,5-9,Reservadas,,,,,Operational
+"Campo de especialización de los datos procesados en el mensaje GRIB, número de la tabla maestra de la clave GRIB",,10,Productos oceanográficos,,,,,Operational
+"Campo de especialización de los datos procesados en el mensaje GRIB, número de la tabla maestra de la clave GRIB",,11-191,Reservadas,,,,,Operational
+"Campo de especialización de los datos procesados en el mensaje GRIB, número de la tabla maestra de la clave GRIB",,192-254,Reservadas para uso local,,,,,Operational
+"Campo de especialización de los datos procesados en el mensaje GRIB, número de la tabla maestra de la clave GRIB",,255,Valor faltante,,,,,Operational

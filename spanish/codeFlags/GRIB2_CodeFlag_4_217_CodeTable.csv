@@ -1,0 +1,8 @@
+Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status
+Tabla de cifrado 4.217 – Tipo de máscara de nubes,,0,,Cielo despejado sobre agua,,,,Operational
+Tabla de cifrado 4.217 – Tipo de máscara de nubes,,1,,Cielo despejado sobre tierra,,,,Operational
+Tabla de cifrado 4.217 – Tipo de máscara de nubes,,2,,Nubes,,,,Operational
+Tabla de cifrado 4.217 – Tipo de máscara de nubes,,3,,Ausencia de datos,,,,Operational
+Tabla de cifrado 4.217 – Tipo de máscara de nubes,,4-191,,Reservadas,,,,Operational
+Tabla de cifrado 4.217 – Tipo de máscara de nubes,,192-254,,Reservadas para uso local,,,,Operational
+Tabla de cifrado 4.217 – Tipo de máscara de nubes,,255,,Valor faltante,,,,Operational

@@ -1,0 +1,6 @@
+Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status
+Tabla de cifrado 4.206 - Ceniza volcánica,,0,,Ausencia de cenizas volcánicas,,,,Operational
+Tabla de cifrado 4.206 - Ceniza volcánica,,1,,Presencia de cenizas volcánicas,,,,Operational
+Tabla de cifrado 4.206 - Ceniza volcánica,,2-191,,Reservadas,,,,Operational
+Tabla de cifrado 4.206 - Ceniza volcánica,,192-254,,Reservadas para uso local,,,,Operational
+Tabla de cifrado 4.206 - Ceniza volcánica,,255,,Valor faltante,,,,Operational

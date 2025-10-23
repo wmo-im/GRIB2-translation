@@ -1,0 +1,19 @@
+Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status
+Modelo de definición de la retícula 3.20 — Proyección estereográfica polar,15,,Forma de la Tierra,véase la Tabla de cifrado 3.2,,,,Operational
+Modelo de definición de la retícula 3.20 — Proyección estereográfica polar,16,,Factor de escala del radio de la Tierra esférica,,,,,Operational
+Modelo de definición de la retícula 3.20 — Proyección estereográfica polar,17-20,,Valor ajustado del radio de la Tierra esférica,,,,,Operational
+Modelo de definición de la retícula 3.20 — Proyección estereográfica polar,21,,Factor de escala del eje mayor de la Tierra esferoidal achatada,,,,,Operational
+Modelo de definición de la retícula 3.20 — Proyección estereográfica polar,22-25,,Valor ajustado del eje mayor de la Tierra esferoidal achatada,,,,,Operational
+Modelo de definición de la retícula 3.20 — Proyección estereográfica polar,26,,Factor de escala del eje menor de la Tierra esferoidal achatada,,,,,Operational
+Modelo de definición de la retícula 3.20 — Proyección estereográfica polar,27-30,,Valor ajustado del eje menor de la Tierra esferoidal achatada,,,,,Operational
+Modelo de definición de la retícula 3.20 — Proyección estereográfica polar,31-34,,Nx - número de puntos a lo largo del eje x,,,,,Operational
+Modelo de definición de la retícula 3.20 — Proyección estereográfica polar,35-38,,Ny - número de puntos a lo largo del eje y,,,,,Operational
+Modelo de definición de la retícula 3.20 — Proyección estereográfica polar,39-42,,La1 - latitud del primer punto de la retícula,,,,,Operational
+Modelo de definición de la retícula 3.20 — Proyección estereográfica polar,43-46,,Lo1 - longitud del primer punto de la retícula,,,,,Operational
+Modelo de definición de la retícula 3.20 — Proyección estereográfica polar,47,,Banderines de resolución y de componentes,véase la Tabla de banderines 3.3 y la nota 1,,,,Operational
+Modelo de definición de la retícula 3.20 — Proyección estereográfica polar,48-51,,LaD - latitud en que Dx y Dy están especificados,,,,,Operational
+Modelo de definición de la retícula 3.20 — Proyección estereográfica polar,52-55,,LoV - orientación de la retícula,véase la nota 2,,,,Operational
+Modelo de definición de la retícula 3.20 — Proyección estereográfica polar,56-59,,Dx - longitud de la retícula en la dirección x,véase la nota 3,,,,Operational
+Modelo de definición de la retícula 3.20 — Proyección estereográfica polar,60-63,,Dy - longitud de la retícula en la dirección y,véase la nota 3,,,,Operational
+Modelo de definición de la retícula 3.20 — Proyección estereográfica polar,64,,Banderín del centro de proyección,véase la Tabla de banderines 3.5,,,,Operational
+Modelo de definición de la retícula 3.20 — Proyección estereográfica polar,65,,Modo de exploración,véase la Tabla de banderines 3.4,,,,Operational

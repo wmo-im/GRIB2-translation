@@ -1,0 +1,3 @@
+Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status
+"Datos espectrales para modelos de área limitada, empaquetado complejo",6-(5+IxTS),,Valores de datos procedentes de la subserie desempaquetada,(valores de coma flotante IEEE para octetos I),,,,Operational
+"Datos espectrales para modelos de área limitada, empaquetado complejo",(6+IxTS)-nn,,"Valores de datos binarios - cadena binaria, con cada valor de dato  no comprendido en la subserie desempaquetada",(ajustado),,,,Operational

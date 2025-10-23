@@ -1,0 +1,9 @@
+Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status
+Tabla de cifrado 4.208 - Turbulencia,,0,,Ninguna turbulencia (plácido),,,,Operational
+Tabla de cifrado 4.208 - Turbulencia,,1,,Ligera turbulencia,,,,Operational
+Tabla de cifrado 4.208 - Turbulencia,,2,,Turbulencia moderada,,,,Operational
+Tabla de cifrado 4.208 - Turbulencia,,3,,Turbulencia fuerte,,,,Operational
+Tabla de cifrado 4.208 - Turbulencia,,4,,Turbulencia extrema,,,,Operational
+Tabla de cifrado 4.208 - Turbulencia,,5-191,,Reservadas,,,,Operational
+Tabla de cifrado 4.208 - Turbulencia,,192-254,,Reservadas para uso local,,,,Operational
+Tabla de cifrado 4.208 - Turbulencia,,255,,Valor faltante,,,,Operational

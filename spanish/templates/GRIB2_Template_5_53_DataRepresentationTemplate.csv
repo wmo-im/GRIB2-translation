@@ -1,0 +1,12 @@
+Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status
+"Datos espectrales para modelos de área limitada, empaquetado complejo",12-15,,Valor de referencia (R) (valor de coma flotante IEEE de 32 bits),,,,,Operational
+"Datos espectrales para modelos de área limitada, empaquetado complejo",16-17,,Factor de escala binario (E),,,,,Operational
+"Datos espectrales para modelos de área limitada, empaquetado complejo",18-19,,Factor de escala decimal (D),,,,,Operational
+"Datos espectrales para modelos de área limitada, empaquetado complejo",20,,Número de bits utilizados para cada valor empaquetado (anchura del campo),,,,,Operational
+"Datos espectrales para modelos de área limitada, empaquetado complejo",21,,Tipo de subtruncamiento del dominio mediante transformada bidimensional de Fourier,(véase la Tabla de cifrado 5.25),,,,Operational
+"Datos espectrales para modelos de área limitada, empaquetado complejo",22,,Modo de empaquetado de los ejes,(véase la Tabla de cifrado 5.26),,,,Operational
+"Datos espectrales para modelos de área limitada, empaquetado complejo",23-26,,P - factor de escala laplaciano (expresado en unidades de 10-6),,,,,Operational
+"Datos espectrales para modelos de área limitada, empaquetado complejo",27-28,,NS - parámetro de resolución de la subserie desempaquetada mediante transformada bidimensional de Fourier,(véase la nota 1),,,,Operational
+"Datos espectrales para modelos de área limitada, empaquetado complejo",29-30,,MS - parámetro de resolución de la subserie desempaquetada mediante transformada bidimensional de Fourier,(véase la nota 1),,,,Operational
+"Datos espectrales para modelos de área limitada, empaquetado complejo",31-34,,TS - número total de valores en la subserie desempaquetada,(véase la nota 1),,,,Operational
+"Datos espectrales para modelos de área limitada, empaquetado complejo",35,,Precisión de la subserie desempaquetada,(véase la Tabla de cifrado 5.7),,,,Operational

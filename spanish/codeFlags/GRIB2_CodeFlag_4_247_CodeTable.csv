@@ -1,0 +1,7 @@
+Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status
+Tabla de cifrado 4.247 – Intensidad de la precipitación,,0,,No hay precipitación,,,,Operational
+Tabla de cifrado 4.247 – Intensidad de la precipitación,,1,,Precipitación débil,,,,Operational
+Tabla de cifrado 4.247 – Intensidad de la precipitación,,2,,Precipitación moderada,,,,Operational
+Tabla de cifrado 4.247 – Intensidad de la precipitación,,3,,Precipitación fuerte,,,,Operational
+Tabla de cifrado 4.247 – Intensidad de la precipitación,,4-254,,Reservadas,,,,Operational
+Tabla de cifrado 4.247 – Intensidad de la precipitación,,255,,Valor faltante,,,,Operational

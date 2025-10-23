@@ -1,0 +1,6 @@
+Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status
+Modelo de definición de la retícula 3.33 — Proyección conforme de Lambert con definición de los subdominios de modelización,15-81,,Idéntico al Modelo de definición de la retícula 3.30,,,,,Operational
+Modelo de definición de la retícula 3.33 — Proyección conforme de Lambert con definición de los subdominios de modelización,82-85,,Nux tamaño del subdominio de la predicción del modelo en dirección x,número de puntos de la retícula,,,,Operational
+Modelo de definición de la retícula 3.33 — Proyección conforme de Lambert con definición de los subdominios de modelización,86-89,,Ncx anchura del área de acoplamiento en el dominio de la predicción en dirección x,número de puntos de la retícula,,,,Operational
+Modelo de definición de la retícula 3.33 — Proyección conforme de Lambert con definición de los subdominios de modelización,90-93,,Nuy tamaño del subdominio de la predicción del modelo en dirección y,número de puntos de la retícula,,,,Operational
+Modelo de definición de la retícula 3.33 — Proyección conforme de Lambert con definición de los subdominios de modelización,94-97,,Ncy anchura del área de acoplamiento en el dominio de la predicción en dirección Y,número de puntos de la retícula,,,,Operational

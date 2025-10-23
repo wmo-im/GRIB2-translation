@@ -1,0 +1,17 @@
+Title_es,SubTitle_es,CodeFlag,MeaningParameterDescription_es,Value,Note_es,noteIDs,UnitComments_es,Status
+Tabla de cifrado 3.6 — Tipo de representación de los datos espectrales,,"1","Las funciones Legendre asociadas de la primera clase se definen por:
+
+Pm (μ) = (2n+1)(n-m)! 1 -(1-μ²)m/2 dn+m (μ² – 1)n, m ≥ 0 V (n+m) 2n n! dun+m
+
+P-m (μ) = Pm (μ)
+
+Un campo F(λ, μ) está representado por:
+
+F(λ, μ) = Σ Σ FmPm(μ)eimλ
+
+donde λ es la longitud,
+
+μ el seno de la latitud,
+
+y Fm es el número complejo conjugado de Fm",,,,,Operational
+Tabla de cifrado 3.6 — Tipo de representación de los datos espectrales,,2,Representación mediante transformada bidimensional de Fourier,,,,,Operational

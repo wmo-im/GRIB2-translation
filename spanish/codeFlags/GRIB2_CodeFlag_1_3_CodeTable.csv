@@ -1,0 +1,16 @@
+Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status
+Tabla de cifrado 1.3 – Situación de producción de los datos,,0,,Productos operativos,,,,Operational
+Tabla de cifrado 1.3 – Situación de producción de los datos,,1,,Productos de pruebas operativas,,,,Operational
+Tabla de cifrado 1.3 – Situación de producción de los datos,,2,,Productos de investigación,,,,Operational
+Tabla de cifrado 1.3 – Situación de producción de los datos,,3,,Productos de reanálisis,,,,Operational
+Tabla de cifrado 1.3 – Situación de producción de los datos,,4,,Gran Conjunto Interactivo Global del THORPEX (TIGGE),,,,Operational
+Tabla de cifrado 1.3 – Situación de producción de los datos,,5,,Prueba del Gran Conjunto Interactivo Global del THORPEX (TIGGE),,,,Operational
+Tabla de cifrado 1.3 – Situación de producción de los datos,,6,,S2S productos operativos,,,,Operational
+Tabla de cifrado 1.3 – Situación de producción de los datos,,7,,S2S productos de pruebas,,,,Operational
+Tabla de cifrado 1.3 – Situación de producción de los datos,,8,,Incertidumbres en conjuntos del proyecto de reanálisis regional (UERRA),,,,Operational
+Tabla de cifrado 1.3 – Situación de producción de los datos,,9,,Incertidumbres en la prueba de conjuntos del proyecto de reanálisis regional (UERRA),,,,Operational
+Tabla de cifrado 1.3 – Situación de producción de los datos,,10,,Reanálisis regional de Copernicus,,,,Operational
+Tabla de cifrado 1.3 – Situación de producción de los datos,,11,,Test de reanálisis regional de Copernicus,,,,Operational
+Tabla de cifrado 1.3 – Situación de producción de los datos,,12–191,,Reservadas,,,,Operational
+Tabla de cifrado 1.3 – Situación de producción de los datos,,192–254,,Reservadas para uso local,,,,Operational
+Tabla de cifrado 1.3 – Situación de producción de los datos,,255,,Valor faltante,,,,Operational

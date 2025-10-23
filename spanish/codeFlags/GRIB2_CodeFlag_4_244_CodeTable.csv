@@ -1,0 +1,7 @@
+Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status
+Tabla de cifrado 4.244 – Indicador de calidad,,0,,Información sobre calidad no disponible,,,,Operational
+Tabla de cifrado 4.244 – Indicador de calidad,,1,,No fiable,,,,Operational
+Tabla de cifrado 4.244 – Indicador de calidad,,2,,Fiable,,,,Operational
+Tabla de cifrado 4.244 – Indicador de calidad,,3-191,,Reservadas,,,,Operational
+Tabla de cifrado 4.244 – Indicador de calidad,,192-254,,Reservadas para uso local,,,,Operational
+Tabla de cifrado 4.244 – Indicador de calidad,,255,,Valor faltante,,,,Operational

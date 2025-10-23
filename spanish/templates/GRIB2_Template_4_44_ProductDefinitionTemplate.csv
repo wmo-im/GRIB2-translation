@@ -1,0 +1,22 @@
+Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status
+Análisis o predicción para una superficie o capa horizontal en un momento dado respecto de aerosoles,10,,Categoría del parámetro,(véase la Tabla de cifrado 4.1),,,,Deprecated
+Análisis o predicción para una superficie o capa horizontal en un momento dado respecto de aerosoles,11,,Número del parámetro,(véase la Tabla de cifrado 4.2),,,,Deprecated
+Análisis o predicción para una superficie o capa horizontal en un momento dado respecto de aerosoles,12-13,,Tipo de aerosol,(véase la Tabla de cifrado 4.233),,,,Deprecated
+Análisis o predicción para una superficie o capa horizontal en un momento dado respecto de aerosoles,14,,Tipo de intervalo para el primer y segundo tamaños,(véase la Tabla de cifrado 4.91),,,,Deprecated
+Análisis o predicción para una superficie o capa horizontal en un momento dado respecto de aerosoles,15,,Factor de escala del primer tamaño,,,,,Deprecated
+Análisis o predicción para una superficie o capa horizontal en un momento dado respecto de aerosoles,16-19,,Valor a escala del primer tamaño en metros,,,,,Deprecated
+Análisis o predicción para una superficie o capa horizontal en un momento dado respecto de aerosoles,20,,Factor de escala del segundo tamaño,,,,,Deprecated
+Análisis o predicción para una superficie o capa horizontal en un momento dado respecto de aerosoles,21-24,,Valor a escala del segundo tamaño en metros,,,,,Deprecated
+Análisis o predicción para una superficie o capa horizontal en un momento dado respecto de aerosoles,25,,Tipo de proceso de producción,(véase la Tabla de cifrado 4.3),,,,Deprecated
+Análisis o predicción para una superficie o capa horizontal en un momento dado respecto de aerosoles,26,,Identificador del proceso de producción de base (definido por el centro de origen),,,,,Deprecated
+Análisis o predicción para una superficie o capa horizontal en un momento dado respecto de aerosoles,27,,Identificador del proceso de producción del análisis o de la predicción (definido por el centro de origen),,,,,Deprecated
+Análisis o predicción para una superficie o capa horizontal en un momento dado respecto de aerosoles,28-29,,Límite (horas) de recogida de datos después de la hora de referencia,(véase la nota 1),,,,Deprecated
+Análisis o predicción para una superficie o capa horizontal en un momento dado respecto de aerosoles,30,,Límite (minutos) de recogida de datos después de la hora de referencia,,,,,Deprecated
+Análisis o predicción para una superficie o capa horizontal en un momento dado respecto de aerosoles,31,,Indicador de la unidad del intervalo de tiempo,(véase la Tabla de cifrado 4.4),,,,Deprecated
+Análisis o predicción para una superficie o capa horizontal en un momento dado respecto de aerosoles,32-33,,"Hora de la predicción, en unidades definidas mediante el octeto 31",,,,,Deprecated
+Análisis o predicción para una superficie o capa horizontal en un momento dado respecto de aerosoles,34,,Tipo de la primera superficie especificada,(véase la Tabla de cifrado 4.5),,,,Deprecated
+Análisis o predicción para una superficie o capa horizontal en un momento dado respecto de aerosoles,35,,Factor de escala de la primera superficie especificada,,,,,Deprecated
+Análisis o predicción para una superficie o capa horizontal en un momento dado respecto de aerosoles,36-39,,Valor a escala de la primera superficie especificada,,,,,Deprecated
+Análisis o predicción para una superficie o capa horizontal en un momento dado respecto de aerosoles,40,,Tipo de la segunda superficie especificada,(véase la Tabla de cifrado 4.5),,,,Deprecated
+Análisis o predicción para una superficie o capa horizontal en un momento dado respecto de aerosoles,41,,Factor de escala de la segunda superficie especificada,,,,,Deprecated
+Análisis o predicción para una superficie o capa horizontal en un momento dado respecto de aerosoles,42-45,,Valor a escala de la segunda superficie especificada,,,,,Deprecated

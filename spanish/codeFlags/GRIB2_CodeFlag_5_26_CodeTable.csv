@@ -1,0 +1,5 @@
+Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status
+Tabla de cifrado 5.26 Modo de empaquetado para los ejes,,0,,Los coeficientes espectrales para los ejes están empaquetados.,,,,Operational
+Tabla de cifrado 5.26 Modo de empaquetado para los ejes,,1,,Los coeficientes espectrales para los ejes están incluidos en la subserie desempaquetada.,,,,Operational
+Tabla de cifrado 5.26 Modo de empaquetado para los ejes,,2-254,,Reservadas,,,,Operational
+Tabla de cifrado 5.26 Modo de empaquetado para los ejes,,255,,Valor faltante,,,,Operational

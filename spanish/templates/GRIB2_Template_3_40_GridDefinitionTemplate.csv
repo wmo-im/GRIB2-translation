@@ -1,0 +1,21 @@
+Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status
+Modelo de definición de la retícula 3.40 – Retícula gausiana latitud/longitud,15,,Forma de la Tierra,véase la Tabla de cifrado 3.2,,,,Operational
+Modelo de definición de la retícula 3.40 – Retícula gausiana latitud/longitud,16,,Factor de escala del radio de la Tierra esférica,,,,,Operational
+Modelo de definición de la retícula 3.40 – Retícula gausiana latitud/longitud,17-20,,Valor ajustado del radio de la Tierra esférica,,,,,Operational
+Modelo de definición de la retícula 3.40 – Retícula gausiana latitud/longitud,21,,Factor de escala del eje mayor de la Tierra esferoidal achatada,,,,,Operational
+Modelo de definición de la retícula 3.40 – Retícula gausiana latitud/longitud,22-25,,Valor ajustado del eje mayor de la Tierra esferoidal achatada,,,,,Operational
+Modelo de definición de la retícula 3.40 – Retícula gausiana latitud/longitud,26,,Factor de escala del eje menor de la Tierra esferoidal achatada,,,,,Operational
+Modelo de definición de la retícula 3.40 – Retícula gausiana latitud/longitud,27-30,,Valor ajustado del eje menor de la Tierra esferoidal achatada,,,,,Operational
+Modelo de definición de la retícula 3.40 – Retícula gausiana latitud/longitud,31-34,,Ni - número de puntos a lo largo del paralelo,,,,,Operational
+Modelo de definición de la retícula 3.40 – Retícula gausiana latitud/longitud,35-38,,Nj - número de puntos a lo largo del meridiano,,,,,Operational
+Modelo de definición de la retícula 3.40 – Retícula gausiana latitud/longitud,39-42,,Ángulo de base del dominio de producción inicial,véase la nota 1,,,,Operational
+Modelo de definición de la retícula 3.40 – Retícula gausiana latitud/longitud,43-46,,Subdivisiones del ángulo de base utilizadas para indicar las longitudes y las latitudes extremas y los incrementos de dirección,véase la nota 1,,,,Operational
+Modelo de definición de la retícula 3.40 – Retícula gausiana latitud/longitud,47-50,,La1 - latitud del primer punto de la retícula,véase la nota 1,,,,Operational
+Modelo de definición de la retícula 3.40 – Retícula gausiana latitud/longitud,51-54,,Lo1 - longitud del primer punto de la retícula,véase la nota 1,,,,Operational
+Modelo de definición de la retícula 3.40 – Retícula gausiana latitud/longitud,55,,Banderines de resolución y de componentes,véase la Tabla de banderines 3.3,,,,Operational
+Modelo de definición de la retícula 3.40 – Retícula gausiana latitud/longitud,56-59,,La2 - latitud del último punto de la retícula,véase la nota 1,,,,Operational
+Modelo de definición de la retícula 3.40 – Retícula gausiana latitud/longitud,60-63,,Lo2 - longitud del último punto de la retícula,véase la nota 1,,,,Operational
+Modelo de definición de la retícula 3.40 – Retícula gausiana latitud/longitud,64-67,,Di - incremento de dirección i  y 5),véanse las notas 1,,,,Operational
+Modelo de definición de la retícula 3.40 – Retícula gausiana latitud/longitud,68-71,,N - número de paralelos entre un polo y el ecuador,véase la nota 2,,,,Operational
+Modelo de definición de la retícula 3.40 – Retícula gausiana latitud/longitud,72,,Modo de exploración,banderines - véase la Tabla de banderines 3.4,,,,Operational
+Modelo de definición de la retícula 3.40 – Retícula gausiana latitud/longitud,73-nn,,Lista del número de puntos a lo largo de cada meridiano o paralelo.,Estos octetos están presentes únicamente para las retículas casi regulares que se describen en la nota 4.,,,,Operational

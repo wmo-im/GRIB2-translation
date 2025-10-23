@@ -1,0 +1,9 @@
+Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status
+Tabla de cifrado 4.204 - Extensión de las tormentas,,0,,Ninguna,,,,Operational
+Tabla de cifrado 4.204 - Extensión de las tormentas,,1,,Aisladas (1% - 2%),,,,Operational
+Tabla de cifrado 4.204 - Extensión de las tormentas,,2,,Poco numerosas (3% - 5%),,,,Operational
+Tabla de cifrado 4.204 - Extensión de las tormentas,,3,,Dispersas (6% - 45%),,,,Operational
+Tabla de cifrado 4.204 - Extensión de las tormentas,,4,,Numerosas (> 45%),,,,Operational
+Tabla de cifrado 4.204 - Extensión de las tormentas,,5-191,,Reservadas,,,,Operational
+Tabla de cifrado 4.204 - Extensión de las tormentas,,192-254,,Reservadas para uso local,,,,Operational
+Tabla de cifrado 4.204 - Extensión de las tormentas,,255,,Valor faltante,,,,Operational

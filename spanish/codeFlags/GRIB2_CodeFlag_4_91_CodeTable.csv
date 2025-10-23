@@ -1,0 +1,16 @@
+Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status
+Tabla de cifrado 4.91 – Tipo de intervalo,,0,,Inferior al primer límite,,,,Operational
+Tabla de cifrado 4.91 – Tipo de intervalo,,1,,Superior al segundo límite,,,,Operational
+Tabla de cifrado 4.91 – Tipo de intervalo,,2,,"Comprendido entre el primero y el segundo límites. El intervalo incluye el primer límite, pero no el segundo",,,,Operational
+Tabla de cifrado 4.91 – Tipo de intervalo,,3,,Superior al primer límite,,,,Operational
+Tabla de cifrado 4.91 – Tipo de intervalo,,4,,Inferior al segundo límite,,,,Operational
+Tabla de cifrado 4.91 – Tipo de intervalo,,5,,Inferior o igual al primer límite,,,,Operational
+Tabla de cifrado 4.91 – Tipo de intervalo,,6,,Superior o igual al segundo límite,,,,Operational
+Tabla de cifrado 4.91 – Tipo de intervalo,,7,,Comprendido entre el primero y el segundo límites. El intervalo incluye el primero y el segundo límites,,,,Operational
+Tabla de cifrado 4.91 – Tipo de intervalo,,8,,Superior o igual al primer límite,,,,Operational
+Tabla de cifrado 4.91 – Tipo de intervalo,,9,,Inferior o igual al segundo límite,,,,Operational
+Tabla de cifrado 4.91 – Tipo de intervalo,,10,,"Comprendido entre el primer y el segundo límites. El intervalo incluye el segundo límite, pero no el primero",,,,Operational
+Tabla de cifrado 4.91 – Tipo de intervalo,,11,,Igual al primer límite,,,,Operational
+Tabla de cifrado 4.91 – Tipo de intervalo,,12-191,,Reservadas,,,,Operational
+Tabla de cifrado 4.91 – Tipo de intervalo,,192-254,,Reservadas para uso local,,,,Operational
+Tabla de cifrado 4.91 – Tipo de intervalo,,255,,Valor faltante,,,,Operational

@@ -1,0 +1,8 @@
+Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status
+Tabla de cifrado 4.219 – Indicador de calidad de la altura de la cima de la nube,,0,,Calidad nominal de la altura de la cima de la nube,,,,Operational
+Tabla de cifrado 4.219 – Indicador de calidad de la altura de la cima de la nube,,1,,Niebla en segmento,,,,Operational
+Tabla de cifrado 4.219 – Indicador de calidad de la altura de la cima de la nube,,2,,Estimación de altura de baja calidad,,,,Operational
+Tabla de cifrado 4.219 – Indicador de calidad de la altura de la cima de la nube,,3,,Niebla en segmento y estimación de altura de baja calidad,,,,Operational
+Tabla de cifrado 4.219 – Indicador de calidad de la altura de la cima de la nube,,4-191,,Reservadas,,,,Operational
+Tabla de cifrado 4.219 – Indicador de calidad de la altura de la cima de la nube,,192-254,,Reservadas para uso local,,,,Operational
+Tabla de cifrado 4.219 – Indicador de calidad de la altura de la cima de la nube,,255,,Valor faltante,,,,Operational

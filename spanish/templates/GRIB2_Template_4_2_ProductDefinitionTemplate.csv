@@ -1,0 +1,18 @@
+﻿Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status
+"Predicción derivada basada en todos los miembros del conjunto, para una superficie o una capa horizontal, en un momento dado",10,,Categoría del parámetro,véase la Tabla de cifrado 4.1,,,,Operational
+"Predicción derivada basada en todos los miembros del conjunto, para una superficie o una capa horizontal, en un momento dado",11,,Número del parámetro,véase la Tabla de cifrado 4.2,,,,Operational
+"Predicción derivada basada en todos los miembros del conjunto, para una superficie o una capa horizontal, en un momento dado",12,,Tipo de proceso de producción,véase la Tabla de cifrado 4.3,,,,Operational
+"Predicción derivada basada en todos los miembros del conjunto, para una superficie o una capa horizontal, en un momento dado",13,,Identificador del proceso de producción de base,definido por el centro de origen,,,,Operational
+"Predicción derivada basada en todos los miembros del conjunto, para una superficie o una capa horizontal, en un momento dado",14,,Identificador del proceso de producción de la previsión,definido por el centro de origen,,,,Operational
+"Predicción derivada basada en todos los miembros del conjunto, para una superficie o una capa horizontal, en un momento dado",15-16,,Límite de recogida de datos de observación después de la hora de referencia,horas; véase la nota,,,,Operational
+"Predicción derivada basada en todos los miembros del conjunto, para una superficie o una capa horizontal, en un momento dado",17,,Límite de recogida de datos de observación después de la hora de referencia,minutos,,,,Operational
+"Predicción derivada basada en todos los miembros del conjunto, para una superficie o una capa horizontal, en un momento dado",18,,Indicador de unidad del intervalo de tiempo,véase la Tabla de cifrado 4.4,,,,Operational
+"Predicción derivada basada en todos los miembros del conjunto, para una superficie o una capa horizontal, en un momento dado",19-22,,Hora de la previsión expresa en la unidad precisada por el octeto 18,,,,,Operational
+"Predicción derivada basada en todos los miembros del conjunto, para una superficie o una capa horizontal, en un momento dado",23,,Tipo de la primera superficie especificada,véase la Tabla de cifrado 4.5,,,,Operational
+"Predicción derivada basada en todos los miembros del conjunto, para una superficie o una capa horizontal, en un momento dado",24,,Factor de escala de la primera superficie especificada,,,,,Operational
+"Predicción derivada basada en todos los miembros del conjunto, para una superficie o una capa horizontal, en un momento dado",25-28,,Valor ajustado de la primera superficie especificada,,,,,Operational
+"Predicción derivada basada en todos los miembros del conjunto, para una superficie o una capa horizontal, en un momento dado",29,,Tipo de la segunda superficie especificada,véase la Tabla de cifrado 4.5,,,,Operational
+"Predicción derivada basada en todos los miembros del conjunto, para una superficie o una capa horizontal, en un momento dado",30,,Factor de escala de la segunda superficie especificada,,,,,Operational
+"Predicción derivada basada en todos los miembros del conjunto, para una superficie o una capa horizontal, en un momento dado",31-34,,Valor ajustado de la segunda superficie especificada,,,,,Operational
+"Predicción derivada basada en todos los miembros del conjunto, para una superficie o una capa horizontal, en un momento dado",35,,Previsión derivada,véase la Tabla de cifrado 4.7,,,,Operational
+"Predicción derivada basada en todos los miembros del conjunto, para una superficie o una capa horizontal, en un momento dado",36,,Número de previsiones en el conjunto,,,,,Operational

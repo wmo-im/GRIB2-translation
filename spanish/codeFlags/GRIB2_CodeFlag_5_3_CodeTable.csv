@@ -1,0 +1,7 @@
+Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status
+Tabla de cifrado 5.3 Parámetro de las coordenadas matriciales,,1,,Dirección en grados verdaderos,,,,Operational
+Tabla de cifrado 5.3 Parámetro de las coordenadas matriciales,,2,,Frecuencia (s-1)),,,,Operational
+Tabla de cifrado 5.3 Parámetro de las coordenadas matriciales,,3,,Número radial (2pi/lambda) (m-1),,,,Operational
+Tabla de cifrado 5.3 Parámetro de las coordenadas matriciales,,4-191,,Reservadas,,,,Operational
+Tabla de cifrado 5.3 Parámetro de las coordenadas matriciales,,192-254,,Reservadas para uso local,,,,Operational
+Tabla de cifrado 5.3 Parámetro de las coordenadas matriciales,,255,,Valor faltante,,,,Operational

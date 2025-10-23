@@ -1,0 +1,12 @@
+Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status
+Producto del satélite,10,,Categoría del parámetro,(véase la Tabla de cifrado 4.1),,,,Deprecated
+Producto del satélite,11,,Número del parámetro,(véase la Tabla de cifrado 4.2),,,,Deprecated
+Producto del satélite,12,,Tipo de proceso de producción, (véase la Tabla de cifrado 4.3),,,,Deprecated
+Producto del satélite,13,,Identificador del proceso de observación,(definido por los centros de origen),,,,Deprecated
+Producto del satélite,14,,Número de bandas espectrales tomadas en consideración (NB),,,,,Deprecated
+Producto del satélite,,,"15-NB Repítanse los diez octetos siguientes para cada una de las bandas tomadas en consideración (nb = 1, NB)",,,,,Deprecated
+Producto del satélite,(15+10(nb-1)) – (16+10(nb-1)),,Serie de los satélites de la banda nb (tabla de cifrado establecida por el centro de origen/generación),,,,,Deprecated
+Producto del satélite,(17+10(nb-1)) – (18+10(nb-1)),,Números de los satélites de la banda nb (tabla de cifrado establecida por el centro de origen/generación),,,,,Deprecated
+Producto del satélite,(19+10(nb-1)),,Tipos de instrumento de la banda nb (tabla de cifrado establecida por el centro de origen/generación),,,,,Deprecated
+Producto del satélite,(20+10(nb-1)),,Factor de escala del número de onda central de la banda nb,,,,,Deprecated
+Producto del satélite,(21+10(nb-1)) – (24+10(nb-1)),,Valor ajustado del número de onda central de la banda nb (unidades: m¯¹),,,,,Deprecated

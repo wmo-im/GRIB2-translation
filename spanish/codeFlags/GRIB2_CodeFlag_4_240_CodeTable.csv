@@ -1,0 +1,13 @@
+Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status
+Tabla de cifrado 4.240 – Tipo de función de distribución,,0,,No se proporciona ninguna función de distribución específica,,,,Operational
+Tabla de cifrado 4.240 – Tipo de función de distribución,,1,,Funciones delta con concentración espacialmente variable y diámetros fijos Dl (p1) en metros (véase la nota 1),,,,Operational
+Tabla de cifrado 4.240 – Tipo de función de distribución,,2,,Funciones delta con concentración espacialmente variable y masas fijas Ml (p1) en kg (véase la nota 2),,,,Operational
+Tabla de cifrado 4.240 – Tipo de función de distribución,,3,,Distribución gausiana (normal) con concentración espacialmente variable y diámetro medio fijo DI (p1) y variancia σ (p2) (véase la nota 3),,,,Operational
+Tabla de cifrado 4.240 – Tipo de función de distribución,,4,,"Distribución gausiana (normal) con concentración espacialmente variable, diámetro medio y variancia (véase la nota 4)",,,,Operational
+Tabla de cifrado 4.240 – Tipo de función de distribución,,5,,"Distribución log-normal con densidad numérica espacialmente variable, diámetro medio y variancia (véase la nota 5)",,,,Operational
+Tabla de cifrado 4.240 – Tipo de función de distribución,,6,,"Distribución log-normal con densidad numérica espacialmente variable, diámetro medio y variancia fija σ (p1) (véase la nota 6)",,,,Operational
+Tabla de cifrado 4.240 – Tipo de función de distribución,,7,,Distribución log-normal con densidad numérica espacialmente variable y densidad másica y variancia fija σ (p1) y densidad de partículas fija p (p2) (véase la nota 7),,,,Operational
+Tabla de cifrado 4.240 – Tipo de función de distribución,,8,,No hay función de distribución. La variable codificada deriva de variables caracterizadas por el tipo de función de distribución del tipo que figuran en 7 (véase más arriba) con varianza fija o (p1) y densidad de partícula fija p (p2),,,,Operational
+Tabla de cifrado 4.240 – Tipo de función de distribución,,9-49151,,Reservadas,,,,Operational
+Tabla de cifrado 4.240 – Tipo de función de distribución,,49152-65534,,Reservadas para uso local,,,,Operational
+Tabla de cifrado 4.240 – Tipo de función de distribución,,65535,,Valor faltante,,,,Operational

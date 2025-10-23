@@ -1,0 +1,17 @@
+Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status
+Tabla de cifrado 4.201 – Tipo de precipitación,,0,,Reservada,,,,Operational
+Tabla de cifrado 4.201 – Tipo de precipitación,,1,,Lluvia,,,,Operational
+Tabla de cifrado 4.201 – Tipo de precipitación,,2,,Tormenta,,,,Operational
+Tabla de cifrado 4.201 – Tipo de precipitación,,3,,Lluvia engelante,,,,Operational
+Tabla de cifrado 4.201 – Tipo de precipitación,,4,,Mezcladas/hielo,,,,Operational
+Tabla de cifrado 4.201 – Tipo de precipitación,,5,,Nieve,,,,Operational
+Tabla de cifrado 4.201 – Tipo de precipitación,,6,,Nieve húmeda,,,,Operational
+Tabla de cifrado 4.201 – Tipo de precipitación,,7,,Mezcla de lluvia y nieve,,,,Operational
+Tabla de cifrado 4.201 – Tipo de precipitación,,8,,Nieve granulada,,,,Operational
+Tabla de cifrado 4.201 – Tipo de precipitación,,9,,Graupel,,,,Operational
+Tabla de cifrado 4.201 – Tipo de precipitación,,10,,Granizo,,,,Operational
+Tabla de cifrado 4.201 – Tipo de precipitación,,11,,Llovizna,,,,Operational
+Tabla de cifrado 4.201 – Tipo de precipitación,,12,,Llovizna engelante,,,,Operational
+Tabla de cifrado 4.201 – Tipo de precipitación,,13-191,,Reservadas,,,,Operational
+Tabla de cifrado 4.201 – Tipo de precipitación,,192-254,,Reservadas para uso local,,,,Operational
+Tabla de cifrado 4.201 – Tipo de precipitación,,255,,Valor faltante,,,,Operational

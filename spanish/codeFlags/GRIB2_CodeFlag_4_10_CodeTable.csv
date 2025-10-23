@@ -1,0 +1,16 @@
+Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status
+Tabla de cifrado 4.10 – Tipo de cálculo estadístico,,0,,Media,,,,Operational
+Tabla de cifrado 4.10 – Tipo de cálculo estadístico,,1,,Acumulación (véase la nota 1),,,,Operational
+Tabla de cifrado 4.10 – Tipo de cálculo estadístico,,2,,Máxima,,,,Operational
+Tabla de cifrado 4.10 – Tipo de cálculo estadístico,,3,,Mínima,,,,Operational
+Tabla de cifrado 4.10 – Tipo de cálculo estadístico,,4,,Diferencia (el valor al final del intervalo de tiempo menos el valor al comienzo de ese intervalo),,,,Operational
+Tabla de cifrado 4.10 – Tipo de cálculo estadístico,,5,,Media cuadrática,,,,Operational
+Tabla de cifrado 4.10 – Tipo de cálculo estadístico,,6,,Desviación estándar,,,,Operational
+Tabla de cifrado 4.10 – Tipo de cálculo estadístico,,7,,Covarianza (varianza temporal) (véase la nota 2),,,,Operational
+Tabla de cifrado 4.10 – Tipo de cálculo estadístico,,8,,Diferencia (el valor al inicio del intervalo de tiempo menos el valor al término de ese intervalo),,,,Operational
+Tabla de cifrado 4.10 – Tipo de cálculo estadístico,,9,,Razón (véase la nota 3),,,,Operational
+Tabla de cifrado 4.10 – Tipo de cálculo estadístico,,10,,Anomalía normalizada,,,,Operational
+Tabla de cifrado 4.10 – Tipo de cálculo estadístico,,11,,Adición,,,,Operational
+Tabla de cifrado 4.10 – Tipo de cálculo estadístico,,12-191,,Reservadas,,,,Operational
+Tabla de cifrado 4.10 – Tipo de cálculo estadístico,,192-254,,Reservadas para uso local,,,,Operational
+Tabla de cifrado 4.10 – Tipo de cálculo estadístico,,255,,Valor faltante,,,,Operational

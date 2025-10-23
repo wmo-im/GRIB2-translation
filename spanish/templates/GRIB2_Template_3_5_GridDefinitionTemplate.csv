@@ -1,0 +1,7 @@
+Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status
+Modelo de definición de la retícula 3.5 – Latitud/longitud giradas de resolución variable,15-48,,El mismo que en el Modelo de definición de retícula 3.4,véase la nota 1,,,,Operational
+Modelo de definición de la retícula 3.5 – Latitud/longitud giradas de resolución variable,49-52,,Latitud del polo sur de la proyección,véase la nota 4,,,,Operational
+Modelo de definición de la retícula 3.5 – Latitud/longitud giradas de resolución variable,53-56,,Longitud del polo sur de la proyección,véase la nota 4,,,,Operational
+Modelo de definición de la retícula 3.5 – Latitud/longitud giradas de resolución variable,57-60,,Ángulo de giro de la proyección,véase la nota 4,,,,Operational
+Modelo de definición de la retícula 3.5 – Latitud/longitud giradas de resolución variable,61-ii,,Lista de longitudes,véanse las notas 1 y 3,,,,Operational
+Modelo de definición de la retícula 3.5 – Latitud/longitud giradas de resolución variable,(ii+1)-jj,,Lista de latitudes,véanse las notas 1 y 3,,,,Operational

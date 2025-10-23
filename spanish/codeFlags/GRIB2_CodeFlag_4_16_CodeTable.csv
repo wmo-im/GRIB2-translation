@@ -1,0 +1,10 @@
+Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status
+Tabla de cifrado 4.16 – Valor de calidad asociado con parámetro,,0,,Índice de confianza (véase la nota 2),,,,Operational
+Tabla de cifrado 4.16 – Valor de calidad asociado con parámetro,,1,,Indicador de calidad (véanse la nota 3 y la Tabla de cifrado 4.244),,,,Operational
+Tabla de cifrado 4.16 – Valor de calidad asociado con parámetro,,2,,Correlación del producto con el producto de calibración usado (véase la nota 4),,,,Operational
+Tabla de cifrado 4.16 – Valor de calidad asociado con parámetro,,3,,Desviación estándar (véase la nota 5),,,,Operational
+Tabla de cifrado 4.16 – Valor de calidad asociado con parámetro,,4,,Error aleatorio (véase la nota 5),,,,Operational
+Tabla de cifrado 4.16 – Valor de calidad asociado con parámetro,,5,,Probabilidad,,,,Operational
+Tabla de cifrado 4.16 – Valor de calidad asociado con parámetro,,6-191,,Reservadas,,,,Operational
+Tabla de cifrado 4.16 – Valor de calidad asociado con parámetro,,192-254,,Reservadas para uso local,,,,Operational
+Tabla de cifrado 4.16 – Valor de calidad asociado con parámetro,,255,,Valor faltante,,,,Operational

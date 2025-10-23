@@ -1,0 +1,7 @@
+Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status
+Tabla de cifrado 3.8 — Posición de los puntos de la retícula,,0,,Puntos de la retícula situados en los vértices de los triángulos,,,,Operational
+Tabla de cifrado 3.8 — Posición de los puntos de la retícula,,1,,Puntos de la retícula situados en los centros de los triángulos,,,,Operational
+Tabla de cifrado 3.8 — Posición de los puntos de la retícula,,2,,Puntos de la retícula en el centro de los lados de los triángulos,,,,Operational
+Tabla de cifrado 3.8 — Posición de los puntos de la retícula,,3-191,,Reservadas,,,,Operational
+Tabla de cifrado 3.8 — Posición de los puntos de la retícula,,192-254,,Reservadas para uso local,,,,Operational
+Tabla de cifrado 3.8 — Posición de los puntos de la retícula,,255,,Valor faltante,,,,Operational

@@ -1,0 +1,10 @@
+Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status
+Tabla de cifrado 4.11 – Tipo de intervalo de tiempo,,0,,Reservada,,,,Operational
+Tabla de cifrado 4.11 – Tipo de intervalo de tiempo,,1,,"Horas procesadas sucesivamente con la misma hora de predicción, incrementando la hora de inicio de la predicción",,,,Operational
+Tabla de cifrado 4.11 – Tipo de intervalo de tiempo,,2,,"Horas procesadas sucesivamente con la misma hora de inicio de la predicción, aumentando la hora de predicción",,,,Operational
+Tabla de cifrado 4.11 – Tipo de intervalo de tiempo,,3,,Horas procesadas sucesivamente incrementando la hora de inicio de la predicción y disminuyendo la hora de predicción de manera que se mantenga constante el período de validez,,,,Operational
+Tabla de cifrado 4.11 – Tipo de intervalo de tiempo,,4,,Horas procesadas sucesivamente disminuyendo la hora de inicio de la predicción y aumentando la hora de predicción de manera que se mantenga constante el período de validez,,,,Operational
+Tabla de cifrado 4.11 – Tipo de intervalo de tiempo,,5,,Subintervalo de tiempo flotante entre la hora de predicción y el final del intervalo de tiempo total (véase la nota),,,,Operational
+Tabla de cifrado 4.11 – Tipo de intervalo de tiempo,,6-191,,Reservadas,,,,Operational
+Tabla de cifrado 4.11 – Tipo de intervalo de tiempo,,192-254,,Reservadas para uso local,,,,Operational
+Tabla de cifrado 4.11 – Tipo de intervalo de tiempo,,255,,Valor faltante,,,,Operational

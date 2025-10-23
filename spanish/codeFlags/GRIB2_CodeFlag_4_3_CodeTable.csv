@@ -1,0 +1,26 @@
+Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status
+Tabla de cifrado 4.3 – Tipo de proceso de generación,,0,,Análisis,,,,Operational
+Tabla de cifrado 4.3 – Tipo de proceso de generación,,1,,Inicialización,,,,Operational
+Tabla de cifrado 4.3 – Tipo de proceso de generación,,2,,Predicción,,,,Operational
+Tabla de cifrado 4.3 – Tipo de proceso de generación,,3,,Predicción corregida,,,,Operational
+Tabla de cifrado 4.3 – Tipo de proceso de generación,,4,,Predicción por conjuntos,,,,Operational
+Tabla de cifrado 4.3 – Tipo de proceso de generación,,5,,Predicción probabilística,,,,Operational
+Tabla de cifrado 4.3 – Tipo de proceso de generación,,6,,Error de la predicción,,,,Operational
+Tabla de cifrado 4.3 – Tipo de proceso de generación,,7,,Error de análisis,,,,Operational
+Tabla de cifrado 4.3 – Tipo de proceso de generación,,8,,Observación,,,,Operational
+Tabla de cifrado 4.3 – Tipo de proceso de generación,,9,,Climatológico,,,,Operational
+Tabla de cifrado 4.3 – Tipo de proceso de generación,,10,,Predicción de probabilidad ponderada,,,,Operational
+Tabla de cifrado 4.3 – Tipo de proceso de generación,,11,,Predicción de conjuntos corregida,,,,Operational
+Tabla de cifrado 4.3 – Tipo de proceso de generación,,12,,Análisis procesado posteriormente (véase la nota 1),,,,Operational
+Tabla de cifrado 4.3 – Tipo de proceso de generación,,13,,Predicción procesada posteriormente (véase la nota 1),,,,Operational
+Tabla de cifrado 4.3 – Tipo de proceso de generación,,14,,Predicción inmediata,,,,Operational
+Tabla de cifrado 4.3 – Tipo de proceso de generación,,15,,Predicción retrospectiva,,,,Operational
+Tabla de cifrado 4.3 – Tipo de proceso de generación,,16,,Recuperación física,,,,Operational
+Tabla de cifrado 4.3 – Tipo de proceso de generación,,17,,Análisis de regresión,,,,Operational
+Tabla de cifrado 4.3 – Tipo de proceso de generación,,18,,Diferencia entre dos predicciones,,,,Operational
+Tabla de cifrado 4.3 – Tipo de proceso de generación,,19,,Primera aproximación,,,,Operational
+Tabla de cifrado 4.3 – Tipo de proceso de generación,,20,,Incremento de análisis (véase la nota 2),,,,Operational
+Tabla de cifrado 4.3 – Tipo de proceso de generación,,21,,Incremento de inicialización para el análisis (véase la nota 3),,,,Operational
+Tabla de cifrado 4.3 – Tipo de proceso de generación,,22-191,,Reservadas,,,,Operational
+Tabla de cifrado 4.3 – Tipo de proceso de generación,,192-254,,Reservadas para uso local,,,,Operational
+Tabla de cifrado 4.3 – Tipo de proceso de generación,,255,,Valor faltante,,,,Operational

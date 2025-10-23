@@ -1,0 +1,6 @@
+Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status
+"Modelo de definición de la retícula 3.1 — Retícula de latitud/longitud (o equidistante cilíndrica, o Plate Carrée) después de la rotación",15-72,,Idéntico al Modelo de definición de la retícula 3.0,véase la nota 1,,,,Operational
+"Modelo de definición de la retícula 3.1 — Retícula de latitud/longitud (o equidistante cilíndrica, o Plate Carrée) después de la rotación",73-76,,Latitud del polo sur de la proyección,,,,,Operational
+"Modelo de definición de la retícula 3.1 — Retícula de latitud/longitud (o equidistante cilíndrica, o Plate Carrée) después de la rotación",77-80,,Longitud del polo sur de la proyección,,,,,Operational
+"Modelo de definición de la retícula 3.1 — Retícula de latitud/longitud (o equidistante cilíndrica, o Plate Carrée) después de la rotación",81-84,,Ángulo de rotación de la proyección,,,,,Operational
+"Modelo de definición de la retícula 3.1 — Retícula de latitud/longitud (o equidistante cilíndrica, o Plate Carrée) después de la rotación",85-nn,,Lista del número de puntos a lo largo de cada meridiano o paralelo.,Estos octetos están presentes únicamente para las retículas casi regulares que se describen en la nota 3,,,,Operational
