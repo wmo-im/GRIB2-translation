@@ -1,0 +1,13 @@
+Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status
+Table de code 4.240 - Type de distribution,,0,,Aucune précision fournie sur la fonction de distribution,,,,Operational
+Table de code 4.240 - Type de distribution,,1,,Fonctions delta - concentration variable dans l'espace et diamètres fixes Dᵢ (p1) en mètres,(voir la note 1),,mètres,Operational
+Table de code 4.240 - Type de distribution,,2,,Fonctions delta – concentration variable dans l'espace et masses fixes Mᵢ (p1) en kg,(voir la note 2),,kg,Operational
+Table de code 4.240 - Type de distribution,,3,,"Loi normale (de Gauss) - concentration variable dans l'espace et diamètre moyen Dᵢ (p1), et variance σ (p2) fixes",(voir la note 3),,,Operational
+Table de code 4.240 - Type de distribution,,4,,"Loi normale (de Gauss) - concentration, diamètre moyen et variance variables dans l'espace",(voir la note 4),,,Operational
+Table de code 4.240 - Type de distribution,,5,,"Distribution log-normale - concentration en nombre, diamètre moyen et variance variables dans l'espace",(voir la note 5),,,Operational
+Table de code 4.240 - Type de distribution,,6,,Distribution log-normale - concentration en nombre et diamètre moyen variables dans l'espace et variance σ (p1) fixe,(voir la note 6),,,Operational
+Table de code 4.240 - Type de distribution,,7,,"Distribution log-normale - concentrations en nombre et en masse variables dans l'espace, variance σ fixe (p1) et concentration de particules ρ (p2) fixe",(voir la note 7),,,Operational
+Table de code 4.240 - Type de distribution,,8,,Pas de fonction de distribution. La variable codée est obtenue à partir de variables qui se caractérisent par une fonction de distribution de type N° 7 (voir ci-dessus) avec une variance σ fixe (p1) et une concentration de particules fixe ρ (p2),,,,Operational
+Table de code 4.240 - Type de distribution,,9-49151,,En réserve,,,,Operational
+Table de code 4.240 - Type de distribution,,49152-65534,,En réserve pour un usage local,,,,Operational
+Table de code 4.240 - Type de distribution,,65535,,Valeur manquante,,,,Operational

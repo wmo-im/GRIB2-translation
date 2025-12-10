@@ -1,0 +1,20 @@
+Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status
+Modèle de définition du produit 4.20 — Produit radar,10,,Catégorie du paramètre,(voir la table de code 4.1),,,,Operational
+Modèle de définition du produit 4.20 — Produit radar,11,,Numéro du paramètre,(voir la table de code 4.2),,,,Operational
+Modèle de définition du produit 4.20 — Produit radar,12,,Type du processus de production,(voir la table de code 4.3),,,,Operational
+Modèle de définition du produit 4.20 — Produit radar,13,,Nombre de stations radar,,,,,Operational
+Modèle de définition du produit 4.20 — Produit radar,14,,Indicateur d'unité de l'intervalle de temps,,,,,Operational
+Modèle de définition du produit 4.20 — Produit radar,15-18,,Latitude de la station (10-6 degrés),,,,,Operational
+Modèle de définition du produit 4.20 — Produit radar,19-22,,Longitude de la station (10-6 degrés),,,,,Operational
+Modèle de définition du produit 4.20 — Produit radar,23-24,,Altitude de la station (mètres),,,,,Operational
+Modèle de définition du produit 4.20 — Produit radar,25-28,,Identification de la station (alphanumérique),,,,,Operational
+Modèle de définition du produit 4.20 — Produit radar,29-30,,Indicatif de la station (numérique),,,,,Operational
+Modèle de définition du produit 4.20 — Produit radar,31,,Mode de fonctionnement,(voir la table de code 4.12),,,,Operational
+Modèle de définition du produit 4.20 — Produit radar,32,,Constante d'étalonnage de la réflectivité (dixièmes de dB),,,,,Operational
+Modèle de définition du produit 4.20 — Produit radar,33,,Indicateur de contrôle de qualité,(voir la table de code 4.13),,,,Operational
+Modèle de définition du produit 4.20 — Produit radar,34,,Indicateur de filtre de fouillis,(voir la table de code 4.14),,,,Operational
+Modèle de définition du produit 4.20 — Produit radar,35,,Angle constant de site de l'antenne (dixièmes de degré vrai),,,,,Operational
+Modèle de définition du produit 4.20 — Produit radar,36-37,,Intervalle de totalisation (minutes),,,,,Operational
+Modèle de définition du produit 4.20 — Produit radar,38,,Réflectivité de référence pour les plafonds d'échos (dB),,,,,Operational
+Modèle de définition du produit 4.20 — Produit radar,39-41,,Espacement des cellules de distance (m),,,,,Operational
+Modèle de définition du produit 4.20 — Produit radar,42-43,,Écartement radial (dixièmes de degré vrai),,,,,Operational

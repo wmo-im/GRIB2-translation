@@ -1,0 +1,23 @@
+Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status
+Table de code 4.3 – Type de processus de production,,0,,Analyse,,,,Operational
+Table de code 4.3 – Type de processus de production,,1,,Initialisation,,,,Operational
+Table de code 4.3 – Type de processus de production,,2,,Prévision,,,,Operational
+Table de code 4.3 – Type de processus de production,,3,,Prévision corrigée,,,,Operational
+Table de code 4.3 – Type de processus de production,,4,,Prévision d'ensemble,,,,Operational
+Table de code 4.3 – Type de processus de production,,5,,Prévision de probabilité,,,,Operational
+Table de code 4.3 – Type de processus de production,,6,,Erreur de prévision,,,,Operational
+Table de code 4.3 – Type de processus de production,,7,,Erreur d'analyse,,,,Operational
+Table de code 4.3 – Type de processus de production,,8,,Observation,,,,Operational
+Table de code 4.3 – Type de processus de production,,9,,Climatologique,,,,Operational
+Table de code 4.3 – Type de processus de production,,10,,Prévision pondérée par la probabilité,,,,Operational
+Table de code 4.3 – Type de processus de production,,11,,Prévision d'ensemble corrigée,,,,Operational
+Table de code 4.3 – Type de processus de production,,12,,Analyse post-traitée (voir la note),Les chiffres du code 12 et 13 sont à utiliser dans les cas où les résultats d'une analyse ou d'une prévision initiale ont reçu un post-traitement substantiel et que les chiffres du code 0 et 2 ne sont alors pas suffisamment précis.,,,Operational
+Table de code 4.3 – Type de processus de production,,13,,Prévision post-traitée (voir la note),Les chiffres du code 12 et 13 sont à utiliser dans les cas où les résultats d'une analyse ou d'une prévision initiale ont reçu un post-traitement substantiel et que les chiffres du code 0 et 2 ne sont alors pas suffisamment précis.,,,Operational
+Table de code 4.3 – Type de processus de production,,14,,Prévision immédiate,,,,Operational
+Table de code 4.3 – Type de processus de production,,15,,Prévision a posteriori,,,,Operational
+Table de code 4.3 – Type de processus de production,,16,,Extraction physique,,,,Operational
+Table de code 4.3 – Type de processus de production,,17,,Analyse de régression,,,,Operational
+Table de code 4.3 – Type de processus de production,,18,,Différence entre deux prévisions,,,,Operational
+Table de code 4.3 – Type de processus de production,,19-191,,En réserve,,,,Operational
+Table de code 4.3 – Type de processus de production,,192-254,,En réserve pour un usage local,,,,Operational
+Table de code 4.3 – Type de processus de production,,255,,Valeur manquante,,,,Operational

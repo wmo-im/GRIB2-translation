@@ -1,0 +1,9 @@
+Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status
+"Modèle de définition de la grille 3.3 — Projection latitude/longitude (ou équidistante cylindrique, ou Plate Carrée) après dilatation et rotation",15-72,,Voir modèle de définition de la grille 3.0,(voir note 1),,,,Operational
+"Modèle de définition de la grille 3.3 — Projection latitude/longitude (ou équidistante cylindrique, ou Plate Carrée) après dilatation et rotation",73-76,,Latitude du pôle Sud de la projection,,,,,Operational
+"Modèle de définition de la grille 3.3 — Projection latitude/longitude (ou équidistante cylindrique, ou Plate Carrée) après dilatation et rotation",77-80,,Longitude du pôle Sud de la projection,,,,,Operational
+"Modèle de définition de la grille 3.3 — Projection latitude/longitude (ou équidistante cylindrique, ou Plate Carrée) après dilatation et rotation",81-84,,Angle de rotation de la projection,,,,,Operational
+"Modèle de définition de la grille 3.3 — Projection latitude/longitude (ou équidistante cylindrique, ou Plate Carrée) après dilatation et rotation",85-88,,Latitude du pôle de dilatation,,,,,Operational
+"Modèle de définition de la grille 3.3 — Projection latitude/longitude (ou équidistante cylindrique, ou Plate Carrée) après dilatation et rotation",89-92,,Longitude du pôle de dilatation,,,,,Operational
+"Modèle de définition de la grille 3.3 — Projection latitude/longitude (ou équidistante cylindrique, ou Plate Carrée) après dilatation et rotation",93-96,,Facteur de dilatation,,,,,Operational
+"Modèle de définition de la grille 3.3 — Projection latitude/longitude (ou équidistante cylindrique, ou Plate Carrée) après dilatation et rotation",97-nn,,Liste de nombre de points le long de chaque méridien ou parallèle,(ces octets ne s'appliquent qu'aux grilles quasi régulières dont il est question dans la note 4),,,,Operational

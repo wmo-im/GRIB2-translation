@@ -1,0 +1,6 @@
+Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status
+Table de code 4.14 – Indicateur de filtre de fouillis,,0,,Absence de filtre de fouillis,,,,Operational
+Table de code 4.14 – Indicateur de filtre de fouillis,,1,,Filtre de fouillis utilisé,,,,Operational
+Table de code 4.14 – Indicateur de filtre de fouillis,,2-191,,En réserve,,,,Operational
+Table de code 4.14 – Indicateur de filtre de fouillis,,192-254,,En réserve pour un usage local,,,,Operational
+Table de code 4.14 – Indicateur de filtre de fouillis,,255,,Valeur manquante,,,,Operational

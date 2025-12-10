@@ -1,0 +1,17 @@
+Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status
+Table de code 4.201 – Type des précipitations,,0,,En réserve,,,,Operational
+Table de code 4.201 – Type des précipitations,,1,,Pluie,,,,Operational
+Table de code 4.201 – Type des précipitations,,2,,Orage,,,,Operational
+Table de code 4.201 – Type des précipitations,,3,,Pluie se congelant,,,,Operational
+Table de code 4.201 – Type des précipitations,,4,,Mêlées/glace,,,,Operational
+Table de code 4.201 – Type des précipitations,,5,,Neige,,,,Operational
+Table de code 4.201 – Type des précipitations,,6,,Neige mouillée,,,,Operational
+Table de code 4.201 – Type des précipitations,,7,,Mélange de pluie et de neige,,,,Operational
+Table de code 4.201 – Type des précipitations,,8,,Granules de glace,,,,Operational
+Table de code 4.201 – Type des précipitations,,9,,Neige roulée,,,,Operational
+Table de code 4.201 – Type des précipitations,,10,,Grêle,,,,Operational
+Table de code 4.201 – Type des précipitations,,11,,Bruine,,,,Operational
+Table de code 4.201 – Type des précipitations,,12,,Bruine se congelant,,,,Operational
+Table de code 4.201 – Type des précipitations,,13-191,,En réserve,,,,Operational
+Table de code 4.201 – Type des précipitations,,192-254,,En réserve pour un usage local,,,,Operational
+Table de code 4.201 – Type des précipitations,,255,,Valeur manquante,,,,Operational

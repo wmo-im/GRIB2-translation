@@ -1,0 +1,14 @@
+Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status
+Modèle de représentation des données 5.1 — Matrices aux points de grille — compression simple,12-21,,Voir le modèle de représentation des données 5.0,,,,,Experimental
+Modèle de représentation des données 5.1 — Matrices aux points de grille — compression simple,22,,0 - présence de tables binaires matricielles; 1 - absence de table binaire matricielle,,,,,Experimental
+Modèle de représentation des données 5.1 — Matrices aux points de grille — compression simple,23-26,,Nombre de valeurs de données codées dans la section 7,,,,,Experimental
+Modèle de représentation des données 5.1 — Matrices aux points de grille — compression simple,27-28,,NR - première dimension (lignes) de chaque matrice,,,,,Experimental
+Modèle de représentation des données 5.1 — Matrices aux points de grille — compression simple,29-30,,NC - deuxième dimension (colonnes) de chaque matrice,,,,,Experimental
+Modèle de représentation des données 5.1 — Matrices aux points de grille — compression simple,31,,Définition de la coordonnée en première dimension,(table de code 5.2),,,,Experimental
+Modèle de représentation des données 5.1 — Matrices aux points de grille — compression simple,32,,NC1 - nombre de coefficients ou de valeurs utilisés pour préciser la fonction correspondant à la coordonnée en première dimension,,,,,Experimental
+Modèle de représentation des données 5.1 — Matrices aux points de grille — compression simple,33,,Définition de la coordonnée en deuxième dimension,(table de code 5.2),,,,Experimental
+Modèle de représentation des données 5.1 — Matrices aux points de grille — compression simple,34,,NC2 - nombre de coefficients ou de valeurs utilisés pour préciser la fonction correspondant à la coordonnée en deuxième,,,,,Experimental
+Modèle de représentation des données 5.1 — Matrices aux points de grille — compression simple,35,,Caractéristique physique en première dimension,(table de code 5.3),,,,Experimental
+Modèle de représentation des données 5.1 — Matrices aux points de grille — compression simple,36,,Caractéristique physique en deuxième dimension,(table de code 5.3),,,,Experimental
+Modèle de représentation des données 5.1 — Matrices aux points de grille — compression simple,37-(36+NC1x4),,"Coefficients définissant sous forme de fonctions les valeurs des coordonnées en première dimension, ou valeurs explicites des coordonnées (valeur en virgule flottante IEEE 32 bits)",,,,,Experimental
+Modèle de représentation des données 5.1 — Matrices aux points de grille — compression simple,(37+NC1x4)-(36+4(NC1+NC2)),,"Coefficients définissant sous forme de fonctions les valeurs des coordonnées en deuxième dimension, ou valeurs explicites des coordonnées (valeur en virgule flottante IEEE 32 bits)",,,,,Experimental

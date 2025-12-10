@@ -1,0 +1,16 @@
+Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status
+Modèle de définition du produit 4.1100 – Grille de type Hovmöller sans moyenne ou autre traitement statistique,10,,Catégorie du paramètre,(voir la table de code 4.1),,,,Experimental
+Modèle de définition du produit 4.1100 – Grille de type Hovmöller sans moyenne ou autre traitement statistique,11,,Numéro du paramètre,(voir la table de code 4.2),,,,Experimental
+Modèle de définition du produit 4.1100 – Grille de type Hovmöller sans moyenne ou autre traitement statistique,12,,Type du processus de production,(voir la table de code 4.3),,,,Experimental
+Modèle de définition du produit 4.1100 – Grille de type Hovmöller sans moyenne ou autre traitement statistique,13,,Indicateur du processus de production de base (défini par le centre d'origine),,,,,Experimental
+Modèle de définition du produit 4.1100 – Grille de type Hovmöller sans moyenne ou autre traitement statistique,14,,Indicateur du processus de production de l'analyse ou de la prévision (défini par le centre d'origine),,,,,Experimental
+Modèle de définition du produit 4.1100 – Grille de type Hovmöller sans moyenne ou autre traitement statistique,15-16,,Limite (heures) de tombée des données d'observation après l'heure de référence,(voir la note),,,,Experimental
+Modèle de définition du produit 4.1100 – Grille de type Hovmöller sans moyenne ou autre traitement statistique,17,,Limite (minutes) de tombée des données d'observation après l'heure de référence,,,,,Experimental
+Modèle de définition du produit 4.1100 – Grille de type Hovmöller sans moyenne ou autre traitement statistique,18,,Indicateur d'unité de l'intervalle de temps,(voir la table de code 4.4),,,,Experimental
+Modèle de définition du produit 4.1100 – Grille de type Hovmöller sans moyenne ou autre traitement statistique,19-22,,Heure de la prévision exprimée dans l'unité précisée par l'octet 18,,,,,Experimental
+Modèle de définition du produit 4.1100 – Grille de type Hovmöller sans moyenne ou autre traitement statistique,23,,Type de la première surface spécifiée,(voir la table de code 4.5),,,,Experimental
+Modèle de définition du produit 4.1100 – Grille de type Hovmöller sans moyenne ou autre traitement statistique,24,,Facteur d'échelle - première surface spécifiée,,,,,Experimental
+Modèle de définition du produit 4.1100 – Grille de type Hovmöller sans moyenne ou autre traitement statistique,25-28,,Valeur ajustée - première surface spécifiée,,,,,Experimental
+Modèle de définition du produit 4.1100 – Grille de type Hovmöller sans moyenne ou autre traitement statistique,29,,Type de la deuxième surface spécifiée,(voir la table de code 4.5),,,,Experimental
+Modèle de définition du produit 4.1100 – Grille de type Hovmöller sans moyenne ou autre traitement statistique,30,,Facteur d'échelle - deuxième surface spécifiée,,,,,Experimental
+Modèle de définition du produit 4.1100 – Grille de type Hovmöller sans moyenne ou autre traitement statistique,31-34,,Valeur ajustée – deuxième surface spécifiée,,,,,Experimental

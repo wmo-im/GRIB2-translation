@@ -1,0 +1,12 @@
+Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status
+Modèle de définition du produit 4.30 — Produit de satellite,10,,Catégorie du paramètre,(voir la table de code 4.1),,,,Deprecated
+Modèle de définition du produit 4.30 — Produit de satellite,11,,Numéro du paramètre,(voir la table de code 4.2),,,,Deprecated
+Modèle de définition du produit 4.30 — Produit de satellite,12,,Type du processus de production,(voir la table de code 4.3),,,,Deprecated
+Modèle de définition du produit 4.30 — Produit de satellite,13,,Indicateur du processus d'observation (défini par les centres d'origine),,,,,Deprecated
+Modèle de définition du produit 4.30 — Produit de satellite,14,,Nombre de bandes spectrales prises en compte (NB),,,,,Deprecated
+Modèle de définition du produit 4.30 — Produit de satellite,,,"15-   Répéter les dix octets qui suivent pour chaque bande prise en compte (nb = 1, NB)",,,,,Deprecated
+Modèle de définition du produit 4.30 — Produit de satellite,(15+10(nb-1))-(16+10(nb-1)),,Séries des satellites bande nb (table de code établie par le centre d'origine/de production),,,,,Deprecated
+Modèle de définition du produit 4.30 — Produit de satellite,(17+10(nb-1))-(18+10(nb-1)),,Numéros des satellites bande nb (table de code établie par le centre d'origine/de production),,,,,Deprecated
+Modèle de définition du produit 4.30 — Produit de satellite,(19+10(nb-1)),,Types d'instruments bande nb (table de code établie par le centre d'origine/de production),,,,,Deprecated
+Modèle de définition du produit 4.30 — Produit de satellite,(20+10(nb-1)),,Facteur d'échelle du nombre d'ondes central - bande nb,,,,,Deprecated
+Modèle de définition du produit 4.30 — Produit de satellite,(21+10(nb-1))-(24+10(nb-1)),,Valeur ajustée du nombre d'ondes central – bande nb (unité: m-1),,,,,Deprecated

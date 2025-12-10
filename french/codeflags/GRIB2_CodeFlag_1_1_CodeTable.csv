@@ -1,0 +1,4 @@
+Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status
+Table de code 1.1 – Numéro de version des tables locales du code GRIB,,0,,Aucune table locale utilisée. Seules les données des tables et des modèles de la présente table principale sont valables,,,,Operational
+Table de code 1.1 – Numéro de version des tables locales du code GRIB,,1-254,,Numéro de version des tables locales utilisées,,,,Operational
+Table de code 1.1 – Numéro de version des tables locales du code GRIB,,255,,Valeur manquante,,,,Operational

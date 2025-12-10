@@ -1,0 +1,9 @@
+Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status
+Table de code 4.16 – Valeur relative à la qualité associée au paramètre,,0,,Indice de confiance,"(voir la note 2)",,,Operational
+Table de code 4.16 – Valeur relative à la qualité associée au paramètre,,1,,Indicateur de qualité,"(voir la note 3 et la table de code 4.244)",,,Operational
+Table de code 4.16 – Valeur relative à la qualité associée au paramètre,,2,,Corrélation entre le produit et le produit d'étalonnage utilisé,"(voir la note 4)",,,Operational
+Table de code 4.16 – Valeur relative à la qualité associée au paramètre,,3,,Écart-type,"(voir la note 5)",,,Operational
+Table de code 4.16 – Valeur relative à la qualité associée au paramètre,,4,,Erreur aléatoire ,"(voir la note 5)",,,Operational
+Table de code 4.16 – Valeur relative à la qualité associée au paramètre,,5-191,,En réserve,,,,Operational
+Table de code 4.16 – Valeur relative à la qualité associée au paramètre,,192-254,,En réserve pour un usage local,,,,Operational
+Table de code 4.16 – Valeur relative à la qualité associée au paramètre,,255,,Valeur manquante,,,,Operational

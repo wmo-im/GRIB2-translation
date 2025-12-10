@@ -1,0 +1,23 @@
+Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status
+Table de code 3.15 — Signification physique des coordonnées verticales,,0-19,,En réserve,,,,Operational
+Table de code 3.15 — Signification physique des coordonnées verticales,,20,,Température,,,K,Operational
+Table de code 3.15 — Signification physique des coordonnées verticales,,21-99,,En réserve,,,,Operational
+Table de code 3.15 — Signification physique des coordonnées verticales,,100,,Pression,,,Pa,Operational
+Table de code 3.15 — Signification physique des coordonnées verticales,,101,,Écart de pression par rapport au niveau moyen de la mer,,,Pa,Operational
+Table de code 3.15 — Signification physique des coordonnées verticales,,102,,Altitude au-dessus du niveau moyen de la mer,,,m,Operational
+Table de code 3.15 — Signification physique des coordonnées verticales,,103,,Hauteur au-dessus du sol (voir note 1),,,m,Operational
+Table de code 3.15 — Signification physique des coordonnées verticales,,104,,Coordonnée Sigma,,,,Operational
+Table de code 3.15 — Signification physique des coordonnées verticales,,105,,Coordonnée Hybrid,,,,Operational
+Table de code 3.15 — Signification physique des coordonnées verticales,,106,,Profondeur sous la surface du sol,,,m,Operational
+Table de code 3.15 — Signification physique des coordonnées verticales,,107,,Température potentielle (θ),,,K,Operational
+Table de code 3.15 — Signification physique des coordonnées verticales,,108,,Écart de pression du sol au niveau,,,Pa,Operational
+Table de code 3.15 — Signification physique des coordonnées verticales,,109,,Tourbillon potentiel,,,K m⁻² kg⁻¹ s⁻¹,Operational
+Table de code 3.15 — Signification physique des coordonnées verticales,,110,,Hauteur géométrique,,,m,Operational
+Table de code 3.15 — Signification physique des coordonnées verticales,,111,,Coordonnée Eta (voir note 2),,,,Operational
+Table de code 3.15 — Signification physique des coordonnées verticales,,112,,Hauteur géopotentielle,,,gpm,Operational
+Table de code 3.15 — Signification physique des coordonnées verticales,,113,,Coordonnée hybride logarithmique,,,,Operational
+Table de code 3.15 — Signification physique des coordonnées verticales,,114-159,,En réserve,,,,Operational
+Table de code 3.15 — Signification physique des coordonnées verticales,,160,,Profondeur sous le niveau de la mer,,,m,Operational
+Table de code 3.15 — Signification physique des coordonnées verticales,,161-191,,En réserve,,,,Operational
+Table de code 3.15 — Signification physique des coordonnées verticales,,192-254,,En réserve pour un stage local,,,,Operational
+Table de code 3.15 — Signification physique des coordonnées verticales,,255,,Valeur manquante,,,,Operational

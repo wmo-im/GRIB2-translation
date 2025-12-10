@@ -1,0 +1,7 @@
+Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status
+Table de code 1.5 – Numéro de modèle d'identification,,0,,Définition du calendrier,,,,Operational
+Table de code 1.5 – Numéro de modèle d'identification,,1,,Décalage paléontologique,,,,Operational
+Table de code 1.5 – Numéro de modèle d'identification,,2,,Définition du calendrier et décalage paléontologique,,,,Operational
+Table de code 1.5 – Numéro de modèle d'identification,,3-32767,,En réserve,,,,Operational
+Table de code 1.5 – Numéro de modèle d'identification,,32768-65534,,En réserve pour un usage local,,,,Operational
+Table de code 1.5 – Numéro de modèle d'identification,,65535,,Valeur manquante,,,,Operational

@@ -1,0 +1,6 @@
+Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status
+Table de code 3.20 — Type de lignes horizontales,,0,,Rhumb,,,,Operational
+Table de code 3.20 — Type de lignes horizontales,,1,,Grand cercle,,,,Operational
+Table de code 3.20 — Type de lignes horizontales,,2-191,,En réserve,,,,Operational
+Table de code 3.20 — Type de lignes horizontales,,192-254,,En réserve pour un usage local,,,,Operational
+Table de code 3.20 — Type de lignes horizontales,,255,,Valeur manquante,,,,Operational

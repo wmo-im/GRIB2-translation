@@ -1,0 +1,7 @@
+Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status
+Table de code 5.3 – Paramètre des coordonnées matricielles,,1,,Direction en degrés vrais,,,,Operational
+Table de code 5.3 – Paramètre des coordonnées matricielles,,2,,Fréquence (s-1),,,,Operational
+Table de code 5.3 – Paramètre des coordonnées matricielles,,3,,Nombre radial (2π/λ) (m-1),,,,Operational
+Table de code 5.3 – Paramètre des coordonnées matricielles,,4-191,,En réserve,,,,Operational
+Table de code 5.3 – Paramètre des coordonnées matricielles,,192-254,,En réserve pour un usage local,,,,Operational
+Table de code 5.3 – Paramètre des coordonnées matricielles,,255,,Valeur manquante,,,,Operational

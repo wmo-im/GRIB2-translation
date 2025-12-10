@@ -1,0 +1,9 @@
+Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status
+Table de code 4.204 – Étendue des orages,,0,,Aucun,,,,Operational
+Table de code 4.204 – Étendue des orages,,1,,Isolés (1 % - 2 %),,,,Operational
+Table de code 4.204 – Étendue des orages,,2,,Peu nombreux (3 % - 5 %),,,,Operational
+Table de code 4.204 – Étendue des orages,,3,,Épars (6 % - 45 %),,,,Operational
+Table de code 4.204 – Étendue des orages,,4,,Nombreux (> 45 %),,,,Operational
+Table de code 4.204 – Étendue des orages,,5-191,,En réserve,,,,Operational
+Table de code 4.204 – Étendue des orages,,192-254,,En réserve pour un usage local,,,,Operational
+Table de code 4.204 – Étendue des orages,,255,,Valeur manquante,,,,Operational

@@ -1,0 +1,12 @@
+Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status
+"Modèle de définition de la grille 3.100 — Grille triangulaire basée sur un icosaèdre (voir partie B, supplément I du code GRIB)",15,,n2 - exposant de 2 indiquant le nombre d'intervalles sur les côtés du triangle,,,,,Operational
+"Modèle de définition de la grille 3.100 — Grille triangulaire basée sur un icosaèdre (voir partie B, supplément I du code GRIB)",16,,n3 - exposant de 3 indiquant le nombre d'intervalles sur les côtés du triangle,,,,,Operational
+"Modèle de définition de la grille 3.100 — Grille triangulaire basée sur un icosaèdre (voir partie B, supplément I du code GRIB)",17-18,,ni - nombre d'intervalles sur les côtés des triangles de l'icosaèdre,,,,,Operational
+"Modèle de définition de la grille 3.100 — Grille triangulaire basée sur un icosaèdre (voir partie B, supplément I du code GRIB)",19,,nd - nombre de losanges,,,,,Operational
+"Modèle de définition de la grille 3.100 — Grille triangulaire basée sur un icosaèdre (voir partie B, supplément I du code GRIB)",20-23,,Latitude du pôle de l'icosaèdre reporté sur la sphère,,,,,Operational
+"Modèle de définition de la grille 3.100 — Grille triangulaire basée sur un icosaèdre (voir partie B, supplément I du code GRIB)",24-27,,Longitude du pôle de l'icosaèdre reporté sur la sphère,,,,,Operational
+"Modèle de définition de la grille 3.100 — Grille triangulaire basée sur un icosaèdre (voir partie B, supplément I du code GRIB)",28-31,,Longitude de la ligne centrale du premier losange de l'icosaèdre reportée sur la sphère,,,,,Operational
+"Modèle de définition de la grille 3.100 — Grille triangulaire basée sur un icosaèdre (voir partie B, supplément I du code GRIB)",32,,Position des points de grille,(voir la table de code 3.8),,,,Operational
+"Modèle de définition de la grille 3.100 — Grille triangulaire basée sur un icosaèdre (voir partie B, supplément I du code GRIB)",33,,Ordre de la numérotation des losanges,(indicateur - voir la table d'indicateurs 3.9),,,,Operational
+"Modèle de définition de la grille 3.100 — Grille triangulaire basée sur un icosaèdre (voir partie B, supplément I du code GRIB)",34,,Mode d'exploration d'un losange,(indicateurs – voir la table d'indicateurs 3.10),,,,Operational
+"Modèle de définition de la grille 3.100 — Grille triangulaire basée sur un icosaèdre (voir partie B, supplément I du code GRIB)",35-38,,nt - nombre total de points de grille,,,,,Operational

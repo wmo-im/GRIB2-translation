@@ -1,0 +1,23 @@
+Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status
+Modèle de définition de la grille 3.12 — Transverse de Mercator,15,,Forme de la Terre,(voir la table de code 3.2),,,,Operational
+Modèle de définition de la grille 3.12 — Transverse de Mercator,16,,Facteur d'échelle du rayon de la Terre sphérique,,,,,Operational
+Modèle de définition de la grille 3.12 — Transverse de Mercator,17-20,,Valeur ajustée du rayon de la Terre sphérique,,,,,Operational
+Modèle de définition de la grille 3.12 — Transverse de Mercator,21,,Facteur d'échelle du grand axe de la Terre ellipsoïdale aplatie,,,,,Operational
+Modèle de définition de la grille 3.12 — Transverse de Mercator,22-25,,Valeur ajustée du grand axe de la Terre ellipsoïdale aplatie,,,,,Operational
+Modèle de définition de la grille 3.12 — Transverse de Mercator,26,,Facteur d'échelle du petit axe de la Terre ellipsoïdale aplatie,,,,,Operational
+Modèle de définition de la grille 3.12 — Transverse de Mercator,27-30,,Valeur ajustée du petit axe de la Terre ellipsoïdale aplatie,,,,,Operational
+Modèle de définition de la grille 3.12 — Transverse de Mercator,31-34,,Ni - nombre de points le long de l'axe des i,,,,,Operational
+Modèle de définition de la grille 3.12 — Transverse de Mercator,35-38,,Nj - nombre de points le long de l'axe des j,,,,,Operational
+Modèle de définition de la grille 3.12 — Transverse de Mercator,39-42,,LaR - latitude géographique du point de référence,,,,,Operational
+Modèle de définition de la grille 3.12 — Transverse de Mercator,43-46,,LoR - longitude géographique du point de référence,,,,,Operational
+Modèle de définition de la grille 3.12 — Transverse de Mercator,47,,Indicateurs de résolution et de composantes,(voir la table d'indicateurs 3.3),,,,Operational
+Modèle de définition de la grille 3.12 — Transverse de Mercator,48-51,,"m facteur d'échelle au point de référence, soit le rapport de la distance sur la carte à la distance sur l'ellipsoïde (valeur en virgule flottante IEEE 32 bits)",,,,,Operational
+Modèle de définition de la grille 3.12 — Transverse de Mercator,52-55,,"XR - abscisse fictive, coordonnée de direction i du point de référence, exprimée en 10-2 m",,,,,Operational
+Modèle de définition de la grille 3.12 — Transverse de Mercator,56-59,,"YR - ordonnée fictive, coordonnée de direction j du point de référence, exprimée en 10-2 m",,,,,Operational
+Modèle de définition de la grille 3.12 — Transverse de Mercator,60,,Mode d'exploration,(indicateurs – voir la table d'indicateurs 3.4),,,,Operational
+Modèle de définition de la grille 3.12 — Transverse de Mercator,61-64,,"Di i - longueur de l'incrément de direction, exprimée en 10-2 m",,,,,Operational
+Modèle de définition de la grille 3.12 — Transverse de Mercator,65-68,,"Dj j - longueur de l'incrément de direction, exprimée en 10-2 m",,,,,Operational
+Modèle de définition de la grille 3.12 — Transverse de Mercator,69-72,,"x1 - coordonnée de direction i du premier point de grille, exprimée en 10-2 m",,,,,Operational
+Modèle de définition de la grille 3.12 — Transverse de Mercator,73-76,,"y1 - coordonnée de direction j du premier point de grille, exprimée en 10-2 m",,,,,Operational
+Modèle de définition de la grille 3.12 — Transverse de Mercator,77-80,,"x2 - coordonnée de direction i du dernier point de grille, exprimée en 10-2 m",,,,,Operational
+Modèle de définition de la grille 3.12 — Transverse de Mercator,81-84,,"y2 - coordonnée de direction j du dernier point de grille, exprimée en 10-2 m",,,,,Operational

@@ -1,0 +1,7 @@
+Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status
+Table de code 4.244 - Indicateur de qualité,,0,,Aucune information disponible sur la qualité,,,,Operational
+Table de code 4.244 - Indicateur de qualité,,1,,Échec,,,,Operational
+Table de code 4.244 - Indicateur de qualité,,2,,Accepté,,,,Operational
+Table de code 4.244 - Indicateur de qualité,,3-191,,En réserve,,,,Operational
+Table de code 4.244 - Indicateur de qualité,,192-254,,En réserve pour un usage local,,,,Operational
+Table de code 4.244 - Indicateur de qualité,,255,,Valeur manquante,,,,Operational

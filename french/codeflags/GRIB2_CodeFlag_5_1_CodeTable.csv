@@ -1,0 +1,6 @@
+Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status
+Table de code 5.1 – Type des valeurs du champ d'origine,,0,,Virgule flottante,,,,Operational
+Table de code 5.1 – Type des valeurs du champ d'origine,,1,,Entier,,,,Operational
+Table de code 5.1 – Type des valeurs du champ d'origine,,2-191,,En réserve,,,,Operational
+Table de code 5.1 – Type des valeurs du champ d'origine,,192-254,,En réserve pour un usage local,,,,Operational
+Table de code 5.1 – Type des valeurs du champ d'origine,,255,,Valeur manquante,,,,Operational

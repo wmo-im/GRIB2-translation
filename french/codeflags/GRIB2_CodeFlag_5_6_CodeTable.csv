@@ -1,0 +1,7 @@
+Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status
+Table de code 5.6 – Ordre de la différenciation spatiale,,0,,En réserve,,,,Operational
+Table de code 5.6 – Ordre de la différenciation spatiale,,1,,Différenciation spatiale de premier ordre,,,,Operational
+Table de code 5.6 – Ordre de la différenciation spatiale,,2,,Différenciation spatiale de deuxième ordre,,,,Operational
+Table de code 5.6 – Ordre de la différenciation spatiale,,3-191,,En réserve,,,,Operational
+Table de code 5.6 – Ordre de la différenciation spatiale,,192-254,,En réserve pour un usage local,,,,Operational
+Table de code 5.6 – Ordre de la différenciation spatiale,,255,,Valeur manquante,,,,Operational

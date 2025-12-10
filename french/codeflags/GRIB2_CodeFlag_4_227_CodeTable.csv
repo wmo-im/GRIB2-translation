@@ -1,0 +1,9 @@
+Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status
+Table de code 4.227 – Scénario de givrage (classification temps/nuages),,0,,Aucun,,,,Operational
+Table de code 4.227 – Scénario de givrage (classification temps/nuages),,1,,Général,,,,Operational
+Table de code 4.227 – Scénario de givrage (classification temps/nuages),,2,,Convectif,,,,Operational
+Table de code 4.227 – Scénario de givrage (classification temps/nuages),,3,,Stratiforme,,,,Operational
+Table de code 4.227 – Scénario de givrage (classification temps/nuages),,4,,Givrant,,,,Operational
+Table de code 4.227 – Scénario de givrage (classification temps/nuages),,5-191,,En réserve,,,,Operational
+Table de code 4.227 – Scénario de givrage (classification temps/nuages),,192-254,,En réserve pour un usage local,,,,Operational
+Table de code 4.227 – Scénario de givrage (classification temps/nuages),,255,,Valeur manquante,,,,Operational

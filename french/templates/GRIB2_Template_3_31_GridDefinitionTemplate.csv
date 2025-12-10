@@ -1,0 +1,23 @@
+Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status
+Modèle de définition de la grille 3.31 — Projection d'Albers conservant le rapport des aires,15,,Forme de la Terre,(voir la table de code 3.2),,,,Operational
+Modèle de définition de la grille 3.31 — Projection d'Albers conservant le rapport des aires,16,,Facteur d'échelle du rayon de la Terre sphérique,,,,,Operational
+Modèle de définition de la grille 3.31 — Projection d'Albers conservant le rapport des aires,17-20,,Valeur ajustée du rayon de la Terre sphérique,,,,,Operational
+Modèle de définition de la grille 3.31 — Projection d'Albers conservant le rapport des aires,21,,Facteur d'échelle du grand axe de la Terre ellipsoïdale aplatie,,,,,Operational
+Modèle de définition de la grille 3.31 — Projection d'Albers conservant le rapport des aires,22-25,,Valeur ajustée du grand axe de la Terre ellipsoïdale aplatie,,,,,Operational
+Modèle de définition de la grille 3.31 — Projection d'Albers conservant le rapport des aires,26,,Facteur d'échelle du petit axe de la Terre ellipsoïdale aplatie,,,,,Operational
+Modèle de définition de la grille 3.31 — Projection d'Albers conservant le rapport des aires,27-30,,Valeur ajustée du petit axe de la Terre ellipsoïdale aplatie,,,,,Operational
+Modèle de définition de la grille 3.31 — Projection d'Albers conservant le rapport des aires,31-34,,Nx - nombre de points le long de l'axe des x,,,,,Operational
+Modèle de définition de la grille 3.31 — Projection d'Albers conservant le rapport des aires,35-38,,Ny - nombre de points le long de l'axe des y,,,,,Operational
+Modèle de définition de la grille 3.31 — Projection d'Albers conservant le rapport des aires,39-42,,La1 - latitude du premier point de la grille,,,,,Operational
+Modèle de définition de la grille 3.31 — Projection d'Albers conservant le rapport des aires,43-46,,Lo1 - longitude du premier point de la grille,,,,,Operational
+Modèle de définition de la grille 3.31 — Projection d'Albers conservant le rapport des aires,47,,Indicateurs de résolution et de composantes,(voir la table d'indicateurs 3.3 et la note 1),,,,Operational
+Modèle de définition de la grille 3.31 — Projection d'Albers conservant le rapport des aires,48-51,,LaD - latitude pour laquelle Dx et Dy sont précisées,,,,,Operational
+Modèle de définition de la grille 3.31 — Projection d'Albers conservant le rapport des aires,52-55,,LoV - Longitude du méridien parallèle à l'axe des y le long duquel la valeur des y augmente avec la latitude,,,,,Operational
+Modèle de définition de la grille 3.31 — Projection d'Albers conservant le rapport des aires,56-59,,Dx - longueur de grille dans la direction x,(voir la note 1),,,,Operational
+Modèle de définition de la grille 3.31 — Projection d'Albers conservant le rapport des aires,60-63,,Dy - longueur de grille dans la direction y,(voir la note 1),,,,Operational
+Modèle de définition de la grille 3.31 — Projection d'Albers conservant le rapport des aires,64,,Centre de la projection,(voir la table d'indicateurs 3.5),,,,Operational
+Modèle de définition de la grille 3.31 — Projection d'Albers conservant le rapport des aires,65,,Mode d'exploration,(voir la table d'indicateurs 3.4),,,,Operational
+Modèle de définition de la grille 3.31 — Projection d'Albers conservant le rapport des aires,66-69,,Carré latin 1 - première latitude à partir du pôle à laquelle le cône sécant coupe la sphère,,,,,Operational
+Modèle de définition de la grille 3.31 — Projection d'Albers conservant le rapport des aires,70-73,,Carré latin 2 - deuxième latitude à partir du pôle à laquelle le cône sécant coupe la sphère,,,,,Operational
+Modèle de définition de la grille 3.31 — Projection d'Albers conservant le rapport des aires,74-77,,Latitude du pôle Sud de la projection,,,,,Operational
+Modèle de définition de la grille 3.31 — Projection d'Albers conservant le rapport des aires,78-81,,Longitude du pôle Sud de la projection,,,,,Operational

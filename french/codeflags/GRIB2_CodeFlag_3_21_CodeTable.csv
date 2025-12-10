@@ -1,0 +1,8 @@
+Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status
+Table de code 3.21 — Définition des coordonnées dans la dimension verticale,,0,,Ensemble de valeurs explicites,,,,Operational
+Table de code 3.21 — Définition des coordonnées dans la dimension verticale,,1,,Coordonnées linéaires f(1) = C1 f(n) = f(n-1) + C2,,,,Operational
+Table de code 3.21 — Définition des coordonnées dans la dimension verticale,,2-10,,En réserve,,,,Operational
+Table de code 3.21 — Définition des coordonnées dans la dimension verticale,,11,,Coordonnées géométriques f(1) = C1 f(n) = C2 x f(n-1),,,,Operational
+Table de code 3.21 — Définition des coordonnées dans la dimension verticale,,12-191,,En réserve,,,,Operational
+Table de code 3.21 — Définition des coordonnées dans la dimension verticale,,192-254,,En réserve pour un usage local,,,,Operational
+Table de code 3.21 — Définition des coordonnées dans la dimension verticale,,255,,Valeur manquante,,,,Operational

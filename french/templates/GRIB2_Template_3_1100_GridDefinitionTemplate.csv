@@ -1,0 +1,30 @@
+Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status
+"Modèle de définition de la grille 3.1100 — Grille du diagramme de Hovmöller, dont les points sur l'horizontale sont équidistants",15,,Forme de la Terre,(voir la table de code 3.2),,,,Experimental
+"Modèle de définition de la grille 3.1100 — Grille du diagramme de Hovmöller, dont les points sur l'horizontale sont équidistants",16,,Facteur d'échelle du rayon de la Terre sphérique,,,,,Experimental
+"Modèle de définition de la grille 3.1100 — Grille du diagramme de Hovmöller, dont les points sur l'horizontale sont équidistants",17-20,,Valeur ajustée du rayon de la Terre sphérique,,,,,Experimental
+"Modèle de définition de la grille 3.1100 — Grille du diagramme de Hovmöller, dont les points sur l'horizontale sont équidistants",21,,Facteur d'échelle du grand axe de la Terre ellipsoïdale aplatie,,,,,Experimental
+"Modèle de définition de la grille 3.1100 — Grille du diagramme de Hovmöller, dont les points sur l'horizontale sont équidistants",22-25,,Valeur ajustée du grand axe de la Terre ellipsoïdale aplatie,,,,,Experimental
+"Modèle de définition de la grille 3.1100 — Grille du diagramme de Hovmöller, dont les points sur l'horizontale sont équidistants",26,,Facteur d'échelle du petit axe de la Terre ellipsoïdale aplatie,,,,,Experimental
+"Modèle de définition de la grille 3.1100 — Grille du diagramme de Hovmöller, dont les points sur l'horizontale sont équidistants",27-30,,Valeur ajustée du petit axe de la Terre ellipsoïdale aplatie,,,,,Experimental
+"Modèle de définition de la grille 3.1100 — Grille du diagramme de Hovmöller, dont les points sur l'horizontale sont équidistants",31-34,,Nombre de points horizontaux,,,,,Experimental
+"Modèle de définition de la grille 3.1100 — Grille du diagramme de Hovmöller, dont les points sur l'horizontale sont équidistants",35-38,,Angle de base du domaine de production initial,(voir la note 1),,,,Experimental
+"Modèle de définition de la grille 3.1100 — Grille du diagramme de Hovmöller, dont les points sur l'horizontale sont équidistants",39-42,,Subdivisions de l'angle de base utilisées pour indiquer les longitudes et latitudes extrêmes,(voir la note 1),,,,Experimental
+"Modèle de définition de la grille 3.1100 — Grille du diagramme de Hovmöller, dont les points sur l'horizontale sont équidistants",43-46,,La1 - latitude du premier point de grille,(voir la note 1),,,,Experimental
+"Modèle de définition de la grille 3.1100 — Grille du diagramme de Hovmöller, dont les points sur l'horizontale sont équidistants",47-50,,Lo1 - longitude du premier point de la grille,(voir la note 1),,,,Experimental
+"Modèle de définition de la grille 3.1100 — Grille du diagramme de Hovmöller, dont les points sur l'horizontale sont équidistants",51,,Mode d'exploration,(indicateurs – voir la table d'indicateurs 3.4),,,,Experimental
+"Modèle de définition de la grille 3.1100 — Grille du diagramme de Hovmöller, dont les points sur l'horizontale sont équidistants",52-55,,La2 - latitude du dernier point de la grille,(voir la note 1),,,,Experimental
+"Modèle de définition de la grille 3.1100 — Grille du diagramme de Hovmöller, dont les points sur l'horizontale sont équidistants",56-59,,Lo2 - longitude du dernier point de la grille,(voir la note 1),,,,Experimental
+"Modèle de définition de la grille 3.1100 — Grille du diagramme de Hovmöller, dont les points sur l'horizontale sont équidistants",60,,Type de ligne horizontale,(voir la table de code 3.20),,,,Experimental
+"Modèle de définition de la grille 3.1100 — Grille du diagramme de Hovmöller, dont les points sur l'horizontale sont équidistants",61-64,,NT - Nombre de pas de temps,,,,,Experimental
+"Modèle de définition de la grille 3.1100 — Grille du diagramme de Hovmöller, dont les points sur l'horizontale sont équidistants",65,,Unité de décalage par rapport à l'heure de référence,(voir la table de code 4.4),,,,Experimental
+"Modèle de définition de la grille 3.1100 — Grille du diagramme de Hovmöller, dont les points sur l'horizontale sont équidistants",66-69,,Décalage de la première heure par rapport l'heure de référence (valeur négative lorsque le premier bit est mis à 1),,,,,Experimental
+"Modèle de définition de la grille 3.1100 — Grille du diagramme de Hovmöller, dont les points sur l'horizontale sont équidistants",70,,Type d'incrément de temps,(voir la table de code 4.11),,,,Experimental
+"Modèle de définition de la grille 3.1100 — Grille du diagramme de Hovmöller, dont les points sur l'horizontale sont équidistants",71,,Unité d'incrément de temps,(voir la table de code 4.4),,,,Experimental
+"Modèle de définition de la grille 3.1100 — Grille du diagramme de Hovmöller, dont les points sur l'horizontale sont équidistants",72-75,,Incrément de temps (valeur négative lorsque le premier bit est mis à 1),,,,,Experimental
+"Modèle de définition de la grille 3.1100 — Grille du diagramme de Hovmöller, dont les points sur l'horizontale sont équidistants",76-82,,Dernière date/heure,,,,,Experimental
+"Modèle de définition de la grille 3.1100 — Grille du diagramme de Hovmöller, dont les points sur l'horizontale sont équidistants",76-77,,Année,,,,,Experimental
+"Modèle de définition de la grille 3.1100 — Grille du diagramme de Hovmöller, dont les points sur l'horizontale sont équidistants",78,,Mois,,,,,Experimental
+"Modèle de définition de la grille 3.1100 — Grille du diagramme de Hovmöller, dont les points sur l'horizontale sont équidistants",79,,Jour,,,,,Experimental
+"Modèle de définition de la grille 3.1100 — Grille du diagramme de Hovmöller, dont les points sur l'horizontale sont équidistants",80,,Heure,,,,,Experimental
+"Modèle de définition de la grille 3.1100 — Grille du diagramme de Hovmöller, dont les points sur l'horizontale sont équidistants",81,,Minute,,,,,Experimental
+"Modèle de définition de la grille 3.1100 — Grille du diagramme de Hovmöller, dont les points sur l'horizontale sont équidistants",82,,Seconde,,,,,Experimental

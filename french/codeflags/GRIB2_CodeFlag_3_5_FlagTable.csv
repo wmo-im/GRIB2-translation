@@ -1,0 +1,5 @@
+Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status
+Table d'indicateurs 3.5 - Centre de la projection,,1,0,Le pôle Nord se situe sur le plan de la projection,,,,Operational
+Table d'indicateurs 3.5 - Centre de la projection,,1,1,Le pôle Sud se situe sur le plan de la projection,,,,Operational
+Table d'indicateurs 3.5 - Centre de la projection,,2,0,Un seul centre de projection est utilisé,,,,Operational
+Table d'indicateurs 3.5 - Centre de la projection,,2,1,La projection est bipolaire et symétrique,,,,Operational

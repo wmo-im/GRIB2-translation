@@ -1,0 +1,60 @@
+Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status
+Table de code 4.1 — Catégorie de paramètres par domaine de spécialisation des produits,Domaine de spécialisation 0 — Produits météorologiques,0,,Température,,,,Operational
+Table de code 4.1 — Catégorie de paramètres par domaine de spécialisation des produits,Domaine de spécialisation 0 — Produits météorologiques,1,,Humidité,,,,Operational
+Table de code 4.1 — Catégorie de paramètres par domaine de spécialisation des produits,Domaine de spécialisation 0 — Produits météorologiques,2,,Quantité de mouvement,,,,Operational
+Table de code 4.1 — Catégorie de paramètres par domaine de spécialisation des produits,Domaine de spécialisation 0 — Produits météorologiques,3,,Masse,,,,Operational
+Table de code 4.1 — Catégorie de paramètres par domaine de spécialisation des produits,Domaine de spécialisation 0 — Produits météorologiques,4,,Rayonnement de courte longueur d'onde,,,,Operational
+Table de code 4.1 — Catégorie de paramètres par domaine de spécialisation des produits,Domaine de spécialisation 0 — Produits météorologiques,5,,Rayonnement de grande longueur d'onde,,,,Operational
+Table de code 4.1 — Catégorie de paramètres par domaine de spécialisation des produits,Domaine de spécialisation 0 — Produits météorologiques,6,,Nébulosité,,,,Operational
+Table de code 4.1 — Catégorie de paramètres par domaine de spécialisation des produits,Domaine de spécialisation 0 — Produits météorologiques,7,,Indices de stabilité thermodynamique,,,,Operational
+Table de code 4.1 — Catégorie de paramètres par domaine de spécialisation des produits,Domaine de spécialisation 0 — Produits météorologiques,8,,Indices de stabilité cinématique,,,,Deprecated
+Table de code 4.1 — Catégorie de paramètres par domaine de spécialisation des produits,Domaine de spécialisation 0 — Produits météorologiques,9,,Probabilités de température,,,,Deprecated
+Table de code 4.1 — Catégorie de paramètres par domaine de spécialisation des produits,Domaine de spécialisation 0 — Produits météorologiques,10,,Probabilités d'humidité,,,,Deprecated
+Table de code 4.1 — Catégorie de paramètres par domaine de spécialisation des produits,Domaine de spécialisation 0 — Produits météorologiques,11,,Probabilités de quantité de mouvement,,,,Deprecated
+Table de code 4.1 — Catégorie de paramètres par domaine de spécialisation des produits,Domaine de spécialisation 0 — Produits météorologiques,12,,Probabilités de masse,,,,Deprecated
+Table de code 4.1 — Catégorie de paramètres par domaine de spécialisation des produits,Domaine de spécialisation 0 — Produits météorologiques,13,,Aérosols,,,,Operational
+Table de code 4.1 — Catégorie de paramètres par domaine de spécialisation des produits,Domaine de spécialisation 0 — Produits météorologiques,14,,"Gaz à l'état de trace (exemple: ozone, CO₂)",,,,Operational
+Table de code 4.1 — Catégorie de paramètres par domaine de spécialisation des produits,Domaine de spécialisation 0 — Produits météorologiques,15,,Radar,,,,Operational
+Table de code 4.1 — Catégorie de paramètres par domaine de spécialisation des produits,Domaine de spécialisation 0 — Produits météorologiques,16,,Images radar prévues,,,,Operational
+Table de code 4.1 — Catégorie de paramètres par domaine de spécialisation des produits,Domaine de spécialisation 0 — Produits météorologiques,17,,Électrodynamique,,,,Operational
+Table de code 4.1 — Catégorie de paramètres par domaine de spécialisation des produits,Domaine de spécialisation 0 — Produits météorologiques,18,,Radiations,,,,Operational
+Table de code 4.1 — Catégorie de paramètres par domaine de spécialisation des produits,Domaine de spécialisation 0 — Produits météorologiques,19,,Propriétés physiques de l'atmosphère,,,,Operational
+Table de code 4.1 — Catégorie de paramètres par domaine de spécialisation des produits,Domaine de spécialisation 0 — Produits météorologiques,20,,Constituants chimiques de l'atmosphère,,,,Operational
+Table de code 4.1 — Catégorie de paramètres par domaine de spécialisation des produits,Domaine de spécialisation 0 — Produits météorologiques,21-189,,En réserve,,,,Operational
+Table de code 4.1 — Catégorie de paramètres par domaine de spécialisation des produits,Domaine de spécialisation 0 — Produits météorologiques,190,,Chaîne CCITT IA5,,,,Operational
+Table de code 4.1 — Catégorie de paramètres par domaine de spécialisation des produits,Domaine de spécialisation 0 — Produits météorologiques,191,,Divers,,,,Operational
+Table de code 4.1 — Catégorie de paramètres par domaine de spécialisation des produits,Domaine de spécialisation 0 — Produits météorologiques,192-254,,En réserve pour un usage local,,,,Operational
+Table de code 4.1 — Catégorie de paramètres par domaine de spécialisation des produits,Domaine de spécialisation 0 — Produits météorologiques,255,,Valeur manquante,,,,Operational
+Table de code 4.1 — Catégorie de paramètres par domaine de spécialisation des produits,Domaine de spécialisation 1 — Produits hydrologiques,0,,Hydrologie,,,,Operational
+Table de code 4.1 — Catégorie de paramètres par domaine de spécialisation des produits,Domaine de spécialisation 1 — Produits hydrologiques,1,,Probabilités en hydrologie,,,,Operational
+Table de code 4.1 — Catégorie de paramètres par domaine de spécialisation des produits,Domaine de spécialisation 1 — Produits hydrologiques,2,,Propriétés des eaux intérieures et des sédiments,,,,Operational
+Table de code 4.1 — Catégorie de paramètres par domaine de spécialisation des produits,Domaine de spécialisation 1 — Produits hydrologiques,3-191,,En réserve,,,,Operational
+Table de code 4.1 — Catégorie de paramètres par domaine de spécialisation des produits,Domaine de spécialisation 1 — Produits hydrologiques,192-254,,En réserve pour un usage local,,,,Operational
+Table de code 4.1 — Catégorie de paramètres par domaine de spécialisation des produits,Domaine de spécialisation 1 — Produits hydrologiques,255,,Valeur manquante,,,,Operational
+Table de code 4.1 — Catégorie de paramètres par domaine de spécialisation des produits,Domaine de spécialisation 2 — Produits pour la surface des terres,0,,Végétation/Biomasse,,,,Operational
+Table de code 4.1 — Catégorie de paramètres par domaine de spécialisation des produits,Domaine de spécialisation 2 — Produits pour la surface des terres,1,,Produits spéciaux pour l'agriculture et l'aquaculture,,,,Operational
+Table de code 4.1 — Catégorie de paramètres par domaine de spécialisation des produits,Domaine de spécialisation 2 — Produits pour la surface des terres,2,,Produits pour les transports,,,,Operational
+Table de code 4.1 — Catégorie de paramètres par domaine de spécialisation des produits,Domaine de spécialisation 2 — Produits pour la surface des terres,3,,Produits relatifs aux sols,,,,Operational
+Table de code 4.1 — Catégorie de paramètres par domaine de spécialisation des produits,Domaine de spécialisation 2 — Produits pour la surface des terres,4,,Produits relatifs aux conditions météorologiques propices aux incendies,,,,Operational
+Table de code 4.1 — Catégorie de paramètres par domaine de spécialisation des produits,Domaine de spécialisation 2 — Produits pour la surface des terres,5-191,,En réserve,,,,Operational
+Table de code 4.1 — Catégorie de paramètres par domaine de spécialisation des produits,Domaine de spécialisation 2 — Produits pour la surface des terres,192-254,,En réserve pour un usage local,,,,Operational
+Table de code 4.1 — Catégorie de paramètres par domaine de spécialisation des produits,Domaine de spécialisation 2 — Produits pour la surface des terres,255,,Valeur manquante,,,,Operational
+Table de code 4.1 — Catégorie de paramètres par domaine de spécialisation des produits,Domaine de spécialisation 3 — Produits spatiaux,0,,Produits-image,(voir la note 1),,,Operational
+Table de code 4.1 — Catégorie de paramètres par domaine de spécialisation des produits,Domaine de spécialisation 3 — Produits spatiaux,1,,Produits quantitatifs,(voir la note 2),,,Operational
+Table de code 4.1 — Catégorie de paramètres par domaine de spécialisation des produits,Domaine de spécialisation 3 — Produits spatiaux,2,,Propriétés des nuages,,,,Operational
+Table de code 4.1 — Catégorie de paramètres par domaine de spécialisation des produits,Domaine de spécialisation 3 — Produits spatiaux,3,,Conditions propres aux règles de vol,,,,Operational
+Table de code 4.1 — Catégorie de paramètres par domaine de spécialisation des produits,Domaine de spécialisation 3 — Produits spatiaux,4,,Cendres volcaniques,,,,Operational
+Table de code 4.1 — Catégorie de paramètres par domaine de spécialisation des produits,Domaine de spécialisation 3 — Produits spatiaux,5,,Température de surface de la mer,,,,Operational
+Table de code 4.1 — Catégorie de paramètres par domaine de spécialisation des produits,Domaine de spécialisation 3 — Produits spatiaux,6,,Rayonnement solaire,,,,Operational
+Table de code 4.1 — Catégorie de paramètres par domaine de spécialisation des produits,Domaine de spécialisation 3 — Produits spatiaux,7-191,,En réserve,,,,Operational
+Table de code 4.1 — Catégorie de paramètres par domaine de spécialisation des produits,Domaine de spécialisation 3 — Produits spatiaux,192-254,,En réserve pour un usage local,,,,Operational
+Table de code 4.1 — Catégorie de paramètres par domaine de spécialisation des produits,Domaine de spécialisation 3 — Produits spatiaux,255,,Valeur manquante,,,,Operational
+Table de code 4.1 — Catégorie de paramètres par domaine de spécialisation des produits,Domaine de spécialisation 10 — Produits océanographiques,0,,Vagues,,,,Operational
+Table de code 4.1 — Catégorie de paramètres par domaine de spécialisation des produits,Domaine de spécialisation 10 — Produits océanographiques,1,,Courants,,,,Operational
+Table de code 4.1 — Catégorie de paramètres par domaine de spécialisation des produits,Domaine de spécialisation 10 — Produits océanographiques,2,,Glace,,,,Operational
+Table de code 4.1 — Catégorie de paramètres par domaine de spécialisation des produits,Domaine de spécialisation 10 — Produits océanographiques,3,,Propriétés en surface,,,,Operational
+Table de code 4.1 — Catégorie de paramètres par domaine de spécialisation des produits,Domaine de spécialisation 10 — Produits océanographiques,4,,Propriétés sous-marines,,,,Operational
+Table de code 4.1 — Catégorie de paramètres par domaine de spécialisation des produits,Domaine de spécialisation 10 — Produits océanographiques,5-190,,En réserve,,,,Operational
+Table de code 4.1 — Catégorie de paramètres par domaine de spécialisation des produits,Domaine de spécialisation 10 — Produits océanographiques,191,,Divers,,,,Operational
+Table de code 4.1 — Catégorie de paramètres par domaine de spécialisation des produits,Domaine de spécialisation 10 — Produits océanographiques,192-254,,En réserve pour un usage local,,,,Operational
+Table de code 4.1 — Catégorie de paramètres par domaine de spécialisation des produits,Domaine de spécialisation 10 — Produits océanographiques,255,,Valeur manquante,,,,Operational

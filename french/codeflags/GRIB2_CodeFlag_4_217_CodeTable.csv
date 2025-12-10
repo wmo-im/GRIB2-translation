@@ -1,0 +1,8 @@
+Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status
+Table de code 4.217 – Type de masque de nuages,,0,,Ciel clair au-dessus de l'eau,,,,Operational
+Table de code 4.217 – Type de masque de nuages,,1,,Ciel clair au-dessus des terres,,,,Operational
+Table de code 4.217 – Type de masque de nuages,,2,,Nuages,,,,Operational
+Table de code 4.217 – Type de masque de nuages,,3,,Aucune donnée,,,,Operational
+Table de code 4.217 – Type de masque de nuages,,4-191,,En réserve,,,,Operational
+Table de code 4.217 – Type de masque de nuages,,192-254,,En réserve pour un usage local,,,,Operational
+Table de code 4.217 – Type de masque de nuages,,255,,Valeur manquante,,,,Operational

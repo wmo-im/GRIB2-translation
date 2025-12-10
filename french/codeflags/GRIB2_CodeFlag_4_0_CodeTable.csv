@@ -1,0 +1,81 @@
+Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status
+,Numéro du modèle de définition du produit,0,,"Analyse ou prévision pour une surface ou une couche horizontale, à un moment donné",,,,Operational
+,Numéro du modèle de définition du produit,1,,"Prévision d'ensemble prise séparément, de contrôle ou «perturbée», pour une surface ou une couche horizontale, à un moment donné",,,,Operational
+,Numéro du modèle de définition du produit,2,,"Prévision dérivée, établie à partir de tous les membres de l'ensemble, pour une surface ou une couche horizontale, à un moment donné",,,,Operational
+,Numéro du modèle de définition du produit,3,,"Prévision dérivée, établie à partir d'un groupe de membres de l'ensemble, appliquée à une zone rectangulaire, pour une surface ou une couche horizontale, à un moment donné",,,,Operational
+,Numéro du modèle de définition du produit,4,,"Prévision dérivée, établie à partir d'un groupe de membres de l'ensemble, appliquée à une zone circulaire, pour une surface ou une couche horizontale, à un moment donné",,,,Operational
+,Numéro du modèle de définition du produit,5,,"Prévision de probabilité pour une surface ou une couche horizontale, à un moment donné",,,,Operational
+,Numéro du modèle de définition du produit,6,,"Prévision en percentiles pour une surface ou une couche horizontale, à un moment donné",,,,Operational
+,Numéro du modèle de définition du produit,7,,"Erreur d'analyse ou de prévision pour une surface ou une couche horizontale, à un moment donné",,,,Operational
+,Numéro du modèle de définition du produit,8,,"Valeurs moyennes, cumulées et/ou extrêmes, ou autres valeurs statistiques, pour une surface ou une couche horizontale, durant un intervalle de temps continu ou non",,,,Operational
+,Numéro du modèle de définition du produit,9,,"Prévision de probabilité pour une surface ou une couche horizontale, durant un intervalle de temps continu ou non",,,,Operational
+,Numéro du modèle de définition du produit,10,,"Prévision en percentiles pour une surface ou une couche horizontale, durant un intervalle de temps continu ou non",,,,Operational
+,Numéro du modèle de définition du produit,11,,"Prévision d'ensemble prise séparément, de contrôle ou «perturbée», pour une surface ou une couche horizontale, durant un intervalle de temps continu ou non",,,,Operational
+,Numéro du modèle de définition du produit,12,,"Prévision dérivée, établie à partir de tous les membres de l'ensemble, pour une surface ou une couche horizontale, durant un intervalle de temps continu ou non",,,,Operational
+,Numéro du modèle de définition du produit,13,,"Prévision dérivée, établie à partir d'un groupe de membres de l'ensemble, appliquée à une zone rectangulaire, pour une surface ou une couche horizontale, durant un intervalle de temps continu ou non",,,,Operational
+,Numéro du modèle de définition du produit,14,,"Prévision dérivée, établie à partir d'un groupe de membres de l'ensemble, appliquée à une zone circulaire, pour une surface ou une couche horizontale, durant un intervalle de temps continu ou non",,,,Operational
+,Numéro du modèle de définition du produit,15,,"Valeurs moyennes, cumulées et/ou extrêmes, ou autres valeurs ayant fait l'objet d'un traitement statistique pour une surface ou une couche horizontale, sur une zone et à un moment donnés",,,,Operational
+,Numéro du modèle de définition du produit,16-19,,En réserve,,,,Operational
+,Numéro du modèle de définition du produit,20,,Produit radar,,,,Operational
+,Numéro du modèle de définition du produit,21-29,,En réserve,,,,Operational
+,Numéro du modèle de définition du produit,30,,Produit de satellite (caduc),,,,Operational
+,Numéro du modèle de définition du produit,31,,Produit de satellite,,,,Operational
+,Numéro du modèle de définition du produit,32,,"Analyse ou prévision pour une surface ou une couche horizontale, à un moment donné, relative aux données simulées (synthétiques) de satellite",,,,Operational
+,Numéro du modèle de définition du produit,33,,"Prévision d'ensemble prise séparément, de contrôle ou «perturbée», pour une surface ou une couche horizontale, à un moment donné, relative aux données satellite simulées (de synthèse)",,,,Operational
+,Numéro du modèle de définition du produit,34,,"Prévision d'ensemble prise séparément, de contrôle ou «perturbée», pour une surface ou une couche horizontale, durant un intervalle de temps continu ou non, relative aux données satellite simulées (de synthèse)",,,,Operational
+,Numéro du modèle de définition du produit,35-39,,En réserve,,,,Operational
+,Numéro du modèle de définition du produit,40,,"Analyse ou prévision pour une surface ou une couche horizontale, à un moment donné, relative aux constituants chimiques de l'atmosphère",,,,Operational
+,Numéro du modèle de définition du produit,41,,"Prévision d'ensemble prise séparément, de contrôle ou «perturbée», pour une surface ou une couche horizontale, à un moment donné, relative aux constituants chimiques de l'atmosphère",,,,Operational
+,Numéro du modèle de définition du produit,42,,"Valeurs moyennes, cumulées et/ou extrêmes, ou autres valeurs statistiques, pour une surface ou une couche horizontale, durant un intervalle de temps continu ou non, relatives aux constituants chimiques de l'atmosphère",,,,Operational
+,Numéro du modèle de définition du produit,43,,"Prévision d'ensemble prise séparément, de contrôle ou «perturbée», pour une surface ou une couche horizontale, durant un intervalle de temps continu ou non, relative aux constituants chimiques de l'atmosphère",,,,Operational
+,Numéro du modèle de définition du produit,44,,"Analyse ou prévision pour une surface ou une couche horizontale, à un moment donné, relative aux aérosols",,,,Operational
+,Numéro du modèle de définition du produit,45,,"Prévision d'ensemble prise séparément, de contrôle ou «perturbée», pour une surface ou une couche horizontale, à un moment donné, relative aux aérosols",,,,Operational
+,Numéro du modèle de définition du produit,46,,"Valeurs moyennes, cumulées et/ou extrêmes ou autres valeurs statistiques, pour une surface ou une couche horizontale, durant un intervalle de temps continu ou non, relatives aux aérosols",,,,Operational
+,Numéro du modèle de définition du produit,47,,"Prévision d'ensemble prise séparément, de contrôle ou «perturbée», pour une surface ou une couche horizontale, durant un intervalle de temps continu ou non, relative aux aérosols",,,,Operational
+,Numéro du modèle de définition du produit,48,,"Analyse ou prévision pour une surface ou une couche horizontale, à un moment donné, relative aux propriétés optiques des aérosols",,,,Operational
+,Numéro du modèle de définition du produit,49,,"Prévision d'ensemble prise séparément, de contrôle ou «perturbée», pour une surface ou une couche horizontale, à un moment donné, relative aux propriétés optiques des aérosols",,,,Operational
+,Numéro du modèle de définition du produit,50,,En réserve,,,,Operational
+,Numéro du modèle de définition du produit,51,,"Prévision catégorielle pour une surface ou une couche horizontale, à un moment donné",,,,Operational
+,Numéro du modèle de définition du produit,52,,En réserve,,,,Operational
+,Numéro du modèle de définition du produit,53,,"Paramètres partitionnés pour une surface ou une couche horizontale, à un moment donné",,,,Operational
+,Numéro du modèle de définition du produit,54,,"Prévision d'ensemble prise séparément, de contrôle ou «perturbée», pour une surface ou une couche horizontale, à un moment donné, relative aux paramètres partitionnés",,,,Operational
+,Numéro du modèle de définition du produit,55,,"Dynamique spatio-temporelle de mosaïques pour une surface ou une couche horizontale, à un moment donné",,,,Operational
+,Numéro du modèle de définition du produit,56,,"Prévision d'ensemble prise séparément, de contrôle ou «perturbée», pour une surface ou une couche horizontale, à un moment donné, relative aux paramètres de la dynamique spatio-temporelle des mosaïques (caduc)",,,,Operational
+,Numéro du modèle de définition du produit,57,,"Analyse ou prévision pour une surface ou une couche horizontale, à un moment donné, relative aux constituants chimiques de l'atmosphère, fondée sur une fonction de distribution",,,,Operational
+,Numéro du modèle de définition du produit,58,,"Prévision d'ensemble prise séparément, de contrôle ou «perturbée», pour une surface ou une couche horizontale, à un moment donné, relative aux constituants chimiques de l'atmosphère et fondée sur une fonction de distribution",,,,Operational
+,Numéro du modèle de définition du produit,59,,"Prévision d'ensemble prise séparément, de contrôle ou «perturbée», pour une surface ou une couche horizontale, à un moment donné, relative aux paramètres de la dynamique spatio-temporelle des mosaïques (version corrigée du modèle 4.56)",,,,Operational
+,Numéro du modèle de définition du produit,60,,"Reprévision d'ensemble prise séparément, de contrôle ou «perturbée», pour une surface ou une couche horizontale, à un moment donné",,,,Operational
+,Numéro du modèle de définition du produit,61,,"Reprévision d'ensemble prise séparément, de contrôle ou «perturbée», pour une surface ou une couche horizontale, durant un intervalle de temps continu ou non",,,,Operational
+,Numéro du modèle de définition du produit,62,,"Valeurs moyennes, cumulées et/ou extrêmes, ou autres valeurs statistiques, pour une surface ou une couche horizontale, durant un intervalle de temps continu ou non, relatives à la dynamique spatio-temporelle de mosaïques pour une surface ou une couche horizontale, à un moment donné",,,,Operational
+,Numéro du modèle de définition du produit,63,,"Prévision d'ensemble prise séparément, de contrôle ou «perturbée», pour une surface ou une couche horizontale, durant un intervalle de temps continu ou non, relative à la dynamique spatio-temporelle de mosaïques",,,,Operational
+,Numéro du modèle de définition du produit,64-66,,En réserve,,,,Operational
+,Numéro du modèle de définition du produit,67,,"Valeurs moyennes, cumulées et/ou extrêmes, ou autres valeurs statistiques, pour une surface ou une couche horizontale, durant un intervalle de temps continu ou non, relatives aux constituants chimiques de l'atmosphère découlant d'une fonction de distribution",,,,Operational
+,Numéro du modèle de définition du produit,68,,"Prévision d'ensemble prise séparément, de contrôle ou «perturbée», pour une surface ou une couche horizontale, durant un intervalle de temps continu ou non, relative aux constituants chimiques de l'atmosphère découlant d'une fonction de distribution",,,,Operational
+,Numéro du modèle de définition du produit,69,,En réserve,,,,Operational
+,Numéro du modèle de définition du produit,70,,"Analyse ou prévision post-traitement pour une surface ou une couche horizontale, à un moment donné",,,,Operational
+,Numéro du modèle de définition du produit,71,,"Prévision d'ensemble post-traitement prise séparément, de contrôle ou «perturbée», pour une surface ou une couche horizontale, à un moment donné",,,,Operational
+,Numéro du modèle de définition du produit,72,,"Valeurs moyennes post-traitement, cumulées et/ou extrêmes, ou autres valeurs statistiques, pour une surface ou une couche horizontale, durant un intervalle de temps continu ou non",,,,Operational
+,Numéro du modèle de définition du produit,73,,"Prévision d'ensemble post-traitement prise séparément, de contrôle ou «perturbée», pour une surface ou une couche horizontale, durant un intervalle de temps continu ou non",,,,Operational
+,Numéro du modèle de définition du produit,74-75,,En réserve,,,,Operational
+,Numéro du modèle de définition du produit,76,,"Analyse ou prévision pour une surface ou une couche horizontale, à un moment donné, relative aux constituants chimiques de l'atmosphère",,,,Operational
+,Numéro du modèle de définition du produit,77,,"Prévision d'ensemble prise séparément, de contrôle ou «perturbée», pour une surface ou une couche horizontale, à un moment donné, relative aux constituants chimiques de l'atmosphère",,,,Operational
+,Numéro du modèle de définition du produit,78,,"Valeurs moyennes, cumulées et/ou extrêmes, ou autres valeurs statistiques, pour une surface ou une couche horizontale, durant un intervalle de temps continu ou non, relatives aux constituants chimiques de l'atmosphère",,,,Operational
+,Numéro du modèle de définition du produit,79,,"Prévision d'ensemble prise séparément, de contrôle ou «perturbée», pour une surface ou une couche horizontale, durant un intervalle de temps continu ou non, relative aux constituants chimiques de l'atmosphère",,,,Operational
+,Numéro du modèle de définition du produit,80,,"Analyse ou prévision pour une surface ou une couche horizontale, à un moment donné, relative aux propriétés optiques des aérosols",,,,Operational
+,Numéro du modèle de définition du produit,81,,"Prévision d'ensemble prise séparément, de contrôle ou «perturbée», pour une surface ou une couche horizontale, à un moment donné, relative aux propriétés optiques des aérosols",,,,Operational
+,Numéro du modèle de définition du produit,82,,"Valeurs moyennes, cumulées et/ou extrêmes ou autres valeurs statistiques, pour une surface ou une couche horizontale, durant un intervalle de temps continu ou non, relatives aux aérosols",,,,Operational
+,Numéro du modèle de définition du produit,83,,"Prévision d'ensemble prise séparément, de contrôle ou «perturbée», pour une surface ou une couche horizontale, durant un intervalle de temps continu ou non, relative aux aérosols",,,,Operational
+,Numéro du modèle de définition du produit,84-90,,En réserve,,,,Operational
+,Numéro du modèle de définition du produit,91,,"Prévision catégorielle pour une surface ou une couche horizontale, durant un intervalle de temps continu ou non",,,,Operational
+,Numéro du modèle de définition du produit,92-253,,En réserve,,,,Operational
+,Numéro du modèle de définition du produit,254,,Chaîne de caractères CCITT IA5,,,,Operational
+,Numéro du modèle de définition du produit,255-999,,En réserve,,,,Operational
+,Numéro du modèle de définition du produit,1000,,"Coupe d'une analyse et d'une prévision, à un moment donné",,,,Operational
+,Numéro du modèle de définition du produit,1001,,"Coupe d'une analyse ou d'une prévision, moyennée ou ayant fait l'objet d'un autre traitement statistique pour un intervalle de temps donné",,,,Operational
+,Numéro du modèle de définition du produit,1002,,"Coupe d'une analyse ou d'une prévision, moyennée ou ayant fait l'objet d'un autre traitement statistique le long d'une latitude ou d'une longitude donnée",,,,Operational
+,Numéro du modèle de définition du produit,1003-1099,,En réserve,,,,Operational
+,Numéro du modèle de définition du produit,1100,,Grille de type Hovmöller sans moyenne ou autre traitement statistique,,,,Operational
+,Numéro du modèle de définition du produit,1101,,Grille de type Hovmöller avec moyenne ou autre traitement statistique,,,,Operational
+,Numéro du modèle de définition du produit,1102-32767,,En réserve,,,,Operational
+,Numéro du modèle de définition du produit,32768-65534,,En réserve pour un usage local,,,,Operational
+,Numéro du modèle de définition du produit,65535,,Valeur manquante,,,,Operational

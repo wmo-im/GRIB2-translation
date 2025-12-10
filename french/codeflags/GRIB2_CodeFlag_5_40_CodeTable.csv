@@ -1,0 +1,5 @@
+Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status
+Table de code 5.40 – Type de compression,,0,,Sans perte,,,,Operational
+Table de code 5.40 – Type de compression,,1,,Avec perte,,,,Operational
+Table de code 5.40 – Type de compression,,2-254,,En réserve,,,,Operational
+Table de code 5.40 – Type de compression,,255,,Valeur manquante,,,,Operational

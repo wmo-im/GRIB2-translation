@@ -1,0 +1,5 @@
+Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status
+Table de code 4.223 – Indicateur de détection d'incendies,,0,,Aucun incendie détecté,,,,Operational
+Table de code 4.223 – Indicateur de détection d'incendies,,1,,Incendie possible,,,,Operational
+Table de code 4.223 – Indicateur de détection d'incendies,,2,,Incendie probable,,,,Operational
+Table de code 4.223 – Indicateur de détection d'incendies,,3,,Valeur manquante,,,,Operational

@@ -1,0 +1,13 @@
+Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status
+Modèle de représentation des données 5.2 – Données aux points de grille - compression complexe,12-21,,Voir le modèle de représentation des données 5.0,,,,,Experimental
+Modèle de représentation des données 5.2 – Données aux points de grille - compression complexe,22,,Méthode de séparation en groupes,(voir la table de code 5.4),,,,Experimental
+Modèle de représentation des données 5.2 – Données aux points de grille - compression complexe,23,,Traitement des valeurs manquantes,(voir la table de code 5.5),,,,Experimental
+Modèle de représentation des données 5.2 – Données aux points de grille - compression complexe,24-27,,Remplacement des valeurs manquantes primaires,,,,,Experimental
+Modèle de représentation des données 5.2 – Données aux points de grille - compression complexe,28-31,,Remplacement des valeurs manquantes secondaires,,,,,Experimental
+Modèle de représentation des données 5.2 – Données aux points de grille - compression complexe,32-35,,NG - nombre de groupes dans lesquels se répartissent les valeurs du champ subdivisé,,,,,Experimental
+Modèle de représentation des données 5.2 – Données aux points de grille - compression complexe,36,,Référence pour les largeurs des groupes,(voir la note 12),,,,Experimental
+Modèle de représentation des données 5.2 – Données aux points de grille - compression complexe,37,,Nombre de bits utilisés pour les largeurs des groupes (lorsque la valeur de référence de l'octet 36 a été supprimée),,,,,Experimental
+Modèle de représentation des données 5.2 – Données aux points de grille - compression complexe,38-41,,Référence pour les longueurs des groupes,(voir la note 13),,,,Experimental
+Modèle de représentation des données 5.2 – Données aux points de grille - compression complexe,42,,Incrément utilisé pour les longueurs des groupes,(voir la note 14),,,,Experimental
+Modèle de représentation des données 5.2 – Données aux points de grille - compression complexe,43-46,,Longueur vraie du dernier groupe,,,,,Experimental
+Modèle de représentation des données 5.2 – Données aux points de grille - compression complexe,47,,Nombre de bits utilisés pour indiquer les longueurs ajustées des groupes (après soustraction de la valeur de référence indiquée par les octets 38-41 et division par l'incrément de longueur indiqué par l'octet 42),,,,,Experimental

@@ -1,0 +1,9 @@
+Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status
+Table de code 4.215 – Couverture neigeuse télédétectée,,0-49,,En réserve,,,,Operational
+Table de code 4.215 – Couverture neigeuse télédétectée,,50,,Pas de neige/pas de nuage,,,,Operational
+Table de code 4.215 – Couverture neigeuse télédétectée,,51-99,,En réserve,,,,Operational
+Table de code 4.215 – Couverture neigeuse télédétectée,,100,,Nuages,,,,Operational
+Table de code 4.215 – Couverture neigeuse télédétectée,,101-249,,En réserve,,,,Operational
+Table de code 4.215 – Couverture neigeuse télédétectée,,250,,Neige,,,,Operational
+Table de code 4.215 – Couverture neigeuse télédétectée,,251-254,,En réserve pour un usage local,,,,Operational
+Table de code 4.215 – Couverture neigeuse télédétectée,,255,,Valeur manquante,,,,Operational

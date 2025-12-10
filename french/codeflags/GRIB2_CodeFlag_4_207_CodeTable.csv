@@ -1,0 +1,10 @@
+Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status
+Table de code 4.207 – Givrage,,0,,Pas de givrage,,,,Operational
+Table de code 4.207 – Givrage,,1,,Givrage faible,,,,Operational
+Table de code 4.207 – Givrage,,2,,Givrage modéré,,,,Operational
+Table de code 4.207 – Givrage,,3,,Givrage fort,,,,Operational
+Table de code 4.207 – Givrage,,4,,Trace,,,,Operational
+Table de code 4.207 – Givrage,,5,,Épais,,,,Operational
+Table de code 4.207 – Givrage,,6-191,,En réserve,,,,Operational
+Table de code 4.207 – Givrage,,192-254,,En réserve pour un usage local,,,,Operational
+Table de code 4.207 – Givrage,,255,,Valeur manquante,,,,Operational

@@ -1,0 +1,6 @@
+Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status
+Modèle de représentation des données 5.200 — Données aux points de grille — compression en longueur de ligne avec des valeurs de niveau,12,,Nombre de bits utilisés pour chaque valeur comprimée dans la compression en longueur de ligne avec la valeur de niveau,,,,,Operational
+Modèle de représentation des données 5.200 — Données aux points de grille — compression en longueur de ligne avec des valeurs de niveau,13-14,,MV - Valeur maximale dans les limites des niveaux utilisés pour la compression,,,,,Operational
+Modèle de représentation des données 5.200 — Données aux points de grille — compression en longueur de ligne avec des valeurs de niveau,15-16,,MVL - Valeur maximale du niveau (prédéfinie),,,,,Operational
+Modèle de représentation des données 5.200 — Données aux points de grille — compression en longueur de ligne avec des valeurs de niveau,17,,Facteur d'échelle décimale de la valeur représentative de chaque niveau,,,,,Operational
+Modèle de représentation des données 5.200 — Données aux points de grille — compression en longueur de ligne avec des valeurs de niveau,18-(19+2(lv-1)),,Liste des valeurs ajustées représentatives des MVL de chaque niveau de lv=1 à MVL,,,,,Operational

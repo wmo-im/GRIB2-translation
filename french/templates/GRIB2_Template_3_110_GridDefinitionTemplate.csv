@@ -1,0 +1,17 @@
+Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status
+Modèle de définition de la grille 3.110 — Projection équatoriale azimutale équidistante,15,,Forme de la Terre,(voir la table de code 3.2),,,,Operational
+Modèle de définition de la grille 3.110 — Projection équatoriale azimutale équidistante,16,,Facteur d'échelle du rayon de la Terre sphérique,,,,,Operational
+Modèle de définition de la grille 3.110 — Projection équatoriale azimutale équidistante,17-20,,Valeur ajustée du rayon de la Terre sphérique,,,,,Operational
+Modèle de définition de la grille 3.110 — Projection équatoriale azimutale équidistante,21,,Facteur d'échelle du grand axe de la Terre ellipsoïdale aplatie,,,,,Operational
+Modèle de définition de la grille 3.110 — Projection équatoriale azimutale équidistante,22-25,,Valeur ajustée du grand axe de la Terre ellipsoïdale aplatie,,,,,Operational
+Modèle de définition de la grille 3.110 — Projection équatoriale azimutale équidistante,26,,Facteur d'échelle du petit axe de la Terre ellipsoïdale aplatie,,,,,Operational
+Modèle de définition de la grille 3.110 — Projection équatoriale azimutale équidistante,27-30,,Valeur ajustée du petit axe de la Terre ellipsoïdale aplatie,,,,,Operational
+Modèle de définition de la grille 3.110 — Projection équatoriale azimutale équidistante,31-34,,Nx - nombre de points le long de l'axe des x,,,,,Operational
+Modèle de définition de la grille 3.110 — Projection équatoriale azimutale équidistante,35-38,,Ny - nombre de points le long de l'axe des y,,,,,Operational
+Modèle de définition de la grille 3.110 — Projection équatoriale azimutale équidistante,39-42,,La1 - latitude du point de tangence (centre de la grille),,,,,Operational
+Modèle de définition de la grille 3.110 — Projection équatoriale azimutale équidistante,43-46,,Lo1 - longitude du point de tangence,,,,,Operational
+Modèle de définition de la grille 3.110 — Projection équatoriale azimutale équidistante,47,,Indicateurs de résolution et de composantes,(voir la table d'indicateurs 3.3),,,,Operational
+Modèle de définition de la grille 3.110 — Projection équatoriale azimutale équidistante,48-51,,"Dx - longueur de la grille dans la direction x, exprimée en 10-3 m, mesurée à l'origine de l'axe",,,,,Operational
+Modèle de définition de la grille 3.110 — Projection équatoriale azimutale équidistante,52-55,,"Dy - longueur de la grille dans la direction y, exprimée en 10-3 m, mesurée à l'origine de l'axe",,,,,Operational
+Modèle de définition de la grille 3.110 — Projection équatoriale azimutale équidistante,56,,Centre de la projection,,,,,Operational
+Modèle de définition de la grille 3.110 — Projection équatoriale azimutale équidistante,57,,Mode d'exploration,(voir la table d'indicateurs 3.4),,,,Operational

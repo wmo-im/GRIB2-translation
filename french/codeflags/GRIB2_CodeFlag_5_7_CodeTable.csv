@@ -1,0 +1,7 @@
+Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status
+Table de code 5.7 – Précision des nombres en virgule flottante,,0,,En réserve,,,,Operational
+Table de code 5.7 – Précision des nombres en virgule flottante,,1,,IEEE 32 bits (I=4 dans la Section 7),,,,Operational
+Table de code 5.7 – Précision des nombres en virgule flottante,,2,,IEEE 64 bits (I=8 dans la Section 7),,,,Operational
+Table de code 5.7 – Précision des nombres en virgule flottante,,3,,IEEE 128 bits (I=16 dans la Section 7),,,,Operational
+Table de code 5.7 – Précision des nombres en virgule flottante,,4-254,,En réserve,,,,Operational
+Table de code 5.7 – Précision des nombres en virgule flottante,,255,,Valeur manquante,,,,Operational

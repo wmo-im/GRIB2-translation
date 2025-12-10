@@ -1,0 +1,14 @@
+Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status
+Table de code 1.3 – État des données,,0,,Produits opérationnels,,,,Operational
+Table de code 1.3 – État des données,,1,,Produits d'essai opérationnels,,,,Operational
+Table de code 1.3 – État des données,,2,,Produits expérimentaux,,,,Operational
+Table de code 1.3 – État des données,,3,,Produits de réanalyse,,,,Operational
+Table de code 1.3 – État des données,,4,,Grand ensemble interactif mondial relevant du programme THORPEX (TIGGE),,,,Operational
+Table de code 1.3 – État des données,,5,,Test du Grand ensemble interactif mondial relevant du programme THORPEX (TIGGE),,,,Operational
+Table de code 1.3 – État des données,,6,,Produits opérationnels S2S,,,,Operational
+Table de code 1.3 – État des données,,7,,Produits d'essai S2S,,,,Operational
+Table de code 1.3 – État des données,,8,,Incertitudes dans les ensembles utilisés dans le cadre du projet de réanalyses à l'échelle régionale (UERRA),,,,Operational
+Table de code 1.3 – État des données,,9,,Vérification des incertitudes dans les ensembles utilisés dans le cadre du projet de réanalyses à l'échelle régionale (UERRA),,,,Operational
+Table de code 1.3 – État des données,,10-191,,En réserve,,,,Operational
+Table de code 1.3 – État des données,,192-254,,En réserve pour un usage local,,,,Operational
+Table de code 1.3 – État des données,,255,,Valeur manquante,,,,Operational

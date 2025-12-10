@@ -1,0 +1,13 @@
+Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status
+Modèle de définition du produit 4.35 — Produit de satellite avec ou sans valeurs associées relatives à la qualité,10,,Catégorie du paramètre,(voir la table de code 4.1),,,,Operational
+Modèle de définition du produit 4.35 — Produit de satellite avec ou sans valeurs associées relatives à la qualité,11,,Numéro du paramètre,(voir la table de code 4.2),,,,Operational
+Modèle de définition du produit 4.35 — Produit de satellite avec ou sans valeurs associées relatives à la qualité,12,,Type du processus de production,(voir la table de code 4.3),,,,Operational
+Modèle de définition du produit 4.35 — Produit de satellite avec ou sans valeurs associées relatives à la qualité,13,,Indicateur du processus d'observation (défini par les centres d'origine),,,,,Operational
+Modèle de définition du produit 4.35 — Produit de satellite avec ou sans valeurs associées relatives à la qualité,14,,Valeur relative à la qualité associée au paramètre,(voir la table de code 4.16),,,,Operational
+Modèle de définition du produit 4.35 — Produit de satellite avec ou sans valeurs associées relatives à la qualité,15,,Nombre de bandes spectrales prises en compte (NB),,,,,Operational
+Modèle de définition du produit 4.35 — Produit de satellite avec ou sans valeurs associées relatives à la qualité,16-,,"Répéter les 11 octets qui suivent pour chaque bande prise en compte (nb = 1, NB)",,,,,Operational
+Modèle de définition du produit 4.35 — Produit de satellite avec ou sans valeurs associées relatives à la qualité,(16+11(nb-1))-(17+11(nb-1)),,Séries des satellites - bande nb (table de code établie par le centre d'origine/ de production),,,,,Operational
+Modèle de définition du produit 4.35 — Produit de satellite avec ou sans valeurs associées relatives à la qualité,(18+11(nb-1))-(19+11(nb-1)),,Numéros des satellites - bande nb (table de code établie par le centre d'origine/de production),,,,,Operational
+Modèle de définition du produit 4.35 — Produit de satellite avec ou sans valeurs associées relatives à la qualité,(20+11(nb-1))-(21+11(nb-1)),,Types d'instruments – bande nb (table de code établie par le centre d'origine/ de production),,,,,Operational
+Modèle de définition du produit 4.35 — Produit de satellite avec ou sans valeurs associées relatives à la qualité,(22+11(nb-1)),,Facteur d'échelle du nombre d'ondes central - bande nb,,,,,Operational
+Modèle de définition du produit 4.35 — Produit de satellite avec ou sans valeurs associées relatives à la qualité,(23+11(nb-1))-(26+11(nb-1)),,Valeur ajustée du nombre d'ondes central – bande nb (unité: m¯¹),,,,,Operational

@@ -1,0 +1,3 @@
+Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status
+Modèle des données 7.51 — Harmoniques sphériques — compression complexe,6-(5+IxTS),,Données tirées de la sous-série non compressée (valeurs en virgule flottante IEEE sur I octets),,,,,Operational
+Modèle des données 7.51 — Harmoniques sphériques — compression complexe,(6+IxTS)-nn,,"Données binaires — chaîne binaire, pour chaque valeur (ajustée) en dehors de la sous-série non compressée",,,,,Operational

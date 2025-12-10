@@ -1,0 +1,6 @@
+Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status
+Table de code 4.210 – Intensité des traînées de condensation,,0,,Absence de traînées de condensation,,,,Operational
+Table de code 4.210 – Intensité des traînées de condensation,,1,,Présence de traînées de condensation,,,,Operational
+Table de code 4.210 – Intensité des traînées de condensation,,2-191,,En réserve,,,,Operational
+Table de code 4.210 – Intensité des traînées de condensation,,192-254,,En réserve pour un usage local,,,,Operational
+Table de code 4.210 – Intensité des traînées de condensation,,255,,Valeur manquante,,,,Operational

@@ -1,0 +1,10 @@
+Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status
+"Modèle de définition du produit 4.1000 – Coupe d'une analyse et d'une prévision, à un moment donné",10,,Catégorie du paramètre,(voir la table de code 4.1),,,,Experimental
+"Modèle de définition du produit 4.1000 – Coupe d'une analyse et d'une prévision, à un moment donné",11,,Numéro du paramètre,(voir la table de code 4.2),,,,Experimental
+"Modèle de définition du produit 4.1000 – Coupe d'une analyse et d'une prévision, à un moment donné",12,,Type du processus de production,(voir la table de code 4.3),,,,Experimental
+"Modèle de définition du produit 4.1000 – Coupe d'une analyse et d'une prévision, à un moment donné",13,,Indicateur du processus de production de base (défini par le centre d'origine),,,,,Experimental
+"Modèle de définition du produit 4.1000 – Coupe d'une analyse et d'une prévision, à un moment donné",14,,Indicateur du processus de production de l'analyse ou de la prévision (défini par le centre d'origine),,,,,Experimental
+"Modèle de définition du produit 4.1000 – Coupe d'une analyse et d'une prévision, à un moment donné",15-16,,Limite (heures) de tombée des données d'observation après l'heure de référence,(voir la note),,,,Experimental
+"Modèle de définition du produit 4.1000 – Coupe d'une analyse et d'une prévision, à un moment donné",17,,Limite (minutes) de tombée des données d'observation après l'heure de référence,,,,,Experimental
+"Modèle de définition du produit 4.1000 – Coupe d'une analyse et d'une prévision, à un moment donné",18,,Indicateur d'unité de l'intervalle de temps,(voir la table de code 4.4),,,,Experimental
+"Modèle de définition du produit 4.1000 – Coupe d'une analyse et d'une prévision, à un moment donné",19-22,,Heure de la prévision exprimée dans l'unité précisée par l'octet 18,,,,,Experimental

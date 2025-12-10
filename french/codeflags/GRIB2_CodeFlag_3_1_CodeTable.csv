@@ -1,0 +1,54 @@
+Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status
+Table de code 3.1 — Numéro du modèle de définition de la grille,,0,,Grille latitude/longitude,Projection appelée aussi équidistante cylindrique ou Plate Carrée,,,Operational
+Table de code 3.1 — Numéro du modèle de définition de la grille,,1,,Grille latitude/longitude après rotation,,,,Operational
+Table de code 3.1 — Numéro du modèle de définition de la grille,,2,,Grille latitude/longitude après dilatation,,,,Operational
+Table de code 3.1 — Numéro du modèle de définition de la grille,,3,,Grille latitude/longitude après dilatation et rotation,,,,Operational
+Table de code 3.1 — Numéro du modèle de définition de la grille,,4,,Grille latitude/longitude de résolution variable,,,,Operational
+Table de code 3.1 — Numéro du modèle de définition de la grille,,5,,Grille latitude/longitude de résolution variable après rotation,,,,Operational
+Table de code 3.1 — Numéro du modèle de définition de la grille,,6-9,,En réserve,,,,Operational
+Table de code 3.1 — Numéro du modèle de définition de la grille,,10,,Projection de Mercator,,,,Operational
+Table de code 3.1 — Numéro du modèle de définition de la grille,,11-12,,En réserve,,,,Operational
+Table de code 3.1 — Numéro du modèle de définition de la grille,,13,,Projection de Mercator avec définition des sous-domaines de modélisation,,,,Operational
+Table de code 3.1 — Numéro du modèle de définition de la grille,,14-19,,En réserve,,,,Operational
+Table de code 3.1 — Numéro du modèle de définition de la grille,,20,,Projection stéréographique polaire,Sud ou nord,,,Operational
+Table de code 3.1 — Numéro du modèle de définition de la grille,,21-22,,En réserve,,,,Operational
+Table de code 3.1 — Numéro du modèle de définition de la grille,,23,,Projection stéréographique polaire avec définition des sous-domaines de modélisation,,,,Operational
+Table de code 3.1 — Numéro du modèle de définition de la grille,,24-29,,En réserve,,,,Operational
+Table de code 3.1 — Numéro du modèle de définition de la grille,,30,,Projection conforme de Lambert,"Sécante ou tangente, conique ou bipolaire",,,Operational
+Table de code 3.1 — Numéro du modèle de définition de la grille,,31,,Projection d'Albers conservant le rapport des aires,,,,Operational
+Table de code 3.1 — Numéro du modèle de définition de la grille,,32,,En réserve,,,,Operational
+Table de code 3.1 — Numéro du modèle de définition de la grille,,33,,Projection conforme de Lambert avec définition des sous-domaines de modélisation,,,,Operational
+Table de code 3.1 — Numéro du modèle de définition de la grille,,34-39,,En réserve,,,,Operational
+Table de code 3.1 — Numéro du modèle de définition de la grille,,40,,Grille gaussienne latitude/longitude,,,,Operational
+Table de code 3.1 — Numéro du modèle de définition de la grille,,41,,Grille gaussienne latitude/longitude après rotation,,,,Operational
+Table de code 3.1 — Numéro du modèle de définition de la grille,,42,,Grille gaussienne latitude/longitude après dilatation,,,,Operational
+Table de code 3.1 — Numéro du modèle de définition de la grille,,43,,Grille gaussienne latitude/longitude après dilatation et rotation,,,,Operational
+Table de code 3.1 — Numéro du modèle de définition de la grille,,44-49,,En réserve,,,,Operational
+Table de code 3.1 — Numéro du modèle de définition de la grille,,50,,Coefficients harmoniques sphériques,,,,Operational
+Table de code 3.1 — Numéro du modèle de définition de la grille,,51,,Coefficients harmoniques sphériques après rotation,,,,Operational
+Table de code 3.1 — Numéro du modèle de définition de la grille,,52,,Coefficients harmoniques sphériques après dilatation,,,,Operational
+Table de code 3.1 — Numéro du modèle de définition de la grille,,53,,Coefficients harmoniques sphériques après dilatation et rotation,,,,Operational
+Table de code 3.1 — Numéro du modèle de définition de la grille,,54-60,,En réserve,,,,Operational
+Table de code 3.1 — Numéro du modèle de définition de la grille,,61,,Représentation spectrale en projection de Mercator avec définition des sous-domaines de modélisation,,,,Operational
+Table de code 3.1 — Numéro du modèle de définition de la grille,,62,,Représentation spectrale en projection stéréographique polaire avec définition des sous-domaines de modélisation,,,,Operational
+Table de code 3.1 — Numéro du modèle de définition de la grille,,63,,Représentation spectrale en projection conforme de Lambert avec définition des sous-domaines de modélisation,,,,Operational
+Table de code 3.1 — Numéro du modèle de définition de la grille,,64-89,,En réserve,,,,Operational
+Table de code 3.1 — Numéro du modèle de définition de la grille,,90,,Perspective vue de l'espace ou projection orthographique,,,,Operational
+Table de code 3.1 — Numéro du modèle de définition de la grille,,91-99,,En réserve,,,,Operational
+Table de code 3.1 — Numéro du modèle de définition de la grille,,100,,"Grille triangulaire, face d'un icosaèdre",,,,Operational
+Table de code 3.1 — Numéro du modèle de définition de la grille,,101,,Grille générale non structurée,,,,Operational
+Table de code 3.1 — Numéro du modèle de définition de la grille,,102-109,,En réserve,,,,Operational
+Table de code 3.1 — Numéro du modèle de définition de la grille,,110,,Projection équatoriale azimutale équidistante,,,,Operational
+Table de code 3.1 — Numéro du modèle de définition de la grille,,111-119,,En réserve,,,,Operational
+Table de code 3.1 — Numéro du modèle de définition de la grille,,120,,Projection azimut-distance,,,,Operational
+Table de code 3.1 — Numéro du modèle de définition de la grille,,121-139,,En réserve,,,,Operational
+Table de code 3.1 — Numéro du modèle de définition de la grille,,140,,Projection azimutale équivalente de Lambert,,,,Operational
+Table de code 3.1 — Numéro du modèle de définition de la grille,,141-999,,En réserve,,,,Operational
+Table de code 3.1 — Numéro du modèle de définition de la grille,,1000,,"Grille de coupe verticale, dont les points sur l'horizontale sont équidistants",,,,Operational
+Table de code 3.1 — Numéro du modèle de définition de la grille,,1001-1099,,En réserve,,,,Operational
+Table de code 3.1 — Numéro du modèle de définition de la grille,,1100,,"Grille du diagramme de Hovmöller, dont les points sur l'horizontale sont équidistants",,,,Operational
+Table de code 3.1 — Numéro du modèle de définition de la grille,,1101-1199,,En réserve,,,,Operational
+Table de code 3.1 — Numéro du modèle de définition de la grille,,1200,,Grille de coupe dans le temps,,,,Operational
+Table de code 3.1 — Numéro du modèle de définition de la grille,,1201-32767,,En réserve,,,,Operational
+Table de code 3.1 — Numéro du modèle de définition de la grille,,32768-65534,,En réserve pour un usage local,,,,Operational
+Table de code 3.1 — Numéro du modèle de définition de la grille,,65535,,Valeur manquante,,,,Operational

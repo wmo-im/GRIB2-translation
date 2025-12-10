@@ -1,0 +1,7 @@
+Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status
+Modèle de définition de la grille 3.5 — Grille latitude/longitude de résolution variable après rotation,15-48,,Voir le modèle de définition de la grille 3.4,(voir la note 1),,,,Operational
+Modèle de définition de la grille 3.5 — Grille latitude/longitude de résolution variable après rotation,49-52,,Latitude du pôle Sud de la projection,(voir la note 4),,,,Operational
+Modèle de définition de la grille 3.5 — Grille latitude/longitude de résolution variable après rotation,53-56,,Longitude du pôle Sud de la projection,(voir la note 4),,,,Operational
+Modèle de définition de la grille 3.5 — Grille latitude/longitude de résolution variable après rotation,57-60,,Angle de rotation de la projection,(voir la note 4),,,,Operational
+Modèle de définition de la grille 3.5 — Grille latitude/longitude de résolution variable après rotation,61-ii,,Liste des longitudes,(voir les notes 1 et 3),,,,Operational
+Modèle de définition de la grille 3.5 — Grille latitude/longitude de résolution variable après rotation,(ii+1)-jj,,Liste des latitudes,(voir les notes 1 et 3),,,,Operational

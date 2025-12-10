@@ -1,0 +1,12 @@
+Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status
+Modèle de représentation des données 5.53 — Données spectrales pour les modèles à domaine limité - compression complexe,12-15,,Valeur de référence (R) (valeur en virgule flottante IEEE 32 bits),,,,,Operational
+Modèle de représentation des données 5.53 — Données spectrales pour les modèles à domaine limité - compression complexe,16-17,,Facteur d'échelle binaire (E),,,,,Operational
+Modèle de représentation des données 5.53 — Données spectrales pour les modèles à domaine limité - compression complexe,18-19,,Facteur d'échelle décimale (D),,,,,Operational
+Modèle de représentation des données 5.53 — Données spectrales pour les modèles à domaine limité - compression complexe,20,,Nombre de bits utilisés pour chaque valeur compressée (largeur du champ),,,,,Operational
+Modèle de représentation des données 5.53 — Données spectrales pour les modèles à domaine limité - compression complexe,21,,Type de sous-troncature avec transformée de Fourier 2D,(voir la table de code 5.25),,,,Operational
+Modèle de représentation des données 5.53 — Données spectrales pour les modèles à domaine limité - compression complexe,22,,Méthode de compression pour les axes,(voir la table de code 5.26),,,,Operational
+Modèle de représentation des données 5.53 — Données spectrales pour les modèles à domaine limité - compression complexe,23-26,,P - facteur d'échelle laplacien (exprimé en 10-6),,,,,Operational
+Modèle de représentation des données 5.53 — Données spectrales pour les modèles à domaine limité - compression complexe,27-28,,NS - paramètre de résolution avec transformée de Fourier 2D de la sous-série décompressée,(voir la note 1),,,,Operational
+Modèle de représentation des données 5.53 — Données spectrales pour les modèles à domaine limité - compression complexe,29-30,,MS - paramètre de résolution avec transformée de Fourier 2D de la sous-série décompressée,(voir la note 1),,,,Operational
+Modèle de représentation des données 5.53 — Données spectrales pour les modèles à domaine limité - compression complexe,31-34,,TS - nombre total de valeurs figurant dans la sous-série décompressée,(voir la note 1),,,,Operational
+Modèle de représentation des données 5.53 — Données spectrales pour les modèles à domaine limité - compression complexe,35,,Précision de la sous-série décompressée,(voir la table de code 5.7),,,,Operational

@@ -1,0 +1,9 @@
+Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status
+Table de code 4.6 – Type de la prévision d'ensemble,,0,,Prévision de contrôle à haute résolution sans «perturbation»,,,,Operational
+Table de code 4.6 – Type de la prévision d'ensemble,,1,,Prévision de contrôle à basse résolution sans «perturbation»,,,,Operational
+Table de code 4.6 – Type de la prévision d'ensemble,,2,,Prévision avec «perturbation» négative,,,,Operational
+Table de code 4.6 – Type de la prévision d'ensemble,,3,,Prévision avec «perturbation» positive,,,,Operational
+Table de code 4.6 – Type de la prévision d'ensemble,,4,,Prévision multimodèle,,,,Operational
+Table de code 4.6 – Type de la prévision d'ensemble,,5-191,,En réserve,,,,Operational
+Table de code 4.6 – Type de la prévision d'ensemble,,192-254,,En réserve pour un usage local,,,,Operational
+Table de code 4.6 – Type de la prévision d'ensemble,,255,,Valeur manquante,,,,Operational

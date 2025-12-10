@@ -1,0 +1,9 @@
+Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status
+Table d'indicateurs 3.3 - Indicateurs de résolution et de composantes,,1-2,,En réserve,,,,Operational
+Table d'indicateurs 3.3 - Indicateurs de résolution et de composantes,,3,0,Incréments non indiqués dans la direction i,,,,Operational
+Table d'indicateurs 3.3 - Indicateurs de résolution et de composantes,,3,1,Incréments indiqués dans la direction i,,,,Operational
+Table d'indicateurs 3.3 - Indicateurs de résolution et de composantes,,4,0,Incréments non indiqués dans la direction j,,,,Operational
+Table d'indicateurs 3.3 - Indicateurs de résolution et de composantes,,4,1,Incréments indiqués dans la direction j,,,,Operational
+Table d'indicateurs 3.3 - Indicateurs de résolution et de composantes,,5,0,Composantes u et v calculées des grandeurs vectorielles par rapport aux directions est et nord,,,,Operational
+Table d'indicateurs 3.3 - Indicateurs de résolution et de composantes,,5,1,Composantes u et v calculées des grandeurs vectorielles par rapport à la grille définie dans la direction des coordonnées croissantes x et y (ou i et j) respectivement,,,,Operational
+Table d'indicateurs 3.3 - Indicateurs de résolution et de composantes,,6-8,,En réserve - mis à zéro,,,,Operational

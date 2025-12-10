@@ -1,0 +1,22 @@
+Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status
+Modèle de définition de la grille 3.90 — Perspective vue de l'espace ou projection orthographique,15,,Forme de la Terre,(voir la table de code 3.2),,,,Operational
+Modèle de définition de la grille 3.90 — Perspective vue de l'espace ou projection orthographique,16,,Facteur d'échelle du rayon de la Terre sphérique,,,,,Operational
+Modèle de définition de la grille 3.90 — Perspective vue de l'espace ou projection orthographique,17-20,,Valeur ajustée du rayon de la Terre sphérique,,,,,Operational
+Modèle de définition de la grille 3.90 — Perspective vue de l'espace ou projection orthographique,21,,Facteur d'échelle du grand axe de la Terre ellipsoïdale aplatie,,,,,Operational
+Modèle de définition de la grille 3.90 — Perspective vue de l'espace ou projection orthographique,22-25,,Valeur ajustée du grand axe de la Terre ellipsoïdale aplatie,,,,,Operational
+Modèle de définition de la grille 3.90 — Perspective vue de l'espace ou projection orthographique,26,,Facteur d'échelle du petit axe de la Terre ellipsoïdale aplatie,,,,,Operational
+Modèle de définition de la grille 3.90 — Perspective vue de l'espace ou projection orthographique,27-30,,Valeur ajustée du petit axe de la Terre ellipsoïdale aplatie,,,,,Operational
+Modèle de définition de la grille 3.90 — Perspective vue de l'espace ou projection orthographique,31-34,,Nx - nombre de points le long de l'axe des x (colonnes),,,,,Operational
+Modèle de définition de la grille 3.90 — Perspective vue de l'espace ou projection orthographique,35-38,,Ny - nombre de points le long de l'axe des y (rangées ou lignes),,,,,Operational
+Modèle de définition de la grille 3.90 — Perspective vue de l'espace ou projection orthographique,39-42,,Lap - latitude du point à la verticale du satellite,,,,,Operational
+Modèle de définition de la grille 3.90 — Perspective vue de l'espace ou projection orthographique,43-46,,Lop - longitude du point à la verticale du satellite,,,,,Operational
+Modèle de définition de la grille 3.90 — Perspective vue de l'espace ou projection orthographique,47,,Indicateurs de résolution et de composantes,(voir la table d'indicateurs 3.3),,,,Operational
+Modèle de définition de la grille 3.90 — Perspective vue de l'espace ou projection orthographique,48-51,,"dx - diamètre apparent de la Terre en longueurs de grille, dans la direction x",,,,,Operational
+Modèle de définition de la grille 3.90 — Perspective vue de l'espace ou projection orthographique,52-55,,"dy - diamètre apparent de la Terre en longueurs de grille, dans la direction y",,,,,Operational
+Modèle de définition de la grille 3.90 — Perspective vue de l'espace ou projection orthographique,56-59,,"Xp - coordonnée x du point à la verticale du satellite (en 10-3 longueurs de grille, exprimée sous forme d'entier)",,,,,Operational
+Modèle de définition de la grille 3.90 — Perspective vue de l'espace ou projection orthographique,60-63,,"Yp - coordonnée y du point à la verticale du satellite (en 10-3 longueurs de grille, exprimée sous forme d'entier)",,,,,Operational
+Modèle de définition de la grille 3.90 — Perspective vue de l'espace ou projection orthographique,64,,Mode d'exploration,(indicateurs – voir la table d'indicateurs 3.4),,,,Operational
+Modèle de définition de la grille 3.90 — Perspective vue de l'espace ou projection orthographique,65-68,,Orientation de la grille; soit l'angle entre l'axe des y dans le sens ascendant et le méridien du point à la verticale du satellite dans le sens ascendant de la latitude,(voir la note 3),,,,Operational
+Modèle de définition de la grille 3.90 — Perspective vue de l'espace ou projection orthographique,69-72,,"Nr - altitude de la caméra par rapport au centre de la Terre, mesurée en unités du rayon terrestre équatorial et multipliée par un facteur d'échelle de 106",(voir les notes 4 et 5),,,,Operational
+Modèle de définition de la grille 3.90 — Perspective vue de l'espace ou projection orthographique,73-76,,Xo - coordonnée x d'origine de l'image sectorielle,,,,,Operational
+Modèle de définition de la grille 3.90 — Perspective vue de l'espace ou projection orthographique,77-80,,Yo - coordonnée y d'origine de l'image sectorielle,,,,,Operational

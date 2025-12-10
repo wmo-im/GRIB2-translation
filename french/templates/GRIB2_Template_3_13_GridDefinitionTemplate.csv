@@ -1,0 +1,6 @@
+Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status
+Modèle de définition de la grille 3.13 – Projection de Mercator avec définition des sous-domaines de modélisation,15-nn,,Voir modèle de définition de la grille 3.10,,,,,Operational
+Modèle de définition de la grille 3.13 – Projection de Mercator avec définition des sous-domaines de modélisation,[nn+1]-[nn+4],,Nux - taille du sous-domaine de prévision numérique dans la direction x (nombre de points de grille),,,,,Operational
+Modèle de définition de la grille 3.13 – Projection de Mercator avec définition des sous-domaines de modélisation,[nn+5]-[nn+8],,Ncx - largeur de la zone de couplage au sein du domaine de prévision dans la direction x (nombre de points de grille),,,,,Operational
+Modèle de définition de la grille 3.13 – Projection de Mercator avec définition des sous-domaines de modélisation,[nn+9]-[nn+12],,Nuy - taille du sous-domaine de prévision numérique dans la direction y (nombre de points de grille),,,,,Operational
+Modèle de définition de la grille 3.13 – Projection de Mercator avec définition des sous-domaines de modélisation,[nn+13]-[nn+16],,Ncy – largeur de la zone de couplage au sein du domaine de prévision dans la direction y (nombre de points de grille),,,,,Operational

@@ -1,0 +1,11 @@
+Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status
+"Table de code 0.0 — Domaine de spécialisation des données traitées dans le message GRIB, numéro de la table principale du code GRIB",,0,,Produits météorologiques,,,,Operational
+"Table de code 0.0 — Domaine de spécialisation des données traitées dans le message GRIB, numéro de la table principale du code GRIB",,1,,Produits hydrologiques,,,,Operational
+"Table de code 0.0 — Domaine de spécialisation des données traitées dans le message GRIB, numéro de la table principale du code GRIB",,2,,Produits pour la surface des terres,,,,Operational
+"Table de code 0.0 — Domaine de spécialisation des données traitées dans le message GRIB, numéro de la table principale du code GRIB",,3,,Produits de télédétection satellitaire (auparavant «Produits spatiaux»),,,,Operational
+"Table de code 0.0 — Domaine de spécialisation des données traitées dans le message GRIB, numéro de la table principale du code GRIB",,4,,Produits relatifs à la météorologie de l'espace,,,,Operational
+"Table de code 0.0 — Domaine de spécialisation des données traitées dans le message GRIB, numéro de la table principale du code GRIB",,5-9,,En réserve,,,,Operational
+"Table de code 0.0 — Domaine de spécialisation des données traitées dans le message GRIB, numéro de la table principale du code GRIB",,10,,Produits océanographiques,,,,Operational
+"Table de code 0.0 — Domaine de spécialisation des données traitées dans le message GRIB, numéro de la table principale du code GRIB",,11-191,,En réserve,,,,Operational
+"Table de code 0.0 — Domaine de spécialisation des données traitées dans le message GRIB, numéro de la table principale du code GRIB",,192-254,,En réserve pour un usage local,,,,Operational
+"Table de code 0.0 — Domaine de spécialisation des données traitées dans le message GRIB, numéro de la table principale du code GRIB",,255,,Valeur manquante,,,,Operational

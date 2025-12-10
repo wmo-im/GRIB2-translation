@@ -1,0 +1,8 @@
+Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status
+Modèle de représentation des données 5.51 — Harmoniques sphériques — compression complexe,12-20,,Voir le modèle de représentation des données 5.50,,,,,Operational
+Modèle de représentation des données 5.51 — Harmoniques sphériques — compression complexe,21-24,,P - facteur d'échelle laplacien (exprimé en 10-6),,,,,Operational
+Modèle de représentation des données 5.51 — Harmoniques sphériques — compression complexe,25-26,,Js - paramètre de résolution pentagonale de la sous-série décomprimée,(voir la note 1),,,,Operational
+Modèle de représentation des données 5.51 — Harmoniques sphériques — compression complexe,27-28,,Ks - paramètre de résolution pentagonale de la sous-série décomprimée,(voir la note 1),,,,Operational
+Modèle de représentation des données 5.51 — Harmoniques sphériques — compression complexe,29-30,,Ms - paramètre de résolution pentagonale de la sous-série décomprimée,(voir la note 1),,,,Operational
+Modèle de représentation des données 5.51 — Harmoniques sphériques — compression complexe,31-34,,Ts - nombre total de valeurs figurant dans la sous-série décomprimée,(voir la note 1),,,,Operational
+Modèle de représentation des données 5.51 — Harmoniques sphériques — compression complexe,35,,Précision de la sous-série décomprimée,(voir la table de code 5.7),,,,Operational

@@ -1,0 +1,7 @@
+Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status
+Table de code 5.5 – Traitement des valeurs manquantes en compression complexe,,0,,Absence de valeurs manquantes explicites dans les données,,,,Operational
+Table de code 5.5 – Traitement des valeurs manquantes en compression complexe,,1,,Présence de valeurs manquantes primaires dans les données,,,,Operational
+Table de code 5.5 – Traitement des valeurs manquantes en compression complexe,,2,,Présence de valeurs manquantes primaires et secondaires dans les données,,,,Operational
+Table de code 5.5 – Traitement des valeurs manquantes en compression complexe,,3-191,,En réserve,,,,Operational
+Table de code 5.5 – Traitement des valeurs manquantes en compression complexe,,192-254,,En réserve pour un usage local,,,,Operational
+Table de code 5.5 – Traitement des valeurs manquantes en compression complexe,,255,,Valeur manquante,,,,Operational

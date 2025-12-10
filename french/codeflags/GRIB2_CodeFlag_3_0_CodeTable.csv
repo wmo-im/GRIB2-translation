@@ -1,0 +1,6 @@
+Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status
+Table de code 3.0 — Source de la définition de la grille,,0,,Précisée dans la table de code 3.1,,,,Operational
+Table de code 3.0 — Source de la définition de la grille,,1,,Définition de grille prédéterminée,Définition établie par le centre d'origine,,,Operational
+Table de code 3.0 — Source de la définition de la grille,,2-191,,En réserve,,,,Operational
+Table de code 3.0 — Source de la définition de la grille,,192-254,,En réserve pour un usage local,,,,Operational
+Table de code 3.0 — Source de la définition de la grille,,255,,Aucune définition de grille ne s'applique au produit,,,,Operational

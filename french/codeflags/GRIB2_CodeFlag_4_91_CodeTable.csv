@@ -1,0 +1,16 @@
+Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status
+Table de code 4.91 – Type d'intervalle,,0,,Inférieur à la première limite,,,,Operational
+Table de code 4.91 – Type d'intervalle,,1,,Supérieur à la deuxième limite,,,,Operational
+Table de code 4.91 – Type d'intervalle,,2,,Entre la première et la deuxième limite. L'intervalle comprend la première limite mais pas la deuxième,,,,Operational
+Table de code 4.91 – Type d'intervalle,,3,,Supérieur à la première limite,,,,Operational
+Table de code 4.91 – Type d'intervalle,,4,,Inférieur à la deuxième limite,,,,Operational
+Table de code 4.91 – Type d'intervalle,,5,,Inférieur ou égal à la première limite,,,,Operational
+Table de code 4.91 – Type d'intervalle,,6,,Supérieur ou égal à la deuxième limite,,,,Operational
+Table de code 4.91 – Type d'intervalle,,7,,Entre la première et la deuxième limite. L'intervalle comprend la première et la deuxième limite,,,,Operational
+Table de code 4.91 – Type d'intervalle,,8,,Supérieur ou égal à la première limite,,,,Operational
+Table de code 4.91 – Type d'intervalle,,9,,Inférieur ou égal à la deuxième limite,,,,Operational
+Table de code 4.91 – Type d'intervalle,,10,,Entre la première et la deuxième limite. L'intervalle comprend la deuxième limite mais pas la première,,,,Operational
+Table de code 4.91 – Type d'intervalle,,11,,Égal à la première limite,,,,Operational
+Table de code 4.91 – Type d'intervalle,,12-191,,En réserve,,,,Operational
+Table de code 4.91 – Type d'intervalle,,192-254,,En réserve pour un usage local,,,,Operational
+Table de code 4.91 – Type d'intervalle,,255,,Valeur manquante,,,,Operational

@@ -1,0 +1,6 @@
+Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status
+Table de code 4.221 – Traitement pour les données manquantes,,0,,Non inclus,,,,Operational
+Table de code 4.221 – Traitement pour les données manquantes,,1,,Extrapolées,,,,Operational
+Table de code 4.221 – Traitement pour les données manquantes,,2-191,,En réserve,,,,Operational
+Table de code 4.221 – Traitement pour les données manquantes,,192-254,,En réserve pour un usage local,,,,Operational
+Table de code 4.221 – Traitement pour les données manquantes,,255,,Valeur manquante,,,,Operational

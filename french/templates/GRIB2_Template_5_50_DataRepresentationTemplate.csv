@@ -1,0 +1,6 @@
+Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status
+Modèle de représentation des données 5.50 — Données spectrales - compression simple,12-15,,Valeur de référence (R) (valeur en virgule flottante IEEE 32 bits),,,,,Operational
+Modèle de représentation des données 5.50 — Données spectrales - compression simple,16-17,,Facteur d'échelle binaire (E),,,,,Operational
+Modèle de représentation des données 5.50 — Données spectrales - compression simple,18-19,,Facteur d'échelle décimale (D),,,,,Operational
+Modèle de représentation des données 5.50 — Données spectrales - compression simple,20,,Nombre de bits utilisés pour chaque valeur comprimée (largeur du champ),,,,,Operational
+Modèle de représentation des données 5.50 — Données spectrales - compression simple,21-24,,"Partie réelle du coefficient (0,0) (valeur en virgule flottante IEEE 32 bits)",,,,,Operational

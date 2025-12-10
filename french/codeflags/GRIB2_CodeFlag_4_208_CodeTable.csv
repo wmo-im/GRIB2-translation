@@ -1,0 +1,9 @@
+Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status
+Table de code 4.208 – Turbulence,,0,,Pas de turbulence,,,,Operational
+Table de code 4.208 – Turbulence,,1,,Turbulence faible,,,,Operational
+Table de code 4.208 – Turbulence,,2,,Turbulence modérée,,,,Operational
+Table de code 4.208 – Turbulence,,3,,Turbulence forte,,,,Operational
+Table de code 4.208 – Turbulence,,4,,Turbulence extrême,,,,Operational
+Table de code 4.208 – Turbulence,,5-191,,En réserve,,,,Operational
+Table de code 4.208 – Turbulence,,192-254,,En réserve pour un usage local,,,,Operational
+Table de code 4.208 – Turbulence,,255,,Valeur manquante,,,,Operational

@@ -1,0 +1,7 @@
+Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status
+Table de code 4.211 – Traînée de condensation selon le réacteur,,0,,Double flux (taux de dilution faible),,,,Operational
+Table de code 4.211 – Traînée de condensation selon le réacteur,,1,,Double flux (taux de dilution élevé),,,,Operational
+Table de code 4.211 – Traînée de condensation selon le réacteur,,2,,Sans double flux,,,,Operational
+Table de code 4.211 – Traînée de condensation selon le réacteur,,3-191,,En réserve,,,,Operational
+Table de code 4.211 – Traînée de condensation selon le réacteur,,192-254,,En réserve pour un usage local,,,,Operational
+Table de code 4.211 – Traînée de condensation selon le réacteur,,255,,Valeur manquante,,,,Operational

@@ -1,0 +1,23 @@
+Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status
+Modèle de définition du produit 4.1101 – Grille de type Hovmöller avec moyenne ou autre traitement statistique,10,,Catégorie du paramètre,(voir la table de code 4.1),,,,Experimental
+Modèle de définition du produit 4.1101 – Grille de type Hovmöller avec moyenne ou autre traitement statistique,11,,Numéro du paramètre,(voir la table de code 4.2),,,,Experimental
+(Modèle de définition du produit 4.1101 suite),12,,Type du processus de production,(voir la table de code 4.3),,,,Experimental
+(Modèle de définition du produit 4.1101 suite),13,,Indicateur du processus de production de base (défini par le centre d'origine),,,,,Experimental
+(Modèle de définition du produit 4.1101 suite),14,,Indicateur du processus de production de l'analyse ou de la prévision (défini par le centre d'origine),,,,,Experimental
+(Modèle de définition du produit 4.1101 suite),15-16,,Limite (heures) de tombée des données d'observation après l'heure de référence,(voir la note 1),,,,Experimental
+(Modèle de définition du produit 4.1101 suite),17,,Limite (minutes) de tombée des données d'observation après l'heure de référence,,,,,Experimental
+(Modèle de définition du produit 4.1101 suite),18,,Indicateur d'unité de l'intervalle de temps,(voir la table de code 4.4),,,,Experimental
+(Modèle de définition du produit 4.1101 suite),19-22,,Heure de la prévision exprimée dans l'unité précisée par l'octet 18,(voir la note 2),,,,Experimental
+(Modèle de définition du produit 4.1101 suite),23,,Type de la première surface spécifiée,(voir la table de code 4.5),,,,Experimental
+(Modèle de définition du produit 4.1101 suite),24,,Facteur d'échelle - première surface spécifiée,,,,,Experimental
+(Modèle de définition du produit 4.1101 suite),25-28,,Valeur ajustée - première surface spécifiée,,,,,Experimental
+(Modèle de définition du produit 4.1101 suite),29,,Type de la deuxième surface spécifiée,(voir la table de code 4.5),,,,Experimental
+(Modèle de définition du produit 4.1101 suite),30,,Facteur d'échelle - deuxième surface spécifiée,,,,,Experimental
+(Modèle de définition du produit 4.1101 suite),31-34,,Valeur ajustée - deuxième surface spécifiée,,,,,Experimental
+(Modèle de définition du produit 4.1101 suite),35-38,,Nombre total de valeurs manquantes dans le calcul statistique,,,,,Experimental
+(Modèle de définition du produit 4.1101 suite),39,,Calcul statistique ayant permis d'obtenir le champ élaboré à partir du champ à chaque incrément de temps durant l'intervalle de temps,(voir la table de code 4.10),,,,Experimental
+(Modèle de définition du produit 4.1101 suite),40,,Type d'incrément de temps entre les champs successifs employé pour le calcul statistique,(voir la table de code 4.11),,,,Experimental
+(Modèle de définition du produit 4.1101 suite),41,,Indicateur de l'unité de temps employée pour l'intervalle de temps sur lequel porte le calcul statistique,(voir la table de code 4.4),,,,Experimental
+(Modèle de définition du produit 4.1101 suite),42-45,,"Durée de l'intervalle de temps sur lequel porte le calcul statistique, exprimée dans l'unité indiquée par l'octet précédent",,,,,Experimental
+(Modèle de définition du produit 4.1101 suite),46,,Indicateur de l'unité de temps employée pour l'incrément de temps entre les champs successifs,(voir la table de code 4.4),,,,Experimental
+(Modèle de définition du produit 4.1101 suite),47-50,,"Incrément de temps entre les champs successifs, exprimé dans l'unité indiquée par l'octet précédent",(voir la note 3),,,,Experimental

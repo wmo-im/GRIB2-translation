@@ -1,0 +1,45 @@
+Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status
+Table de code 4.218 – Type de scène formée de pixels,,0,,Aucune scène identifiée,,,,Operational
+Table de code 4.218 – Type de scène formée de pixels,,1,,Forêt à feuillage aciculaire persistant,,,,Operational
+Table de code 4.218 – Type de scène formée de pixels,,2,,Forêt à feuillage large persistant,,,,Operational
+Table de code 4.218 – Type de scène formée de pixels,,3,,Forêt à feuillage aciculaire caduc,,,,Operational
+Table de code 4.218 – Type de scène formée de pixels,,4,,Forêt à feuillage large caduc,,,,Operational
+Table de code 4.218 – Type de scène formée de pixels,,5,,Forêt mélangée caduque,,,,Operational
+Table de code 4.218 – Type de scène formée de pixels,,6,,Végétation arbustive dense,,,,Operational
+Table de code 4.218 – Type de scène formée de pixels,,7,,Végétation arbustive claire,,,,Operational
+Table de code 4.218 – Type de scène formée de pixels,,8,,Savane arborescente,,,,Operational
+Table de code 4.218 – Type de scène formée de pixels,,10,,Prairie,,,,Operational
+Table de code 4.218 – Type de scène formée de pixels,,11,,Zones humides permanentes,,,,Operational
+Table de code 4.218 – Type de scène formée de pixels,,12,,Terres cultivées,,,,Operational
+Table de code 4.218 – Type de scène formée de pixels,,13,,Zones urbaines,,,,Operational
+Table de code 4.218 – Type de scène formée de pixels,,14,,Végétation ou cultures,,,,Operational
+Table de code 4.218 – Type de scène formée de pixels,,15,,Neige éternelle ou glace pérenne,,,,Operational
+Table de code 4.218 – Type de scène formée de pixels,,16,,Désert stérile,,,,Operational
+Table de code 4.218 – Type de scène formée de pixels,,17,,Étendues d'eau,,,,Operational
+Table de code 4.218 – Type de scène formée de pixels,,18,,Toundra,,,,Operational
+Table de code 4.218 – Type de scène formée de pixels,,19,,Nuage chaud (eau liquide),,,,Operational
+Table de code 4.218 – Type de scène formée de pixels,,20,,Nuage d'eau surfondue,,,,Operational
+Table de code 4.218 – Type de scène formée de pixels,,21,,Nuage mixte,,,,Operational
+Table de code 4.218 – Type de scène formée de pixels,,22,,Nuage glacé de faible épaisseur optique,,,,Operational
+Table de code 4.218 – Type de scène formée de pixels,,23,,Nuage glacé de grande épaisseur optique,,,,Operational
+Table de code 4.218 – Type de scène formée de pixels,,24,,Nuage multicouche,,,,Operational
+Table de code 4.218 – Type de scène formée de pixels,,25-96,,En réserve,,,,Operational
+Table de code 4.218 – Type de scène formée de pixels,,97,,Terres couvertes de neige ou de glace,,,,Operational
+Table de code 4.218 – Type de scène formée de pixels,,98,,Eaux couvertes de neige ou de glace,,,,Operational
+Table de code 4.218 – Type de scène formée de pixels,,99,,Reflet solaire,,,,Operational
+Table de code 4.218 – Type de scène formée de pixels,,100,,Nuages,,,,Operational
+Table de code 4.218 – Type de scène formée de pixels,,101,,Nuages bas/brouillard/stratus,,,,Operational
+Table de code 4.218 – Type de scène formée de pixels,,102,,Nuages bas/stratocumulus,,,,Operational
+Table de code 4.218 – Type de scène formée de pixels,,103,,Nuages bas/de type inconnu,,,,Operational
+Table de code 4.218 – Type de scène formée de pixels,,104,,Nuages moyens/nimbostratus,,,,Operational
+Table de code 4.218 – Type de scène formée de pixels,,105,,Nuages moyens/altostratus,,,,Operational
+Table de code 4.218 – Type de scène formée de pixels,,106,,Nuages moyens/de type inconnu,,,,Operational
+Table de code 4.218 – Type de scène formée de pixels,,107,,Nuages élevés/cumulus,,,,Operational
+Table de code 4.218 – Type de scène formée de pixels,,108,,Nuages élevés/cirrus,,,,Operational
+Table de code 4.218 – Type de scène formée de pixels,,109,,Nuages élevés/de type inconnu,,,,Operational
+Table de code 4.218 – Type de scène formée de pixels,,110,,Nuages de type inconnu,,,,Operational
+Table de code 4.218 – Type de scène formée de pixels,,111,,Nuage d'eau en couche unique,,,,Operational
+Table de code 4.218 – Type de scène formée de pixels,,112,,Nuage glacé en couche unique,,,,Operational
+Table de code 4.218 – Type de scène formée de pixels,,113-191,,En réserve,,,,Operational
+Table de code 4.218 – Type de scène formée de pixels,,192-254,,En réserve pour un usage local,,,,Operational
+Table de code 4.218 – Type de scène formée de pixels,,255,,Valeur manquante,,,,Operational

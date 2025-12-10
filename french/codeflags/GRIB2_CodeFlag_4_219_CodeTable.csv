@@ -1,0 +1,8 @@
+Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status
+Table de code 4.219 – Indicateur de qualité – Altitude du sommet des nuages,,0,,Altitude du sommet des nuages de qualité nominale,,,,Operational
+Table de code 4.219 – Indicateur de qualité – Altitude du sommet des nuages,,1,,Brouillard dans le segment,,,,Operational
+Table de code 4.219 – Indicateur de qualité – Altitude du sommet des nuages,,2,,Estimation de l'altitude de mauvaise qualité,,,,Operational
+Table de code 4.219 – Indicateur de qualité – Altitude du sommet des nuages,,3,,Brouillard dans le segment et estimation de l'altitude de mauvaise qualité,,,,Operational
+Table de code 4.219 – Indicateur de qualité – Altitude du sommet des nuages,,4-191,,En réserve,,,,Operational
+Table de code 4.219 – Indicateur de qualité – Altitude du sommet des nuages,,192-254,,En réserve pour un usage local,,,,Operational
+Table de code 4.219 – Indicateur de qualité – Altitude du sommet des nuages,,255,,Valeur manquante,,,,Operational

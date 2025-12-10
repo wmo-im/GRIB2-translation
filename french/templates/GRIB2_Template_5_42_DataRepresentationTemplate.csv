@@ -1,0 +1,9 @@
+Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status
+Modèle de représentation des données 5.42 — Données aux points de grille et données spectrales - Compression sans perte de données recommandée par le CCSDS,12-15,,Valeur de référence (R) (valeur en virgule flottante IEEE 32 bits),,,,,Operational
+Modèle de représentation des données 5.42 — Données aux points de grille et données spectrales - Compression sans perte de données recommandée par le CCSDS,16-17,,Facteur d'échelle binaire (E),,,,,Operational
+Modèle de représentation des données 5.42 — Données aux points de grille et données spectrales - Compression sans perte de données recommandée par le CCSDS,18-19,,Facteur d'échelle décimale (D),,,,,Operational
+Modèle de représentation des données 5.42 — Données aux points de grille et données spectrales - Compression sans perte de données recommandée par le CCSDS,20,,Nombre de bits requis pour les valeurs des données découlant des étapes précédentes (facteur d'échelle et valeur de référence),(voir la note 1),,,,Operational
+Modèle de représentation des données 5.42 — Données aux points de grille et données spectrales - Compression sans perte de données recommandée par le CCSDS,21,,Type des valeurs du champ d'origine,(voir la table de code 5.1),,,,Operational
+Modèle de représentation des données 5.42 — Données aux points de grille et données spectrales - Compression sans perte de données recommandée par le CCSDS,22,,Masque d'options du CCSDS pour la compression,(voir la note 3),,,,Operational
+Modèle de représentation des données 5.42 — Données aux points de grille et données spectrales - Compression sans perte de données recommandée par le CCSDS,23,,Longueur de bloc,,,,,Operational
+Modèle de représentation des données 5.42 — Données aux points de grille et données spectrales - Compression sans perte de données recommandée par le CCSDS,24-25,,Nombre de blocs,,,,,Operational

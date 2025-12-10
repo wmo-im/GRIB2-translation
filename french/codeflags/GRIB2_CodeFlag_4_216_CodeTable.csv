@@ -1,0 +1,5 @@
+Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status
+Table de code 4.216 – Altitude du terrain couvert de neige,,0-90,,Altitude par incréments de 100 m,,,,Operational
+Table de code 4.216 – Altitude du terrain couvert de neige,,91-253,,En réserve,,,,Operational
+Table de code 4.216 – Altitude du terrain couvert de neige,,254,,Nuages,,,,Operational
+Table de code 4.216 – Altitude du terrain couvert de neige,,255,,Valeur manquante,,,,Operational

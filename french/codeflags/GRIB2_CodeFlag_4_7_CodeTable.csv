@@ -1,0 +1,14 @@
+Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status
+Table de code 4.7 – Prévision dérivée,,0,,Moyenne non pondérée de tous les membres,,,,Operational
+Table de code 4.7 – Prévision dérivée,,1,,Moyenne pondérée de tous les membres,,,,Operational
+Table de code 4.7 – Prévision dérivée,,2,,Écart type par rapport à la moyenne du groupe de membres,,,,Operational
+Table de code 4.7 – Prévision dérivée,,3,,"Écart type par rapport à la moyenne du groupe de membres, normalisé",,,,Operational
+Table de code 4.7 – Prévision dérivée,,4,,Dispersion de l'ensemble des membres,,,,Operational
+Table de code 4.7 – Prévision dérivée,,5,,Indice de grande anomalie pour l'ensemble des membres (voir la note 1),"L'indice de grande anomalie se définit comme suit: {(nombre de membres dont l'anomalie est supérieure à 0,5 x SD) – (nombre de membres dont l'anomalie est inférieure à -0,5 x SD)} / (nombre de membres) à chaque point de grille, SD étant l'écart type climatologique observé.",,,Operational
+Table de code 4.7 – Prévision dérivée,,6,,Moyenne non pondérée des membres du groupe,,,,Operational
+Table de code 4.7 – Prévision dérivée,,7,,Amplitude interquartile (entre le 25e et le 75e quantiles),,,,Operational
+Table de code 4.7 – Prévision dérivée,,8,,Minimum de tous les membres de l'ensemble (voir la note 2),"Le «minimum de tous les membres de l'ensemble» et le «maximum de tous les membres de l'ensemble» renvoient au groupe des membres de l'ensemble, et non à un intervalle de temps; ils ne doivent pas être confondus avec le maximum et le minimum décrits dans le modèle de définition du produit 4.8.",,,Operational
+Table de code 4.7 – Prévision dérivée,,9,,Maximum de tous les membres de l'ensemble (voir la note 2),"Le «minimum de tous les membres de l'ensemble» et le «maximum de tous les membres de l'ensemble» renvoient au groupe des membres de l'ensemble, et non à un intervalle de temps; ils ne doivent pas être confondus avec le maximum et le minimum décrits dans le modèle de définition du produit 4.8.",,,Operational
+Table de code 4.7 – Prévision dérivée,,10-191,,En réserve,,,,Operational
+Table de code 4.7 – Prévision dérivée,,192-254,,En réserve pour un usage local,,,,Operational
+Table de code 4.7 – Prévision dérivée,,255,,Valeur manquante,,,,Operational

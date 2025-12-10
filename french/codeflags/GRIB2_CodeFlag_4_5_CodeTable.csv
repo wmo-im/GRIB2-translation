@@ -1,0 +1,76 @@
+Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status
+Table de code 4.5 – Type et unité des surfaces spécifiées,,0,,En réserve,,,,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,1,,Surface (terre ou eau),,,–,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,2,,Base des nuages (niveau),,,–,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,3,,Sommet des nuages (niveau),,,–,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,4,,Niveau isotherme 0 °C,,,–,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,5,,Niveau de condensation adiabatique à partir de la surface,,,–,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,6,,Niveau du vent maximal,,,–,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,7,,Tropopause,,,–,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,8,,Sommet nominal de l'atmosphère,,,–,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,9,,Fond de la mer,,,–,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,10,,Ensemble de l'atmosphère,,,–,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,11,,Base de cumulonimbus (CB),,,m,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,12,,Sommet de cumulonimbus (CB),,,m,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,13,,Niveau le plus bas auquel la nébulosité intégrée verticalement dépasse le pourcentage spécifié (base des nuages pour une nébulosité donnée),,,%,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,14,,Niveau de convection libre (NCL),,,–,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,15,,Niveau de condensation par convection (NCC),,,–,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,16,,Niveau de flottabilité neutre ou niveau d'équilibre (LNB),,,–,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,17-19,,En réserve,,,,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,20,,Niveau isotherme,,,K,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,21,,Niveau le plus bas où la masse volumique dépasse la valeur spécifiée (base pour un seuil donné de masse volumique),,,kg m-3,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,22,,Niveau le plus élevé où la masse volumique dépasse la valeur spécifiée (sommet pour un seuil donné de masse volumique),,,kg m-3,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,23,,Niveau le plus bas où la concentration dans l'air dépasse la valeur spécifiée (base pour un seuil donné de concentration dans l'air),,,Bq m-3,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,24,,Niveau le plus élevé où la concentration dans l'air dépasse la valeur spécifiée (sommet pour un seuil donné de concentration dans l'air),,,Bq m-3,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,25,,Niveau le plus élevé où la réflectivité radar est supérieure à la valeur indiquée (sommet de l'écho pour un seuil donné de réflectivité),,,dBZ,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,26-99,,En réserve,,,,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,100,,Surface isobare,,,Pa,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,101,,Niveau moyen de la mer,,,–,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,102,,Altitude spécifiée (au-dessus du niveau moyen de la mer),,,m,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,103,,Hauteur spécifiée (au-dessus du sol),,,m,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,104,,Niveau sigma,,,"Valeur ""sigma""",Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,105,,Niveau hybride,,,–,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,106,,Profondeur sous la surface terrestre,,,m,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,107,,Niveau isentropique (thêta),,,K,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,108,,Niveau défini par la différence de pression avec la pression au sol,,,Pa,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,109,,Surface du tourbillon potentiel,,,K m² kg-1 s-1,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,110,,En réserve,,,–,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,111,,Niveau ETA,Le système de coordonnées verticales ETA consiste à normaliser la pression à un point donné d'un niveau spécifique par la pression du niveau moyen de la mer à ce point.,,–,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,112,,En réserve,,,–,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,113,,Niveau hybride logarithmique,,,–,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,114,,Enneigement,,,Numérique,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,115,,Altitude sigma (voir la note 4),"Par altitude sigma on entend le niveau vertical du modèle qui correspond à la coordonnée suivant le terrain basée sur l'altitude (Gal-Chen et Somerville, 1975). Sa valeur est la suivante: (altitude du niveau – altitude du terrain) / (altitude du niveau supérieur – altitude du terrain), qui est ≥ 0 et ≤ 1.",,–,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,116,,En réserve,,,–,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,117,,Épaisseur de la couche de mélange,,,m,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,118,,Hauteur hybride,"Le niveau de la hauteur formulé en coordonnées hybrides (chiffre de code 118) se définit comme suit: z(k) = A(k) + B(k) x orog (k = 1, ..., N niveaux; orog = orographie; z(k) = hauteur en mètres au niveau k)",,–,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,119,,Niveau barique hybride,"Le niveau barique formulé en coordonnées hybrides, pour lequel il y a lieu d'utiliser le chiffre de code 119 et non plus 105, se définit comme suit: p(k) = A(k) + B(k) x sp (k = 1, ..., N niveaux; sp = pression en surface; p(k) = pression au niveau k)",,–,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,120-149,,En réserve,,,–,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,150,,Coordonnée généralisée de la hauteur verticale (voir la note 5),"Quand une coordonnée généralisée de la hauteur verticale est précisée, cela suppose que la Section 4 ne présente aucune valeur de coordonnée, mais qu'un message externe 3D-GRIB fournit en mètres la hauteur de chacun des points de grille du modèle (voir les notes s'appliquant à la Section 4 dans la partie ci-dessus intitulée Spécifications du contenu des octets); ce message GRIB contiendra le champ correspondant à: domaine de spécialisation = 0, catégorie = 3, paramètre = 6 (altitude).",,–,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,151,,Niveau du sol (voir la note 6),"Le niveau du sol représente celui d'un modèle pour lequel la profondeur du sol n'est pas constante sur l'ensemble du domaine. La profondeur, en mètres, est fournie par un autre message GRIB à l'aide du paramètre «profondeur du sol» (domaine de spécialisation 2, catégorie 3, numéro de paramètre 27).",,Numérique,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,152-159,,En réserve,,,–,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,160,,Profondeur sous le niveau de la mer,,,m,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,161,,Profondeur sous la surface de l'eau,,,m,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,162,,Fond du lac ou du cours d'eau,,,–,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,163,,Fond de la couche sédimentaire,,,–,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,164,,Fond de la couche sédimentaire thermiquement active,,,–,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,165,,Fond de la couche sédimentaire pénétrée par l'onde thermique,,,–,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,166,,Couche de mélange,,,–,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,167,,Partie inférieure de la rhizosphère,,,–,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,168,,Niveau du modèle océanique,,,Numérique,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,169,,Niveau océanique défini par l'écart de masse volumique de l'eau (sigma-theta) avec la proximité de la surface (voir la note 7),"Le niveau est défini par l'écart entre la proximité de la surface et le niveau s'agissant d'une propriété de l'eau. La proximité de la surface se situe généralement à 10 mètres de profondeur. La quantité physique utilisée pour calculer l'écart peut être la masse volumique de l'eau (σθ), pour le chiffre du code 169, ou la température potentielle de l'eau (θ), pour le chiffre du code 170.",,kg m-3,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,170,,Niveau océanique défini par l'écart de température potentielle de l'eau (theta) avec la proximité de la surface (voir la note 7),"Le niveau est défini par l'écart entre la proximité de la surface et le niveau s'agissant d'une propriété de l'eau. La proximité de la surface se situe généralement à 10 mètres de profondeur. La quantité physique utilisée pour calculer l'écart peut être la masse volumique de l'eau (σθ), pour le chiffre du code 169, ou la température potentielle de l'eau (θ), pour le chiffre du code 170.",,K,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,171-173,,En réserve,,,–,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,174,,"Surface supérieure de la glace présente sur la mer, un lac ou un cours d'eau",,,–,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,175,,"Surface supérieure de la glace, couverte de neige, présente sur la mer, un lac ou un cours d'eau",,,–,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,176,,"Surface inférieure (face inférieure) de la glace présente sur la mer, un lac ou un cours d'eau",,,–,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,177,,Sol profond (d'une profondeur indéterminée),,,–,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,178,,En réserve,,,–,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,179,,Surface supérieure de la glace de glacier ou d'inlandsis,,,–,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,180,,Glace profonde d'inlandsis ou de glacier (d'une profondeur indéterminée),,,–,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,181,,Fraction de dalle représentant une surface terrestre comme surface de modèle,,,–,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,182,,Fraction de dalle représentant une surface d'eau comme surface de modèle,,,–,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,183,,"Fraction de dalle représentant une surface de glace présente sur la mer, un lac ou un cours d'eau comme surface de modèle",,,–,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,184,,Fraction de dalle représentant de la glace de glacier ou d'inlandsis comme surface de modèle,,,–,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,185-191,,En réserve,,,–,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,192-254,,En réserve pour un usage local,,,–,Operational
+Table de code 4.5 – Type et unité des surfaces spécifiées,,255,,Valeur manquante,,,–,Operational

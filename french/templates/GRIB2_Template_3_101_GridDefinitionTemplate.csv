@@ -1,0 +1,5 @@
+Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status
+Modèle de définition de la grille 3.101 — Grille générale non structurée,15,,Forme de la Terre,(voir la table de code 3.2),,,,Operational
+Modèle de définition de la grille 3.101 — Grille générale non structurée,16-18,,Numéro de la grille utilisée (défini par le centre d'origine),,,,,Operational
+Modèle de définition de la grille 3.101 — Grille générale non structurée,19,,Numéro de la grille de référence (permettant de porter des annotations correspondant à une grille de type Arakawa C sur la grille établie arbitrairement),(voir la note),,,,Operational
+Modèle de définition de la grille 3.101 — Grille générale non structurée,20-35,,Identifiant universel unique de la grille horizontale,,,,,Operational

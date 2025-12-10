@@ -1,0 +1,6 @@
+Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status
+Modèle de définition de la grille 3.23 – Projection stéréographique polaire avec définition des sous-domaines de modélisation,15-65,,Voir modèle de définition de la grille 3.20,,,,,Operational
+Modèle de définition de la grille 3.23 – Projection stéréographique polaire avec définition des sous-domaines de modélisation,66-69,,Nux - taille du sous-domaine de prévision numérique dans la direction x (nombre de points de grille),,,,,Operational
+Modèle de définition de la grille 3.23 – Projection stéréographique polaire avec définition des sous-domaines de modélisation,70-73,,Ncx - largeur de la zone de couplage au sein du domaine de prévision dans la direction x (nombre de points de grille),,,,,Operational
+Modèle de définition de la grille 3.23 – Projection stéréographique polaire avec définition des sous-domaines de modélisation,74-77,,Nuy - taille du sous-domaine de prévision numérique dans la direction y (nombre de points de grille),,,,,Operational
+Modèle de définition de la grille 3.23 – Projection stéréographique polaire avec définition des sous-domaines de modélisation,78-81,,Ncy - largeur de la zone de couplage au sein du domaine de prévision dans la direction y (nombre de points de grille),,,,,Operational

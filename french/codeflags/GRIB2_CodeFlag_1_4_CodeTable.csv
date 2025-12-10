@@ -1,0 +1,13 @@
+Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status
+Table de code 1.4 – Type de données,,0,,Analyse,NOTE: Une analyse initialisée est considérée comme une prévision à échéance immédiate (heure zéro).,,,Operational
+Table de code 1.4 – Type de données,,1,,Prévision,NOTE: Une analyse initialisée est considérée comme une prévision à échéance immédiate (heure zéro).,,,Operational
+Table de code 1.4 – Type de données,,2,,Analyse et prévision,NOTE: Une analyse initialisée est considérée comme une prévision à échéance immédiate (heure zéro).,,,Operational
+Table de code 1.4 – Type de données,,3,,Prévision de contrôle,NOTE: Une analyse initialisée est considérée comme une prévision à échéance immédiate (heure zéro).,,,Operational
+Table de code 1.4 – Type de données,,4,,Prévision «perturbée»,NOTE: Une analyse initialisée est considérée comme une prévision à échéance immédiate (heure zéro).,,,Operational
+Table de code 1.4 – Type de données,,5,,Prévision de contrôle et prévision «perturbée»,NOTE: Une analyse initialisée est considérée comme une prévision à échéance immédiate (heure zéro).,,,Operational
+Table de code 1.4 – Type de données,,6,,Observations par satellites après traitement,NOTE: Une analyse initialisée est considérée comme une prévision à échéance immédiate (heure zéro).,,,Operational
+Table de code 1.4 – Type de données,,7,,Observations radar après traitement,NOTE: Une analyse initialisée est considérée comme une prévision à échéance immédiate (heure zéro).,,,Operational
+Table de code 1.4 – Type de données,,8,,Probabilité d'occurrence d'un phénomène,NOTE: Une analyse initialisée est considérée comme une prévision à échéance immédiate (heure zéro).,,,Operational
+Table de code 1.4 – Type de données,,9-191,,En réserve,NOTE: Une analyse initialisée est considérée comme une prévision à échéance immédiate (heure zéro).,,,Operational
+Table de code 1.4 – Type de données,,192-254,,En réserve pour un usage local,NOTE: Une analyse initialisée est considérée comme une prévision à échéance immédiate (heure zéro).,,,Operational
+Table de code 1.4 – Type de données,,255,,Valeur manquante,NOTE: Une analyse initialisée est considérée comme une prévision à échéance immédiate (heure zéro).,,,Operational

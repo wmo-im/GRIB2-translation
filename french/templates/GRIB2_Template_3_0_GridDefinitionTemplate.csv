@@ -1,0 +1,21 @@
+Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status
+"Modèle de définition de la grille 3.0 — Grille latitude/longitude (ou équidistante cylindrique, ou Plate Carrée)",15,,Forme de la Terre,(voir la table de code 3.2),,,,Operational
+"Modèle de définition de la grille 3.0 — Grille latitude/longitude (ou équidistante cylindrique, ou Plate Carrée)",16,,Facteur d'échelle du rayon de la Terre sphérique,,,,,Operational
+"Modèle de définition de la grille 3.0 — Grille latitude/longitude (ou équidistante cylindrique, ou Plate Carrée)",17-20,,Valeur ajustée du rayon de la Terre sphérique,,,,,Operational
+"Modèle de définition de la grille 3.0 — Grille latitude/longitude (ou équidistante cylindrique, ou Plate Carrée)",21,,Facteur d'échelle du grand axe de la Terre ellipsoïdale aplatie,,,,,Operational
+"Modèle de définition de la grille 3.0 — Grille latitude/longitude (ou équidistante cylindrique, ou Plate Carrée)",22-25,,Valeur ajustée du grand axe de la Terre ellipsoïdale aplatie,,,,,Operational
+"Modèle de définition de la grille 3.0 — Grille latitude/longitude (ou équidistante cylindrique, ou Plate Carrée)",26,,Facteur d'échelle du petit axe de la Terre ellipsoïdale aplatie,,,,,Operational
+"Modèle de définition de la grille 3.0 — Grille latitude/longitude (ou équidistante cylindrique, ou Plate Carrée)",27-30,,Valeur ajustée du petit axe de la Terre ellipsoïdale aplatie,,,,,Operational
+"Modèle de définition de la grille 3.0 — Grille latitude/longitude (ou équidistante cylindrique, ou Plate Carrée)",31-34,,Ni - nombre de points le long d'un parallèle,,,,,Operational
+"Modèle de définition de la grille 3.0 — Grille latitude/longitude (ou équidistante cylindrique, ou Plate Carrée)",35-38,,Nj - nombre de points le long d'un méridien,,,,,Operational
+"Modèle de définition de la grille 3.0 — Grille latitude/longitude (ou équidistante cylindrique, ou Plate Carrée)",39-42,,Angle de base du domaine de production initial,(voir la note 1),,,,Operational
+"Modèle de définition de la grille 3.0 — Grille latitude/longitude (ou équidistante cylindrique, ou Plate Carrée)",43-46,,Subdivisions de l'angle de base utilisées pour indiquer les longitudes et latitudes extrêmes et les incréments de direction,(voir la note 1),,,,Operational
+"Modèle de définition de la grille 3.0 — Grille latitude/longitude (ou équidistante cylindrique, ou Plate Carrée)",47-50,,La1 - latitude du premier point de la grille,(voir la note 1),,,,Operational
+"Modèle de définition de la grille 3.0 — Grille latitude/longitude (ou équidistante cylindrique, ou Plate Carrée)",51-54,,Lo1 - longitude du premier point de la grille,(voir la note 1),,,,Operational
+"Modèle de définition de la grille 3.0 — Grille latitude/longitude (ou équidistante cylindrique, ou Plate Carrée)",55,,Indicateurs de résolution et de composantes,(voir la table d'indicateurs 3.3),,,,Operational
+"Modèle de définition de la grille 3.0 — Grille latitude/longitude (ou équidistante cylindrique, ou Plate Carrée)",56-59,,La2 - latitude du dernier point de la grille,(voir la note 1),,,,Operational
+"Modèle de définition de la grille 3.0 — Grille latitude/longitude (ou équidistante cylindrique, ou Plate Carrée)",60-63,,Lo2 - longitude du dernier point de la grille,(voir la note 1),,,,Operational
+"Modèle de définition de la grille 3.0 — Grille latitude/longitude (ou équidistante cylindrique, ou Plate Carrée)",64-67,,Di - incrément de la direction i,(voir les notes 1 et 5),,,,Operational
+"Modèle de définition de la grille 3.0 — Grille latitude/longitude (ou équidistante cylindrique, ou Plate Carrée)",68-71,,Dj - incrément de la direction j,(voir les notes 1 et 5),,,,Operational
+"Modèle de définition de la grille 3.0 — Grille latitude/longitude (ou équidistante cylindrique, ou Plate Carrée)",72,,Mode d'exploration,(indicateurs – voir la table d'indicateurs 3.4),,,,Operational
+"Modèle de définition de la grille 3.0 — Grille latitude/longitude (ou équidistante cylindrique, ou Plate Carrée)",73-nn,,Liste de nombre de points le long de chaque méridien ou parallèle (ces octets ne s'appliquent qu'aux grilles quasi régulières dont il est question dans les notes 2 et 3),,,,,Operational

@@ -1,0 +1,10 @@
+Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status
+Table de code 4.11 – Type d'intervalle de temps,,0,,En réserve,,,,Operational
+Table de code 4.11 – Type d'intervalle de temps,,1,,Heures traitées successivement avec même heure de prévision et début de prévision incrémenté,,,,Operational
+Table de code 4.11 – Type d'intervalle de temps,,2,,Heures traitées successivement avec même début de prévision et heure de prévision incrémentée,,,,Operational
+Table de code 4.11 – Type d'intervalle de temps,,3,,Heures traitées successivement avec début de prévision incrémenté et heure de prévision décrémentée pour une période de validité constante,,,,Operational
+Table de code 4.11 – Type d'intervalle de temps,,4,,Heures traitées successivement avec début de prévision décrémenté et heure de prévision incrémentée pour une période de validité constante,,,,Operational
+Table de code 4.11 – Type d'intervalle de temps,,5,,Sous-intervalle de temps glissant entre l'heure de prévision et la fin de l'intervalle de temps complet*,"Le chiffre du code 5 s'applique au moment où un seul sous-intervalle de temps a été utilisé pour effectuer le calcul dans le domaine traité statistiquement. Les heures exactes de début et de fin du sous-intervalle ne sont pas données, mais l'on sait qu'elles sont comprises entre le début et la fin de l'intervalle de temps complet.",,,Operational
+Table de code 4.11 – Type d'intervalle de temps,,6-191,,En réserve,,,,Operational
+Table de code 4.11 – Type d'intervalle de temps,,192-254,,En réserve pour un usage local,,,,Operational
+Table de code 4.11 – Type d'intervalle de temps,,255,,Valeur manquante,,,,Operational

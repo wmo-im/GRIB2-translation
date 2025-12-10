@@ -1,0 +1,7 @@
+Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status
+Table de code 3.8 — Position des points de grille,,0,,Points de grille situés aux sommets des triangles,,,,Operational
+Table de code 3.8 — Position des points de grille,,1,,Points de grille situés au centre des triangles,,,,Operational
+Table de code 3.8 — Position des points de grille,,2,,Points de grille situés au centre des côtés des triangles,,,,Operational
+Table de code 3.8 — Position des points de grille,,3-191,,En réserve,,,,Operational
+Table de code 3.8 — Position des points de grille,,192-254,,En réserve pour un usage local,,,,Operational
+Table de code 3.8 — Position des points de grille,,255,,Valeur manquante,,,,Operational
