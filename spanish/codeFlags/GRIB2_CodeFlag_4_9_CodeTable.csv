@@ -1,13 +1,13 @@
-Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status
-Tabla de cifrado 4.9 – Tipo de probabilidad,,0,,Probabilidad del fenómeno inferior al límite inferior,,,,Operational
-Tabla de cifrado 4.9 – Tipo de probabilidad,,1,,Probabilidad del fenómeno superior al límite superior,,,,Operational
-Tabla de cifrado 4.9 – Tipo de probabilidad,,2,,"Probabilidad del fenómeno entre los límites inferior y superior (el intervalo incluye el límite inferior, pero no el superior)",,,,Operational
-Tabla de cifrado 4.9 – Tipo de probabilidad,,3,,Probabilidad del fenómeno superior al límite inferior,,,,Operational
-Tabla de cifrado 4.9 – Tipo de probabilidad,,4,,Probabilidad del fenómeno inferior al límite superior,,,,Operational
-Tabla de cifrado 4.9 – Tipo de probabilidad,,5,,Probabilidad del fenómeno equivalente al límite inferior,,,,Operational
-Tabla de cifrado 4.9 – Tipo de probabilidad,,6,,Probabilidad del fenómeno en la categoría superior a lo normal (véanse las notas 1 y 2),,,,Operational
-Tabla de cifrado 4.9 – Tipo de probabilidad,,7,,Probabilidad del fenómeno en la categoría próxima a lo normal (véanse las notas 1 y 2),,,,Operational
-Tabla de cifrado 4.9 – Tipo de probabilidad,,8,,Probabilidad del fenómeno en la categoría inferior a lo normal (véanse las notas 1 y 2),,,,Operational
-Tabla de cifrado 4.9 – Tipo de probabilidad,,9-191,,Reservadas,,,,Operational
-Tabla de cifrado 4.9 – Tipo de probabilidad,,192-254,,Reservadas para uso local,,,,Operational
-Tabla de cifrado 4.9 – Tipo de probabilidad,,255,,Valor faltante,,,,Operational
+ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translated_by
+grib2/4/9/0,Tabla de cifrado 4.9 – Tipo de probabilidad,,0,,Probabilidad del fenómeno inferior al límite inferior,,,,Operational,Original
+grib2/4/9/1,Tabla de cifrado 4.9 – Tipo de probabilidad,,1,,Probabilidad del fenómeno superior al límite superior,,,,Operational,Original
+grib2/4/9/2,Tabla de cifrado 4.9 – Tipo de probabilidad,,2,,"Probabilidad del fenómeno entre los límites inferior y superior (el intervalo incluye el límite inferior, pero no el superior)",,,,Operational,Original
+grib2/4/9/3,Tabla de cifrado 4.9 – Tipo de probabilidad,,3,,Probabilidad del fenómeno superior al límite inferior,,,,Operational,Original
+grib2/4/9/4,Tabla de cifrado 4.9 – Tipo de probabilidad,,4,,Probabilidad del fenómeno inferior al límite superior,,,,Operational,Original
+grib2/4/9/5,Tabla de cifrado 4.9 – Tipo de probabilidad,,5,,Probabilidad del fenómeno equivalente al límite inferior,,,,Operational,Original
+grib2/4/9/6,Tabla de cifrado 4.9 – Tipo de probabilidad,,6,,Probabilidad del fenómeno en la categoría superior a lo normal (véanse las notas 1 y 2),,,,Operational,Original
+grib2/4/9/7,Tabla de cifrado 4.9 – Tipo de probabilidad,,7,,Probabilidad del fenómeno en la categoría próxima a lo normal (véanse las notas 1 y 2),,,,Operational,Original
+grib2/4/9/8,Tabla de cifrado 4.9 – Tipo de probabilidad,,8,,Probabilidad del fenómeno en la categoría inferior a lo normal (véanse las notas 1 y 2),,,,Operational,Original
+grib2/4/9/9-191,Tabla de cifrado 4.9 – Tipo de probabilidad,,9-191,,Reservadas,,,,Operational,Original
+grib2/4/9/192-254,Tabla de cifrado 4.9 – Tipo de probabilidad,,192-254,,Reservadas para uso local,,,,Operational,Original
+grib2/4/9/255,Tabla de cifrado 4.9 – Tipo de probabilidad,,255,,Valor faltante,,,,Operational,Original

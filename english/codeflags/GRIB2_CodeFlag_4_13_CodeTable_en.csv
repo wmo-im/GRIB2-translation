@@ -1,6 +1,6 @@
-Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
-Quality control indicator,,0,,No quality control applied,,,,Operational
-Quality control indicator,,1,,Quality control applied,,,,Operational
-Quality control indicator,,2-191,,Reserved,,,,Operational
-Quality control indicator,,192-254,,Reserved for local use,,,,Operational
-Quality control indicator,,255,,Missing,,,,Operational
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
+grib2/4/13/0,Quality control indicator,,0,,No quality control applied,,,,Operational,Original
+grib2/4/13/1,Quality control indicator,,1,,Quality control applied,,,,Operational,Original
+grib2/4/13/2-191,Quality control indicator,,2-191,,Reserved,,,,Operational,Original
+grib2/4/13/192-254,Quality control indicator,,192-254,,Reserved for local use,,,,Operational,Original
+grib2/4/13/255,Quality control indicator,,255,,Missing,,,,Operational,Original

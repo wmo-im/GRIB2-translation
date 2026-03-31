@@ -1,4 +1,4 @@
-Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status
-Tabla de banderines 3.9 — Orden de numeración de los rombos vistos desde el polo correspondiente,,1,0,Orientación en el sentido de las manecillas del reloj,,,,Operational
-Tabla de banderines 3.9 — Orden de numeración de los rombos vistos desde el polo correspondiente,,1,1,Orientación en el sentido contrario de las manecillas del reloj,,,,Operational
-Tabla de banderines 3.9 — Orden de numeración de los rombos vistos desde el polo correspondiente,,2-8,,Reservados,,,,Operational
+ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translated_by
+grib2/3/9/1/0,Tabla de banderines 3.9 — Orden de numeración de los rombos vistos desde el polo correspondiente,,1,0,Orientación en el sentido de las manecillas del reloj,,,,Operational,Original
+grib2/3/9/1/1,Tabla de banderines 3.9 — Orden de numeración de los rombos vistos desde el polo correspondiente,,1,1,Orientación en el sentido contrario de las manecillas del reloj,,,,Operational,Original
+grib2/3/9/2-8,Tabla de banderines 3.9 — Orden de numeración de los rombos vistos desde el polo correspondiente,,2-8,,Reservados,,,,Operational,Original

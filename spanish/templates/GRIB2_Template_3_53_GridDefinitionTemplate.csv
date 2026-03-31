@@ -1,8 +1,8 @@
-Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status
-Modelo de definición de la retícula 3.53 Coeficientes armónicos esféricos después de la dilatación y la rotación,15-28,,Idéntico al Modelo de definición de la retícula 3.50,,,,,Operational
-Modelo de definición de la retícula 3.53 Coeficientes armónicos esféricos después de la dilatación y la rotación,29-32,,Latitud del polo sur de la proyección,,,,,Operational
-Modelo de definición de la retícula 3.53 Coeficientes armónicos esféricos después de la dilatación y la rotación,33-36,,Longitud del polo sur de la proyección,,,,,Operational
-Modelo de definición de la retícula 3.53 Coeficientes armónicos esféricos después de la dilatación y la rotación,37-40,,Ángulo de rotación de la proyección,,,,,Operational
-Modelo de definición de la retícula 3.53 Coeficientes armónicos esféricos después de la dilatación y la rotación,41-44,,Latitud del polo de dilatación,,,,,Operational
-Modelo de definición de la retícula 3.53 Coeficientes armónicos esféricos después de la dilatación y la rotación,45-48,,Longitud del polo de dilatación,,,,,Operational
-Modelo de definición de la retícula 3.53 Coeficientes armónicos esféricos después de la dilatación y la rotación,49-52,,Factor de dilatación,,,,,Operational
+ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translated_by
+grib2/3/53/15-28,Modelo de definición de la retícula 3.53 Coeficientes armónicos esféricos después de la dilatación y la rotación,15-28,,Idéntico al Modelo de definición de la retícula 3.50,,,,,Operational,Original
+grib2/3/53/29-32,Modelo de definición de la retícula 3.53 Coeficientes armónicos esféricos después de la dilatación y la rotación,29-32,,Latitud del polo sur de la proyección,,,,,Operational,Original
+grib2/3/53/33-36,Modelo de definición de la retícula 3.53 Coeficientes armónicos esféricos después de la dilatación y la rotación,33-36,,Longitud del polo sur de la proyección,,,,,Operational,Original
+grib2/3/53/37-40,Modelo de definición de la retícula 3.53 Coeficientes armónicos esféricos después de la dilatación y la rotación,37-40,,Ángulo de rotación de la proyección,,,,,Operational,Original
+grib2/3/53/41-44,Modelo de definición de la retícula 3.53 Coeficientes armónicos esféricos después de la dilatación y la rotación,41-44,,Latitud del polo de dilatación,,,,,Operational,Original
+grib2/3/53/45-48,Modelo de definición de la retícula 3.53 Coeficientes armónicos esféricos después de la dilatación y la rotación,45-48,,Longitud del polo de dilatación,,,,,Operational,Original
+grib2/3/53/49-52,Modelo de definición de la retícula 3.53 Coeficientes armónicos esféricos después de la dilatación y la rotación,49-52,,Factor de dilatación,,,,,Operational,Original

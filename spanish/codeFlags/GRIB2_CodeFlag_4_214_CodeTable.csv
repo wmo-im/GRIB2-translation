@@ -1,11 +1,11 @@
-Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status
-Tabla de cifrado 4.214 – Calificador de factores ambientales,,0,,Pésimo,,,,Operational
-Tabla de cifrado 4.214 – Calificador de factores ambientales,,1,,Muy malo,,,,Operational
-Tabla de cifrado 4.214 – Calificador de factores ambientales,,2,,Malo,,,,Operational
-Tabla de cifrado 4.214 – Calificador de factores ambientales,,3,,Regular,,,,Operational
-Tabla de cifrado 4.214 – Calificador de factores ambientales,,4,,Bueno,,,,Operational
-Tabla de cifrado 4.214 – Calificador de factores ambientales,,5,,Excelente,,,,Operational
-Tabla de cifrado 4.214 – Calificador de factores ambientales,,6-190,,Reservadas,,,,Operational
-Tabla de cifrado 4.214 – Calificador de factores ambientales,,191,,Desconocida,,,,Operational
-Tabla de cifrado 4.214 – Calificador de factores ambientales,,192-254,,Reservadas para uso local,,,,Operational
-Tabla de cifrado 4.214 – Calificador de factores ambientales,,255,,Valor faltante,,,,Operational
+ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translated_by
+grib2/4/214/0,Tabla de cifrado 4.214 – Calificador de factores ambientales,,0,,Pésimo,,,,Operational,Original
+grib2/4/214/1,Tabla de cifrado 4.214 – Calificador de factores ambientales,,1,,Muy malo,,,,Operational,Original
+grib2/4/214/2,Tabla de cifrado 4.214 – Calificador de factores ambientales,,2,,Malo,,,,Operational,Original
+grib2/4/214/3,Tabla de cifrado 4.214 – Calificador de factores ambientales,,3,,Regular,,,,Operational,Original
+grib2/4/214/4,Tabla de cifrado 4.214 – Calificador de factores ambientales,,4,,Bueno,,,,Operational,Original
+grib2/4/214/5,Tabla de cifrado 4.214 – Calificador de factores ambientales,,5,,Excelente,,,,Operational,Original
+grib2/4/214/6-190,Tabla de cifrado 4.214 – Calificador de factores ambientales,,6-190,,Reservadas,,,,Operational,Original
+grib2/4/214/191,Tabla de cifrado 4.214 – Calificador de factores ambientales,,191,,Desconocida,,,,Operational,Original
+grib2/4/214/192-254,Tabla de cifrado 4.214 – Calificador de factores ambientales,,192-254,,Reservadas para uso local,,,,Operational,Original
+grib2/4/214/255,Tabla de cifrado 4.214 – Calificador de factores ambientales,,255,,Valor faltante,,,,Operational,Original

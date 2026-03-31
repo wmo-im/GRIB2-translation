@@ -1,13 +1,13 @@
-Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
-NWP model,,1,,"AROME (Meso scale NWP, Meteo-France)",,,,Operational
-NWP model,,2,,"ARPEGE (Global scale NWP, Meteo-France)",,,,Operational
-NWP model,,3,,"GFS (Global forecast system, NCEP)",,,,Operational
-NWP model,,4,,HARMONIE (HIRLAM-ALADIN Research on Mesoscale Operational NWP),,,,Operational
-NWP model,,5,,HIRLAM (HIgh resolution Limited Area Model),,,,Operational
-NWP model,,6,,IFS (Integrated Forecast System),,,,Operational
-NWP model,,7,,GEM GDPS (Canadian Global Deterministic Prediction System),,,,Operational
-NWP model,,8,,GEM RDPS (Canadian Regional Deterministic Prediction System),,,,Operational
-NWP model,,9,,GEM HRDPS (Canadian High Resolution Deterministic Prediction System),,,,Operational
-NWP model,,10,,WRF (Weather Research and Forecasting),,,,Operational
-NWP model,,11-254,,Reserved,,,,Operational
-NWP model,,255,,Missing value,,,,Operational
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
+grib2/4/336/1,NWP model,,1,,"AROME (Meso scale NWP, Meteo-France)",,,,Operational,Original
+grib2/4/336/2,NWP model,,2,,"ARPEGE (Global scale NWP, Meteo-France)",,,,Operational,Original
+grib2/4/336/3,NWP model,,3,,"GFS (Global forecast system, NCEP)",,,,Operational,Original
+grib2/4/336/4,NWP model,,4,,HARMONIE (HIRLAM-ALADIN Research on Mesoscale Operational NWP),,,,Operational,Original
+grib2/4/336/5,NWP model,,5,,HIRLAM (HIgh resolution Limited Area Model),,,,Operational,Original
+grib2/4/336/6,NWP model,,6,,IFS (Integrated Forecast System),,,,Operational,Original
+grib2/4/336/7,NWP model,,7,,GEM GDPS (Canadian Global Deterministic Prediction System),,,,Operational,Original
+grib2/4/336/8,NWP model,,8,,GEM RDPS (Canadian Regional Deterministic Prediction System),,,,Operational,Original
+grib2/4/336/9,NWP model,,9,,GEM HRDPS (Canadian High Resolution Deterministic Prediction System),,,,Operational,Original
+grib2/4/336/10,NWP model,,10,,WRF (Weather Research and Forecasting),,,,Operational,Original
+grib2/4/336/11-254,NWP model,,11-254,,Reserved,,,,Operational,Original
+grib2/4/336/255,NWP model,,255,,Missing value,,,,Operational,Original

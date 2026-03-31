@@ -1,8 +1,8 @@
-Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status
-"Armónicos esféricos, empaquetado complejo",12-20,,Idéntico al modelo de representación de los datos 5.50,,,,,Operational
-"Armónicos esféricos, empaquetado complejo",21-24,,P - factor de escala laplaciano (expresado en unidades de 10-6),,,,,Operational
-"Armónicos esféricos, empaquetado complejo",25-26,,Js - parámetro de resolución pentagonal de la subserie desempaquetada,(véase la nota 1),,,,Operational
-"Armónicos esféricos, empaquetado complejo",27-28,,Ks - parámetro de resolución pentagonal de la subserie desempaquetada,(véase la nota 1),,,,Operational
-"Armónicos esféricos, empaquetado complejo",29-30,,Ms - parámetro de resolución pentagonal de la subserie desempaquetada,(véase la nota 1),,,,Operational
-"Armónicos esféricos, empaquetado complejo",31-34,,Ts - número total de valores que figuran en la subserie desempaquetada,(véase la nota 1),,,,Operational
-"Armónicos esféricos, empaquetado complejo",35,,Precisión de la subserie desempaquetada,(véase la Tabla de cifrado 5.7),,,,Operational
+ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translated_by
+grib2/5/51/12-20,"Armónicos esféricos, empaquetado complejo",12-20,,Idéntico al modelo de representación de los datos 5.50,,,,,Operational,Original
+grib2/5/51/21-24,"Armónicos esféricos, empaquetado complejo",21-24,,P - factor de escala laplaciano (expresado en unidades de 10-6),,,,,Operational,Original
+grib2/5/51/25-26,"Armónicos esféricos, empaquetado complejo",25-26,,Js - parámetro de resolución pentagonal de la subserie desempaquetada,(véase la nota 1),,,,Operational,Original
+grib2/5/51/27-28,"Armónicos esféricos, empaquetado complejo",27-28,,Ks - parámetro de resolución pentagonal de la subserie desempaquetada,(véase la nota 1),,,,Operational,Original
+grib2/5/51/29-30,"Armónicos esféricos, empaquetado complejo",29-30,,Ms - parámetro de resolución pentagonal de la subserie desempaquetada,(véase la nota 1),,,,Operational,Original
+grib2/5/51/31-34,"Armónicos esféricos, empaquetado complejo",31-34,,Ts - número total de valores que figuran en la subserie desempaquetada,(véase la nota 1),,,,Operational,Original
+grib2/5/51/35,"Armónicos esféricos, empaquetado complejo",35,,Precisión de la subserie desempaquetada,(véase la Tabla de cifrado 5.7),,,,Operational,Original

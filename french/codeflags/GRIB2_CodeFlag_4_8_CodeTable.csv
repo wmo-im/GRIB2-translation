@@ -1,6 +1,6 @@
-Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status
-Table de code 4.8 – Méthode de groupement,,0,,Corrélation d'anomalie,,,,Operational
-Table de code 4.8 – Méthode de groupement,,1,,Moyenne quadratique,,,,Operational
-Table de code 4.8 – Méthode de groupement,,2-191,,En réserve,,,,Operational
-Table de code 4.8 – Méthode de groupement,,192-254,,En réserve pour un usage local,,,,Operational
-Table de code 4.8 – Méthode de groupement,,255,,Valeur manquante,,,,Operational
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
+grib2/4/8/0,Table de code 4.8 – Méthode de groupement,,0,,Corrélation d'anomalie,,,,Operational,Original
+grib2/4/8/1,Table de code 4.8 – Méthode de groupement,,1,,Moyenne quadratique,,,,Operational,Original
+grib2/4/8/2-191,Table de code 4.8 – Méthode de groupement,,2-191,,En réserve,,,,Operational,Original
+grib2/4/8/192-254,Table de code 4.8 – Méthode de groupement,,192-254,,En réserve pour un usage local,,,,Operational,Original
+grib2/4/8/255,Table de code 4.8 – Méthode de groupement,,255,,Valeur manquante,,,,Operational,Original

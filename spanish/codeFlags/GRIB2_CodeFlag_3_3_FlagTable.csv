@@ -1,9 +1,9 @@
-Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status
-Tabla de banderines 3.3 — Banderines de resolución y de componentes,,1-2,,Reservado,,,,Operational
-Tabla de banderines 3.3 — Banderines de resolución y de componentes,,3,0.0,Incrementos no indicados en la dirección i,,,,Operational
-Tabla de banderines 3.3 — Banderines de resolución y de componentes,,3,1.0,Incrementos indicados en la dirección i,,,,Operational
-Tabla de banderines 3.3 — Banderines de resolución y de componentes,,4,0.0,Incrementos no indicados en la dirección j,,,,Operational
-Tabla de banderines 3.3 — Banderines de resolución y de componentes,,4,1.0,Incrementos indicados en la dirección j,,,,Operational
-Tabla de banderines 3.3 — Banderines de resolución y de componentes,,5,0.0,Componentes u y v calculados de las cantidades vectoriales por relación con las direcciones este y norte,,,,Operational
-Tabla de banderines 3.3 — Banderines de resolución y de componentes,,5,1.0,"Componentes u y v calculados de las cantidades vectoriales por relación a la retícula definida en la dirección de las coordenadas crecientes x e y (o i y j), respectivamente",,,,Operational
-Tabla de banderines 3.3 — Banderines de resolución y de componentes,,6-8,,Reservados — fijados en cero,,,,Operational
+ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translated_by
+grib2/3/3/1-2,Tabla de banderines 3.3 — Banderines de resolución y de componentes,,1-2,,Reservado,,,,Operational,Original
+grib2/3/3/3/0.0,Tabla de banderines 3.3 — Banderines de resolución y de componentes,,3,0.0,Incrementos no indicados en la dirección i,,,,Operational,Original
+grib2/3/3/3/1.0,Tabla de banderines 3.3 — Banderines de resolución y de componentes,,3,1.0,Incrementos indicados en la dirección i,,,,Operational,Original
+grib2/3/3/4/0.0,Tabla de banderines 3.3 — Banderines de resolución y de componentes,,4,0.0,Incrementos no indicados en la dirección j,,,,Operational,Original
+grib2/3/3/4/1.0,Tabla de banderines 3.3 — Banderines de resolución y de componentes,,4,1.0,Incrementos indicados en la dirección j,,,,Operational,Original
+grib2/3/3/5/0.0,Tabla de banderines 3.3 — Banderines de resolución y de componentes,,5,0.0,Componentes u y v calculados de las cantidades vectoriales por relación con las direcciones este y norte,,,,Operational,Original
+grib2/3/3/5/1.0,Tabla de banderines 3.3 — Banderines de resolución y de componentes,,5,1.0,"Componentes u y v calculados de las cantidades vectoriales por relación a la retícula definida en la dirección de las coordenadas crecientes x e y (o i y j), respectivamente",,,,Operational,Original
+grib2/3/3/6-8,Tabla de banderines 3.3 — Banderines de resolución y de componentes,,6-8,,Reservados — fijados en cero,,,,Operational,Original

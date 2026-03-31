@@ -1,7 +1,7 @@
-Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
-Precipitation intensity,,0,,No precipitation occurrence,,,,Operational
-Precipitation intensity,,1,,Light precipitation,,,,Operational
-Precipitation intensity,,2,,Moderate precipitation,,,,Operational
-Precipitation intensity,,3,,Heavy precipitation,,,,Operational
-Precipitation intensity,,4-254,,Reserved,,,,Operational
-Precipitation intensity,,255,,Missing,,,,Operational
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
+grib2/4/247/0,Precipitation intensity,,0,,No precipitation occurrence,,,,Operational,Original
+grib2/4/247/1,Precipitation intensity,,1,,Light precipitation,,,,Operational,Original
+grib2/4/247/2,Precipitation intensity,,2,,Moderate precipitation,,,,Operational,Original
+grib2/4/247/3,Precipitation intensity,,3,,Heavy precipitation,,,,Operational,Original
+grib2/4/247/4-254,Precipitation intensity,,4-254,,Reserved,,,,Operational,Original
+grib2/4/247/255,Precipitation intensity,,255,,Missing,,,,Operational,Original

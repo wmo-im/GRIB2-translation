@@ -1,6 +1,6 @@
-Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status
-Table de code 4.206 – Cendres volcaniques,,0,,Absence de cendres volcaniques,,,,Operational
-Table de code 4.206 – Cendres volcaniques,,1,,Présence de cendres volcaniques,,,,Operational
-Table de code 4.206 – Cendres volcaniques,,2-191,,En réserve,,,,Operational
-Table de code 4.206 – Cendres volcaniques,,192-254,,En réserve pour un usage local,,,,Operational
-Table de code 4.206 – Cendres volcaniques,,255,,Valeur manquante,,,,Operational
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
+grib2/4/206/0,Table de code 4.206 – Cendres volcaniques,,0,,Absence de cendres volcaniques,,,,Operational,Original
+grib2/4/206/1,Table de code 4.206 – Cendres volcaniques,,1,,Présence de cendres volcaniques,,,,Operational,Original
+grib2/4/206/2-191,Table de code 4.206 – Cendres volcaniques,,2-191,,En réserve,,,,Operational,Original
+grib2/4/206/192-254,Table de code 4.206 – Cendres volcaniques,,192-254,,En réserve pour un usage local,,,,Operational,Original
+grib2/4/206/255,Table de code 4.206 – Cendres volcaniques,,255,,Valeur manquante,,,,Operational,Original

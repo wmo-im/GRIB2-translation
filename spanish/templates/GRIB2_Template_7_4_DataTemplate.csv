@@ -1,2 +1,2 @@
-Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status
-Datos de puntos de retícula – Datos de coma flotante IEEE,6-nn,,Valores de datos binarios,,,,,Operational
+ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translated_by
+grib2/7/4/6-nn,Datos de puntos de retícula – Datos de coma flotante IEEE,6-nn,,Valores de datos binarios,,,,,Operational,Original

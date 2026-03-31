@@ -1,19 +1,19 @@
-Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status
-Modelo de definición del producto 4.15,10,,Categoría del parámetro,véase la Tabla de cifrado 4.1,,,,Operational
-Modelo de definición del producto 4.15,11,,Número del parámetro,véase la Tabla de cifrado 4.2,,,,Operational
-Modelo de definición del producto 4.15,12,,Tipo de proceso de generación,véase la Tabla de cifrado 4.3,,,,Operational
-Modelo de definición del producto 4.15,13,,Identificador del proceso de generación de base,definido por el centro de origen,,,,Operational
-Modelo de definición del producto 4.15,14,,Identificador del proceso de generación del análisis o de la previsión,definido por el centro de origen,,,,Operational
-Modelo de definición del producto 4.15,15-16,,Límite (horas) de la recogida de los datos de observación después de la hora de referencia,véase la nota,,,,Operational
-Modelo de definición del producto 4.15,17,,Límite (minutos) de la recogida de los datos de observación después de la hora de referencia,,,,,Operational
-Modelo de definición del producto 4.15,18,,Indicador de unidad del intervalo de tiempo,véase la Tabla de cifrado 4.4,,,,Operational
-Modelo de definición del producto 4.15,19-22,,Hora de la previsión expresada en la unidad precisada por el octeto 18,,,,,Operational
-Modelo de definición del producto 4.15,23,,Tipo de la primera superficie especificada,véase la Tabla de cifrado 4.5,,,,Operational
-Modelo de definición del producto 4.15,24,,Factor de escala de la primera superficie especificada,,,,,Operational
-Modelo de definición del producto 4.15,25-28,,Valor ajustado de la primera superficie especificada,,,,,Operational
-Modelo de definición del producto 4.15,29,,Tipo de la segunda superficie especificada,véase la Tabla de cifrado 4.5,,,,Operational
-Modelo de definición del producto 4.15,30,,Factor de escala de la segunda superficie especificada,,,,,Operational
-Modelo de definición del producto 4.15,31-34,,Valor ajustado de la segunda superficie especificada,,,,,Operational
-Modelo de definición del producto 4.15,35,,Cálculo estadístico empleado en la zona precisada por el octeto 36,véase la Tabla de cifrado 4.10,,,,Operational
-Modelo de definición del producto 4.15,36,,Tipo de tratamiento espacial utilizado para obtener un determinado valor a partir de los datos fuente,véase la Tabla de cifrado 4.15,,,,Operational
-Modelo de definición del producto 4.15,37,,Número de puntos de datos utilizados en el tratamiento espacial precisado por el octeto 36,,,,,Operational
+ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translated_by
+grib2/4/15/10,Modelo de definición del producto 4.15,10,,Categoría del parámetro,véase la Tabla de cifrado 4.1,,,,Operational,Original
+grib2/4/15/11,Modelo de definición del producto 4.15,11,,Número del parámetro,véase la Tabla de cifrado 4.2,,,,Operational,Original
+grib2/4/15/12,Modelo de definición del producto 4.15,12,,Tipo de proceso de generación,véase la Tabla de cifrado 4.3,,,,Operational,Original
+grib2/4/15/13,Modelo de definición del producto 4.15,13,,Identificador del proceso de generación de base,definido por el centro de origen,,,,Operational,Original
+grib2/4/15/14,Modelo de definición del producto 4.15,14,,Identificador del proceso de generación del análisis o de la previsión,definido por el centro de origen,,,,Operational,Original
+grib2/4/15/15-16,Modelo de definición del producto 4.15,15-16,,Límite (horas) de la recogida de los datos de observación después de la hora de referencia,véase la nota,,,,Operational,Original
+grib2/4/15/17,Modelo de definición del producto 4.15,17,,Límite (minutos) de la recogida de los datos de observación después de la hora de referencia,,,,,Operational,Original
+grib2/4/15/18,Modelo de definición del producto 4.15,18,,Indicador de unidad del intervalo de tiempo,véase la Tabla de cifrado 4.4,,,,Operational,Original
+grib2/4/15/19-22,Modelo de definición del producto 4.15,19-22,,Hora de la previsión expresada en la unidad precisada por el octeto 18,,,,,Operational,Original
+grib2/4/15/23,Modelo de definición del producto 4.15,23,,Tipo de la primera superficie especificada,véase la Tabla de cifrado 4.5,,,,Operational,Original
+grib2/4/15/24,Modelo de definición del producto 4.15,24,,Factor de escala de la primera superficie especificada,,,,,Operational,Original
+grib2/4/15/25-28,Modelo de definición del producto 4.15,25-28,,Valor ajustado de la primera superficie especificada,,,,,Operational,Original
+grib2/4/15/29,Modelo de definición del producto 4.15,29,,Tipo de la segunda superficie especificada,véase la Tabla de cifrado 4.5,,,,Operational,Original
+grib2/4/15/30,Modelo de definición del producto 4.15,30,,Factor de escala de la segunda superficie especificada,,,,,Operational,Original
+grib2/4/15/31-34,Modelo de definición del producto 4.15,31-34,,Valor ajustado de la segunda superficie especificada,,,,,Operational,Original
+grib2/4/15/35,Modelo de definición del producto 4.15,35,,Cálculo estadístico empleado en la zona precisada por el octeto 36,véase la Tabla de cifrado 4.10,,,,Operational,Original
+grib2/4/15/36,Modelo de definición del producto 4.15,36,,Tipo de tratamiento espacial utilizado para obtener un determinado valor a partir de los datos fuente,véase la Tabla de cifrado 4.15,,,,Operational,Original
+grib2/4/15/37,Modelo de definición del producto 4.15,37,,Número de puntos de datos utilizados en el tratamiento espacial precisado por el octeto 36,,,,,Operational,Original

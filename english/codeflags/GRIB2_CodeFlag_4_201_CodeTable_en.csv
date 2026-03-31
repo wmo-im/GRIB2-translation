@@ -1,19 +1,19 @@
-Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
-Precipitation type,,0,,No precipitation,,,,Operational
-Precipitation type,,1,,Rain,,,,Operational
-Precipitation type,,2,,Thunderstorm,,,,Operational
-Precipitation type,,3,,Freezing rain,,,,Operational
-Precipitation type,,4,,Mixed/ice,,,,Operational
-Precipitation type,,5,,Snow,,,,Operational
-Precipitation type,,6,,Wet snow,,,,Operational
-Precipitation type,,7,,Mixture of rain and snow,,,,Operational
-Precipitation type,,8,,Ice pellets,,,,Operational
-Precipitation type,,9,,Graupel,,,,Operational
-Precipitation type,,10,,Hail,,,,Operational
-Precipitation type,,11,,Drizzle,,,,Operational
-Precipitation type,,12,,Freezing drizzle,,,,Operational
-Precipitation type,,13,,Hail (less than 5 mm),,,,Operational
-Precipitation type,,14,,Hail (greater than or equal to 5 mm),,,,Operational
-Precipitation type,,15-191,,Reserved,,,,Operational
-Precipitation type,,192-254,,Reserved for local use,,,,Operational
-Precipitation type,,255,,Missing,,,,Operational
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
+grib2/4/201/0,Precipitation type,,0,,No precipitation,,,,Operational,Original
+grib2/4/201/1,Precipitation type,,1,,Rain,,,,Operational,Original
+grib2/4/201/2,Precipitation type,,2,,Thunderstorm,,,,Operational,Original
+grib2/4/201/3,Precipitation type,,3,,Freezing rain,,,,Operational,Original
+grib2/4/201/4,Precipitation type,,4,,Mixed/ice,,,,Operational,Original
+grib2/4/201/5,Precipitation type,,5,,Snow,,,,Operational,Original
+grib2/4/201/6,Precipitation type,,6,,Wet snow,,,,Operational,Original
+grib2/4/201/7,Precipitation type,,7,,Mixture of rain and snow,,,,Operational,Original
+grib2/4/201/8,Precipitation type,,8,,Ice pellets,,,,Operational,Original
+grib2/4/201/9,Precipitation type,,9,,Graupel,,,,Operational,Original
+grib2/4/201/10,Precipitation type,,10,,Hail,,,,Operational,Original
+grib2/4/201/11,Precipitation type,,11,,Drizzle,,,,Operational,Original
+grib2/4/201/12,Precipitation type,,12,,Freezing drizzle,,,,Operational,Original
+grib2/4/201/13,Precipitation type,,13,,Hail (less than 5 mm),,,,Operational,Original
+grib2/4/201/14,Precipitation type,,14,,Hail (greater than or equal to 5 mm),,,,Operational,Original
+grib2/4/201/15-191,Precipitation type,,15-191,,Reserved,,,,Operational,Original
+grib2/4/201/192-254,Precipitation type,,192-254,,Reserved for local use,,,,Operational,Original
+grib2/4/201/255,Precipitation type,,255,,Missing,,,,Operational,Original

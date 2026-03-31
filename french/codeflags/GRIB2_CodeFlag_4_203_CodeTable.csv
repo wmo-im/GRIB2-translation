@@ -1,26 +1,26 @@
-Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status
-Table de code 4.203 – Type de nuage,,0,,Ciel clair,,,,Operational
-Table de code 4.203 – Type de nuage,,1,,Cumulonimbus,,,,Operational
-Table de code 4.203 – Type de nuage,,2,,Stratus,,,,Operational
-Table de code 4.203 – Type de nuage,,3,,Stratocumulus,,,,Operational
-Table de code 4.203 – Type de nuage,,4,,Cumulus,,,,Operational
-Table de code 4.203 – Type de nuage,,5,,Altostratus,,,,Operational
-Table de code 4.203 – Type de nuage,,6,,Nimbostratus,,,,Operational
-Table de code 4.203 – Type de nuage,,7,,Altocumulus,,,,Operational
-Table de code 4.203 – Type de nuage,,8,,Cirrostratus,,,,Operational
-Table de code 4.203 – Type de nuage,,9,,Cirrocumulus,,,,Operational
-Table de code 4.203 – Type de nuage,,10,,Cirrus,,,,Operational
-Table de code 4.203 – Type de nuage,,11,,Cumulonimbus - brouillard au sol au-dessous de la couche la plus basse,,,,Operational
-Table de code 4.203 – Type de nuage,,12,,Stratus - brouillard au sol au-dessous de la couche la plus basse,,,,Operational
-Table de code 4.203 – Type de nuage,,13,,Stratocumulus - brouillard au sol au-dessous de la couche la plus basse,,,,Operational
-Table de code 4.203 – Type de nuage,,14,,Cumulus - brouillard au sol au-dessous de la couche la plus basse,,,,Operational
-Table de code 4.203 – Type de nuage,,15,,Altostratus - brouillard au sol au-dessous de la couche la plus basse,,,,Operational
-Table de code 4.203 – Type de nuage,,16,,Nimbostratus - brouillard au sol au-dessous de la couche la plus basse,,,,Operational
-Table de code 4.203 – Type de nuage,,17,,Altocumulus - brouillard au sol au-dessous de la couche la plus basse,,,,Operational
-Table de code 4.203 – Type de nuage,,18,,Cirrostratus - brouillard au sol au-dessous de la couche la plus basse,,,,Operational
-Table de code 4.203 – Type de nuage,,19,,Cirrocumulus - brouillard au sol au-dessous de la couche la plus basse,,,,Operational
-Table de code 4.203 – Type de nuage,,20,,Cirrus - brouillard au sol au-dessous de la couche la plus basse,,,,Operational
-Table de code 4.203 – Type de nuage,,21-190,,En réserve,,,,Operational
-Table de code 4.203 – Type de nuage,,191,,Inconnu,,,,Operational
-Table de code 4.203 – Type de nuage,,192-254,,En réserve pour un usage local,,,,Operational
-Table de code 4.203 – Type de nuage,,255,,Valeur manquante,,,,Operational
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
+grib2/4/203/0,Table de code 4.203 – Type de nuage,,0,,Ciel clair,,,,Operational,Original
+grib2/4/203/1,Table de code 4.203 – Type de nuage,,1,,Cumulonimbus,,,,Operational,Original
+grib2/4/203/2,Table de code 4.203 – Type de nuage,,2,,Stratus,,,,Operational,Original
+grib2/4/203/3,Table de code 4.203 – Type de nuage,,3,,Stratocumulus,,,,Operational,Original
+grib2/4/203/4,Table de code 4.203 – Type de nuage,,4,,Cumulus,,,,Operational,Original
+grib2/4/203/5,Table de code 4.203 – Type de nuage,,5,,Altostratus,,,,Operational,Original
+grib2/4/203/6,Table de code 4.203 – Type de nuage,,6,,Nimbostratus,,,,Operational,Original
+grib2/4/203/7,Table de code 4.203 – Type de nuage,,7,,Altocumulus,,,,Operational,Original
+grib2/4/203/8,Table de code 4.203 – Type de nuage,,8,,Cirrostratus,,,,Operational,Original
+grib2/4/203/9,Table de code 4.203 – Type de nuage,,9,,Cirrocumulus,,,,Operational,Original
+grib2/4/203/10,Table de code 4.203 – Type de nuage,,10,,Cirrus,,,,Operational,Original
+grib2/4/203/11,Table de code 4.203 – Type de nuage,,11,,Cumulonimbus - brouillard au sol au-dessous de la couche la plus basse,,,,Operational,Original
+grib2/4/203/12,Table de code 4.203 – Type de nuage,,12,,Stratus - brouillard au sol au-dessous de la couche la plus basse,,,,Operational,Original
+grib2/4/203/13,Table de code 4.203 – Type de nuage,,13,,Stratocumulus - brouillard au sol au-dessous de la couche la plus basse,,,,Operational,Original
+grib2/4/203/14,Table de code 4.203 – Type de nuage,,14,,Cumulus - brouillard au sol au-dessous de la couche la plus basse,,,,Operational,Original
+grib2/4/203/15,Table de code 4.203 – Type de nuage,,15,,Altostratus - brouillard au sol au-dessous de la couche la plus basse,,,,Operational,Original
+grib2/4/203/16,Table de code 4.203 – Type de nuage,,16,,Nimbostratus - brouillard au sol au-dessous de la couche la plus basse,,,,Operational,Original
+grib2/4/203/17,Table de code 4.203 – Type de nuage,,17,,Altocumulus - brouillard au sol au-dessous de la couche la plus basse,,,,Operational,Original
+grib2/4/203/18,Table de code 4.203 – Type de nuage,,18,,Cirrostratus - brouillard au sol au-dessous de la couche la plus basse,,,,Operational,Original
+grib2/4/203/19,Table de code 4.203 – Type de nuage,,19,,Cirrocumulus - brouillard au sol au-dessous de la couche la plus basse,,,,Operational,Original
+grib2/4/203/20,Table de code 4.203 – Type de nuage,,20,,Cirrus - brouillard au sol au-dessous de la couche la plus basse,,,,Operational,Original
+grib2/4/203/21-190,Table de code 4.203 – Type de nuage,,21-190,,En réserve,,,,Operational,Original
+grib2/4/203/191,Table de code 4.203 – Type de nuage,,191,,Inconnu,,,,Operational,Original
+grib2/4/203/192-254,Table de code 4.203 – Type de nuage,,192-254,,En réserve pour un usage local,,,,Operational,Original
+grib2/4/203/255,Table de code 4.203 – Type de nuage,,255,,Valeur manquante,,,,Operational,Original

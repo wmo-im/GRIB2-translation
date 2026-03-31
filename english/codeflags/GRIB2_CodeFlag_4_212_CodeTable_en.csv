@@ -1,18 +1,18 @@
-Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
-Land use,,0,,Reserved,,,,Operational
-Land use,,1,,Urban land,,,,Operational
-Land use,,2,,Agriculture,,,,Operational
-Land use,,3,,Range land,,,,Operational
-Land use,,4,,Deciduous forest,,,,Operational
-Land use,,5,,Coniferous forest,,,,Operational
-Land use,,6,,Forest/wetland,,,,Operational
-Land use,,7,,Water,,,,Operational
-Land use,,8,,Wetlands,,,,Operational
-Land use,,9,,Desert,,,,Operational
-Land use,,10,,Tundra,,,,Operational
-Land use,,11,,Ice,,,,Operational
-Land use,,12,,Tropical forest,,,,Operational
-Land use,,13,,Savannah,,,,Operational
-Land use,,14-191,,Reserved,,,,Operational
-Land use,,192-254,,Reserved for local use,,,,Operational
-Land use,,255,,Missing,,,,Operational
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
+grib2/4/212/0,Land use,,0,,Reserved,,,,Operational,Original
+grib2/4/212/1,Land use,,1,,Urban land,,,,Operational,Original
+grib2/4/212/2,Land use,,2,,Agriculture,,,,Operational,Original
+grib2/4/212/3,Land use,,3,,Range land,,,,Operational,Original
+grib2/4/212/4,Land use,,4,,Deciduous forest,,,,Operational,Original
+grib2/4/212/5,Land use,,5,,Coniferous forest,,,,Operational,Original
+grib2/4/212/6,Land use,,6,,Forest/wetland,,,,Operational,Original
+grib2/4/212/7,Land use,,7,,Water,,,,Operational,Original
+grib2/4/212/8,Land use,,8,,Wetlands,,,,Operational,Original
+grib2/4/212/9,Land use,,9,,Desert,,,,Operational,Original
+grib2/4/212/10,Land use,,10,,Tundra,,,,Operational,Original
+grib2/4/212/11,Land use,,11,,Ice,,,,Operational,Original
+grib2/4/212/12,Land use,,12,,Tropical forest,,,,Operational,Original
+grib2/4/212/13,Land use,,13,,Savannah,,,,Operational,Original
+grib2/4/212/14-191,Land use,,14-191,,Reserved,,,,Operational,Original
+grib2/4/212/192-254,Land use,,192-254,,Reserved for local use,,,,Operational,Original
+grib2/4/212/255,Land use,,255,,Missing,,,,Operational,Original

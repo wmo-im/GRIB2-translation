@@ -1,6 +1,6 @@
-Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status
-"Datos en los puntos de la retícula, empaquetado simple",12-15,,Valor de referencia (R) (valor de coma flotante IEEE de 32 bits),,,,,Operational
-"Datos en los puntos de la retícula, empaquetado simple",16-17,,Factor de escala binario (E),,,,,Operational
-"Datos en los puntos de la retícula, empaquetado simple",18-19,,Factor de escala decimal (D),,,,,Operational
-"Datos en los puntos de la retícula, empaquetado simple",20,,Número de bits utilizados para cada valor empaquetado (empaquetado simple) o para cada valor de referencia de grupo (empaquetado complejo o diferenciación espacial),,,,,Operational
-"Datos en los puntos de la retícula, empaquetado simple",21,,Tipo de los valores del campo de origen,(véase la Tabla de cifrado 5.1),,,,Operational
+ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translated_by
+grib2/5/0/12-15,"Datos en los puntos de la retícula, empaquetado simple",12-15,,Valor de referencia (R) (valor de coma flotante IEEE de 32 bits),,,,,Operational,Original
+grib2/5/0/16-17,"Datos en los puntos de la retícula, empaquetado simple",16-17,,Factor de escala binario (E),,,,,Operational,Original
+grib2/5/0/18-19,"Datos en los puntos de la retícula, empaquetado simple",18-19,,Factor de escala decimal (D),,,,,Operational,Original
+grib2/5/0/20,"Datos en los puntos de la retícula, empaquetado simple",20,,Número de bits utilizados para cada valor empaquetado (empaquetado simple) o para cada valor de referencia de grupo (empaquetado complejo o diferenciación espacial),,,,,Operational,Original
+grib2/5/0/21,"Datos en los puntos de la retícula, empaquetado simple",21,,Tipo de los valores del campo de origen,(véase la Tabla de cifrado 5.1),,,,Operational,Original

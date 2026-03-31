@@ -1,6 +1,6 @@
-Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status
-Table de code 5.1 – Type des valeurs du champ d'origine,,0,,Virgule flottante,,,,Operational
-Table de code 5.1 – Type des valeurs du champ d'origine,,1,,Entier,,,,Operational
-Table de code 5.1 – Type des valeurs du champ d'origine,,2-191,,En réserve,,,,Operational
-Table de code 5.1 – Type des valeurs du champ d'origine,,192-254,,En réserve pour un usage local,,,,Operational
-Table de code 5.1 – Type des valeurs du champ d'origine,,255,,Valeur manquante,,,,Operational
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
+grib2/5/1/0,Table de code 5.1 – Type des valeurs du champ d'origine,,0,,Virgule flottante,,,,Operational,Original
+grib2/5/1/1,Table de code 5.1 – Type des valeurs du champ d'origine,,1,,Entier,,,,Operational,Original
+grib2/5/1/2-191,Table de code 5.1 – Type des valeurs du champ d'origine,,2-191,,En réserve,,,,Operational,Original
+grib2/5/1/192-254,Table de code 5.1 – Type des valeurs du champ d'origine,,192-254,,En réserve pour un usage local,,,,Operational,Original
+grib2/5/1/255,Table de code 5.1 – Type des valeurs du champ d'origine,,255,,Valeur manquante,,,,Operational,Original

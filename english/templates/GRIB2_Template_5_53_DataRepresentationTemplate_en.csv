@@ -1,12 +1,12 @@
-Title_en,OctetNo,OctetCount,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status
-spectral data for limited area models - complex packing,12-15,4,Reference value (R) (IEEE 32-bit floating-point value),,,,,Operational
-spectral data for limited area models - complex packing,16-17,2,Binary scale factor (E),,,,,Operational
-spectral data for limited area models - complex packing,18-19,2,Decimal scale factor (D),,,,,Operational
-spectral data for limited area models - complex packing,20,1,Number of bits used for each packed value (field width),,,,,Operational
-spectral data for limited area models - complex packing,21,1,Bi-Fourier sub-truncation type,(see Code table 5.25),,5.25,,Operational
-spectral data for limited area models - complex packing,22,1,Packing mode for axes,(see Code table 5.26),,5.26,,Operational
-spectral data for limited area models - complex packing,23-26,4,P - Laplacian scaling factor (expressed in 10-6 units),,,,,Operational
-spectral data for limited area models - complex packing,27-28,2,NS - bi-Fourier resolution parameter of the unpacked subset,(see Note 1),120,,,Operational
-spectral data for limited area models - complex packing,29-30,2,MS - bi-Fourier resolution parameter of the unpacked subset,(see Note 1),120,,,Operational
-spectral data for limited area models - complex packing,31-34,4,TS - total number of values in the unpacked subset,(see Note 1),120,,,Operational
-spectral data for limited area models - complex packing,35,1,Precision of the unpacked subset,(see Code table 5.7),,5.7,,Operational
+ID,Title_en,OctetNo,OctetCount,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status,translated_by
+grib2/5/53/12-15,spectral data for limited area models - complex packing,12-15,4,Reference value (R) (IEEE 32-bit floating-point value),,,,,Operational,Original
+grib2/5/53/16-17,spectral data for limited area models - complex packing,16-17,2,Binary scale factor (E),,,,,Operational,Original
+grib2/5/53/18-19,spectral data for limited area models - complex packing,18-19,2,Decimal scale factor (D),,,,,Operational,Original
+grib2/5/53/20,spectral data for limited area models - complex packing,20,1,Number of bits used for each packed value (field width),,,,,Operational,Original
+grib2/5/53/21,spectral data for limited area models - complex packing,21,1,Bi-Fourier sub-truncation type,(see Code table 5.25),,5.25,,Operational,Original
+grib2/5/53/22,spectral data for limited area models - complex packing,22,1,Packing mode for axes,(see Code table 5.26),,5.26,,Operational,Original
+grib2/5/53/23-26,spectral data for limited area models - complex packing,23-26,4,P - Laplacian scaling factor (expressed in 10-6 units),,,,,Operational,Original
+grib2/5/53/27-28,spectral data for limited area models - complex packing,27-28,2,NS - bi-Fourier resolution parameter of the unpacked subset,(see Note 1),120,,,Operational,Original
+grib2/5/53/29-30,spectral data for limited area models - complex packing,29-30,2,MS - bi-Fourier resolution parameter of the unpacked subset,(see Note 1),120,,,Operational,Original
+grib2/5/53/31-34,spectral data for limited area models - complex packing,31-34,4,TS - total number of values in the unpacked subset,(see Note 1),120,,,Operational,Original
+grib2/5/53/35,spectral data for limited area models - complex packing,35,1,Precision of the unpacked subset,(see Code table 5.7),,5.7,,Operational,Original

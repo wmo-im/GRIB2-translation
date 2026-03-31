@@ -1,7 +1,7 @@
-Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status
-Tabla de cifrado 5.7 - Precisión de los números con coma flotante,,0,,Reservada,,,,Operational
-Tabla de cifrado 5.7 - Precisión de los números con coma flotante,,1,,IEEE de 32 bits (I=4 en la Sección 7),,,,Operational
-Tabla de cifrado 5.7 - Precisión de los números con coma flotante,,2,,IEEE de 64 bits (I=8 en la Sección 7),,,,Operational
-Tabla de cifrado 5.7 - Precisión de los números con coma flotante,,3,,IEEE de 128 bits (I=16 en la Sección 7),,,,Operational
-Tabla de cifrado 5.7 - Precisión de los números con coma flotante,,4-254,,Reservadas,,,,Operational
-Tabla de cifrado 5.7 - Precisión de los números con coma flotante,,255,,Valor faltante,,,,Operational
+ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translated_by
+grib2/5/7/0,Tabla de cifrado 5.7 - Precisión de los números con coma flotante,,0,,Reservada,,,,Operational,Original
+grib2/5/7/1,Tabla de cifrado 5.7 - Precisión de los números con coma flotante,,1,,IEEE de 32 bits (I=4 en la Sección 7),,,,Operational,Original
+grib2/5/7/2,Tabla de cifrado 5.7 - Precisión de los números con coma flotante,,2,,IEEE de 64 bits (I=8 en la Sección 7),,,,Operational,Original
+grib2/5/7/3,Tabla de cifrado 5.7 - Precisión de los números con coma flotante,,3,,IEEE de 128 bits (I=16 en la Sección 7),,,,Operational,Original
+grib2/5/7/4-254,Tabla de cifrado 5.7 - Precisión de los números con coma flotante,,4-254,,Reservadas,,,,Operational,Original
+grib2/5/7/255,Tabla de cifrado 5.7 - Precisión de los números con coma flotante,,255,,Valor faltante,,,,Operational,Original

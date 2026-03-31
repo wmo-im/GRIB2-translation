@@ -1,9 +1,9 @@
-Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
-Spatial vicinity type,,0,,Circle [m],(see Note),152,,Operational
-Spatial vicinity type,,1,,"Rectangle [m,m]",(see Note),152,,Operational
-Spatial vicinity type,,2,,Square [m],(see Note),152,,Operational
-Spatial vicinity type,,3,,"Wedge [m,degree,degree]",(see Note),152,,Operational
-Spatial vicinity type,,4,,"Span of grid boxes centered around grid box i,j [x,y]",(see Note),152,,Operational
-Spatial vicinity type,,5-191,,Reserved,,,,Operational
-Spatial vicinity type,,192-254,,Reserved for local use,,,,Operational
-Spatial vicinity type,,255,,Missing,,,,Operational
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
+grib2/4/103/0,Spatial vicinity type,,0,,Circle [m],(see Note),152,,Operational,Original
+grib2/4/103/1,Spatial vicinity type,,1,,"Rectangle [m,m]",(see Note),152,,Operational,Original
+grib2/4/103/2,Spatial vicinity type,,2,,Square [m],(see Note),152,,Operational,Original
+grib2/4/103/3,Spatial vicinity type,,3,,"Wedge [m,degree,degree]",(see Note),152,,Operational,Original
+grib2/4/103/4,Spatial vicinity type,,4,,"Span of grid boxes centered around grid box i,j [x,y]",(see Note),152,,Operational,Original
+grib2/4/103/5-191,Spatial vicinity type,,5-191,,Reserved,,,,Operational,Original
+grib2/4/103/192-254,Spatial vicinity type,,192-254,,Reserved for local use,,,,Operational,Original
+grib2/4/103/255,Spatial vicinity type,,255,,Missing,,,,Operational,Original

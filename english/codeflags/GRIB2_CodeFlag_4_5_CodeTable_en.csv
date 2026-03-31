@@ -1,97 +1,97 @@
-Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status
-Fixed surface types and units,,0,,Reserved,,,,Operational
-Fixed surface types and units,,1,,Ground or water surface,,,-,Operational
-Fixed surface types and units,,2,,Cloud base level,,,-,Operational
-Fixed surface types and units,,3,,Level of cloud tops,,,-,Operational
-Fixed surface types and units,,4,,Level of 0 °C isotherm,,,-,Operational
-Fixed surface types and units,,5,,Level of adiabatic condensation lifted from the surface,,,-,Operational
-Fixed surface types and units,,6,,Maximum wind level,,,-,Operational
-Fixed surface types and units,,7,,Tropopause,,,-,Operational
-Fixed surface types and units,,8,,Nominal top of the atmosphere,,,-,Operational
-Fixed surface types and units,,9,,Sea bottom,,,-,Operational
-Fixed surface types and units,,10,,Entire atmosphere,,,-,Operational
-Fixed surface types and units,,11,,Cumulonimbus (CB) base,,,m,Operational
-Fixed surface types and units,,12,,Cumulonimbus (CB) top,,,m,Operational
-Fixed surface types and units,,13,,Lowest level where vertically integrated cloud cover exceeds the specified percentage (cloud base for a given percentage cloud cover),,,%,Operational
-Fixed surface types and units,,14,,Level of free convection (LFC),,,-,Operational
-Fixed surface types and units,,15,,Convective condensation level (CCL),,,-,Operational
-Fixed surface types and units,,16,,Level of neutral buoyancy or equilibrium level (LNB),,,-,Operational
-Fixed surface types and units,,17,,Departure level of the most unstable parcel of air (MUDL),,,-,Operational
-Fixed surface types and units,,18,,Departure level of a mixed layer parcel of air with specified layer depth,,,Pa,Operational
-Fixed surface types and units,,19,,Lowest level where cloud cover exceeds the specified percentage,(see Note 9),149,%,Operational
-Fixed surface types and units,,20,,Isothermal level,,,K,Operational
-Fixed surface types and units,,21,,Lowest level where mass density exceeds the specified value (base for a given threshold of mass density),,,kg m-3,Operational
-Fixed surface types and units,,22,,Highest level where mass density exceeds the specified value (top for a given threshold of mass density),,,kg m-3,Operational
-Fixed surface types and units,,23,,Lowest level where air concentration exceeds the specified value (base for a given threshold of air concentration),,,Bq m-3,Operational
-Fixed surface types and units,,24,,Highest level where air concentration exceeds the specified value (top for a given threshold of air concentration),,,Bq m-3,Operational
-Fixed surface types and units,,25,,Highest level where radar reflectivity exceeds the specified value (echo top for a given threshold of reflectivity),,,dBZ,Operational
-Fixed surface types and units,,26,,Convective cloud layer base,,,m,Operational
-Fixed surface types and units,,27,,Convective cloud layer top,,,m,Operational
-Fixed surface types and units,,28-29,,Reserved,,,,Operational
-Fixed surface types and units,,30,,Specified radius from the centre of the Sun,,,m,Operational
-Fixed surface types and units,,31,,Solar photosphere,,,,Operational
-Fixed surface types and units,,32,,Ionospheric D-region level,,,,Operational
-Fixed surface types and units,,33,,Ionospheric E-region level,,,,Operational
-Fixed surface types and units,,34,,Ionospheric F1-region level,,,,Operational
-Fixed surface types and units,,35,,Ionospheric F2-region level,,,,Operational
-Fixed surface types and units,,36,,Stratopause,,,,Operational
-Fixed surface types and units,,37-99,,Reserved,,,,Operational
-Fixed surface types and units,,100,,Isobaric surface,,,Pa,Operational
-Fixed surface types and units,,101,,Mean sea level,,,,Operational
-Fixed surface types and units,,102,,Specific altitude above mean sea level,,,m,Operational
-Fixed surface types and units,,103,,Specified height level above ground,,,m,Operational
-Fixed surface types and units,,104,,Sigma level,,,"""sigma"" value",Operational
-Fixed surface types and units,,105,,Hybrid level,,,-,Operational
-Fixed surface types and units,,106,,Depth below land surface,,,m,Operational
-Fixed surface types and units,,107,,Isentropic (theta) level,,,K,Operational
-Fixed surface types and units,,108,,Level at specified pressure difference from ground to level,,,Pa,Operational
-Fixed surface types and units,,109,,Potential vorticity surface,,,K m2 kg-1 s-1,Operational
-Fixed surface types and units,,110,,Reserved,,,,Operational
-Fixed surface types and units,,111,,Eta level,(see Note 1),85,-,Operational
-Fixed surface types and units,,112,,Reserved,,,,Operational
-Fixed surface types and units,,113,,Logarithmic hybrid level,,,,Operational
-Fixed surface types and units,,114,,Snow level,,,Numeric,Operational
-Fixed surface types and units,,115,,Sigma height level,(see Note 4),74,-,Operational
-Fixed surface types and units,,116,,Reserved,,,,Operational
-Fixed surface types and units,,117,,Mixed layer depth,,,m,Operational
-Fixed surface types and units,,118,,Hybrid height level,(see Note 2),54,-,Operational
-Fixed surface types and units,,119,,Hybrid pressure level,(see Note 3),55,-,Operational
-Fixed surface types and units,,120-149,,Reserved,,,,Operational
-Fixed surface types and units,,150,,Generalized vertical height coordinate,(see Note 5),84,,Operational
-Fixed surface types and units,,151,,Soil level,(see Note 6),100,Numeric,Operational
-Fixed surface types and units,,152,,Sea-ice level,(see Note 8),99,Numeric,Operational
-Fixed surface types and units,,153-159,,Reserved,,,,Operational
-Fixed surface types and units,,160,,Depth below sea level,,,m,Operational
-Fixed surface types and units,,161,,Depth below water surface,,,m,Operational
-Fixed surface types and units,,162,,Lake or river bottom,,,-,Operational
-Fixed surface types and units,,163,,Bottom of sediment layer,,,-,Operational
-Fixed surface types and units,,164,,Bottom of thermally active sediment layer,,,-,Operational
-Fixed surface types and units,,165,,Bottom of sediment layer penetrated by thermal wave,,,-,Operational
-Fixed surface types and units,,166,,Mixing layer,,,-,Operational
-Fixed surface types and units,,167,,Bottom of root zone,,,-,Operational
-Fixed surface types and units,,168,,Ocean model level,,,Numeric,Operational
-Fixed surface types and units,,169,,Ocean level defined by water density (sigma-theta) difference from near-surface to level,(see Note 7),18,kg m-3,Operational
-Fixed surface types and units,,170,,Ocean level defined by water potential temperature difference from near-surface to level,(see Note 7),18,K,Operational
-Fixed surface types and units,,171,,Ocean level defined by vertical eddy diffusivity difference from near-surface to level,(see Note 7),18,m2 s-1,Operational
-Fixed surface types and units,,172,,Ocean level defined by water density (rho) difference from near-surface to level,,,m,Operational
-Fixed surface types and units,,173,,"Top of snow over sea ice on sea, lake or river",,,-,Operational
-Fixed surface types and units,,174,,"Top surface of ice on sea, lake or river",,,-,Operational
-Fixed surface types and units,,175,,"Top surface of ice, under snow cover, on sea, lake or river",,,-,Operational
-Fixed surface types and units,,176,,"Bottom surface (underside) ice on sea, lake or river",,,-,Operational
-Fixed surface types and units,,177,,Deep soil (of indefinite depth),,,-,Operational
-Fixed surface types and units,,178,,Reserved,,,-,Operational
-Fixed surface types and units,,179,,Top surface of glacier ice and inland ice,,,-,Operational
-Fixed surface types and units,,180,,Deep inland or glacier ice (of indefinite depth),,,-,Operational
-Fixed surface types and units,,181,,Grid tile land fraction as a model surface,,,-,Operational
-Fixed surface types and units,,182,,Grid tile water fraction as a model surface,,,-,Operational
-Fixed surface types and units,,183,,"Grid tile ice fraction on sea, lake or river as a model surface",,,-,Operational
-Fixed surface types and units,,184,,Grid tile glacier ice and inland ice fraction as a model surface,,,-,Operational
-Fixed surface types and units,,185,,Roof level,,,-,Operational
-Fixed surface types and units,,186,,Wall level,,,-,Operational
-Fixed surface types and units,,187,,Road level,,,-,Operational
-Fixed surface types and units,,188,,Melt pond top surface,,,-,Operational
-Fixed surface types and units,,189,,Melt pond bottom surface,,,-,Operational
-Fixed surface types and units,,190,,Reserved,,,,Operational
-Fixed surface types and units,,191,,Abstract level with no vertical localization,(see Note 10),168,-,Operational
-Fixed surface types and units,,192-254,,Reserved for local use,,,,Operational
-Fixed surface types and units,,255,,Missing,,,,Operational
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
+grib2/4/5/0,Fixed surface types and units,,0,,Reserved,,,,Operational,Original
+grib2/4/5/1,Fixed surface types and units,,1,,Ground or water surface,,,-,Operational,Original
+grib2/4/5/2,Fixed surface types and units,,2,,Cloud base level,,,-,Operational,Original
+grib2/4/5/3,Fixed surface types and units,,3,,Level of cloud tops,,,-,Operational,Original
+grib2/4/5/4,Fixed surface types and units,,4,,Level of 0 °C isotherm,,,-,Operational,Original
+grib2/4/5/5,Fixed surface types and units,,5,,Level of adiabatic condensation lifted from the surface,,,-,Operational,Original
+grib2/4/5/6,Fixed surface types and units,,6,,Maximum wind level,,,-,Operational,Original
+grib2/4/5/7,Fixed surface types and units,,7,,Tropopause,,,-,Operational,Original
+grib2/4/5/8,Fixed surface types and units,,8,,Nominal top of the atmosphere,,,-,Operational,Original
+grib2/4/5/9,Fixed surface types and units,,9,,Sea bottom,,,-,Operational,Original
+grib2/4/5/10,Fixed surface types and units,,10,,Entire atmosphere,,,-,Operational,Original
+grib2/4/5/11,Fixed surface types and units,,11,,Cumulonimbus (CB) base,,,m,Operational,Original
+grib2/4/5/12,Fixed surface types and units,,12,,Cumulonimbus (CB) top,,,m,Operational,Original
+grib2/4/5/13,Fixed surface types and units,,13,,Lowest level where vertically integrated cloud cover exceeds the specified percentage (cloud base for a given percentage cloud cover),,,%,Operational,Original
+grib2/4/5/14,Fixed surface types and units,,14,,Level of free convection (LFC),,,-,Operational,Original
+grib2/4/5/15,Fixed surface types and units,,15,,Convective condensation level (CCL),,,-,Operational,Original
+grib2/4/5/16,Fixed surface types and units,,16,,Level of neutral buoyancy or equilibrium level (LNB),,,-,Operational,Original
+grib2/4/5/17,Fixed surface types and units,,17,,Departure level of the most unstable parcel of air (MUDL),,,-,Operational,Original
+grib2/4/5/18,Fixed surface types and units,,18,,Departure level of a mixed layer parcel of air with specified layer depth,,,Pa,Operational,Original
+grib2/4/5/19,Fixed surface types and units,,19,,Lowest level where cloud cover exceeds the specified percentage,(see Note 9),149,%,Operational,Original
+grib2/4/5/20,Fixed surface types and units,,20,,Isothermal level,,,K,Operational,Original
+grib2/4/5/21,Fixed surface types and units,,21,,Lowest level where mass density exceeds the specified value (base for a given threshold of mass density),,,kg m-3,Operational,Original
+grib2/4/5/22,Fixed surface types and units,,22,,Highest level where mass density exceeds the specified value (top for a given threshold of mass density),,,kg m-3,Operational,Original
+grib2/4/5/23,Fixed surface types and units,,23,,Lowest level where air concentration exceeds the specified value (base for a given threshold of air concentration),,,Bq m-3,Operational,Original
+grib2/4/5/24,Fixed surface types and units,,24,,Highest level where air concentration exceeds the specified value (top for a given threshold of air concentration),,,Bq m-3,Operational,Original
+grib2/4/5/25,Fixed surface types and units,,25,,Highest level where radar reflectivity exceeds the specified value (echo top for a given threshold of reflectivity),,,dBZ,Operational,Original
+grib2/4/5/26,Fixed surface types and units,,26,,Convective cloud layer base,,,m,Operational,Original
+grib2/4/5/27,Fixed surface types and units,,27,,Convective cloud layer top,,,m,Operational,Original
+grib2/4/5/28-29,Fixed surface types and units,,28-29,,Reserved,,,,Operational,Original
+grib2/4/5/30,Fixed surface types and units,,30,,Specified radius from the centre of the Sun,,,m,Operational,Original
+grib2/4/5/31,Fixed surface types and units,,31,,Solar photosphere,,,,Operational,Original
+grib2/4/5/32,Fixed surface types and units,,32,,Ionospheric D-region level,,,,Operational,Original
+grib2/4/5/33,Fixed surface types and units,,33,,Ionospheric E-region level,,,,Operational,Original
+grib2/4/5/34,Fixed surface types and units,,34,,Ionospheric F1-region level,,,,Operational,Original
+grib2/4/5/35,Fixed surface types and units,,35,,Ionospheric F2-region level,,,,Operational,Original
+grib2/4/5/36,Fixed surface types and units,,36,,Stratopause,,,,Operational,Original
+grib2/4/5/37-99,Fixed surface types and units,,37-99,,Reserved,,,,Operational,Original
+grib2/4/5/100,Fixed surface types and units,,100,,Isobaric surface,,,Pa,Operational,Original
+grib2/4/5/101,Fixed surface types and units,,101,,Mean sea level,,,,Operational,Original
+grib2/4/5/102,Fixed surface types and units,,102,,Specific altitude above mean sea level,,,m,Operational,Original
+grib2/4/5/103,Fixed surface types and units,,103,,Specified height level above ground,,,m,Operational,Original
+grib2/4/5/104,Fixed surface types and units,,104,,Sigma level,,,"""sigma"" value",Operational,Original
+grib2/4/5/105,Fixed surface types and units,,105,,Hybrid level,,,-,Operational,Original
+grib2/4/5/106,Fixed surface types and units,,106,,Depth below land surface,,,m,Operational,Original
+grib2/4/5/107,Fixed surface types and units,,107,,Isentropic (theta) level,,,K,Operational,Original
+grib2/4/5/108,Fixed surface types and units,,108,,Level at specified pressure difference from ground to level,,,Pa,Operational,Original
+grib2/4/5/109,Fixed surface types and units,,109,,Potential vorticity surface,,,K m2 kg-1 s-1,Operational,Original
+grib2/4/5/110,Fixed surface types and units,,110,,Reserved,,,,Operational,Original
+grib2/4/5/111,Fixed surface types and units,,111,,Eta level,(see Note 1),85,-,Operational,Original
+grib2/4/5/112,Fixed surface types and units,,112,,Reserved,,,,Operational,Original
+grib2/4/5/113,Fixed surface types and units,,113,,Logarithmic hybrid level,,,,Operational,Original
+grib2/4/5/114,Fixed surface types and units,,114,,Snow level,,,Numeric,Operational,Original
+grib2/4/5/115,Fixed surface types and units,,115,,Sigma height level,(see Note 4),74,-,Operational,Original
+grib2/4/5/116,Fixed surface types and units,,116,,Reserved,,,,Operational,Original
+grib2/4/5/117,Fixed surface types and units,,117,,Mixed layer depth,,,m,Operational,Original
+grib2/4/5/118,Fixed surface types and units,,118,,Hybrid height level,(see Note 2),54,-,Operational,Original
+grib2/4/5/119,Fixed surface types and units,,119,,Hybrid pressure level,(see Note 3),55,-,Operational,Original
+grib2/4/5/120-149,Fixed surface types and units,,120-149,,Reserved,,,,Operational,Original
+grib2/4/5/150,Fixed surface types and units,,150,,Generalized vertical height coordinate,(see Note 5),84,,Operational,Original
+grib2/4/5/151,Fixed surface types and units,,151,,Soil level,(see Note 6),100,Numeric,Operational,Original
+grib2/4/5/152,Fixed surface types and units,,152,,Sea-ice level,(see Note 8),99,Numeric,Operational,Original
+grib2/4/5/153-159,Fixed surface types and units,,153-159,,Reserved,,,,Operational,Original
+grib2/4/5/160,Fixed surface types and units,,160,,Depth below sea level,,,m,Operational,Original
+grib2/4/5/161,Fixed surface types and units,,161,,Depth below water surface,,,m,Operational,Original
+grib2/4/5/162,Fixed surface types and units,,162,,Lake or river bottom,,,-,Operational,Original
+grib2/4/5/163,Fixed surface types and units,,163,,Bottom of sediment layer,,,-,Operational,Original
+grib2/4/5/164,Fixed surface types and units,,164,,Bottom of thermally active sediment layer,,,-,Operational,Original
+grib2/4/5/165,Fixed surface types and units,,165,,Bottom of sediment layer penetrated by thermal wave,,,-,Operational,Original
+grib2/4/5/166,Fixed surface types and units,,166,,Mixing layer,,,-,Operational,Original
+grib2/4/5/167,Fixed surface types and units,,167,,Bottom of root zone,,,-,Operational,Original
+grib2/4/5/168,Fixed surface types and units,,168,,Ocean model level,,,Numeric,Operational,Original
+grib2/4/5/169,Fixed surface types and units,,169,,Ocean level defined by water density (sigma-theta) difference from near-surface to level,(see Note 7),18,kg m-3,Operational,Original
+grib2/4/5/170,Fixed surface types and units,,170,,Ocean level defined by water potential temperature difference from near-surface to level,(see Note 7),18,K,Operational,Original
+grib2/4/5/171,Fixed surface types and units,,171,,Ocean level defined by vertical eddy diffusivity difference from near-surface to level,(see Note 7),18,m2 s-1,Operational,Original
+grib2/4/5/172,Fixed surface types and units,,172,,Ocean level defined by water density (rho) difference from near-surface to level,,,m,Operational,Original
+grib2/4/5/173,Fixed surface types and units,,173,,"Top of snow over sea ice on sea, lake or river",,,-,Operational,Original
+grib2/4/5/174,Fixed surface types and units,,174,,"Top surface of ice on sea, lake or river",,,-,Operational,Original
+grib2/4/5/175,Fixed surface types and units,,175,,"Top surface of ice, under snow cover, on sea, lake or river",,,-,Operational,Original
+grib2/4/5/176,Fixed surface types and units,,176,,"Bottom surface (underside) ice on sea, lake or river",,,-,Operational,Original
+grib2/4/5/177,Fixed surface types and units,,177,,Deep soil (of indefinite depth),,,-,Operational,Original
+grib2/4/5/178,Fixed surface types and units,,178,,Reserved,,,-,Operational,Original
+grib2/4/5/179,Fixed surface types and units,,179,,Top surface of glacier ice and inland ice,,,-,Operational,Original
+grib2/4/5/180,Fixed surface types and units,,180,,Deep inland or glacier ice (of indefinite depth),,,-,Operational,Original
+grib2/4/5/181,Fixed surface types and units,,181,,Grid tile land fraction as a model surface,,,-,Operational,Original
+grib2/4/5/182,Fixed surface types and units,,182,,Grid tile water fraction as a model surface,,,-,Operational,Original
+grib2/4/5/183,Fixed surface types and units,,183,,"Grid tile ice fraction on sea, lake or river as a model surface",,,-,Operational,Original
+grib2/4/5/184,Fixed surface types and units,,184,,Grid tile glacier ice and inland ice fraction as a model surface,,,-,Operational,Original
+grib2/4/5/185,Fixed surface types and units,,185,,Roof level,,,-,Operational,Original
+grib2/4/5/186,Fixed surface types and units,,186,,Wall level,,,-,Operational,Original
+grib2/4/5/187,Fixed surface types and units,,187,,Road level,,,-,Operational,Original
+grib2/4/5/188,Fixed surface types and units,,188,,Melt pond top surface,,,-,Operational,Original
+grib2/4/5/189,Fixed surface types and units,,189,,Melt pond bottom surface,,,-,Operational,Original
+grib2/4/5/190,Fixed surface types and units,,190,,Reserved,,,,Operational,Original
+grib2/4/5/191,Fixed surface types and units,,191,,Abstract level with no vertical localization,(see Note 10),168,-,Operational,Original
+grib2/4/5/192-254,Fixed surface types and units,,192-254,,Reserved for local use,,,,Operational,Original
+grib2/4/5/255,Fixed surface types and units,,255,,Missing,,,,Operational,Original
