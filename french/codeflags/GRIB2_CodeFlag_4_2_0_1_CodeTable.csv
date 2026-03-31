@@ -1,4 +1,4 @@
-ID,Title_fr,Subtitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
 grib2/4/2/0/1/0,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Domaine de spécialisation 0 – Produits météorologiques, Catégorie de paramètres 1: humidité",0,,Humidité spécifique,,,kg kg-1,Operational,Original
 grib2/4/2/0/1/1,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Domaine de spécialisation 0 – Produits météorologiques, Catégorie de paramètres 1: humidité",1,,Humidité relative,,,%,Operational,Original
 grib2/4/2/0/1/2,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Domaine de spécialisation 0 – Produits météorologiques, Catégorie de paramètres 1: humidité",2,,Rapport de mélange,,,kg kg-1,Operational,Original

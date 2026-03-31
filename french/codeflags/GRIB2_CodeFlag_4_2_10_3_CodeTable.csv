@@ -1,4 +1,4 @@
-ID,Title_fr,Subtitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
 grib2/4/2/10/3/0,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Domaine de spécialisation 10 — Produits océanographiques, Catégorie de paramètres 3: propriétés en surface",0,,Température de l'eau,,,K,Operational,Original
 grib2/4/2/10/3/1,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Domaine de spécialisation 10 — Produits océanographiques, Catégorie de paramètres 3: propriétés en surface",1,,Écart par rapport au niveau moyen de la mer,,,m,Operational,Original
 grib2/4/2/10/3/2,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Domaine de spécialisation 10 — Produits océanographiques, Catégorie de paramètres 3: propriétés en surface",2,,Coefficient d'échange de chaleur,,,–,Operational,Original

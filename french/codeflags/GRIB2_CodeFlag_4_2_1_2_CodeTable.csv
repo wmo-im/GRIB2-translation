@@ -1,4 +1,4 @@
-ID,Title_fr,Subtitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
 grib2/4/2/1/2/0,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Domaine de spécialisation 1 – Produits hydrologiques, Catégorie de paramètres 2: propriétés des eaux intérieures et des sédiments",0,,Profondeur de l'eau,,,m,Operational,Original
 grib2/4/2/1/2/1,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Domaine de spécialisation 1 – Produits hydrologiques, Catégorie de paramètres 2: propriétés des eaux intérieures et des sédiments",1,,Température de l'eau,,,K,Operational,Original
 grib2/4/2/1/2/2,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Domaine de spécialisation 1 – Produits hydrologiques, Catégorie de paramètres 2: propriétés des eaux intérieures et des sédiments",2,,Fraction d'eau,,,Proportion,Operational,Original

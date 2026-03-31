@@ -1,4 +1,4 @@
-ID,Title_fr,Subtitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
 grib2/4/2/3/6/0,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Domaine de spécialisation 3 – Produits spatiaux, Catégorie de paramètres 6: rayonnement solaire",0,,Éclairement énergétique solaire global,(voir la note 1),,W m-2,Operational,Original
 grib2/4/2/3/6/1,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Domaine de spécialisation 3 – Produits spatiaux, Catégorie de paramètres 6: rayonnement solaire",1,,Exposition solaire globale,(voir la note 2),,J m-2,Operational,Original
 grib2/4/2/3/6/2,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Domaine de spécialisation 3 – Produits spatiaux, Catégorie de paramètres 6: rayonnement solaire",2,,Éclairement énergétique solaire direct,(voir la note 3),,W m-2,Operational,Original

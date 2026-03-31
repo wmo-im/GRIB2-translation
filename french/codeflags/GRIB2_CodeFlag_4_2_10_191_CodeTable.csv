@@ -1,4 +1,4 @@
-ID,Title_fr,Subtitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
 grib2/4/2/10/191/0,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Domaine de spécialisation 10 — Produits océanographiques, Catégorie de paramètres 191: divers",0,,Nombre de secondes avant l'heure de référence initiale (définie à la section 1),,,s,Operational,Original
 grib2/4/2/10/191/1,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Domaine de spécialisation 10 — Produits océanographiques, Catégorie de paramètres 191: divers",1,,Fonction de courant de la circulation thermohaline,,,m³ s-1,Operational,Original
 grib2/4/2/10/191/2,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Domaine de spécialisation 10 — Produits océanographiques, Catégorie de paramètres 191: divers",2,,En réserve,,,–,Operational,Original

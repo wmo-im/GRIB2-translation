@@ -1,4 +1,4 @@
-ID,Title_fr,Subtitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
 grib2/4/2/2/3/0,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Domaine de spécialisation 2 – Produits pour la surface des terres, Catégorie de paramètres 3: produits relatifs aux sols",0,,Type de sol,,,(Table de code 4.213),Operational,Original
 grib2/4/2/2/3/1,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Domaine de spécialisation 2 – Produits pour la surface des terres, Catégorie de paramètres 3: produits relatifs aux sols",1,,Température de la couche supérieure du sol*,,,K,Deprecated,Original
 grib2/4/2/2/3/2,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Domaine de spécialisation 2 – Produits pour la surface des terres, Catégorie de paramètres 3: produits relatifs aux sols",2,,Teneur en eau de la couche supérieure du sol*,,,kg m-3,Deprecated,Original

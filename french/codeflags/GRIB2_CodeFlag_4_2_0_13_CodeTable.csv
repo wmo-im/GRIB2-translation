@@ -1,4 +1,4 @@
-ID,Title_fr,Subtitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
 grib2/4/2/0/13/0,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Domaine de spécialisation 0 – Produits météorologiques, Catégorie de paramètres 13: aérosols",0,,Type d'aérosol,,,(Table de code 4.205),Operational,Original
 grib2/4/2/0/13/1-191,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Domaine de spécialisation 0 – Produits météorologiques, Catégorie de paramètres 13: aérosols",1-191,,En réserve,,,,Operational,Original
 grib2/4/2/0/13/192-254,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Domaine de spécialisation 0 – Produits météorologiques, Catégorie de paramètres 13: aérosols",192-254,,En réserve pour un usage local,,,,Operational,Original

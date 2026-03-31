@@ -1,4 +1,4 @@
-ID,Title_fr,Subtitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
 grib2/4/2/10/0/0,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Domaine de spécialisation 10 — Produits océanographiques, Catégorie de paramètres 0: vagues",0,,Spectre des vagues (1),,,–,Operational,Original
 grib2/4/2/10/0/1,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Domaine de spécialisation 10 — Produits océanographiques, Catégorie de paramètres 0: vagues",1,,Spectre des vagues (2),,,–,Operational,Original
 grib2/4/2/10/0/2,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Domaine de spécialisation 10 — Produits océanographiques, Catégorie de paramètres 0: vagues",2,,Spectre des vagues (3),,,–,Operational,Original

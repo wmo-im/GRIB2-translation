@@ -1,4 +1,4 @@
-ID,Title_fr,Subtitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
 grib2/4/2/0/19/0,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Domaine de spécialisation 0 – Produits météorologiques, Catégorie de paramètres 19: propriétés physiques de l'atmosphère",0,,Visibilité,,,m,Operational,Original
 grib2/4/2/0/19/1,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Domaine de spécialisation 0 – Produits météorologiques, Catégorie de paramètres 19: propriétés physiques de l'atmosphère",1,,Albédo,,,%,Operational,Original
 grib2/4/2/0/19/2,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Domaine de spécialisation 0 – Produits météorologiques, Catégorie de paramètres 19: propriétés physiques de l'atmosphère",2,,Probabilité d'orages,,,%,Operational,Original

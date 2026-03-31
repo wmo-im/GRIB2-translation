@@ -1,4 +1,4 @@
-ID,Title_fr,Subtitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
 grib2/4/2/0/0/0,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Domaine de spécialisation 0 – Produits météorologiques, Catégorie de paramètres 0: température",0,,Température,,,K,Operational,Original
 grib2/4/2/0/0/1,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Domaine de spécialisation 0 – Produits météorologiques, Catégorie de paramètres 0: température",1,,Température virtuelle,,,K,Operational,Original
 grib2/4/2/0/0/2,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Domaine de spécialisation 0 – Produits météorologiques, Catégorie de paramètres 0: température",2,,Température potentielle,,,K,Operational,Original

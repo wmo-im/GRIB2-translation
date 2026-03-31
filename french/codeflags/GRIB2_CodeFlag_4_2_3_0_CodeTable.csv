@@ -1,4 +1,4 @@
-ID,Title_fr,Subtitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
 grib2/4/2/3/0/0,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Domaine de spécialisation 3 – Produits spatiaux, Catégorie de paramètres 0: produits-image",0,,Valeur ajustée de la luminance énergétique,,,Numérique,Operational,Original
 grib2/4/2/3/0/1,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Domaine de spécialisation 3 – Produits spatiaux, Catégorie de paramètres 0: produits-image",1,,Valeur ajustée de l'albédo,,,Numérique,Operational,Original
 grib2/4/2/3/0/2,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Domaine de spécialisation 3 – Produits spatiaux, Catégorie de paramètres 0: produits-image",2,,Valeur ajustée de la température de luminance,,,Numérique,Operational,Original
