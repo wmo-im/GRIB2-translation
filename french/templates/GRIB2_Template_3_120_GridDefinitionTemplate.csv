@@ -7,5 +7,5 @@ grib2/3/120/31-34,Modèle de définition de la grille 3.120 — Projection azimu
 grib2/3/120/35-38,Modèle de définition de la grille 3.120 — Projection azimut-distance,35-38,,Dstart - décalage de l'origine vers la limite intérieure,,,,,Operational,Original
 grib2/3/120/39,Modèle de définition de la grille 3.120 — Projection azimut-distance,39,,Mode d'exploration,(voir la table d'indicateurs 3.4),,,,Operational,Original
 grib2/3/120//1,Modèle de définition de la grille 3.120 — Projection azimut-distance,,,40-(39+4Nr)   Pour chacune des Nr lignes radiales,,,,,Operational,Original
-grib2/3/120/40+4(X-1))-(41+4(X-1)),Modèle de définition de la grille 3.120 — Projection azimut-distance,40+4(X-1))-(41+4(X-1)),,"Azi – azimut de départ, degrés x 10 (degrés Nord)",,,,,Operational,Original
+grib2/3/120/(40+4(X-1))-(41+4(X-1)),Modèle de définition de la grille 3.120 — Projection azimut-distance,(40+4(X-1))-(41+4(X-1)),,"Azi – azimut de départ, degrés x 10 (degrés Nord)",,,,,Operational,Original
 grib2/3/120/(42+4(X-1))-(43+4(X-1)),Modèle de définition de la grille 3.120 — Projection azimut-distance,(42+4(X-1))-(43+4(X-1)),,"Adelta - largeur azimutale, degrés x 100, (+ dans le sens horaire - dans le sens inverse), avec X = 1 à Nr",,,,,Operational,Original
