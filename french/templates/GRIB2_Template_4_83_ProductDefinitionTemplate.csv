@@ -31,13 +31,13 @@ grib2/4/83/56,(Modèle de définition du produit 4.83 suite),56,,Fin de l'interv
 grib2/4/83/57,(Modèle de définition du produit 4.83 suite),57,,Fin de l'intervalle de temps complet - Seconde,,,,,Operational,Original
 grib2/4/83/58,(Modèle de définition du produit 4.83 suite),58,,n - nombre des spécifications décrivant les intervalles de temps sur lesquels porte le calcul statistique du champ,,,,,Operational,Original
 grib2/4/83/59-62,(Modèle de définition du produit 4.83 suite),59-62,,Nombre total de valeurs manquantes dans le calcul statistique,,,,,Operational,Original
-grib2/4/83/63-74,(Modèle de définition du produit 4.83 suite),63-74,,Spécification de l'intervalle de temps le plus éloigné (ou intervalle de temps unique) sur lequel porte le calcul statistique,,,,,Operational,Original
+grib2/4/83//1,(Modèle de définition du produit 4.83 suite),,,63-74 Spécification de l'intervalle de temps le plus éloigné (ou intervalle de temps unique) sur lequel porte le calcul statistique,,,,,Operational,Original
 grib2/4/83/63,(Modèle de définition du produit 4.83 suite),63,,Calcul statistique ayant permis d'obtenir le champ élaboré à partir du champ à chaque incrément de temps durant l'intervalle de temps,(voir la table de code 4.10),,,,Operational,Original
 grib2/4/83/64,(Modèle de définition du produit 4.83 suite),64,,Type d'incrément de temps entre les champs successifs employé pour le calcul statistique,(voir la table de code 4.11),,,,Operational,Original
 grib2/4/83/65,(Modèle de définition du produit 4.83 suite),65,,Indicateur de l'unité de temps employée pour l'intervalle de temps sur lequel porte le calcul statistique,(voir la table de code 4.4),,,,Operational,Original
 grib2/4/83/66-69,(Modèle de définition du produit 4.83 suite),66-69,,"Durée de l'intervalle de temps sur lequel porte le calcul statistique, exprimée dans l'unité indiquée par l'octet précédent",,,,,Operational,Original
 grib2/4/83/70,(Modèle de définition du produit 4.83 suite),70,,Indicateur de l'unité de temps employée pour l'incrément de temps entre les champs successifs,(voir la table de code 4.4),,,,Operational,Original
 grib2/4/83/71-74,(Modèle de définition du produit 4.83 suite),71-74,,"Incrément de temps entre les champs successifs, exprimé dans l'unité indiquée par l'octet précédent",(voir les notes 3 et 4),,,,Operational,Original
-grib2/4/83/75-nn,(Modèle de définition du produit 4.83 suite),75-nn,,"Ces octets figurent dans le message uniquement si n>1, nn = 62 + 12 x n",,,,,Operational,Original
+grib2/4/83//2,(Modèle de définition du produit 4.83 suite),,,"75-nn Ces octets figurent dans le message uniquement si n>1, nn = 62 + 12 x n",,,,,Operational,Original
 grib2/4/83/75-86,(Modèle de définition du produit 4.83 suite),75-86,,"Même contenu que les octets 63 à 74, pour l'étape suivante du calcul",,,,,Operational,Original
 grib2/4/83/87-nn,(Modèle de définition du produit 4.83 suite),87-nn,,"Spécifications des intervalles de temps supplémentaires, incluses en fonction de la valeur de n. Le contenu est le même que celui des octets 63 à 74, répétés au besoin",,,,,Operational,Original
