@@ -11,7 +11,7 @@ grib2/3/12/35-38,Modelo de definición de la retícula 3.12 — Mercator transve
 grib2/3/12/39-42,Modelo de definición de la retícula 3.12 — Mercator transversal,39-42,,LaR - latitud geográfica del punto de referencia,,,,,Operational,Original
 grib2/3/12/43-46,Modelo de definición de la retícula 3.12 — Mercator transversal,43-46,,LoR - longitud geográfica del punto de referencia,,,,,Operational,Original
 grib2/3/12/47,Modelo de definición de la retícula 3.12 — Mercator transversal,47,,Banderines de resolución y de componentes,véase la Tabla de banderines 3.3,,,,Operational,Original
-grib2/3/12/48-51,Modelo de definición de la retícula 3.12 — Mercator transversal,48-51,,m - factor de escala en el punto de referencia – relación entre la distancia en el mapa y la distancia en el esferoide,valores de coma flotante IEEE de 32 bits,,,,Operational,Original
+grib2/3/12/48-51,Modelo de definición de la retícula 3.12 — Mercator transversal,48-51,,m - factor de escala en el punto de referencia – relación entre la distancia en el mapa y la distancia en el esferoide (valores de coma flotante IEEE de 32 bits),,,,,Operational,Original
 grib2/3/12/52-55,Modelo de definición de la retícula 3.12 — Mercator transversal,52-55,,"XR v falsa distancia en dirección este, coordenada en la dirección i del punto de referencia, en unidades de 10-2 m",,,,,Operational,Original
 grib2/3/12/56-59,Modelo de definición de la retícula 3.12 — Mercator transversal,56-59,,"YR - falsa distancia en dirección norte, coordenada en la dirección j del punto de referencia, en unidades de 10-2 m",,,,,Operational,Original
 grib2/3/12/60,Modelo de definición de la retícula 3.12 — Mercator transversal,60,,Modo de barrido,véanse los banderines de la Tabla de banderines 3.4,,,,Operational,Original

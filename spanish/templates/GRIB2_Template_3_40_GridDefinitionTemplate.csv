@@ -17,5 +17,5 @@ grib2/3/40/56-59,Modelo de definición de la retícula 3.40 – Retícula gausia
 grib2/3/40/60-63,Modelo de definición de la retícula 3.40 – Retícula gausiana latitud/longitud,60-63,,Lo2 - longitud del último punto de la retícula,véase la nota 1,,,,Operational,Original
 grib2/3/40/64-67,Modelo de definición de la retícula 3.40 – Retícula gausiana latitud/longitud,64-67,,Di - incremento de dirección i  y 5),véanse las notas 1,,,,Operational,Original
 grib2/3/40/68-71,Modelo de definición de la retícula 3.40 – Retícula gausiana latitud/longitud,68-71,,N - número de paralelos entre un polo y el ecuador,véase la nota 2,,,,Operational,Original
-grib2/3/40/72,Modelo de definición de la retícula 3.40 – Retícula gausiana latitud/longitud,72,,Modo de exploración,banderines - véase la Tabla de banderines 3.4,,,,Operational,Original
+grib2/3/40/72,Modelo de definición de la retícula 3.40 – Retícula gausiana latitud/longitud,72,,Modo de exploración,véase la Tabla de banderines 3.4,,,,Operational,Original
 grib2/3/40/73-nn,Modelo de definición de la retícula 3.40 – Retícula gausiana latitud/longitud,73-nn,,Lista del número de puntos a lo largo de cada meridiano o paralelo.,Estos octetos están presentes únicamente para las retículas casi regulares que se describen en la nota 4.,,,,Operational,Original
