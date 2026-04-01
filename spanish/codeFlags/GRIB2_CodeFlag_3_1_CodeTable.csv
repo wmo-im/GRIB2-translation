@@ -32,7 +32,7 @@ grib2/3/1/54-60,Tabla de cifrado 3.1 — Número del modelo de definición de la
 grib2/3/1/61,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,61,,Representación espectral mediante proyección Mercator con definición de los subdominios de modelización,,,,Operational,Original
 grib2/3/1/62,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,62,,Representación espectral mediante proyección estereográfica polar con definición de los subdominios de modelización,,,,Operational,Original
 grib2/3/1/63,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,63,,Representación espectral mediante proyección conforme de Lambert con definición de los subdominios de modelización,,,,Operational,Original
-grib2/3/1/64-69,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,64-69,,Reservadas,,,,Operational,Original
+grib2/3/1/64-89,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,64-69,,Reservadas,,,,Operational,Original
 grib2/3/1/90,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,90,,Perspectiva desde el espacio o proyección ortogonal,,,,Operational,Original
 grib2/3/1/91-99,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,91-99,,Reservadas,,,,Operational,Original
 grib2/3/1/100,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,100,,Retícula triangular basada en un icosaedro,,,,Operational,Original

@@ -1,4 +1,4 @@
-noteID,note
+noteID,note_fr
 1,A data bin is a data point representing the volume centred on it.
 2,"A group containing only missing values (of either type) will be encoded as a constant group (null width, no associated data) and the group reference will have all bits set to 1 for primary type, and all bits set to 1, except the last bit set to 0, for secondary type."
 3,"A logarithm pre-processing algorithm is used to fit the variability range into one or two order of magnitudes before using the simple packing algorithm. It requires a parameter (B) to assure that all values passed to the logarithm function arepositive. Thus scaled values are Z = ln (Y+B), where Y are the original values, ln is the natural logarithm (or Napierian)function and B is chosen so that Y+B > 0."
