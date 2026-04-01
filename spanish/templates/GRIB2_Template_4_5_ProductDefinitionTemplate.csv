@@ -1,23 +1,23 @@
-ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translated_by
-grib2/4/5/10,Previsión de probabilidad para una superficie o una capa horizontal en un momento dado,10,,Categoría del parámetro,véase la Tabla de cifrado 4.1,,,,Operational,Original
-grib2/4/5/11,Previsión de probabilidad para una superficie o una capa horizontal en un momento dado,11,,Número del parámetro,véase la Tabla de cifrado 4.2,,,,Operational,Original
-grib2/4/5/12,Previsión de probabilidad para una superficie o una capa horizontal en un momento dado,12,,Tipo de proceso de producción,véase la Tabla de cifrado 4.3,,,,Operational,Original
-grib2/4/5/13,Previsión de probabilidad para una superficie o una capa horizontal en un momento dado,13,,Identificador del proceso de producción de base (definido por el centro de origen),,,,,Operational,Original
-grib2/4/5/14,Previsión de probabilidad para una superficie o una capa horizontal en un momento dado,14,,Identificador del proceso de producción de la previsión (definido por el centro de origen),,,,,Operational,Original
-grib2/4/5/15-16,Previsión de probabilidad para una superficie o una capa horizontal en un momento dado,15-16,,Límite (horas) de recogida de datos de observación después de la hora de referencia, véase la nota,,,,Operational,Original
-grib2/4/5/17,Previsión de probabilidad para una superficie o una capa horizontal en un momento dado,17,,Límite (minutos) de recogida de datos de observación después de la hora de referencia,,,,,Operational,Original
-grib2/4/5/18,Previsión de probabilidad para una superficie o una capa horizontal en un momento dado,18,,Indicador de unidad del intervalo de tiempo,véase la Tabla de cifrado 4.4,,,,Operational,Original
-grib2/4/5/19-22,Previsión de probabilidad para una superficie o una capa horizontal en un momento dado,19-22,,Hora de la previsión expresa en la unidad precisada por el octeto 18,,,,,Operational,Original
-grib2/4/5/23,Previsión de probabilidad para una superficie o una capa horizontal en un momento dado,23,,Tipo de la primera superficie especificada,véase la Tabla de cifrado 4.5,,,,Operational,Original
-grib2/4/5/24,Previsión de probabilidad para una superficie o una capa horizontal en un momento dado,24,,Factor de escala de la primera superficie especificada,,,,,Operational,Original
-grib2/4/5/25-28,Previsión de probabilidad para una superficie o una capa horizontal en un momento dado,25-28,,Valor ajustado de la primera superficie especificada,,,,,Operational,Original
-grib2/4/5/29,Previsión de probabilidad para una superficie o una capa horizontal en un momento dado,29,,Tipo de la segunda superficie especificada,véase la Tabla de cifrado 4.5,,,,Operational,Original
-grib2/4/5/30,Previsión de probabilidad para una superficie o una capa horizontal en un momento dado,30,,Factor de escala de la segunda superficie especificada,,,,,Operational,Original
-grib2/4/5/31-34,Previsión de probabilidad para una superficie o una capa horizontal en un momento dado,31-34,,Valor ajustado de la segunda superficie especificada,,,,,Operational,Original
-grib2/4/5/35,Previsión de probabilidad para una superficie o una capa horizontal en un momento dado,35,,Número de la probabilidad prevista,,,,,Operational,Original
-grib2/4/5/36,Previsión de probabilidad para una superficie o una capa horizontal en un momento dado,36,,Número total de probabilidades previstas,,,,,Operational,Original
-grib2/4/5/37,Previsión de probabilidad para una superficie o una capa horizontal en un momento dado,37,,Tipo de probabilidad,véase la Tabla de cifrado 4.9,,,,Operational,Original
-grib2/4/5/38,Previsión de probabilidad para una superficie o una capa horizontal en un momento dado,38,,Factor de escala del límite inferior,,,,,Operational,Original
-grib2/4/5/39-42,Previsión de probabilidad para una superficie o una capa horizontal en un momento dado,39-42,,Valor ajustado del límite inferior,,,,,Operational,Original
-grib2/4/5/43,Previsión de probabilidad para una superficie o una capa horizontal en un momento dado,43,,Factor de escala del límite superior,,,,,Operational,Original
-grib2/4/5/44-47,Previsión de probabilidad para una superficie o una capa horizontal en un momento dado,44-47,,Valor ajustado del límite superior,,,,,Operational,Original
+﻿ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translated_by
+grib2/4/5/10,Previsión de probabilidad para una superficie o una capa horizontal en un momento dado,10,1,Categoría del parámetro,véase la Tabla de cifrado 4.1,,4.1,,Operational,Original
+grib2/4/5/11,Previsión de probabilidad para una superficie o una capa horizontal en un momento dado,11,1,Número del parámetro,véase la Tabla de cifrado 4.2,,4.2,,Operational,Original
+grib2/4/5/12,Previsión de probabilidad para una superficie o una capa horizontal en un momento dado,12,1,Tipo de proceso de producción,véase la Tabla de cifrado 4.3,,4.3,,Operational,Original
+grib2/4/5/13,Previsión de probabilidad para una superficie o una capa horizontal en un momento dado,13,1,Identificador del proceso de producción de base (definido por el centro de origen),,,,,Operational,Original
+grib2/4/5/14,Previsión de probabilidad para una superficie o una capa horizontal en un momento dado,14,1,Identificador del proceso de producción de la previsión (definido por el centro de origen),,,,,Operational,Original
+grib2/4/5/15-16,Previsión de probabilidad para una superficie o una capa horizontal en un momento dado,15-16,2,Límite (horas) de recogida de datos de observación después de la hora de referencia, véase la nota,,,,Operational,Original
+grib2/4/5/17,Previsión de probabilidad para una superficie o una capa horizontal en un momento dado,17,1,Límite (minutos) de recogida de datos de observación después de la hora de referencia,,,,,Operational,Original
+grib2/4/5/18,Previsión de probabilidad para una superficie o una capa horizontal en un momento dado,18,1,Indicador de unidad del intervalo de tiempo,véase la Tabla de cifrado 4.4,,4.4,,Operational,Original
+grib2/4/5/19-22,Previsión de probabilidad para una superficie o una capa horizontal en un momento dado,19-22,4,Hora de la previsión expresa en la unidad precisada por el octeto 18,,,,,Operational,Original
+grib2/4/5/23,Previsión de probabilidad para una superficie o una capa horizontal en un momento dado,23,1,Tipo de la primera superficie especificada,véase la Tabla de cifrado 4.5,,4.5,,Operational,Original
+grib2/4/5/24,Previsión de probabilidad para una superficie o una capa horizontal en un momento dado,24,1,Factor de escala de la primera superficie especificada,,,,,Operational,Original
+grib2/4/5/25-28,Previsión de probabilidad para una superficie o una capa horizontal en un momento dado,25-28,4,Valor ajustado de la primera superficie especificada,,,,,Operational,Original
+grib2/4/5/29,Previsión de probabilidad para una superficie o una capa horizontal en un momento dado,29,1,Tipo de la segunda superficie especificada,véase la Tabla de cifrado 4.5,,4.5,,Operational,Original
+grib2/4/5/30,Previsión de probabilidad para una superficie o una capa horizontal en un momento dado,30,1,Factor de escala de la segunda superficie especificada,,,,,Operational,Original
+grib2/4/5/31-34,Previsión de probabilidad para una superficie o una capa horizontal en un momento dado,31-34,4,Valor ajustado de la segunda superficie especificada,,,,,Operational,Original
+grib2/4/5/35,Previsión de probabilidad para una superficie o una capa horizontal en un momento dado,35,1,Número de la probabilidad prevista,,,,,Operational,Original
+grib2/4/5/36,Previsión de probabilidad para una superficie o una capa horizontal en un momento dado,36,1,Número total de probabilidades previstas,,,,,Operational,Original
+grib2/4/5/37,Previsión de probabilidad para una superficie o una capa horizontal en un momento dado,37,1,Tipo de probabilidad,véase la Tabla de cifrado 4.9,,4.9,,Operational,Original
+grib2/4/5/38,Previsión de probabilidad para una superficie o una capa horizontal en un momento dado,38,1,Factor de escala del límite inferior,,,,,Operational,Original
+grib2/4/5/39-42,Previsión de probabilidad para una superficie o una capa horizontal en un momento dado,39-42,4,Valor ajustado del límite inferior,,,,,Operational,Original
+grib2/4/5/43,Previsión de probabilidad para una superficie o una capa horizontal en un momento dado,43,1,Factor de escala del límite superior,,,,,Operational,Original
+grib2/4/5/44-47,Previsión de probabilidad para una superficie o una capa horizontal en un momento dado,44-47,4,Valor ajustado del límite superior,,,,,Operational,Original

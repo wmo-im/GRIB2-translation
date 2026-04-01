@@ -1,19 +1,19 @@
-ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translated_by
-grib2/3/1200/15-18,Modelo de definición de la retícula 3.1200 — Retícula de sección de tiempo,15-18,,NT - Número de pasos de tiempo,,,,,Experimental,Original
-grib2/3/1200/19,Modelo de definición de la retícula 3.1200 — Retícula de sección de tiempo,19,,Unidad de la diferencia con respecto a la hora de referencia,véase la Tabla de cifrado 4.4,,,,Experimental,Original
-grib2/3/1200/20-23,Modelo de definición de la retícula 3.1200 — Retícula de sección de tiempo,20-23,,Diferencia de la primera hora con relación a la hora de referencia (valor negativo cuando se emplea 1 para el primer bit),,,,,Experimental,Original
-grib2/3/1200/24,Modelo de definición de la retícula 3.1200 — Retícula de sección de tiempo,24,,Tipo de incremento del tiempo,véase la Tabla de cifrado 4.11,,,,Experimental,Original
-grib2/3/1200/25,Modelo de definición de la retícula 3.1200 — Retícula de sección de tiempo,25,,Unidad de incremento del tiempo,véase la Tabla de cifrado 4.4,,,,Experimental,Original
-grib2/3/1200/26-29,Modelo de definición de la retícula 3.1200 — Retícula de sección de tiempo,26-29,,Incremento del tiempo (valor negativo cuando se emplea 1 para el primer bit),,,,,Experimental,Original
+﻿ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translated_by
+grib2/3/1200/15-18,Modelo de definición de la retícula 3.1200 — Retícula de sección de tiempo,15-18,4,NT - Número de pasos de tiempo,,,,,Experimental,Original
+grib2/3/1200/19,Modelo de definición de la retícula 3.1200 — Retícula de sección de tiempo,19,1,Unidad de la diferencia con respecto a la hora de referencia,véase la Tabla de cifrado 4.4,,4.4,,Experimental,Original
+grib2/3/1200/20-23,Modelo de definición de la retícula 3.1200 — Retícula de sección de tiempo,20-23,4,Diferencia de la primera hora con relación a la hora de referencia (valor negativo cuando se emplea 1 para el primer bit),,,,,Experimental,Original
+grib2/3/1200/24,Modelo de definición de la retícula 3.1200 — Retícula de sección de tiempo,24,1,Tipo de incremento del tiempo,véase la Tabla de cifrado 4.11,,4.11,,Experimental,Original
+grib2/3/1200/25,Modelo de definición de la retícula 3.1200 — Retícula de sección de tiempo,25,1,Unidad de incremento del tiempo,véase la Tabla de cifrado 4.4,,4.4,,Experimental,Original
+grib2/3/1200/26-29,Modelo de definición de la retícula 3.1200 — Retícula de sección de tiempo,26-29,4,Incremento del tiempo (valor negativo cuando se emplea 1 para el primer bit),,,,,Experimental,Original
 grib2/3/1200//1,Modelo de definición de la retícula 3.1200 — Retícula de sección de tiempo,,,30-36 Última fecha/hora,,,,,Experimental,Original
-grib2/3/1200/30-31,Modelo de definición de la retícula 3.1200 — Retícula de sección de tiempo,30-31,,Año,,,,,Experimental,Original
-grib2/3/1200/32,Modelo de definición de la retícula 3.1200 — Retícula de sección de tiempo,32,,Mes,,,,,Experimental,Original
-grib2/3/1200/33,Modelo de definición de la retícula 3.1200 — Retícula de sección de tiempo,33,,Día,,,,,Experimental,Original
-grib2/3/1200/34,Modelo de definición de la retícula 3.1200 — Retícula de sección de tiempo,34,,Hora,,,,,Experimental,Original
-grib2/3/1200/35,Modelo de definición de la retícula 3.1200 — Retícula de sección de tiempo,35,,Minuto,,,,,Experimental,Original
-grib2/3/1200/36,Modelo de definición de la retícula 3.1200 — Retícula de sección de tiempo,36,,Segundo,,,,,Experimental,Original
-grib2/3/1200/37-38,Modelo de definición de la retícula 3.1200 — Retícula de sección de tiempo,37-38,,Número de puntos verticales,,,,,Experimental,Original
-grib2/3/1200/39,Modelo de definición de la retícula 3.1200 — Retícula de sección de tiempo,39,,Características física de la coordenada vertical,véase la Tabla de cifrado 3.15,,,,Experimental,Original
-grib2/3/1200/40,Modelo de definición de la retícula 3.1200 — Retícula de sección de tiempo,40,,Definición de la coordenada en la dimensión vertical,véase la Tabla de cifrado 3.21,,,,Experimental,Original
-grib2/3/1200/41-42,Modelo de definición de la retícula 3.1200 — Retícula de sección de tiempo,41-42,,NC - Número de coeficientes o valores utilizados para especificar coordenadas verticales,,,,,Experimental,Original
+grib2/3/1200/30-31,Modelo de definición de la retícula 3.1200 — Retícula de sección de tiempo,30-31,2,Año,,,,,Experimental,Original
+grib2/3/1200/32,Modelo de definición de la retícula 3.1200 — Retícula de sección de tiempo,32,1,Mes,,,,,Experimental,Original
+grib2/3/1200/33,Modelo de definición de la retícula 3.1200 — Retícula de sección de tiempo,33,1,Día,,,,,Experimental,Original
+grib2/3/1200/34,Modelo de definición de la retícula 3.1200 — Retícula de sección de tiempo,34,1,Hora,,,,,Experimental,Original
+grib2/3/1200/35,Modelo de definición de la retícula 3.1200 — Retícula de sección de tiempo,35,1,Minuto,,,,,Experimental,Original
+grib2/3/1200/36,Modelo de definición de la retícula 3.1200 — Retícula de sección de tiempo,36,1,Segundo,,,,,Experimental,Original
+grib2/3/1200/37-38,Modelo de definición de la retícula 3.1200 — Retícula de sección de tiempo,37-38,2,Número de puntos verticales,,,,,Experimental,Original
+grib2/3/1200/39,Modelo de definición de la retícula 3.1200 — Retícula de sección de tiempo,39,1,Características física de la coordenada vertical,véase la Tabla de cifrado 3.15,,3.15,,Experimental,Original
+grib2/3/1200/40,Modelo de definición de la retícula 3.1200 — Retícula de sección de tiempo,40,1,Definición de la coordenada en la dimensión vertical,véase la Tabla de cifrado 3.21,,3.21,,Experimental,Original
+grib2/3/1200/41-42,Modelo de definición de la retícula 3.1200 — Retícula de sección de tiempo,41-42,2,NC - Número de coeficientes o valores utilizados para especificar coordenadas verticales,,,,,Experimental,Original
 grib2/3/1200/43-(42+NCx4),Modelo de definición de la retícula 3.1200 — Retícula de sección de tiempo,43-(42+NCx4),,"Coeficientes que definen en forma de función los valores de la coordenada en la dimensión vertical, o los valores explícitos de las coordenadas (valor de coma flotante IEEE de 32 bits)",,,,,Experimental,Original

@@ -1,7 +1,7 @@
-ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translated_by
+﻿ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translated_by
 grib2/3/1/0,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,0,,Latitud/longitud,,27,,Operational,Original
 grib2/3/1/1,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,1,,Latitud/longitud después de la rotación,,,,Operational,Original
-grib2/3/1/2,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,2,,,,,,,Original
+grib2/3/1/2,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,2,,,,,,Operational,Original
 grib2/3/1/3,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,3,,Latitud/longitud después de la dilatación y la rotación,,,,Operational,Original
 grib2/3/1/4,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,4,,Latitud/longitud de resolución variable,,,,Operational,Original
 grib2/3/1/5,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,5,,Latitud/longitud giradas de resolución variable,,,,Operational,Original
@@ -44,10 +44,10 @@ grib2/3/1/120,Tabla de cifrado 3.1 — Número del modelo de definición de la r
 grib2/3/1/121-139,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,121-139,,Reservadas,,,,Operational,Original
 grib2/3/1/140,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,140,,Proyección azimutal equivalente de Lambert,,,,Operational,Original
 grib2/3/1/141-999,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,141-999,,Reservadas,,,,Operational,Original
-grib2/3/1/1000,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,1000,,Retícula de sección transversal con puntos equidistantes en el eje horizontal,,,,Operational,Original
+grib2/3/1/1000,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,1000,,Retícula de sección transversal con puntos equidistantes en el eje horizontal,,,,Experimental,Original
 grib2/3/1/1001-1099,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,1001-1099,,Reservadas,,,,Operational,Original
-grib2/3/1/1100,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,1100,,Retícula de diagrama de Hovmöller con puntos equidistantes en el eje horizontal,,,,Operational,Original
-grib2/3/1/1200,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,1200,,Retícula de sección de tiempo,,,,Operational,Original
+grib2/3/1/1100,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,1100,,Retícula de diagrama de Hovmöller con puntos equidistantes en el eje horizontal,,,,Experimental,Original
+grib2/3/1/1200,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,1200,,Retícula de sección de tiempo,,,,Experimental,Original
 grib2/3/1/1201-32767,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,1201-32767,,Reservadas,,,,Operational,Original
 grib2/3/1/32768-65534,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,32768-65534,,Reservadas para uso local,,,,Operational,Original
 grib2/3/1/65535,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,65535,,Valor faltante,,,,Operational,Original

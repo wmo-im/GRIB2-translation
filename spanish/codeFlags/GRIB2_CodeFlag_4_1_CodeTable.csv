@@ -1,4 +1,4 @@
-ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_en,Status,translated_by
+﻿ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_en,Status,translated_by
 grib2/4/1/0/0,Tabla de cifrado 4.1 — Categoría de parámetros por campo de especialización de los productos,Campo de especialización 0 — Productos meteorológicos,0,,Temperatura,,,,Operational,Original
 grib2/4/1/0/1,Tabla de cifrado 4.1 — Categoría de parámetros por campo de especialización de los productos,Campo de especialización 0 — Productos meteorológicos,1,,Humedad,,,,Operational,Original
 grib2/4/1/0/2,Tabla de cifrado 4.1 — Categoría de parámetros por campo de especialización de los productos,Campo de especialización 0 — Productos meteorológicos,2,,Impulso,,,,Operational,Original
@@ -41,7 +41,7 @@ grib2/4/1/2/192-254,Tabla de cifrado 4.1 — Categoría de parámetros por campo
 grib2/4/1/2/255,Tabla de cifrado 4.1 — Categoría de parámetros por campo de especialización de los productos,Campo de especialización 2 — Productos para la superficie terrestre,255,,Valor faltante,,,,Operational,Original
 grib2/4/1/3/0,Tabla de cifrado 4.1 — Categoría de parámetros por campo de especialización de los productos,Campo de especialización 3 — Productos espaciales,0,,Productos de formato de imagen,(véase la nota 1),40,,Operational,Original
 grib2/4/1/3/1,Tabla de cifrado 4.1 — Categoría de parámetros por campo de especialización de los productos,Campo de especialización 3 — Productos espaciales,1,,Productos cuantitativos,(véase la nota 2),39,,Operational,Original
-grib2/4/1/3/2,Tabla de cifrado 4.1 — Categoría de parámetros por campo de especialización de los productos,Campo de especialización 3 — Productos espaciales,2,,Propiedades de las nubes,,,,Operationa,Original
+grib2/4/1/3/2,Tabla de cifrado 4.1 — Categoría de parámetros por campo de especialización de los productos,Campo de especialización 3 — Productos espaciales,2,,Propiedades de las nubes,,,,Operational,Original
 grib2/4/1/3/3,Tabla de cifrado 4.1 — Categoría de parámetros por campo de especialización de los productos,Campo de especialización 3 — Productos espaciales,3,,Condiciones de las reglas de vuelo,,,,Operational,Original
 grib2/4/1/3/4,Tabla de cifrado 4.1 — Categoría de parámetros por campo de especialización de los productos,Campo de especialización 3 — Productos espaciales,4,,Ceniza volcánica,,,,Operational,Original
 grib2/4/1/3/5,Tabla de cifrado 4.1 — Categoría de parámetros por campo de especialización de los productos,Campo de especialización 3 — Productos espaciales,5,,Temperatura en la superficie del mar,,,,Operational,Original

@@ -1,6 +1,6 @@
-ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translated_by
-grib2/5/41/12-15,"Datos en los puntos de la retícula, formato PNG (Portable Network Graphics)",12-15,,Valor de referencia (R) (valor de coma flotante IEEE de 32 bits),,,,,Operational,Original
-grib2/5/41/16-17,"Datos en los puntos de la retícula, formato PNG (Portable Network Graphics)",16-17,,Factor de escala binario (E),,,,,Operational,Original
-grib2/5/41/18-19,"Datos en los puntos de la retícula, formato PNG (Portable Network Graphics)",18-19,,Factor de escala decimal (D),,,,,Operational,Original
-grib2/5/41/20,"Datos en los puntos de la retícula, formato PNG (Portable Network Graphics)",20,,"Número de bits necesarios para alojar los valores de datos resultantes convertidos a escala y referenciados (es decir, la profundidad de la imagen)",(véase la nota 2),,,,Operational,Original
-grib2/5/41/21,"Datos en los puntos de la retícula, formato PNG (Portable Network Graphics)",21,,Tipo de valores de campo originales,(véase la Tabla de cifrado 5.1),,,,Operational,Original
+﻿ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translated_by
+grib2/5/41/12-15,"Datos en los puntos de la retícula, formato PNG (Portable Network Graphics)",12-15,4,Valor de referencia (R) (valor de coma flotante IEEE de 32 bits),,,,,Operational,Original
+grib2/5/41/16-17,"Datos en los puntos de la retícula, formato PNG (Portable Network Graphics)",16-17,2,Factor de escala binario (E),,,,,Operational,Original
+grib2/5/41/18-19,"Datos en los puntos de la retícula, formato PNG (Portable Network Graphics)",18-19,2,Factor de escala decimal (D),,,,,Operational,Original
+grib2/5/41/20,"Datos en los puntos de la retícula, formato PNG (Portable Network Graphics)",20,1,"Número de bits necesarios para alojar los valores de datos resultantes convertidos a escala y referenciados (es decir, la profundidad de la imagen)",(véase la nota 2),,,,Operational,Original
+grib2/5/41/21,"Datos en los puntos de la retícula, formato PNG (Portable Network Graphics)",21,1,Tipo de valores de campo originales,(véase la Tabla de cifrado 5.1),,5.1,,Operational,Original
