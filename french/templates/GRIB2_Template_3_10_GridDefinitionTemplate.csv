@@ -14,7 +14,7 @@ grib2/3/10/47,Modèle de définition de la grille 3.10 — Projection de Mercato
 grib2/3/10/48-51,Modèle de définition de la grille 3.10 — Projection de Mercator,48-51,,LaD latitude(s) d'intersection du cylindre de projection de Mercator avec la Terre (latitude(s) pour laquelle (lesquelles) Di et Dj sont précisées),,,,,Operational,Original
 grib2/3/10/52-55,Modèle de définition de la grille 3.10 — Projection de Mercator,52-55,,La2 - latitude du dernier point de la grille,,,,,Operational,Original
 grib2/3/10/56-59,Modèle de définition de la grille 3.10 — Projection de Mercator,56-59,,Lo2 - longitude du dernier point de la grille,,,,,Operational,Original
-grib2/3/10/60,Modèle de définition de la grille 3.10 — Projection de Mercator,60,,Mode d'exploration,(indicateurs – voir la table d'indicateurs 3.4),,,,Operational,Original
+grib2/3/10/60,Modèle de définition de la grille 3.10 — Projection de Mercator,60,,Mode d'exploration,(voir la table d'indicateurs 3.4),,,,Operational,Original
 grib2/3/10/61-64,Modèle de définition de la grille 3.10 — Projection de Mercator,61-64,,"Orientation de la grille, angle entre la direction i sur la carte et l'équateur",(voir la note 1),,,,Operational,Original
 grib2/3/10/65-68,Modèle de définition de la grille 3.10 — Projection de Mercator,65-68,,Di - longueur de grille dans le sens de la longitude,(voir la note 2),,,,Operational,Original
 grib2/3/10/69-72,Modèle de définition de la grille 3.10 — Projection de Mercator,69-72,,Dj - longueur de grille dans le sens de la latitude,(voir la note 2),,,,Operational,Original

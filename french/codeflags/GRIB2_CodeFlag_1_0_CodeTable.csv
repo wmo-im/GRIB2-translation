@@ -1,27 +1,27 @@
 ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
-grib2/1/0/0,Table de code 1.0 – Numéro de version des tables principales du code GRIB,,0,,À usage expérimental,NOTE: Cette table de code est obsolète. Veuillez-vous référer à la table de code commune C-0.,,,Deprecated,Original
-grib2/1/0/1,Table de code 1.0 – Numéro de version des tables principales du code GRIB,,1,,Version entrée en vigueur le 7 novembre 2001,NOTE: Cette table de code est obsolète. Veuillez-vous référer à la table de code commune C-0.,,,Deprecated,Original
-grib2/1/0/2,Table de code 1.0 – Numéro de version des tables principales du code GRIB,,2,,Version entrée en vigueur le 4 novembre 2003,NOTE: Cette table de code est obsolète. Veuillez-vous référer à la table de code commune C-0.,,,Deprecated,Original
-grib2/1/0/3,Table de code 1.0 – Numéro de version des tables principales du code GRIB,,3,,Version entrée en vigueur le 2 novembre 2005,NOTE: Cette table de code est obsolète. Veuillez-vous référer à la table de code commune C-0.,,,Deprecated,Original
-grib2/1/0/4,Table de code 1.0 – Numéro de version des tables principales du code GRIB,,4,,Version entrée en vigueur le 7 novembre 2007,NOTE: Cette table de code est obsolète. Veuillez-vous référer à la table de code commune C-0.,,,Deprecated,Original
-grib2/1/0/5,Table de code 1.0 – Numéro de version des tables principales du code GRIB,,5,,Version entrée en vigueur le 4 novembre 2009,NOTE: Cette table de code est obsolète. Veuillez-vous référer à la table de code commune C-0.,,,Deprecated,Original
-grib2/1/0/6,Table de code 1.0 – Numéro de version des tables principales du code GRIB,,6,,Version entrée en vigueur le 15 septembre 2010,NOTE: Cette table de code est obsolète. Veuillez-vous référer à la table de code commune C-0.,,,Deprecated,Original
-grib2/1/0/7,Table de code 1.0 – Numéro de version des tables principales du code GRIB,,7,,Version entrée en vigueur le 4 mai 2011,NOTE: Cette table de code est obsolète. Veuillez-vous référer à la table de code commune C-0.,,,Deprecated,Original
-grib2/1/0/8,Table de code 1.0 – Numéro de version des tables principales du code GRIB,,8,,Version entrée en vigueur le 2 novembre 2011,NOTE: Cette table de code est obsolète. Veuillez-vous référer à la table de code commune C-0.,,,Deprecated,Original
-grib2/1/0/9,Table de code 1.0 – Numéro de version des tables principales du code GRIB,,9,,Version entrée en vigueur le 2 mai 2012,NOTE: Cette table de code est obsolète. Veuillez-vous référer à la table de code commune C-0.,,,Deprecated,Original
-grib2/1/0/10,Table de code 1.0 – Numéro de version des tables principales du code GRIB,,10,,Version entrée en vigueur le 7 novembre 2012,NOTE: Cette table de code est obsolète. Veuillez-vous référer à la table de code commune C-0.,,,Deprecated,Original
-grib2/1/0/11,Table de code 1.0 – Numéro de version des tables principales du code GRIB,,11,,Version entrée en vigueur le 8 mai 2013,NOTE: Cette table de code est obsolète. Veuillez-vous référer à la table de code commune C-0.,,,Deprecated,Original
-grib2/1/0/12,Table de code 1.0 – Numéro de version des tables principales du code GRIB,,12,,Version entrée en vigueur le 14 novembre 2013,NOTE: Cette table de code est obsolète. Veuillez-vous référer à la table de code commune C-0.,,,Deprecated,Original
-grib2/1/0/13,Table de code 1.0 – Numéro de version des tables principales du code GRIB,,13,,Version entrée en vigueur le 7 mai 2014,NOTE: Cette table de code est obsolète. Veuillez-vous référer à la table de code commune C-0.,,,Deprecated,Original
-grib2/1/0/14,Table de code 1.0 – Numéro de version des tables principales du code GRIB,,14,,Version entrée en vigueur le 5 novembre 2014,NOTE: Cette table de code est obsolète. Veuillez-vous référer à la table de code commune C-0.,,,Deprecated,Original
-grib2/1/0/15,Table de code 1.0 – Numéro de version des tables principales du code GRIB,,15,,Version entrée en vigueur le 6 mai 2015,NOTE: Cette table de code est obsolète. Veuillez-vous référer à la table de code commune C-0.,,,Deprecated,Original
-grib2/1/0/16,Table de code 1.0 – Numéro de version des tables principales du code GRIB,,16,,Version entrée en vigueur le 11 novembre 2015,NOTE: Cette table de code est obsolète. Veuillez-vous référer à la table de code commune C-0.,,,Deprecated,Original
-grib2/1/0/17,Table de code 1.0 – Numéro de version des tables principales du code GRIB,,17,,Version entrée en vigueur le 4 mai 2016,NOTE: Cette table de code est obsolète. Veuillez-vous référer à la table de code commune C-0.,,,Deprecated,Original
-grib2/1/0/18,Table de code 1.0 – Numéro de version des tables principales du code GRIB,,18,,Version entrée en vigueur le 2 novembre 2016,NOTE: Cette table de code est obsolète. Veuillez-vous référer à la table de code commune C-0.,,,Deprecated,Original
-grib2/1/0/19,Table de code 1.0 – Numéro de version des tables principales du code GRIB,,19,,Version entrée en vigueur le 3 mai 2017,NOTE: Cette table de code est obsolète. Veuillez-vous référer à la table de code commune C-0.,,,Deprecated,Original
-grib2/1/0/20,Table de code 1.0 – Numéro de version des tables principales du code GRIB,,20,,Version entrée en vigueur le 8 novembre 2017,NOTE: Cette table de code est obsolète. Veuillez-vous référer à la table de code commune C-0.,,,Deprecated,Original
-grib2/1/0/21,Table de code 1.0 – Numéro de version des tables principales du code GRIB,,21,,Version entrée en vigueur le 2 mai 2018,NOTE: Cette table de code est obsolète. Veuillez-vous référer à la table de code commune C-0.,,,Deprecated,Original
-grib2/1/0/22,Table de code 1.0 – Numéro de version des tables principales du code GRIB,,22,,Version entrée en vigueur le 7 novembre 2018,NOTE: Cette table de code est obsolète. Veuillez-vous référer à la table de code commune C-0.,,,Deprecated,Original
-grib2/1/0/23,Table de code 1.0 – Numéro de version des tables principales du code GRIB,,23,,Version en préexploitation devant entrer en vigueur avec le prochain amendement,NOTE: Cette table de code est obsolète. Veuillez-vous référer à la table de code commune C-0.,,,Deprecated,Original
-grib2/1/0/24-254,Table de code 1.0 – Numéro de version des tables principales du code GRIB,,24-254,,Versions futures,NOTE: Cette table de code est obsolète. Veuillez-vous référer à la table de code commune C-0.,,,Deprecated,Original
-grib2/1/0/255,Table de code 1.0 – Numéro de version des tables principales du code GRIB,,255,,Valeur manquante,NOTE: Cette table de code est obsolète. Veuillez-vous référer à la table de code commune C-0.,,,Deprecated,Original
+grib2/1/0/0,Table de code 1.0 – Numéro de version des tables principales du code GRIB,,0,,À usage expérimental,,,,Deprecated,Original
+grib2/1/0/1,Table de code 1.0 – Numéro de version des tables principales du code GRIB,,1,,Version entrée en vigueur le 7 novembre 2001,,,,Deprecated,Original
+grib2/1/0/2,Table de code 1.0 – Numéro de version des tables principales du code GRIB,,2,,Version entrée en vigueur le 4 novembre 2003,,,,Deprecated,Original
+grib2/1/0/3,Table de code 1.0 – Numéro de version des tables principales du code GRIB,,3,,Version entrée en vigueur le 2 novembre 2005,,,,Deprecated,Original
+grib2/1/0/4,Table de code 1.0 – Numéro de version des tables principales du code GRIB,,4,,Version entrée en vigueur le 7 novembre 2007,,,,Deprecated,Original
+grib2/1/0/5,Table de code 1.0 – Numéro de version des tables principales du code GRIB,,5,,Version entrée en vigueur le 4 novembre 2009,,,,Deprecated,Original
+grib2/1/0/6,Table de code 1.0 – Numéro de version des tables principales du code GRIB,,6,,Version entrée en vigueur le 15 septembre 2010,,,,Deprecated,Original
+grib2/1/0/7,Table de code 1.0 – Numéro de version des tables principales du code GRIB,,7,,Version entrée en vigueur le 4 mai 2011,,,,Deprecated,Original
+grib2/1/0/8,Table de code 1.0 – Numéro de version des tables principales du code GRIB,,8,,Version entrée en vigueur le 2 novembre 2011,,,,Deprecated,Original
+grib2/1/0/9,Table de code 1.0 – Numéro de version des tables principales du code GRIB,,9,,Version entrée en vigueur le 2 mai 2012,,,,Deprecated,Original
+grib2/1/0/10,Table de code 1.0 – Numéro de version des tables principales du code GRIB,,10,,Version entrée en vigueur le 7 novembre 2012,,,,Deprecated,Original
+grib2/1/0/11,Table de code 1.0 – Numéro de version des tables principales du code GRIB,,11,,Version entrée en vigueur le 8 mai 2013,,,,Deprecated,Original
+grib2/1/0/12,Table de code 1.0 – Numéro de version des tables principales du code GRIB,,12,,Version entrée en vigueur le 14 novembre 2013,,,,Deprecated,Original
+grib2/1/0/13,Table de code 1.0 – Numéro de version des tables principales du code GRIB,,13,,Version entrée en vigueur le 7 mai 2014,,,,Deprecated,Original
+grib2/1/0/14,Table de code 1.0 – Numéro de version des tables principales du code GRIB,,14,,Version entrée en vigueur le 5 novembre 2014,,,,Deprecated,Original
+grib2/1/0/15,Table de code 1.0 – Numéro de version des tables principales du code GRIB,,15,,Version entrée en vigueur le 6 mai 2015,,,,Deprecated,Original
+grib2/1/0/16,Table de code 1.0 – Numéro de version des tables principales du code GRIB,,16,,Version entrée en vigueur le 11 novembre 2015,,,,Deprecated,Original
+grib2/1/0/17,Table de code 1.0 – Numéro de version des tables principales du code GRIB,,17,,Version entrée en vigueur le 4 mai 2016,,,,Deprecated,Original
+grib2/1/0/18,Table de code 1.0 – Numéro de version des tables principales du code GRIB,,18,,Version entrée en vigueur le 2 novembre 2016,,,,Deprecated,Original
+grib2/1/0/19,Table de code 1.0 – Numéro de version des tables principales du code GRIB,,19,,Version entrée en vigueur le 3 mai 2017,,,,Deprecated,Original
+grib2/1/0/20,Table de code 1.0 – Numéro de version des tables principales du code GRIB,,20,,Version entrée en vigueur le 8 novembre 2017,,,,Deprecated,Original
+grib2/1/0/21,Table de code 1.0 – Numéro de version des tables principales du code GRIB,,21,,Version entrée en vigueur le 2 mai 2018,,,,Deprecated,Original
+grib2/1/0/22,Table de code 1.0 – Numéro de version des tables principales du code GRIB,,22,,Version entrée en vigueur le 7 novembre 2018,,,,Deprecated,Original
+grib2/1/0/23,Table de code 1.0 – Numéro de version des tables principales du code GRIB,,23,,Version en préexploitation devant entrer en vigueur avec le prochain amendement,,,,Deprecated,Original
+grib2/1/0/24-254,Table de code 1.0 – Numéro de version des tables principales du code GRIB,,24-254,,Versions futures,,,,Deprecated,Original
+grib2/1/0/255,Table de code 1.0 – Numéro de version des tables principales du code GRIB,,255,,Valeur manquante,,,,Deprecated,Original

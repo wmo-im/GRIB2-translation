@@ -14,7 +14,7 @@ grib2/3/12/47,Modèle de définition de la grille 3.12 — Transverse de Mercato
 grib2/3/12/48-51,Modèle de définition de la grille 3.12 — Transverse de Mercator,48-51,,"m facteur d'échelle au point de référence, soit le rapport de la distance sur la carte à la distance sur l'ellipsoïde (valeur en virgule flottante IEEE 32 bits)",,,,,Operational,Original
 grib2/3/12/52-55,Modèle de définition de la grille 3.12 — Transverse de Mercator,52-55,,"XR - abscisse fictive, coordonnée de direction i du point de référence, exprimée en 10-2 m",,,,,Operational,Original
 grib2/3/12/56-59,Modèle de définition de la grille 3.12 — Transverse de Mercator,56-59,,"YR - ordonnée fictive, coordonnée de direction j du point de référence, exprimée en 10-2 m",,,,,Operational,Original
-grib2/3/12/60,Modèle de définition de la grille 3.12 — Transverse de Mercator,60,,Mode d'exploration,(indicateurs – voir la table d'indicateurs 3.4),,,,Operational,Original
+grib2/3/12/60,Modèle de définition de la grille 3.12 — Transverse de Mercator,60,,Mode d'exploration,(voir la table d'indicateurs 3.4),,,,Operational,Original
 grib2/3/12/61-64,Modèle de définition de la grille 3.12 — Transverse de Mercator,61-64,,"Di i - longueur de l'incrément de direction, exprimée en 10-2 m",,,,,Operational,Original
 grib2/3/12/65-68,Modèle de définition de la grille 3.12 — Transverse de Mercator,65-68,,"Dj j - longueur de l'incrément de direction, exprimée en 10-2 m",,,,,Operational,Original
 grib2/3/12/69-72,Modèle de définition de la grille 3.12 — Transverse de Mercator,69-72,,"x1 - coordonnée de direction i du premier point de grille, exprimée en 10-2 m",,,,,Operational,Original

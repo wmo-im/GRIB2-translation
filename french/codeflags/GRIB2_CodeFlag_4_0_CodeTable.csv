@@ -34,7 +34,6 @@ grib2/4/0/46,,Numéro du modèle de définition du produit,46,,"Valeurs moyennes
 grib2/4/0/47,,Numéro du modèle de définition du produit,47,,"Prévision d'ensemble prise séparément, de contrôle ou «perturbée», pour une surface ou une couche horizontale, durant un intervalle de temps continu ou non, relative aux aérosols",,,,Operational,Original
 grib2/4/0/48,,Numéro du modèle de définition du produit,48,,"Analyse ou prévision pour une surface ou une couche horizontale, à un moment donné, relative aux propriétés optiques des aérosols",,,,Operational,Original
 grib2/4/0/49,,Numéro du modèle de définition du produit,49,,"Prévision d'ensemble prise séparément, de contrôle ou «perturbée», pour une surface ou une couche horizontale, à un moment donné, relative aux propriétés optiques des aérosols",,,,Operational,Original
-grib2/4/0/50,,Numéro du modèle de définition du produit,50,,En réserve,,,,Operational,Original
 grib2/4/0/51,,Numéro du modèle de définition du produit,51,,"Prévision catégorielle pour une surface ou une couche horizontale, à un moment donné",,,,Operational,Original
 grib2/4/0/52,,Numéro du modèle de définition du produit,52,,En réserve,,,,Operational,Original
 grib2/4/0/53,,Numéro du modèle de définition du produit,53,,"Paramètres partitionnés pour une surface ou une couche horizontale, à un moment donné",,,,Operational,Original

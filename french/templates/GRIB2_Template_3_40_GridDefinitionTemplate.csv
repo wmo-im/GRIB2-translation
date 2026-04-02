@@ -17,5 +17,5 @@ grib2/3/40/56-59,Modèle de définition de la grille 3.40 — Grille gaussienne 
 grib2/3/40/60-63,Modèle de définition de la grille 3.40 — Grille gaussienne latitude/longitude,60-63,,Lo2 - longitude du dernier point de la grille,(voir la note 1),,,,Operational,Original
 grib2/3/40/64-67,Modèle de définition de la grille 3.40 — Grille gaussienne latitude/longitude,64-67,,Di - incrément de la direction i,(voir les notes 1 et 5),,,,Operational,Original
 grib2/3/40/68-71,Modèle de définition de la grille 3.40 — Grille gaussienne latitude/longitude,68-71,,N - nombre de parallèles entre un pôle et l'équateur,(voir la note 2),,,,Operational,Original
-grib2/3/40/72,Modèle de définition de la grille 3.40 — Grille gaussienne latitude/longitude,72,,Mode d'exploration,(indicateurs – voir la table d'indicateurs 3.4),,,,Operational,Original
+grib2/3/40/72,Modèle de définition de la grille 3.40 — Grille gaussienne latitude/longitude,72,,Mode d'exploration,(voir la table d'indicateurs 3.4),,,,Operational,Original
 grib2/3/40/73-nn,Modèle de définition de la grille 3.40 — Grille gaussienne latitude/longitude,73-nn,,Liste de nombre de points le long de chaque méridien ou parallèle,(ces octets ne s'appliquent qu'aux grilles quasi régulières dont il est question dans la note 4),,,,Operational,Original
