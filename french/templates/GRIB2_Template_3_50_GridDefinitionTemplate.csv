@@ -1,6 +1,6 @@
-ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translated_by
-grib2/3/50/15-18,Modèle de définition de la grille 3.50 — Coefficients harmoniques sphériques,15-18,,J - paramètre de résolution pentagonale,,,,,Operational,Original
-grib2/3/50/19-22,Modèle de définition de la grille 3.50 — Coefficients harmoniques sphériques,19-22,,K - paramètre de résolution pentagonale,,,,,Operational,Original
-grib2/3/50/23-26,Modèle de définition de la grille 3.50 — Coefficients harmoniques sphériques,23-26,,M - paramètre de résolution pentagonale,,,,,Operational,Original
-grib2/3/50/27,Modèle de définition de la grille 3.50 — Coefficients harmoniques sphériques,27,,Type de représentation indiquant la méthode utilisée pour définir la norme,(voir la table de code 3.6),,,,Operational,Original
-grib2/3/50/28,Modèle de définition de la grille 3.50 — Coefficients harmoniques sphériques,28,,Mode de représentation indiquant l'ordre des coefficients,(voir la table de code 3.7),,,,Operational,Original
+﻿ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translated_by
+grib2/3/50/15-18,Modèle de définition de la grille 3.50 — Coefficients harmoniques sphériques,15-18,4,J - paramètre de résolution pentagonale,,,,,Operational,Original
+grib2/3/50/19-22,Modèle de définition de la grille 3.50 — Coefficients harmoniques sphériques,19-22,4,K - paramètre de résolution pentagonale,,,,,Operational,Original
+grib2/3/50/23-26,Modèle de définition de la grille 3.50 — Coefficients harmoniques sphériques,23-26,4,M - paramètre de résolution pentagonale,,,,,Operational,Original
+grib2/3/50/27,Modèle de définition de la grille 3.50 — Coefficients harmoniques sphériques,27,1,Type de représentation indiquant la méthode utilisée pour définir la norme,(voir la table de code 3.6),,3.6,,Operational,Original
+grib2/3/50/28,Modèle de définition de la grille 3.50 — Coefficients harmoniques sphériques,28,1,Mode de représentation indiquant l'ordre des coefficients,(voir la table de code 3.7),,3.7,,Operational,Original

@@ -1,2 +1,2 @@
-ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translated_by
-grib2/5/4/12,Modèle de représentation des données 5.4 — Données aux points de grille — données en virgule flottantte IEEE,12,,Précision,(voir la table de code 5.7),,,,Operational,Original
+﻿ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translated_by
+grib2/5/4/12,Modèle de représentation des données 5.4 — Données aux points de grille — données en virgule flottantte IEEE,12,1,Précision,(voir la table de code 5.7),,5.7,,Operational,Original

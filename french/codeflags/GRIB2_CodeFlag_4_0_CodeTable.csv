@@ -1,4 +1,4 @@
-ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
+﻿ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
 grib2/4/0/0,,Numéro du modèle de définition du produit,0,,"Analyse ou prévision pour une surface ou une couche horizontale, à un moment donné",,,,Operational,Original
 grib2/4/0/1,,Numéro du modèle de définition du produit,1,,"Prévision d'ensemble prise séparément, de contrôle ou «perturbée», pour une surface ou une couche horizontale, à un moment donné",,,,Operational,Original
 grib2/4/0/2,,Numéro du modèle de définition du produit,2,,"Prévision dérivée, établie à partir de tous les membres de l'ensemble, pour une surface ou une couche horizontale, à un moment donné",,,,Operational,Original
@@ -9,7 +9,7 @@ grib2/4/0/6,,Numéro du modèle de définition du produit,6,,"Prévision en perc
 grib2/4/0/7,,Numéro du modèle de définition du produit,7,,"Erreur d'analyse ou de prévision pour une surface ou une couche horizontale, à un moment donné",,,,Operational,Original
 grib2/4/0/8,,Numéro du modèle de définition du produit,8,,"Valeurs moyennes, cumulées et/ou extrêmes, ou autres valeurs statistiques, pour une surface ou une couche horizontale, durant un intervalle de temps continu ou non",,,,Operational,Original
 grib2/4/0/9,,Numéro du modèle de définition du produit,9,,"Prévision de probabilité pour une surface ou une couche horizontale, durant un intervalle de temps continu ou non",,,,Operational,Original
-grib2/4/0/10,,Numéro du modèle de définition du produit,10,,"Prévision en percentiles pour une surface ou une couche horizontale, durant un intervalle de temps continu ou non",,,,Operational,Original
+grib2/4/0/10,,Numéro du modèle de définition du produit,10,,"Prévision en percentiles pour une surface ou une couche horizontale, durant un intervalle de temps continu ou non",,,,Experimental,Original
 grib2/4/0/11,,Numéro du modèle de définition du produit,11,,"Prévision d'ensemble prise séparément, de contrôle ou «perturbée», pour une surface ou une couche horizontale, durant un intervalle de temps continu ou non",,,,Operational,Original
 grib2/4/0/12,,Numéro du modèle de définition du produit,12,,"Prévision dérivée, établie à partir de tous les membres de l'ensemble, pour une surface ou une couche horizontale, durant un intervalle de temps continu ou non",,,,Operational,Original
 grib2/4/0/13,,Numéro du modèle de définition du produit,13,,"Prévision dérivée, établie à partir d'un groupe de membres de l'ensemble, appliquée à une zone rectangulaire, pour une surface ou une couche horizontale, durant un intervalle de temps continu ou non",,,,Operational,Original
@@ -18,7 +18,7 @@ grib2/4/0/15,,Numéro du modèle de définition du produit,15,,"Valeurs moyennes
 grib2/4/0/16-19,,Numéro du modèle de définition du produit,16-19,,En réserve,,,,Operational,Original
 grib2/4/0/20,,Numéro du modèle de définition du produit,20,,Produit radar,,,,Operational,Original
 grib2/4/0/21-29,,Numéro du modèle de définition du produit,21-29,,En réserve,,,,Operational,Original
-grib2/4/0/30,,Numéro du modèle de définition du produit,30,,Produit de satellite (caduc),,,,Operational,Original
+grib2/4/0/30,,Numéro du modèle de définition du produit,30,,Produit de satellite (caduc),,,,Deprecated,Original
 grib2/4/0/31,,Numéro du modèle de définition du produit,31,,Produit de satellite,,,,Operational,Original
 grib2/4/0/32,,Numéro du modèle de définition du produit,32,,"Analyse ou prévision pour une surface ou une couche horizontale, à un moment donné, relative aux données simulées (synthétiques) de satellite",,,,Operational,Original
 grib2/4/0/33,,Numéro du modèle de définition du produit,33,,"Prévision d'ensemble prise séparément, de contrôle ou «perturbée», pour une surface ou une couche horizontale, à un moment donné, relative aux données satellite simulées (de synthèse)",,,,Operational,Original
@@ -28,7 +28,7 @@ grib2/4/0/40,,Numéro du modèle de définition du produit,40,,"Analyse ou prév
 grib2/4/0/41,,Numéro du modèle de définition du produit,41,,"Prévision d'ensemble prise séparément, de contrôle ou «perturbée», pour une surface ou une couche horizontale, à un moment donné, relative aux constituants chimiques de l'atmosphère",,,,Operational,Original
 grib2/4/0/42,,Numéro du modèle de définition du produit,42,,"Valeurs moyennes, cumulées et/ou extrêmes, ou autres valeurs statistiques, pour une surface ou une couche horizontale, durant un intervalle de temps continu ou non, relatives aux constituants chimiques de l'atmosphère",,,,Operational,Original
 grib2/4/0/43,,Numéro du modèle de définition du produit,43,,"Prévision d'ensemble prise séparément, de contrôle ou «perturbée», pour une surface ou une couche horizontale, durant un intervalle de temps continu ou non, relative aux constituants chimiques de l'atmosphère",,,,Operational,Original
-grib2/4/0/44,,Numéro du modèle de définition du produit,44,,"Analyse ou prévision pour une surface ou une couche horizontale, à un moment donné, relative aux aérosols",,,,Operational,Original
+grib2/4/0/44,,Numéro du modèle de définition du produit,44,,"Analyse ou prévision pour une surface ou une couche horizontale, à un moment donné, relative aux aérosols",,,,Deprecated,Original
 grib2/4/0/45,,Numéro du modèle de définition du produit,45,,"Prévision d'ensemble prise séparément, de contrôle ou «perturbée», pour une surface ou une couche horizontale, à un moment donné, relative aux aérosols",,,,Operational,Original
 grib2/4/0/46,,Numéro du modèle de définition du produit,46,,"Valeurs moyennes, cumulées et/ou extrêmes ou autres valeurs statistiques, pour une surface ou une couche horizontale, durant un intervalle de temps continu ou non, relatives aux aérosols",,,,Operational,Original
 grib2/4/0/47,,Numéro du modèle de définition du produit,47,,"Prévision d'ensemble prise séparément, de contrôle ou «perturbée», pour une surface ou une couche horizontale, durant un intervalle de temps continu ou non, relative aux aérosols",,,,Operational,Original
@@ -39,7 +39,7 @@ grib2/4/0/52,,Numéro du modèle de définition du produit,52,,En réserve,,,,Op
 grib2/4/0/53,,Numéro du modèle de définition du produit,53,,"Paramètres partitionnés pour une surface ou une couche horizontale, à un moment donné",,,,Operational,Original
 grib2/4/0/54,,Numéro du modèle de définition du produit,54,,"Prévision d'ensemble prise séparément, de contrôle ou «perturbée», pour une surface ou une couche horizontale, à un moment donné, relative aux paramètres partitionnés",,,,Operational,Original
 grib2/4/0/55,,Numéro du modèle de définition du produit,55,,"Dynamique spatio-temporelle de mosaïques pour une surface ou une couche horizontale, à un moment donné",,,,Operational,Original
-grib2/4/0/56,,Numéro du modèle de définition du produit,56,,"Prévision d'ensemble prise séparément, de contrôle ou «perturbée», pour une surface ou une couche horizontale, à un moment donné, relative aux paramètres de la dynamique spatio-temporelle des mosaïques (caduc)",,,,Operational,Original
+grib2/4/0/56,,Numéro du modèle de définition du produit,56,,"Prévision d'ensemble prise séparément, de contrôle ou «perturbée», pour une surface ou une couche horizontale, à un moment donné, relative aux paramètres de la dynamique spatio-temporelle des mosaïques (caduc)",,,,Deprecated,Original
 grib2/4/0/57,,Numéro du modèle de définition du produit,57,,"Analyse ou prévision pour une surface ou une couche horizontale, à un moment donné, relative aux constituants chimiques de l'atmosphère, fondée sur une fonction de distribution",,,,Operational,Original
 grib2/4/0/58,,Numéro du modèle de définition du produit,58,,"Prévision d'ensemble prise séparément, de contrôle ou «perturbée», pour une surface ou une couche horizontale, à un moment donné, relative aux constituants chimiques de l'atmosphère et fondée sur une fonction de distribution",,,,Operational,Original
 grib2/4/0/59,,Numéro du modèle de définition du produit,59,,"Prévision d'ensemble prise séparément, de contrôle ou «perturbée», pour une surface ou une couche horizontale, à un moment donné, relative aux paramètres de la dynamique spatio-temporelle des mosaïques (version corrigée du modèle 4.56)",,,,Operational,Original
@@ -69,12 +69,12 @@ grib2/4/0/91,,Numéro du modèle de définition du produit,91,,"Prévision caté
 grib2/4/0/92-253,,Numéro du modèle de définition du produit,92-253,,En réserve,,,,Operational,Original
 grib2/4/0/254,,Numéro du modèle de définition du produit,254,,Chaîne de caractères CCITT IA5,,,,Operational,Original
 grib2/4/0/255-999,,Numéro du modèle de définition du produit,255-999,,En réserve,,,,Operational,Original
-grib2/4/0/1000,,Numéro du modèle de définition du produit,1000,,"Coupe d'une analyse et d'une prévision, à un moment donné",,,,Operational,Original
-grib2/4/0/1001,,Numéro du modèle de définition du produit,1001,,"Coupe d'une analyse ou d'une prévision, moyennée ou ayant fait l'objet d'un autre traitement statistique pour un intervalle de temps donné",,,,Operational,Original
-grib2/4/0/1002,,Numéro du modèle de définition du produit,1002,,"Coupe d'une analyse ou d'une prévision, moyennée ou ayant fait l'objet d'un autre traitement statistique le long d'une latitude ou d'une longitude donnée",,,,Operational,Original
+grib2/4/0/1000,,Numéro du modèle de définition du produit,1000,,"Coupe d'une analyse et d'une prévision, à un moment donné",,,,Experimental,Original
+grib2/4/0/1001,,Numéro du modèle de définition du produit,1001,,"Coupe d'une analyse ou d'une prévision, moyennée ou ayant fait l'objet d'un autre traitement statistique pour un intervalle de temps donné",,,,Experimental,Original
+grib2/4/0/1002,,Numéro du modèle de définition du produit,1002,,"Coupe d'une analyse ou d'une prévision, moyennée ou ayant fait l'objet d'un autre traitement statistique le long d'une latitude ou d'une longitude donnée",,,,Experimental,Original
 grib2/4/0/1003-1099,,Numéro du modèle de définition du produit,1003-1099,,En réserve,,,,Operational,Original
-grib2/4/0/1100,,Numéro du modèle de définition du produit,1100,,Grille de type Hovmöller sans moyenne ou autre traitement statistique,,,,Operational,Original
-grib2/4/0/1101,,Numéro du modèle de définition du produit,1101,,Grille de type Hovmöller avec moyenne ou autre traitement statistique,,,,Operational,Original
+grib2/4/0/1100,,Numéro du modèle de définition du produit,1100,,Grille de type Hovmöller sans moyenne ou autre traitement statistique,,,,Experimental,Original
+grib2/4/0/1101,,Numéro du modèle de définition du produit,1101,,Grille de type Hovmöller avec moyenne ou autre traitement statistique,,,,Experimental,Original
 grib2/4/0/1102-32767,,Numéro du modèle de définition du produit,1102-32767,,En réserve,,,,Operational,Original
 grib2/4/0/32768-65534,,Numéro du modèle de définition du produit,32768-65534,,En réserve pour un usage local,,,,Operational,Original
 grib2/4/0/65535,,Numéro du modèle de définition du produit,65535,,Valeur manquante,,,,Operational,Original

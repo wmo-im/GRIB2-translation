@@ -1,8 +1,8 @@
-ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translated_by
-grib2/3/53/15-28,Modèle de définition de la grille 3.53 — Coefficients harmoniques sphériques après dilatation et rotation,15-28,,Voir le modèle de définition de la grille 3.50,,,,,Operational,Original
-grib2/3/53/29-32,Modèle de définition de la grille 3.53 — Coefficients harmoniques sphériques après dilatation et rotation,29-32,,Latitude du pôle Sud de la projection,,,,,Operational,Original
-grib2/3/53/33-36,Modèle de définition de la grille 3.53 — Coefficients harmoniques sphériques après dilatation et rotation,33-36,,Longitude du pôle Sud de la projection,,,,,Operational,Original
-grib2/3/53/37-40,Modèle de définition de la grille 3.53 — Coefficients harmoniques sphériques après dilatation et rotation,37-40,,Angle de rotation de la projection,,,,,Operational,Original
-grib2/3/53/41-44,Modèle de définition de la grille 3.53 — Coefficients harmoniques sphériques après dilatation et rotation,41-44,,Latitude du pôle de dilatation,,,,,Operational,Original
-grib2/3/53/45-48,Modèle de définition de la grille 3.53 — Coefficients harmoniques sphériques après dilatation et rotation,45-48,,Longitude du pôle de dilatation,,,,,Operational,Original
-grib2/3/53/49-52,Modèle de définition de la grille 3.53 — Coefficients harmoniques sphériques après dilatation et rotation,49-52,,Facteur de dilatation,,,,,Operational,Original
+﻿ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translated_by
+grib2/3/53/15-28,Modèle de définition de la grille 3.53 — Coefficients harmoniques sphériques après dilatation et rotation,15-28,14,Voir le modèle de définition de la grille 3.50,,,,,Operational,Original
+grib2/3/53/29-32,Modèle de définition de la grille 3.53 — Coefficients harmoniques sphériques après dilatation et rotation,29-32,4,Latitude du pôle Sud de la projection,,,,,Operational,Original
+grib2/3/53/33-36,Modèle de définition de la grille 3.53 — Coefficients harmoniques sphériques après dilatation et rotation,33-36,4,Longitude du pôle Sud de la projection,,,,,Operational,Original
+grib2/3/53/37-40,Modèle de définition de la grille 3.53 — Coefficients harmoniques sphériques après dilatation et rotation,37-40,4,Angle de rotation de la projection,,,,,Operational,Original
+grib2/3/53/41-44,Modèle de définition de la grille 3.53 — Coefficients harmoniques sphériques après dilatation et rotation,41-44,4,Latitude du pôle de dilatation,,,,,Operational,Original
+grib2/3/53/45-48,Modèle de définition de la grille 3.53 — Coefficients harmoniques sphériques après dilatation et rotation,45-48,4,Longitude du pôle de dilatation,,,,,Operational,Original
+grib2/3/53/49-52,Modèle de définition de la grille 3.53 — Coefficients harmoniques sphériques après dilatation et rotation,49-52,4,Facteur de dilatation,,,,,Operational,Original

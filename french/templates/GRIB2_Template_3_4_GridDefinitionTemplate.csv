@@ -1,16 +1,16 @@
-ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translated_by
-grib2/3/4/15,Modèle de définition de la grille 3.4 — Grille latitude/longitude de résolution variable,15,,Forme de la Terre,(voir la table de code 3.2),,,,Operational,Original
-grib2/3/4/16,Modèle de définition de la grille 3.4 — Grille latitude/longitude de résolution variable,16,,Facteur d'échelle du rayon de la Terre sphérique,,,,,Operational,Original
-grib2/3/4/17-20,Modèle de définition de la grille 3.4 — Grille latitude/longitude de résolution variable,17-20,,Valeur ajustée du rayon de la Terre sphérique,,,,,Operational,Original
-grib2/3/4/21,Modèle de définition de la grille 3.4 — Grille latitude/longitude de résolution variable,21,,Facteur d'échelle du grand axe de la Terre ellipsoïdale aplatie,,,,,Operational,Original
-grib2/3/4/22-25,Modèle de définition de la grille 3.4 — Grille latitude/longitude de résolution variable,22-25,,Valeur ajustée du grand axe de la Terre ellipsoïdale aplatie,,,,,Operational,Original
-grib2/3/4/26,Modèle de définition de la grille 3.4 — Grille latitude/longitude de résolution variable,26,,Facteur d'échelle du petit axe de la Terre ellipsoïdale aplatie,,,,,Operational,Original
-grib2/3/4/27-30,Modèle de définition de la grille 3.4 — Grille latitude/longitude de résolution variable,27-30,,Valeur ajustée du petit axe de la Terre ellipsoïdale aplatie,,,,,Operational,Original
-grib2/3/4/31-34,Modèle de définition de la grille 3.4 — Grille latitude/longitude de résolution variable,31-34,,Ni - nombre de points le long d'un parallèle,,,,,Operational,Original
-grib2/3/4/35-38,Modèle de définition de la grille 3.4 — Grille latitude/longitude de résolution variable,35-38,,Nj - nombre de points le long d'un méridien,,,,,Operational,Original
-grib2/3/4/39-42,Modèle de définition de la grille 3.4 — Grille latitude/longitude de résolution variable,39-42,,Angle de base du domaine de production initial,(voir la note 1),,,,Operational,Original
-grib2/3/4/43-46,Modèle de définition de la grille 3.4 — Grille latitude/longitude de résolution variable,43-46,,Subdivisions de l'angle de base utilisées pour indiquer les longitudes et latitudes extrêmes et les incréments de direction,(voir la note 1),,,,Operational,Original
-grib2/3/4/47,Modèle de définition de la grille 3.4 — Grille latitude/longitude de résolution variable,47,,Indicateurs de résolution et de composantes,(voir la table d'indicateurs 3.3 et la note 2),,,,Operational,Original
-grib2/3/4/48,Modèle de définition de la grille 3.4 — Grille latitude/longitude de résolution variable,48,,Mode d'exploration,(voir la table d'indicateurs 3.4),,,,Operational,Original
+﻿ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translated_by
+grib2/3/4/15,Modèle de définition de la grille 3.4 — Grille latitude/longitude de résolution variable,15,1,Forme de la Terre,(voir la table de code 3.2),,3.2,,Operational,Original
+grib2/3/4/16,Modèle de définition de la grille 3.4 — Grille latitude/longitude de résolution variable,16,1,Facteur d'échelle du rayon de la Terre sphérique,,,,,Operational,Original
+grib2/3/4/17-20,Modèle de définition de la grille 3.4 — Grille latitude/longitude de résolution variable,17-20,4,Valeur ajustée du rayon de la Terre sphérique,,,,,Operational,Original
+grib2/3/4/21,Modèle de définition de la grille 3.4 — Grille latitude/longitude de résolution variable,21,1,Facteur d'échelle du grand axe de la Terre ellipsoïdale aplatie,,,,,Operational,Original
+grib2/3/4/22-25,Modèle de définition de la grille 3.4 — Grille latitude/longitude de résolution variable,22-25,4,Valeur ajustée du grand axe de la Terre ellipsoïdale aplatie,,,,,Operational,Original
+grib2/3/4/26,Modèle de définition de la grille 3.4 — Grille latitude/longitude de résolution variable,26,1,Facteur d'échelle du petit axe de la Terre ellipsoïdale aplatie,,,,,Operational,Original
+grib2/3/4/27-30,Modèle de définition de la grille 3.4 — Grille latitude/longitude de résolution variable,27-30,4,Valeur ajustée du petit axe de la Terre ellipsoïdale aplatie,,,,,Operational,Original
+grib2/3/4/31-34,Modèle de définition de la grille 3.4 — Grille latitude/longitude de résolution variable,31-34,4,Ni - nombre de points le long d'un parallèle,,,,,Operational,Original
+grib2/3/4/35-38,Modèle de définition de la grille 3.4 — Grille latitude/longitude de résolution variable,35-38,4,Nj - nombre de points le long d'un méridien,,,,,Operational,Original
+grib2/3/4/39-42,Modèle de définition de la grille 3.4 — Grille latitude/longitude de résolution variable,39-42,4,Angle de base du domaine de production initial,(voir la note 1),,,,Operational,Original
+grib2/3/4/43-46,Modèle de définition de la grille 3.4 — Grille latitude/longitude de résolution variable,43-46,4,Subdivisions de l'angle de base utilisées pour indiquer les longitudes et latitudes extrêmes et les incréments de direction,(voir la note 1),,,,Operational,Original
+grib2/3/4/47,Modèle de définition de la grille 3.4 — Grille latitude/longitude de résolution variable,47,1,Indicateurs de résolution et de composantes,(voir la table d'indicateurs 3.3 et la note 2),,,3.3,Operational,Original
+grib2/3/4/48,Modèle de définition de la grille 3.4 — Grille latitude/longitude de résolution variable,48,1,Mode d'exploration,(voir la table d'indicateurs 3.4),,,3.4,Operational,Original
 grib2/3/4/49-ii,Modèle de définition de la grille 3.4 — Grille latitude/longitude de résolution variable,49-ii,,Liste des longitudes,(voir les notes 1 et 3),,,,Operational,Original
 grib2/3/4/(ii+1)-jj,Modèle de définition de la grille 3.4 — Grille latitude/longitude de résolution variable,(ii+1)-jj,,Liste des latitudes,(voir les notes 1 et 3),,,,Operational,Original

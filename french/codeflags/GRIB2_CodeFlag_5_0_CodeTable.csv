@@ -1,6 +1,6 @@
-ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
+﻿ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
 grib2/5/0/0,Table de code 5.0 – Numéro du modèle de représentation des données,,0,,Données aux points de grille - compression simple,,,,Operational,Original
-grib2/5/0/1,Table de code 5.0 – Numéro du modèle de représentation des données,,1,,Matrices - compression simple,,,,Operational,Original
+grib2/5/0/1,Table de code 5.0 – Numéro du modèle de représentation des données,,1,,Matrices - compression simple,,,,Experimental,Original
 grib2/5/0/2,Table de code 5.0 – Numéro du modèle de représentation des données,,2,,Données aux points de grille - compression complexe,,,,Operational,Original
 grib2/5/0/3,Table de code 5.0 – Numéro du modèle de représentation des données,,3,,Données aux points de grille - compression complexe et différenciation spatiale,,,,Operational,Original
 grib2/5/0/4,Table de code 5.0 – Numéro du modèle de représentation des données,,4,,Données aux points de grille - données en virgule flottante IEEE,,,,Operational,Original
@@ -14,7 +14,7 @@ grib2/5/0/51,Table de code 5.0 – Numéro du modèle de représentation des don
 grib2/5/0/52,Table de code 5.0 – Numéro du modèle de représentation des données,,52,,En réserve,,,,Operational,Original
 grib2/5/0/53,Table de code 5.0 – Numéro du modèle de représentation des données,,53,,Données spectrales pour les modèles à domaine limité - compression complexe,,,,Operational,Original
 grib2/5/0/54-60,Table de code 5.0 – Numéro du modèle de représentation des données,,54-60,,En réserve,,,,Operational,Original
-grib2/5/0/61,Table de code 5.0 – Numéro du modèle de représentation des données,,61,,Données aux points de grille - compression simple après traitement logarithmique,,,,Operational,Original
+grib2/5/0/61,Table de code 5.0 – Numéro du modèle de représentation des données,,61,,Données aux points de grille - compression simple après traitement logarithmique,,,,Experimental,Original
 grib2/5/0/62-199,Table de code 5.0 – Numéro du modèle de représentation des données,,62-199,,En réserve,,,,Operational,Original
 grib2/5/0/200,Table de code 5.0 – Numéro du modèle de représentation des données,,200,,Compression en longueur de ligne avec des valeurs de niveau,,,,Operational,Original
 grib2/5/0/201-49151,Table de code 5.0 – Numéro du modèle de représentation des données,,201-49151,,En réserve,,,,Operational,Original

@@ -1,4 +1,4 @@
-ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
+﻿ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
 grib2/3/1/0,Table de code 3.1 — Numéro du modèle de définition de la grille,,0,,Grille latitude/longitude,Projection appelée aussi équidistante cylindrique ou Plate Carrée,,,Operational,Original
 grib2/3/1/1,Table de code 3.1 — Numéro du modèle de définition de la grille,,1,,Grille latitude/longitude après rotation,,,,Operational,Original
 grib2/3/1/2,Table de code 3.1 — Numéro du modèle de définition de la grille,,2,,Grille latitude/longitude après dilatation,,,,Operational,Original
@@ -44,11 +44,11 @@ grib2/3/1/120,Table de code 3.1 — Numéro du modèle de définition de la gril
 grib2/3/1/121-139,Table de code 3.1 — Numéro du modèle de définition de la grille,,121-139,,En réserve,,,,Operational,Original
 grib2/3/1/140,Table de code 3.1 — Numéro du modèle de définition de la grille,,140,,Projection azimutale équivalente de Lambert,,,,Operational,Original
 grib2/3/1/141-999,Table de code 3.1 — Numéro du modèle de définition de la grille,,141-999,,En réserve,,,,Operational,Original
-grib2/3/1/1000,Table de code 3.1 — Numéro du modèle de définition de la grille,,1000,,"Grille de coupe verticale, dont les points sur l'horizontale sont équidistants",,,,Operational,Original
+grib2/3/1/1000,Table de code 3.1 — Numéro du modèle de définition de la grille,,1000,,"Grille de coupe verticale, dont les points sur l'horizontale sont équidistants",,,,Experimental,Original
 grib2/3/1/1001-1099,Table de code 3.1 — Numéro du modèle de définition de la grille,,1001-1099,,En réserve,,,,Operational,Original
-grib2/3/1/1100,Table de code 3.1 — Numéro du modèle de définition de la grille,,1100,,"Grille du diagramme de Hovmöller, dont les points sur l'horizontale sont équidistants",,,,Operational,Original
+grib2/3/1/1100,Table de code 3.1 — Numéro du modèle de définition de la grille,,1100,,"Grille du diagramme de Hovmöller, dont les points sur l'horizontale sont équidistants",,,,Experimental,Original
 grib2/3/1/1101-1199,Table de code 3.1 — Numéro du modèle de définition de la grille,,1101-1199,,En réserve,,,,Operational,Original
-grib2/3/1/1200,Table de code 3.1 — Numéro du modèle de définition de la grille,,1200,,Grille de coupe dans le temps,,,,Operational,Original
+grib2/3/1/1200,Table de code 3.1 — Numéro du modèle de définition de la grille,,1200,,Grille de coupe dans le temps,,,,Experimental,Original
 grib2/3/1/1201-32767,Table de code 3.1 — Numéro du modèle de définition de la grille,,1201-32767,,En réserve,,,,Operational,Original
 grib2/3/1/32768-65534,Table de code 3.1 — Numéro du modèle de définition de la grille,,32768-65534,,En réserve pour un usage local,,,,Operational,Original
 grib2/3/1/65535,Table de code 3.1 — Numéro du modèle de définition de la grille,,65535,,Valeur manquante,,,,Operational,Original

@@ -1,11 +1,11 @@
-ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translated_by
-grib2/3/120/15-18,Modèle de définition de la grille 3.120 — Projection azimut-distance,15-18,,Nb - nombre de cellules de données le long des lignes radiales,(voir la note),,,,Operational,Original
-grib2/3/120/19-22,Modèle de définition de la grille 3.120 — Projection azimut-distance,19-22,,Nr - nombre de lignes radiales,,,,,Operational,Original
-grib2/3/120/23-26,Modèle de définition de la grille 3.120 — Projection azimut-distance,23-26,,La1 - latitude du point central,,,,,Operational,Original
-grib2/3/120/27-30,Modèle de définition de la grille 3.120 — Projection azimut-distance,27-30,,Lo1 - longitude du point central,,,,,Operational,Original
-grib2/3/120/31-34,Modèle de définition de la grille 3.120 — Projection azimut-distance,31-34,,Dx - écartement des cellules le long des lignes radiales,,,,,Operational,Original
-grib2/3/120/35-38,Modèle de définition de la grille 3.120 — Projection azimut-distance,35-38,,Dstart - décalage de l'origine vers la limite intérieure,,,,,Operational,Original
-grib2/3/120/39,Modèle de définition de la grille 3.120 — Projection azimut-distance,39,,Mode d'exploration,(voir la table d'indicateurs 3.4),,,,Operational,Original
+﻿ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translated_by
+grib2/3/120/15-18,Modèle de définition de la grille 3.120 — Projection azimut-distance,15-18,4,Nb - nombre de cellules de données le long des lignes radiales,(voir la note),,,,Operational,Original
+grib2/3/120/19-22,Modèle de définition de la grille 3.120 — Projection azimut-distance,19-22,4,Nr - nombre de lignes radiales,,,,,Operational,Original
+grib2/3/120/23-26,Modèle de définition de la grille 3.120 — Projection azimut-distance,23-26,4,La1 - latitude du point central,,,,,Operational,Original
+grib2/3/120/27-30,Modèle de définition de la grille 3.120 — Projection azimut-distance,27-30,4,Lo1 - longitude du point central,,,,,Operational,Original
+grib2/3/120/31-34,Modèle de définition de la grille 3.120 — Projection azimut-distance,31-34,4,Dx - écartement des cellules le long des lignes radiales,,,,,Operational,Original
+grib2/3/120/35-38,Modèle de définition de la grille 3.120 — Projection azimut-distance,35-38,4,Dstart - décalage de l'origine vers la limite intérieure,,,,,Operational,Original
+grib2/3/120/39,Modèle de définition de la grille 3.120 — Projection azimut-distance,39,1,Mode d'exploration,(voir la table d'indicateurs 3.4),,,3.4,Operational,Original
 grib2/3/120//1,Modèle de définition de la grille 3.120 — Projection azimut-distance,,,40-(39+4Nr)   Pour chacune des Nr lignes radiales,,,,,Operational,Original
 grib2/3/120/(40+4(X-1))-(41+4(X-1)),Modèle de définition de la grille 3.120 — Projection azimut-distance,(40+4(X-1))-(41+4(X-1)),,"Azi – azimut de départ, degrés x 10 (degrés Nord)",,,,,Operational,Original
 grib2/3/120/(42+4(X-1))-(43+4(X-1)),Modèle de définition de la grille 3.120 — Projection azimut-distance,(42+4(X-1))-(43+4(X-1)),,"Adelta - largeur azimutale, degrés x 100, (+ dans le sens horaire - dans le sens inverse), avec X = 1 à Nr",,,,,Operational,Original
