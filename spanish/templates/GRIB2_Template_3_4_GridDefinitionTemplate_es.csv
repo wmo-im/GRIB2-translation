@@ -1,0 +1,16 @@
+﻿ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translated_by
+grib2/3/4/15,Modelo de definición de la retícula 3.4 — Latitud/longitud de resolución variable,15,1,Forma de la Tierra,véase la Tabla de cifrado 3.2,,3.2,,Operational,Original
+grib2/3/4/16,Modelo de definición de la retícula 3.4 — Latitud/longitud de resolución variable,16,1,Factor de escala del radio de la Tierra esférica,,,,,Operational,Original
+grib2/3/4/17-20,Modelo de definición de la retícula 3.4 — Latitud/longitud de resolución variable,17-20,4,Valor ajustado del radio de la Tierra esférica,,,,,Operational,Original
+grib2/3/4/21,Modelo de definición de la retícula 3.4 — Latitud/longitud de resolución variable,21,1,Factor de escala del eje mayor de la Tierra esferoidal achatada,,,,,Operational,Original
+grib2/3/4/22-25,Modelo de definición de la retícula 3.4 — Latitud/longitud de resolución variable,22-25,4,Valor ajustado del eje mayor de la Tierra esferoidal achatada,,,,,Operational,Original
+grib2/3/4/26,Modelo de definición de la retícula 3.4 — Latitud/longitud de resolución variable,26,1,Factor de escala del eje menor de la Tierra esferoidal achatada,,,,,Operational,Original
+grib2/3/4/27-30,Modelo de definición de la retícula 3.4 — Latitud/longitud de resolución variable,27-30,4,Valor ajustado del eje menor de la Tierra esferoidal achatada,,,,,Operational,Original
+grib2/3/4/31-34,Modelo de definición de la retícula 3.4 — Latitud/longitud de resolución variable,31-34,4,Ni - número de puntos a lo largo de un paralelo,,,,,Operational,Original
+grib2/3/4/35-38,Modelo de definición de la retícula 3.4 — Latitud/longitud de resolución variable,35-38,4,Ni - número de puntos a lo largo de un meridiano,,,,,Operational,Original
+grib2/3/4/39-42,Modelo de definición de la retícula 3.4 — Latitud/longitud de resolución variable,39-42,4,Ángulo básico del dominio de producción inicial,véase la nota 1,,,,Operational,Original
+grib2/3/4/43-46,Modelo de definición de la retícula 3.4 — Latitud/longitud de resolución variable,43-46,4,Subdivisiones del ángulo básico utilizadas para definir longitudes y latitudes extremas e incrementos de dirección,véase la nota 1,,,,Operational,Original
+grib2/3/4/47,Modelo de definición de la retícula 3.4 — Latitud/longitud de resolución variable,47,1,Banderines de resolución y componentes,véanse la Tabla de banderines 3.3 y la nota 2,,,3.3,Operational,Original
+grib2/3/4/48,Modelo de definición de la retícula 3.4 — Latitud/longitud de resolución variable,48,1,Modo de barrido,banderines - véase la Tabla de banderines 3.4,,,3.4,Operational,Original
+grib2/3/4/49-ii,Modelo de definición de la retícula 3.4 — Latitud/longitud de resolución variable,49-ii,,Lista de longitudes,véanse las notas 1 y 3,,,,Operational,Original
+grib2/3/4/(ii+1)-jj,Modelo de definición de la retícula 3.4 — Latitud/longitud de resolución variable,(ii+1)-jj,,Lista de latitudes,véanse las notas 1 y 3,,,,Operational,Original

@@ -1,4 +1,0 @@
-ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translated_by
-grib2/5/3/12-47,Modèle de représentation des données 5.3 — Données aux points de grille - compression complexe et différenciation spatiale,12-47,,Voir le modèle de représentation des données 5.2,,,,,Operational,Original
-grib2/5/3/48,Modèle de représentation des données 5.3 — Données aux points de grille - compression complexe et différenciation spatiale,48,,Ordre de la différenciation spatiale,(voir la table de code 5.6),,,,Operational,Original
-grib2/5/3/49,Modèle de représentation des données 5.3 — Données aux points de grille - compression complexe et différenciation spatiale,49,,Nombre d'octets requis dans la Section des données pour préciser les descripteurs supplémentaires que nécessite la différenciation spatiale (octets 6-ww dans le modèle de données 7.3),,,,,Operational,Original

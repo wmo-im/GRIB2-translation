@@ -1,0 +1,6 @@
+﻿ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translated_by
+grib2/5/61/12-15,"Datos en los puntos de la retícula, empaquetado simple con precálculo logarítmico",12-15,4,Valor de referencia (R) (valor de coma flotante IEEE de 32 bits),,,,,Experimental,Original
+grib2/5/61/16-17,"Datos en los puntos de la retícula, empaquetado simple con precálculo logarítmico",16-17,2,Factor de escala binario (E),,,,,Experimental,Original
+grib2/5/61/18-19,"Datos en los puntos de la retícula, empaquetado simple con precálculo logarítmico",18-19,2,Factor de escala decimal (D),,,,,Experimental,Original
+grib2/5/61/20,"Datos en los puntos de la retícula, empaquetado simple con precálculo logarítmico",20,1,Número de bits utilizados para cada valor comprimido,,,,,Experimental,Original
+grib2/5/61/21-24,"Datos en los puntos de la retícula, empaquetado simple con precálculo logarítmico",21-24,4,Parámetro de precálculo (B) (valor de coma flotante IEEE de 32 bits),,,,,Experimental,Original

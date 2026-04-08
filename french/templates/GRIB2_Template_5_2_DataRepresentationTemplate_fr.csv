@@ -1,0 +1,13 @@
+﻿ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translated_by
+grib2/5/2/12-21,Modèle de représentation des données 5.2 – Données aux points de grille - compression complexe,12-21,10,Voir le modèle de représentation des données 5.0,,,,,Operational,Original
+grib2/5/2/22,Modèle de représentation des données 5.2 – Données aux points de grille - compression complexe,22,1,Méthode de séparation en groupes,(voir la table de code 5.4),,5.4,,Operational,Original
+grib2/5/2/23,Modèle de représentation des données 5.2 – Données aux points de grille - compression complexe,23,1,Traitement des valeurs manquantes,(voir la table de code 5.5),,5.5,,Operational,Original
+grib2/5/2/24-27,Modèle de représentation des données 5.2 – Données aux points de grille - compression complexe,24-27,4,Remplacement des valeurs manquantes primaires,,,,,Operational,Original
+grib2/5/2/28-31,Modèle de représentation des données 5.2 – Données aux points de grille - compression complexe,28-31,4,Remplacement des valeurs manquantes secondaires,,,,,Operational,Original
+grib2/5/2/32-35,Modèle de représentation des données 5.2 – Données aux points de grille - compression complexe,32-35,4,NG - nombre de groupes dans lesquels se répartissent les valeurs du champ subdivisé,,,,,Operational,Original
+grib2/5/2/36,Modèle de représentation des données 5.2 – Données aux points de grille - compression complexe,36,1,Référence pour les largeurs des groupes,(voir la note 12),,,,Operational,Original
+grib2/5/2/37,Modèle de représentation des données 5.2 – Données aux points de grille - compression complexe,37,1,Nombre de bits utilisés pour les largeurs des groupes (lorsque la valeur de référence de l'octet 36 a été supprimée),,,,,Operational,Original
+grib2/5/2/38-41,Modèle de représentation des données 5.2 – Données aux points de grille - compression complexe,38-41,4,Référence pour les longueurs des groupes,(voir la note 13),,,,Operational,Original
+grib2/5/2/42,Modèle de représentation des données 5.2 – Données aux points de grille - compression complexe,42,1,Incrément utilisé pour les longueurs des groupes,(voir la note 14),,,,Operational,Original
+grib2/5/2/43-46,Modèle de représentation des données 5.2 – Données aux points de grille - compression complexe,43-46,4,Longueur vraie du dernier groupe,,,,,Operational,Original
+grib2/5/2/47,Modèle de représentation des données 5.2 – Données aux points de grille - compression complexe,47,1,Nombre de bits utilisés pour indiquer les longueurs ajustées des groupes (après soustraction de la valeur de référence indiquée par les octets 38-41 et division par l'incrément de longueur indiqué par l'octet 42),,,,,Operational,Original

@@ -1,0 +1,23 @@
+﻿ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translated_by
+grib2/3/12/15,Modèle de définition de la grille 3.12 — Transverse de Mercator,15,1,Forme de la Terre,(voir la table de code 3.2),,3.2,,Operational,Original
+grib2/3/12/16,Modèle de définition de la grille 3.12 — Transverse de Mercator,16,1,Facteur d'échelle du rayon de la Terre sphérique,,,,,Operational,Original
+grib2/3/12/17-20,Modèle de définition de la grille 3.12 — Transverse de Mercator,17-20,4,Valeur ajustée du rayon de la Terre sphérique,,,,,Operational,Original
+grib2/3/12/21,Modèle de définition de la grille 3.12 — Transverse de Mercator,21,1,Facteur d'échelle du grand axe de la Terre ellipsoïdale aplatie,,,,,Operational,Original
+grib2/3/12/22-25,Modèle de définition de la grille 3.12 — Transverse de Mercator,22-25,4,Valeur ajustée du grand axe de la Terre ellipsoïdale aplatie,,,,,Operational,Original
+grib2/3/12/26,Modèle de définition de la grille 3.12 — Transverse de Mercator,26,1,Facteur d'échelle du petit axe de la Terre ellipsoïdale aplatie,,,,,Operational,Original
+grib2/3/12/27-30,Modèle de définition de la grille 3.12 — Transverse de Mercator,27-30,4,Valeur ajustée du petit axe de la Terre ellipsoïdale aplatie,,,,,Operational,Original
+grib2/3/12/31-34,Modèle de définition de la grille 3.12 — Transverse de Mercator,31-34,4,Ni - nombre de points le long de l'axe des i,,,,,Operational,Original
+grib2/3/12/35-38,Modèle de définition de la grille 3.12 — Transverse de Mercator,35-38,4,Nj - nombre de points le long de l'axe des j,,,,,Operational,Original
+grib2/3/12/39-42,Modèle de définition de la grille 3.12 — Transverse de Mercator,39-42,4,LaR - latitude géographique du point de référence,,,,,Operational,Original
+grib2/3/12/43-46,Modèle de définition de la grille 3.12 — Transverse de Mercator,43-46,4,LoR - longitude géographique du point de référence,,,,,Operational,Original
+grib2/3/12/47,Modèle de définition de la grille 3.12 — Transverse de Mercator,47,1,Indicateurs de résolution et de composantes,(voir la table d'indicateurs 3.3),,,3.3,Operational,Original
+grib2/3/12/48-51,Modèle de définition de la grille 3.12 — Transverse de Mercator,48-51,4,"m facteur d'échelle au point de référence, soit le rapport de la distance sur la carte à la distance sur l'ellipsoïde (valeur en virgule flottante IEEE 32 bits)",,,,,Operational,Original
+grib2/3/12/52-55,Modèle de définition de la grille 3.12 — Transverse de Mercator,52-55,4,"XR - abscisse fictive, coordonnée de direction i du point de référence, exprimée en 10-2 m",,,,,Operational,Original
+grib2/3/12/56-59,Modèle de définition de la grille 3.12 — Transverse de Mercator,56-59,4,"YR - ordonnée fictive, coordonnée de direction j du point de référence, exprimée en 10-2 m",,,,,Operational,Original
+grib2/3/12/60,Modèle de définition de la grille 3.12 — Transverse de Mercator,60,1,Mode d'exploration,(voir la table d'indicateurs 3.4),,,3.4,Operational,Original
+grib2/3/12/61-64,Modèle de définition de la grille 3.12 — Transverse de Mercator,61-64,4,"Di i - longueur de l'incrément de direction, exprimée en 10-2 m",,,,,Operational,Original
+grib2/3/12/65-68,Modèle de définition de la grille 3.12 — Transverse de Mercator,65-68,4,"Dj j - longueur de l'incrément de direction, exprimée en 10-2 m",,,,,Operational,Original
+grib2/3/12/69-72,Modèle de définition de la grille 3.12 — Transverse de Mercator,69-72,4,"x1 - coordonnée de direction i du premier point de grille, exprimée en 10-2 m",,,,,Operational,Original
+grib2/3/12/73-76,Modèle de définition de la grille 3.12 — Transverse de Mercator,73-76,4,"y1 - coordonnée de direction j du premier point de grille, exprimée en 10-2 m",,,,,Operational,Original
+grib2/3/12/77-80,Modèle de définition de la grille 3.12 — Transverse de Mercator,77-80,4,"x2 - coordonnée de direction i du dernier point de grille, exprimée en 10-2 m",,,,,Operational,Original
+grib2/3/12/81-84,Modèle de définition de la grille 3.12 — Transverse de Mercator,81-84,4,"y2 - coordonnée de direction j du dernier point de grille, exprimée en 10-2 m",,,,,Operational,Original

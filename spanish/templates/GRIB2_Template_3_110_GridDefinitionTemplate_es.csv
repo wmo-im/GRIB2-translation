@@ -1,0 +1,17 @@
+﻿ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translated_by
+grib2/3/110/15,Modelo de definición de la retícula 3.110 — Proyección ecuatorial azimutal equidistante,15,1,Forma de la Tierra,véase la Tabla de cifrado 3.2,,3.2,,Operational,Original
+grib2/3/110/16,Modelo de definición de la retícula 3.110 — Proyección ecuatorial azimutal equidistante,16,1,Factor de escala del radio de la Tierra esférica,,,,,Operational,Original
+grib2/3/110/17-20,Modelo de definición de la retícula 3.110 — Proyección ecuatorial azimutal equidistante,17-20,4,Valor ajustado del radio de la Tierra esférica,,,,,Operational,Original
+grib2/3/110/21,Modelo de definición de la retícula 3.110 — Proyección ecuatorial azimutal equidistante,21,1,Factor de escala del eje mayor de la Tierra esferoidal achatada,,,,,Operational,Original
+grib2/3/110/22-25,Modelo de definición de la retícula 3.110 — Proyección ecuatorial azimutal equidistante,22-25,4,Valor ajustado del eje mayor de la Tierra esferoidal achatada,,,,,Operational,Original
+grib2/3/110/26,Modelo de definición de la retícula 3.110 — Proyección ecuatorial azimutal equidistante,26,1,Factor de escala del eje menor de la Tierra esferoidal achatada,,,,,Operational,Original
+grib2/3/110/27-30,Modelo de definición de la retícula 3.110 — Proyección ecuatorial azimutal equidistante,27-30,4,Valor ajustado del eje menor de la Tierra esferoidal achatada,,,,,Operational,Original
+grib2/3/110/31-34,Modelo de definición de la retícula 3.110 — Proyección ecuatorial azimutal equidistante,31-34,4,Nx - número de puntos a lo largo del eje x,,,,,Operational,Original
+grib2/3/110/35-38,Modelo de definición de la retícula 3.110 — Proyección ecuatorial azimutal equidistante,35-38,4,Ny - número de puntos a lo largo del eje y,,,,,Operational,Original
+grib2/3/110/39-42,Modelo de definición de la retícula 3.110 — Proyección ecuatorial azimutal equidistante,39-42,4,La1 - latitud del punto de tangencia (centro de la retícula),,,,,Operational,Original
+grib2/3/110/43-46,Modelo de definición de la retícula 3.110 — Proyección ecuatorial azimutal equidistante,43-46,4,Lo1 - longitud del punto de tangencia,,,,,Operational,Original
+grib2/3/110/47,Modelo de definición de la retícula 3.110 — Proyección ecuatorial azimutal equidistante,47,1,Banderines de resolución y de componentes,véase la Tabla de banderines 3.3,,,3.3,Operational,Original
+grib2/3/110/48-51,Modelo de definición de la retícula 3.110 — Proyección ecuatorial azimutal equidistante,48-51,4,"Dx - longitud de la retícula en la dirección x, expresada en 10-3 m, medida en el origen del eje",,,,,Operational,Original
+grib2/3/110/52-55,Modelo de definición de la retícula 3.110 — Proyección ecuatorial azimutal equidistante,52-55,4,"Dy - longitud de la retícula en la dirección y, expresada en 10-3 m, medida en el origen del eje",,,,,Operational,Original
+grib2/3/110/56,Modelo de definición de la retícula 3.110 — Proyección ecuatorial azimutal equidistante,56,1,Centro de la proyección,,,,,Operational,Original
+grib2/3/110/57,Modelo de definición de la retícula 3.110 — Proyección ecuatorial azimutal equidistante,57,1,Modo de exploración,véase la Tabla de banderines 3.4,,,3.4,Operational,Original

@@ -1,8 +1,0 @@
-ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
-grib2/1/6/0,Table de code 1.6 – Type de calendrier,,0,,Grégorien,,,,Operational,Original
-grib2/1/6/1,Table de code 1.6 – Type de calendrier,,1,,360 jours,Année non bissextile en principe,,,Operational,Original
-grib2/1/6/2,Table de code 1.6 – Type de calendrier,,2,,365 jours,,,,Operational,Original
-grib2/1/6/3,Table de code 1.6 – Type de calendrier,,3,,Grégorien proleptique,Fait remonter le calendrier grégorien indéfiniment dans le passé,,,Operational,Original
-grib2/1/6/4-191,Table de code 1.6 – Type de calendrier,,4-191,,En réserve,,,,Operational,Original
-grib2/1/6/192-254,Table de code 1.6 – Type de calendrier,,192-254,,En réserve pour un usage local,,,,Operational,Original
-grib2/1/6/255,Table de code 1.6 – Type de calendrier,,255,,Valeur manquante,,,,Operational,Original
