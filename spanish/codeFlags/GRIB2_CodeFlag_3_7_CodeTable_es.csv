@@ -1,5 +1,5 @@
 ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translated_by
 grib2/3/7/0,Tabla de cifrado 3.7 — Modelo de representación de los datos espectrales,,0,,Reservada,,,,Operational,Original
-grib2/3/7/1,Tabla de cifrado 3.7 — Modelo de representación de los datos espectrales,,1,,"Los números complejos (véase la cifra de clave 1 en la Tabla de cifrado 3.6) se registran para m ≥ 0 como parejas de números reales Re( ), Im( ) ordenados de manera que n aumente de m a N(m), comenzando por m=0 y posteriormente m=1, 2, ... M (véase la nota)",,,,Operational,Original
+grib2/3/7/1,Tabla de cifrado 3.7 — Modelo de representación de los datos espectrales,,1,,(see separate doc or pdf file),(véase la nota),116,,Operational,Original
 grib2/3/7/2-254,Tabla de cifrado 3.7 — Modelo de representación de los datos espectrales,,2-254,,Reservadas,,,,Operational,Original
 grib2/3/7/255,Tabla de cifrado 3.7 — Modelo de representación de los datos espectrales,,255,,Valor faltante,,,,Operational,Original

@@ -1,3 +1,3 @@
 ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
-grib2/3/6/1,Spectral data representation type,,1,,(see separate doc or pdf file),(Code table 3.6),,,Operational,Original
+grib2/3/6/1,Spectral data representation type,,1,,(see separate doc or pdf file),,,,Operational,Original
 grib2/3/6/2,Spectral data representation type,,2,,Bi-Fourier representation,,,,Operational,Original

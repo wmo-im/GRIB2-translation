@@ -4,11 +4,11 @@ grib2/4/7/1,Tabla de cifrado 4.7 – Predicción derivada,,1,,Media ponderada de
 grib2/4/7/2,Tabla de cifrado 4.7 – Predicción derivada,,2,,Desviación estándar con respecto a la media del grupo de miembros,,,,Operational,Original
 grib2/4/7/3,Tabla de cifrado 4.7 – Predicción derivada,,3,,"Desviación estándar con respecto a la media del grupo de miembros, normalizada",,,,Operational,Original
 grib2/4/7/4,Tabla de cifrado 4.7 – Predicción derivada,,4,,Dispersión de todos los miembros,,,,Operational,Original
-grib2/4/7/5,Tabla de cifrado 4.7 – Predicción derivada,,5,,Índice de anomalía grande de todos los miembros (véase la nota 1),,,,Operational,Original
+grib2/4/7/5,Tabla de cifrado 4.7 – Predicción derivada,,5,,Índice de anomalía grande de todos los miembros,(véase la nota 1),,,Operational,Original
 grib2/4/7/6,Tabla de cifrado 4.7 – Predicción derivada,,6,,Media no ponderada de los miembros del grupo,,,,Operational,Original
 grib2/4/7/7,Tabla de cifrado 4.7 – Predicción derivada,,7,,Intervalo intercuartílico (intervalo entre el cuantil 25 y 75),,,,Operational,Original
-grib2/4/7/8,Tabla de cifrado 4.7 – Predicción derivada,,8,,Máximo de todos los miembros del conjunto (véase la nota 2),,,,Operational,Original
-grib2/4/7/9,Tabla de cifrado 4.7 – Predicción derivada,,9,,Mínimo de todos los miembros del conjunto (véase la nota 2),,,,Operational,Original
+grib2/4/7/8,Tabla de cifrado 4.7 – Predicción derivada,,8,,Máximo de todos los miembros del conjunto,(véase la nota 2),,,Operational,Original
+grib2/4/7/9,Tabla de cifrado 4.7 – Predicción derivada,,9,,Mínimo de todos los miembros del conjunto,(véase la nota 2),,,Operational,Original
 grib2/4/7/10-191,Tabla de cifrado 4.7 – Predicción derivada,,10-191,,Reservadas,,,,Operational,Original
 grib2/4/7/192-254,Tabla de cifrado 4.7 – Predicción derivada,,192-254,,Reservadas para uso local,,,,Operational,Original
 grib2/4/7/255,Tabla de cifrado 4.7 – Predicción derivada,,255,,Valor faltante,,,,Operational,Original

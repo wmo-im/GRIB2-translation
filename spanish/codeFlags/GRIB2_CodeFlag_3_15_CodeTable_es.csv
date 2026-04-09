@@ -1,23 +1,23 @@
 ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translated_by
 grib2/3/15/0-19,Tabla de cifrado 3.15 — Significado físico de la coordenada vertical,,0-19,,Reservadas,,,,Operational,Original
-grib2/3/15/20,Tabla de cifrado 3.15 — Significado físico de la coordenada vertical,,20,,Temperatura,,,,Operational,Original
+grib2/3/15/20,Tabla de cifrado 3.15 — Significado físico de la coordenada vertical,,20,,Temperatura,,,K,Operational,Original
 grib2/3/15/21-99,Tabla de cifrado 3.15 — Significado físico de la coordenada vertical,,21-99,,Reservadas,,,,Operational,Original
-grib2/3/15/100,Tabla de cifrado 3.15 — Significado físico de la coordenada vertical,,100,,Presión,,,,Operational,Original
-grib2/3/15/101,Tabla de cifrado 3.15 — Significado físico de la coordenada vertical,,101,,Desviación de la presión con relación al nivel medio del mar,,,,Operational,Original
-grib2/3/15/102,Tabla de cifrado 3.15 — Significado físico de la coordenada vertical,,102,,Altitud por encima del nivel medio del mar,,,,Operational,Original
-grib2/3/15/103,Tabla de cifrado 3.15 — Significado físico de la coordenada vertical,,103,,Altura por encima del terreno (véase la nota 1),,,,Operational,Original
+grib2/3/15/100,Tabla de cifrado 3.15 — Significado físico de la coordenada vertical,,100,,Presión,,,Pa,Operational,Original
+grib2/3/15/101,Tabla de cifrado 3.15 — Significado físico de la coordenada vertical,,101,,Desviación de la presión con relación al nivel medio del mar,,,Pa,Operational,Original
+grib2/3/15/102,Tabla de cifrado 3.15 — Significado físico de la coordenada vertical,,102,,Altitud por encima del nivel medio del mar,,,m,Operational,Original
+grib2/3/15/103,Tabla de cifrado 3.15 — Significado físico de la coordenada vertical,,103,,Altura por encima del terreno,(véase la nota 1),68,m,Operational,Original
 grib2/3/15/104,Tabla de cifrado 3.15 — Significado físico de la coordenada vertical,,104,,Coordenada Sigma,,,,Operational,Original
 grib2/3/15/105,Tabla de cifrado 3.15 — Significado físico de la coordenada vertical,,105,,Coordenada híbrida,,,,Operational,Original
-grib2/3/15/106,Tabla de cifrado 3.15 — Significado físico de la coordenada vertical,,106,,Profundidad por debajo de la superficie de la tierra,,,,Operational,Original
-grib2/3/15/107,Tabla de cifrado 3.15 — Significado físico de la coordenada vertical,,107,,Temperatura potencial (theta),,,,Operational,Original
-grib2/3/15/108,Tabla de cifrado 3.15 — Significado físico de la coordenada vertical,,108,,Desviación de la presión desde el terreno hasta el nivel,,,,Operational,Original
-grib2/3/15/109,Tabla de cifrado 3.15 — Significado físico de la coordenada vertical,,109,,Vorticidad potencial,,,,Operational,Original
-grib2/3/15/110,Tabla de cifrado 3.15 — Significado físico de la coordenada vertical,,110,,Altura geométrica,,,,Operational,Original
-grib2/3/15/111,Tabla de cifrado 3.15 — Significado físico de la coordenada vertical,,111,,Coordenada Eta (véase la nota 2),,,,Operational,Original
-grib2/3/15/112,Tabla de cifrado 3.15 — Significado físico de la coordenada vertical,,112,,Altura geopotencial,,,,Operational,Original
+grib2/3/15/106,Tabla de cifrado 3.15 — Significado físico de la coordenada vertical,,106,,Profundidad por debajo de la superficie de la tierra,,,m,Operational,Original
+grib2/3/15/107,Tabla de cifrado 3.15 — Significado físico de la coordenada vertical,,107,,Temperatura potencial (theta),,,K,Operational,Original
+grib2/3/15/108,Tabla de cifrado 3.15 — Significado físico de la coordenada vertical,,108,,Desviación de la presión desde el terreno hasta el nivel,,,Pa,Operational,Original
+grib2/3/15/109,Tabla de cifrado 3.15 — Significado físico de la coordenada vertical,,109,,Vorticidad potencial,,,K m2 kg-1 s-1,Operational,Original
+grib2/3/15/110,Tabla de cifrado 3.15 — Significado físico de la coordenada vertical,,110,,Altura geométrica,,,m,Operational,Original
+grib2/3/15/111,Tabla de cifrado 3.15 — Significado físico de la coordenada vertical,,111,,Coordenada Eta,(véase la nota 2),85,,Operational,Original
+grib2/3/15/112,Tabla de cifrado 3.15 — Significado físico de la coordenada vertical,,112,,Altura geopotencial,,,gpm,Operational,Original
 grib2/3/15/113,Tabla de cifrado 3.15 — Significado físico de la coordenada vertical,,113,,Coordenada híbrida logarítmica,,,,Operational,Original
 grib2/3/15/114-159,Tabla de cifrado 3.15 — Significado físico de la coordenada vertical,,114-159,,Reservadas,,,,Operational,Original
-grib2/3/15/160,Tabla de cifrado 3.15 — Significado físico de la coordenada vertical,,160,,Profundidad por debajo del nivel del mar,,,,Operational,Original
+grib2/3/15/160,Tabla de cifrado 3.15 — Significado físico de la coordenada vertical,,160,,Profundidad por debajo del nivel del mar,,,m,Operational,Original
 grib2/3/15/161-191,Tabla de cifrado 3.15 — Significado físico de la coordenada vertical,,161-191,,Reservadas,,,,Operational,Original
 grib2/3/15/192-254,Tabla de cifrado 3.15 — Significado físico de la coordenada vertical,,192-254,,Reservadas para uso local,,,,Operational,Original
 grib2/3/15/255,Tabla de cifrado 3.15 — Significado físico de la coordenada vertical,,255,,Valor faltante,,,,Operational,Original

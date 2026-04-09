@@ -1,12 +1,12 @@
 ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translated_by
-grib2/3/2/0,Tabla de cifrado 3.2 — Forma de la Tierra,,0,,"Tierra considerada como esférica con un radio de 6 367 470,0 m",,121,,Operational,Original
-grib2/3/2/1,Tabla de cifrado 3.2 — Forma de la Tierra,,1,,"Tierra considerada como esférica, con radio especificado (en m) por el productor de los datos",,121,,Operational,Original
+grib2/3/2/0,Tabla de cifrado 3.2 — Forma de la Tierra,,0,,"Tierra considerada como esférica con un radio de 6 367 470,0 m",(véase la nota 2),121,,Operational,Original
+grib2/3/2/1,Tabla de cifrado 3.2 — Forma de la Tierra,,1,,"Tierra considerada como esférica, con radio especificado (en m) por el productor de los datos",(véase la nota 2),121,,Operational,Original
 grib2/3/2/2,Tabla de cifrado 3.2 — Forma de la Tierra,,2,,"Tierra considerada como esferoide achatado cuyo tamaño ha sido determinado por la UAI en 1965 (eje mayor = 6 378 160,0 m; eje menor = 6 356 775,0 m; f = 1/297,0)",,,,Operational,Original
-grib2/3/2/3,Tabla de cifrado 3.2 — Forma de la Tierra,,3,,Tierra considerada como esferoide achatado con los ejes mayor y menor especificados (en km) por el productor de los datos,,121,,Operational,Original
+grib2/3/2/3,Tabla de cifrado 3.2 — Forma de la Tierra,,3,,Tierra considerada como esferoide achatado con los ejes mayor y menor especificados (en km) por el productor de los datos,(véase la nota 2),121,,Operational,Original
 grib2/3/2/4,Tabla de cifrado 3.2 — Forma de la Tierra,,4,,"Tierra considerada como esferoide achatado definida por el modelo IAG-GRS80 (eje mayor = 6 378 137,0-m, eje menor = 6 356 752,314 m, f = 1/298,257 222 101)",,,,Operational,Original
-grib2/3/2/5,Tabla de cifrado 3.2 — Forma de la Tierra,,5,,Tierra considerada por WGS-84 (utilizada por la OACI desde 1998),,117,,Operational,Original
-grib2/3/2/6,Tabla de cifrado 3.2 — Forma de la Tierra,,6,,"Tierra considerada como esférica con un radio de 6 371 229,0 m",,121,,Operational,Original
-grib2/3/2/7,Tabla de cifrado 3.2 — Forma de la Tierra,,7,,Tierra considerada como esferoide achatado con los ejes mayor y menor especificados (en m) por el productor de los datos,,,,Operational,Original
+grib2/3/2/5,Tabla de cifrado 3.2 — Forma de la Tierra,,5,,Tierra considerada por WGS-84 (utilizada por la OACI desde 1998),(véase la nota 1),117,,Operational,Original
+grib2/3/2/6,Tabla de cifrado 3.2 — Forma de la Tierra,,6,,"Tierra considerada como esférica con un radio de 6 371 229,0 m",(véase la nota 2),121,,Operational,Original
+grib2/3/2/7,Tabla de cifrado 3.2 — Forma de la Tierra,,7,,Tierra considerada como esferoide achatado con los ejes mayor y menor especificados (en m) por el productor de los datos,(véase la nota 2),121,,Operational,Original
 grib2/3/2/8,Tabla de cifrado 3.2 — Forma de la Tierra,,8,,"Modelo de Tierra considerada como esférica con un radio de 6 371 200 m, pero el dato horizontal del campo latitud/longitud es el marco de referencia WGS-84",,,,Operational,Original
 grib2/3/2/9,Tabla de cifrado 3.2 — Forma de la Tierra,,9,,"Tierra representada mediante la referencia de la Ordnance Survey de Gran Bretaña 1936 utilizando el esferoide Airy 1830, el meridiano de Greenwich como longitud 0 y la referencia Newlyn como nivel medio del mar, altura 0",,,,Operational,Original
 grib2/3/2/10-191,Tabla de cifrado 3.2 — Forma de la Tierra,,10-191,,Reservadas,,,,Operational,Original

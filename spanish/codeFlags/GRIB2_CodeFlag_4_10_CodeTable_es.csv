@@ -1,14 +1,14 @@
 ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translated_by
 grib2/4/10/0,Tabla de cifrado 4.10 – Tipo de cálculo estadístico,,0,,Media,,,,Operational,Original
-grib2/4/10/1,Tabla de cifrado 4.10 – Tipo de cálculo estadístico,,1,,Acumulación (véase la nota 1),,,,Operational,Original
+grib2/4/10/1,Tabla de cifrado 4.10 – Tipo de cálculo estadístico,,1,,Acumulación,(véase la nota 1),92,,Operational,Original
 grib2/4/10/2,Tabla de cifrado 4.10 – Tipo de cálculo estadístico,,2,,Máxima,,,,Operational,Original
 grib2/4/10/3,Tabla de cifrado 4.10 – Tipo de cálculo estadístico,,3,,Mínima,,,,Operational,Original
 grib2/4/10/4,Tabla de cifrado 4.10 – Tipo de cálculo estadístico,,4,,Diferencia (el valor al final del intervalo de tiempo menos el valor al comienzo de ese intervalo),,,,Operational,Original
 grib2/4/10/5,Tabla de cifrado 4.10 – Tipo de cálculo estadístico,,5,,Media cuadrática,,,,Operational,Original
 grib2/4/10/6,Tabla de cifrado 4.10 – Tipo de cálculo estadístico,,6,,Desviación estándar,,,,Operational,Original
-grib2/4/10/7,Tabla de cifrado 4.10 – Tipo de cálculo estadístico,,7,,Covarianza (varianza temporal) (véase la nota 2),,,,Operational,Original
+grib2/4/10/7,Tabla de cifrado 4.10 – Tipo de cálculo estadístico,,7,,Covarianza (varianza temporal),(véase la nota 2),93,,Operational,Original
 grib2/4/10/8,Tabla de cifrado 4.10 – Tipo de cálculo estadístico,,8,,Diferencia (el valor al inicio del intervalo de tiempo menos el valor al término de ese intervalo),,,,Operational,Original
-grib2/4/10/9,Tabla de cifrado 4.10 – Tipo de cálculo estadístico,,9,,Razón (véase la nota 3),,,,Operational,Original
+grib2/4/10/9,Tabla de cifrado 4.10 – Tipo de cálculo estadístico,,9,,Razón,(véase la nota 3),97,,Operational,Original
 grib2/4/10/10,Tabla de cifrado 4.10 – Tipo de cálculo estadístico,,10,,Anomalía normalizada,,,,Operational,Original
 grib2/4/10/11,Tabla de cifrado 4.10 – Tipo de cálculo estadístico,,11,,Adición,,,,Operational,Original
 grib2/4/10/12-191,Tabla de cifrado 4.10 – Tipo de cálculo estadístico,,12-191,,Reservadas,,,,Operational,Original
