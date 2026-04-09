@@ -58,7 +58,7 @@ grib2/4/5/166,Table de code 4.5 – Type et unité des surfaces spécifiées,,16
 grib2/4/5/167,Table de code 4.5 – Type et unité des surfaces spécifiées,,167,,Partie inférieure de la rhizosphère,,,–,Operational,Original
 grib2/4/5/168,Table de code 4.5 – Type et unité des surfaces spécifiées,,168,,Niveau du modèle océanique,,,Numérique,Operational,Original
 grib2/4/5/169,Table de code 4.5 – Type et unité des surfaces spécifiées,,169,,Niveau océanique défini par l'écart de masse volumique de l'eau (sigma-theta) avec la proximité de la surface,(voir la note 7),18,kg m-3,Operational,Original
-grib2/4/5/170,Table de code 4.5 – Type et unité des surfaces spécifiées,,170,,Niveau océanique défini par l'écart de température potentielle de l'eau (theta) avec la proximité de la surface,(voir la note 7),18,,Operational,Original
+grib2/4/5/170,Table de code 4.5 – Type et unité des surfaces spécifiées,,170,,Niveau océanique défini par l'écart de température potentielle de l'eau (theta) avec la proximité de la surface,(voir la note 7),18,K,Operational,Original
 grib2/4/5/171-173,Table de code 4.5 – Type et unité des surfaces spécifiées,,171-173,,En réserve,,,–,Operational,Original
 grib2/4/5/174,Table de code 4.5 – Type et unité des surfaces spécifiées,,174,,"Surface supérieure de la glace présente sur la mer, un lac ou un cours d'eau",,,–,Operational,Original
 grib2/4/5/175,Table de code 4.5 – Type et unité des surfaces spécifiées,,175,,"Surface supérieure de la glace, couverte de neige, présente sur la mer, un lac ou un cours d'eau",,,–,Operational,Original
