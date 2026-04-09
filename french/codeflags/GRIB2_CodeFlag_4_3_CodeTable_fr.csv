@@ -11,8 +11,8 @@ grib2/4/3/8,Table de code 4.3 – Type de processus de production,,8,,Observatio
 grib2/4/3/9,Table de code 4.3 – Type de processus de production,,9,,Climatologique,,,,Operational,Original
 grib2/4/3/10,Table de code 4.3 – Type de processus de production,,10,,Prévision pondérée par la probabilité,,,,Operational,Original
 grib2/4/3/11,Table de code 4.3 – Type de processus de production,,11,,Prévision d'ensemble corrigée,,,,Operational,Original
-grib2/4/3/12,Table de code 4.3 – Type de processus de production,,12,,Analyse post-traitée (voir la note),Les chiffres du code 12 et 13 sont à utiliser dans les cas où les résultats d'une analyse ou d'une prévision initiale ont reçu un post-traitement substantiel et que les chiffres du code 0 et 2 ne sont alors pas suffisamment précis.,,,Operational,Original
-grib2/4/3/13,Table de code 4.3 – Type de processus de production,,13,,Prévision post-traitée (voir la note),Les chiffres du code 12 et 13 sont à utiliser dans les cas où les résultats d'une analyse ou d'une prévision initiale ont reçu un post-traitement substantiel et que les chiffres du code 0 et 2 ne sont alors pas suffisamment précis.,,,Operational,Original
+grib2/4/3/12,Table de code 4.3 – Type de processus de production,,12,,Analyse post-traitée,(voir la note),13,,Operational,Original
+grib2/4/3/13,Table de code 4.3 – Type de processus de production,,13,,Prévision post-traitée,(voir la note),13,,Operational,Original
 grib2/4/3/14,Table de code 4.3 – Type de processus de production,,14,,Prévision immédiate,,,,Operational,Original
 grib2/4/3/15,Table de code 4.3 – Type de processus de production,,15,,Prévision a posteriori,,,,Operational,Original
 grib2/4/3/16,Table de code 4.3 – Type de processus de production,,16,,Extraction physique,,,,Operational,Original

@@ -5,7 +5,7 @@ grib2/3/15/21-99,Table de code 3.15 — Signification physique des coordonnées 
 grib2/3/15/100,Table de code 3.15 — Signification physique des coordonnées verticales,,100,,Pression,,,Pa,Operational,Original
 grib2/3/15/101,Table de code 3.15 — Signification physique des coordonnées verticales,,101,,Écart de pression par rapport au niveau moyen de la mer,,,Pa,Operational,Original
 grib2/3/15/102,Table de code 3.15 — Signification physique des coordonnées verticales,,102,,Altitude au-dessus du niveau moyen de la mer,,,m,Operational,Original
-grib2/3/15/103,Table de code 3.15 — Signification physique des coordonnées verticales,,103,,Hauteur au-dessus du sol (voir note 1),,,m,Operational,Original
+grib2/3/15/103,Table de code 3.15 — Signification physique des coordonnées verticales,,103,,Hauteur au-dessus du sol,(voir la note 1),68,m,Operational,Original
 grib2/3/15/104,Table de code 3.15 — Signification physique des coordonnées verticales,,104,,Coordonnée Sigma,,,,Operational,Original
 grib2/3/15/105,Table de code 3.15 — Signification physique des coordonnées verticales,,105,,Coordonnée Hybrid,,,,Operational,Original
 grib2/3/15/106,Table de code 3.15 — Signification physique des coordonnées verticales,,106,,Profondeur sous la surface du sol,,,m,Operational,Original
@@ -13,7 +13,7 @@ grib2/3/15/107,Table de code 3.15 — Signification physique des coordonnées ve
 grib2/3/15/108,Table de code 3.15 — Signification physique des coordonnées verticales,,108,,Écart de pression du sol au niveau,,,Pa,Operational,Original
 grib2/3/15/109,Table de code 3.15 — Signification physique des coordonnées verticales,,109,,Tourbillon potentiel,,,K m⁻² kg⁻¹ s⁻¹,Operational,Original
 grib2/3/15/110,Table de code 3.15 — Signification physique des coordonnées verticales,,110,,Hauteur géométrique,,,m,Operational,Original
-grib2/3/15/111,Table de code 3.15 — Signification physique des coordonnées verticales,,111,,Coordonnée Eta (voir note 2),,,,Operational,Original
+grib2/3/15/111,Table de code 3.15 — Signification physique des coordonnées verticales,,111,,Coordonnée Eta,(voir la note 2),85,,Operational,Original
 grib2/3/15/112,Table de code 3.15 — Signification physique des coordonnées verticales,,112,,Hauteur géopotentielle,,,gpm,Operational,Original
 grib2/3/15/113,Table de code 3.15 — Signification physique des coordonnées verticales,,113,,Coordonnée hybride logarithmique,,,,Operational,Original
 grib2/3/15/114-159,Table de code 3.15 — Signification physique des coordonnées verticales,,114-159,,En réserve,,,,Operational,Original

@@ -23,5 +23,5 @@ grib2/1/0/20,Table de code 1.0 – Numéro de version des tables principales du 
 grib2/1/0/21,Table de code 1.0 – Numéro de version des tables principales du code GRIB,,21,,Version entrée en vigueur le 2 mai 2018,,,,Deprecated,Original
 grib2/1/0/22,Table de code 1.0 – Numéro de version des tables principales du code GRIB,,22,,Version entrée en vigueur le 7 novembre 2018,,,,Deprecated,Original
 grib2/1/0/23,Table de code 1.0 – Numéro de version des tables principales du code GRIB,,23,,Version en préexploitation devant entrer en vigueur avec le prochain amendement,,,,Deprecated,Original
-grib2/1/0/24-254,Table de code 1.0 – Numéro de version des tables principales du code GRIB,,24-254,,Versions futures,,,,Deprecated,Original
+grib2/1/0/24-254,Table de code 1.0 – Numéro de version des tables principales du code GRIB,,24-254,,Versions futures,(voir la note),108,,Deprecated,Original
 grib2/1/0/255,Table de code 1.0 – Numéro de version des tables principales du code GRIB,,255,,Valeur manquante,,,,Deprecated,Original

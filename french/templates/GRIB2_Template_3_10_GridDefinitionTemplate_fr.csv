@@ -1,4 +1,4 @@
-﻿ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translated_by
+ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translated_by
 grib2/3/10/15,Modèle de définition de la grille 3.10 — Projection de Mercator,15,1,Forme de la Terre,(voir la table de code 3.2),,3.2,,Operational,Original
 grib2/3/10/16,Modèle de définition de la grille 3.10 — Projection de Mercator,16,1,Facteur d'échelle du rayon de la Terre sphérique,,,,,Operational,Original
 grib2/3/10/17-20,Modèle de définition de la grille 3.10 — Projection de Mercator,17-20,4,Valeur ajustée du rayon de la Terre sphérique,,,,,Operational,Original
@@ -15,7 +15,7 @@ grib2/3/10/48-51,Modèle de définition de la grille 3.10 — Projection de Merc
 grib2/3/10/52-55,Modèle de définition de la grille 3.10 — Projection de Mercator,52-55,4,La2 - latitude du dernier point de la grille,,,,,Operational,Original
 grib2/3/10/56-59,Modèle de définition de la grille 3.10 — Projection de Mercator,56-59,4,Lo2 - longitude du dernier point de la grille,,,,,Operational,Original
 grib2/3/10/60,Modèle de définition de la grille 3.10 — Projection de Mercator,60,1,Mode d'exploration,(voir la table d'indicateurs 3.4),,,3.4,Operational,Original
-grib2/3/10/61-64,Modèle de définition de la grille 3.10 — Projection de Mercator,61-64,4,"Orientation de la grille, angle entre la direction i sur la carte et l'équateur",(voir la note 1),,,,Operational,Original
-grib2/3/10/65-68,Modèle de définition de la grille 3.10 — Projection de Mercator,65-68,4,Di - longueur de grille dans le sens de la longitude,(voir la note 2),,,,Operational,Original
-grib2/3/10/69-72,Modèle de définition de la grille 3.10 — Projection de Mercator,69-72,4,Dj - longueur de grille dans le sens de la latitude,(voir la note 2),,,,Operational,Original
-grib2/3/10/73-nn,Modèle de définition de la grille 3.10 — Projection de Mercator,73-nn,,Liste de nombre de points le long de chaque méridien ou parallèle,(ces octets ne s'appliquent qu'aux grilles quasi régulières dont il est question dans les notes 2 et 3 du modèle de définition de la grille 3.1),,,,Operational,Original
+grib2/3/10/61-64,Modèle de définition de la grille 3.10 — Projection de Mercator,61-64,4,"Orientation de la grille, angle entre la direction i sur la carte et l'équateur",(voir la note 1),49,,,Operational,Original
+grib2/3/10/65-68,Modèle de définition de la grille 3.10 — Projection de Mercator,65-68,4,Di - longueur de grille dans le sens de la longitude,(voir la note 2),28,,,Operational,Original
+grib2/3/10/69-72,Modèle de définition de la grille 3.10 — Projection de Mercator,69-72,4,Dj - longueur de grille dans le sens de la latitude,(voir la note 2),28,,,Operational,Original
+grib2/3/10/73-nn,Modèle de définition de la grille 3.10 — Projection de Mercator,73-nn,,Liste de nombre de points le long de chaque méridien ou parallèle,"(voir les notes 4, 5 and 6)","4,124,136",,,Operational,Original

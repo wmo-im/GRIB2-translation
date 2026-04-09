@@ -1,6 +1,6 @@
-﻿ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translated_by
-grib2/3/41/15-72,Modèle de définition de la grille 3.41 — Grille gaussienne latitude/longitude après rotation,15-72,58,Voir le modèle de définition de la grille 3.40,(voir la note 1),,,,Operational,Original
+ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translated_by
+grib2/3/41/15-72,Modèle de définition de la grille 3.41 — Grille gaussienne latitude/longitude après rotation,15-72,58,Voir le modèle de définition de la grille 3.40,(voir la note 1),9,,,Operational,Original
 grib2/3/41/73-76,Modèle de définition de la grille 3.41 — Grille gaussienne latitude/longitude après rotation,73-76,4,Latitude du pôle Sud de la projection,,,,,Operational,Original
 grib2/3/41/77-80,Modèle de définition de la grille 3.41 — Grille gaussienne latitude/longitude après rotation,77-80,4,Longitude du pôle Sud de la projection,,,,,Operational,Original
 grib2/3/41/81-84,Modèle de définition de la grille 3.41 — Grille gaussienne latitude/longitude après rotation,81-84,4,Angle de rotation de la projection,,,,,Operational,Original
-grib2/3/41/85-nn,Modèle de définition de la grille 3.41 — Grille gaussienne latitude/longitude après rotation,85-nn,,Liste de nombre de points le long de chaque méridien ou parallèle,(ces octets ne s'appliquent qu'aux grilles quasi régulières dont il est question dans la note 4),,,,Operational,Original
+grib2/3/41/85-nn,Modèle de définition de la grille 3.41 — Grille gaussienne latitude/longitude après rotation,85-nn,,Liste de nombre de points le long de chaque méridien ou parallèle,(voir les notes 4 and 5),"4,124",,,Operational,Original
