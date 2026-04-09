@@ -1,4 +1,4 @@
-﻿ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translated_by
+ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translated_by
 grib2/3/10/15,Modelo de definición de la retícula 3.10 — Proyección de Mercator,15,1,Forma de la Tierra,(véase la Tabla de cifrado 3.2),,3.2,,Operational,Original
 grib2/3/10/16,Modelo de definición de la retícula 3.10 — Proyección de Mercator,16,1,Factor de escala del radio de la Tierra esférica,,,,,Operational,Original
 grib2/3/10/17-20,Modelo de definición de la retícula 3.10 — Proyección de Mercator,17-20,4,Valor ajustado del radio de la Tierra esférica,,,,,Operational,Original
@@ -15,7 +15,7 @@ grib2/3/10/48-51,Modelo de definición de la retícula 3.10 — Proyección de M
 grib2/3/10/52-55,Modelo de definición de la retícula 3.10 — Proyección de Mercator,52-55,4,La2 - latitud del último punto de la retícula,,,,,Operational,Original
 grib2/3/10/56-59,Modelo de definición de la retícula 3.10 — Proyección de Mercator,56-59,4,Lo2 - longitud del último punto de la retícula,,,,,Operational,Original
 grib2/3/10/60,Modelo de definición de la retícula 3.10 — Proyección de Mercator,60,1,Modo de exploración,(véase la Tabla de banderines 3.4),,,3.4,Operational,Original
-grib2/3/10/61-64,Modelo de definición de la retícula 3.10 — Proyección de Mercator,61-64,4,"Orientación de la retícula, ángulo entre la dirección i en el mapa y el ecuador",(véase la nota 1),,,,Operational,Original
-grib2/3/10/65-68,Modelo de definición de la retícula 3.10 — Proyección de Mercator,65-68,4,Di - longitud de la retícula en la dirección de la longitud,(véase la nota 2),,,,Operational,Original
-grib2/3/10/69-72,Modelo de definición de la retícula 3.10 — Proyección de Mercator,69-72,4,Dj - longitud de la retícula en la dirección de la latitud,(véase la nota 2),,,,Operational,Original
-grib2/3/10/73-nn,Modelo de definición de la retícula 3.10 — Proyección de Mercator,73-nn,,Lista del número de puntos a lo largo de cada meridiano o paralelo,"(véanse las notas 4,5 y 6)",,,,Operational,Operational,
+grib2/3/10/61-64,Modelo de definición de la retícula 3.10 — Proyección de Mercator,61-64,4,"Orientación de la retícula, ángulo entre la dirección i en el mapa y el ecuador",(véase la nota 1),49,,,Operational,Original
+grib2/3/10/65-68,Modelo de definición de la retícula 3.10 — Proyección de Mercator,65-68,4,Di - longitud de la retícula en la dirección de la longitud,(véase la nota 2),28,,,Operational,Original
+grib2/3/10/69-72,Modelo de definición de la retícula 3.10 — Proyección de Mercator,69-72,4,Dj - longitud de la retícula en la dirección de la latitud,(véase la nota 2),28,,,Operational,Original
+grib2/3/10/73-nn,Modelo de definición de la retícula 3.10 — Proyección de Mercator,73-nn,,Lista del número de puntos a lo largo de cada meridiano o paralelo,"(véanse las notas 4,5 y 6)","4,124,136",,,Operational,Original

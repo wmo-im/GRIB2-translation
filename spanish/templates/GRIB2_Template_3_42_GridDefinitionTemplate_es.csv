@@ -1,6 +1,6 @@
-﻿ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translated_by
-grib2/3/42/15-72,Modelo de definición de la retícula 3.42 — Retícula gausiana de latitud/longitud después de la dilatación,15-72,58,Idéntico al Modelo de definición de la retícula 3.40,véase la nota 1,,,,Operational,Original
+ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translated_by
+grib2/3/42/15-72,Modelo de definición de la retícula 3.42 — Retícula gausiana de latitud/longitud después de la dilatación,15-72,58,Idéntico al Modelo de definición de la retícula 3.40,véase la nota 1,9,,,Operational,Original
 grib2/3/42/73-76,Modelo de definición de la retícula 3.42 — Retícula gausiana de latitud/longitud después de la dilatación,73-76,4,Latitud del polo de dilatación,,,,,Operational,Original
 grib2/3/42/77-80,Modelo de definición de la retícula 3.42 — Retícula gausiana de latitud/longitud después de la dilatación,77-80,4,Longitud del polo de dilatación,,,,,Operational,Original
 grib2/3/42/81-84,Modelo de definición de la retícula 3.42 — Retícula gausiana de latitud/longitud después de la dilatación,81-84,4,Factor de dilatación,,,,,Operational,Original
-grib2/3/42/85-nn,Modelo de definición de la retícula 3.42 — Retícula gausiana de latitud/longitud después de la dilatación,85-nn,,Lista del número de puntos a lo largo de cada meridiano o paralelo.,Estos octetos están presentes únicamente para las retículas casi regulares que se describen en la nota 4.,,,,Operational,Original
+grib2/3/42/85-nn,Modelo de definición de la retícula 3.42 — Retícula gausiana de latitud/longitud después de la dilatación,85-nn,,Lista del número de puntos a lo largo de cada meridiano o paralelo.,Estos octetos están presentes únicamente para las retículas casi regulares que se describen en la nota 4.,"4,124",,,Operational,Original
