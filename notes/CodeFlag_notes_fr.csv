@@ -3,7 +3,7 @@ noteID,note_fr,translated_by
 2,"Le calcul statistique 1 (total) ne modifie pas les unités. Il est recommandé d’utiliser un autre paramètre faisant état d’une intensité avec, dans le MDP, la possibilité d’indiquer une valeur cumulative.",Original
 3,"Il est recommandé de ne pas utiliser ce paramètre, mais d’en utiliser un autre avec une unité plus spécifique.",Original
 4,Paramètre caduc. Utiliser un autre paramètre dans la catégorie de paramètres 1: humidité.,Original
-5,"La première surface spécifiée et la deuxième surface spécifiée de la table de code 4.5 (type et unité des surfaces spécifiées) définissent ’étendue verticale; la première surface spécifiée peut être mise à 1 (surface (terre ou eau)) et la deuxième surface spécifiée à 7 (tropopause) pour une limitation à la troposphère.",Original
+5,"La première surface spécifiée et la deuxième surface spécifiée de la table de code 4.5 (type et unité des surfaces spécifiées) définissent l’étendue verticale; la première surface spécifiée peut être mise à 1 (surface (terre ou eau)) et la deuxième surface spécifiée à 7 (tropopause) pour une limitation à la troposphère.",Original
 6,Le calcul statistique 1 (total) ne modifie pas les unités.,Original
 7,"Supérieure à la normale, proche de la normale et inférieure à la normale se définissent comme les trois catégories équiprobables fondées sur la climatologie à chaque point de la zone géographique couverte par la grille. Le type et la méthodologie de la climatologie de référence ne sont pas précisés et doivent être documentés simultanément par le producteur de données.",Original
 8,Paramètre caduc. Utiliser un autre paramètre dans la catégorie de paramètres 3: produits relatifs aux sols.,Original

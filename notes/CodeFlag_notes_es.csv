@@ -7,8 +7,8 @@ noteID,note_es,translated_by
 6,El cálculo estadístico 1 (acumulación) no altera las unidades.,Original
 7,"Las expresiones “superior a lo normal”, “próxima a lo normal” e “inferior a lo normal” definen tres categorías equiprobables basadas en la climatología en cada punto de la zona geográfica cubierta por la retícula. No se especifican ni el tipo ni la metodología de la climatología de  referencia, y deberían documentarse conjuntamente por los productores de los datos.",Original
 8,Parámetro relegado. Utilícese en su lugar otro parámetro de la categoría de parámetros 3: productos relativos a los suelos.,Original
-9,"Los modelos de definición del producto que se utilizan en la Taba de cifrado 4.9 pueden incluir octetos para indicar los valores de los límites inferiores y superiores. Si se utiliza la probabilidad categórica (como inferior, próximo y superior a lo normal), esos octetos se fijarán todos en 1 (valor faltante).",Original
-10,"El cálculo estadístico 1 (acumulación) no altera las unidades. Se recomienda utilizar otro parámetro con el término ""tasa"" en su nombre y acumulación en MDP.",Original
+9,"Los modelos de definición del producto que se utilizan en la Tabla de cifrado 4.9 pueden incluir octetos para indicar los valores de los límites inferiores y superiores. Si se utiliza la probabilidad categórica (como inferior, próximo y superior a lo normal), esos octetos se fijarán todos en 1 (valor faltante).",Original
+10,"El cálculo estadístico 1 (acumulación) no altera las unidades. Se recomienda utilizar otro parámetro que incluya el término “tasa” en su nombre y acumulación en MDP.",Original
 11,La suma de las fracciones de agua y hielo puede superar el total debido a la superposición de volúmenes que contienen agua y los que contienen hielo.,Original
 12,(see separate doc or pdf file),Original
 13,Las cifras de clave 12 y 13 están previstas para los casos en que las cifras de clave 0 y 2 no sean posibles debido a las diferencias en los parámetros físicos.,Original
@@ -33,10 +33,10 @@ noteID,note_es,translated_by
 34,"Por convención, el signo será positivo cuando el flujo sea descendente.",Original
 35,"Puede ser secante o tangente, cónica o bipolar",Original
 36,Puede ser tanto sur como norte.,Original
-37,La cifra de clave 5 se aplica cuando se ha utilizado un solo subintervalo de tiempo para calcular el estadístico dentro del intervalo de tiempo de referencia.,Original
+37,"La cifra de clave 5 se aplica cuando se ha utilizado un solo subintervalo de tiempo para calcular el campo procesado estadísticamente. No se dan las horas exactas de principio y de fin del subintervalo, pero se conoce que está  contenido entre el principio y el final del intervalo total.",Original
 38,Las cifras de claves 11 a 20 indican que las cuatro capas están especificadas y que la niebla en la superficie se sitúa por debajo de la capa más baja.,Original
 39,Los datos se expresan en unidades físicas especificadas.,Original
-40,"Los datos son numéricos y no expresan unidades, aunque podría asignárseles un significado cuanti- tativo mediante una tabla de cifrado definida externamente a este documento. Lo que interesa es una “imagen” visualizable de un fenómeno, posiblemente mejorada en algunos aspectos. Por lo general, cada dato es un entero de uocteto, sin signo, aunque algunos productos de formato de imagen podrían tener un tamaño de dato distinto. El tamaño de un dato se indica en la Sección 5.",Original
+40,"Los datos son numéricos y no expresan unidades, aunque podría asignárseles un significado cuantitativo mediante una tabla de cifrado definida externamente a este documento. Lo que interesa es una “imagen” visualizable de un fenómeno, posiblemente mejorada en algunos aspectos. Por lo general, cada dato es un entero de octeto, sin signo, aunque algunos productos de formato de imagen podrían tener un tamaño de dato distinto. El tamaño de un dato se indica en la Sección 5.",Original
 41,"El decibelio (dB) es una unidad logarítmica que mide la potencia relativa o los valores relativos de dos densidades de flujo, especialmente de la intensidad del sonido y de las densidades de la potencia de la radio y del radar. En la meteorología por radar, la escala logarítmica, expresada en dBZ, se usa para medir el factor de reflectividad del radar.",Original
 42,Definida por el centro de origen.,Original
 43,"Definición del índice de potencial de relámpagos según Lynn y otros: Lynn, B. y Y. Yair, 2010: Prediction of lightning flash density with the WRF model, Adv. Geosci., 23: 11–16; Yair, Y., B. Lynn, C. Price, V. Kotroni, K. Lagouvardos, E. Morin, A. Mugnai y M. Llasat, 2010: Predicting the  potential for lightning activity in Mediterranean storms based on the Weather Research and Forecasting (WRF) model dynamic and microphysical fields, Journal of Geophysical Research, 115, D04205, doi:10.1029/2008JD010868.",Original
@@ -68,7 +68,7 @@ noteID,note_es,translated_by
 72,Este método consiste en realizar una interpolación del balance en el punto reticular más cercano al punto de retícula nominal.,Original
 73,"La cobertura de nieve captada por teledetección se expresa como campo de valor temático sin dimensiones. En la actualidad los siguientes valores son válidos: 50 para ""sin nieve/sin nubes"", 100 para ""nubes"" y 250 para ""nieve"". Véase la Tabla de cifrado 4.215.",Original
 74,"El término “seeing” se refiere a la estabilidad o turbulencia de la atmósfera en el contexto de las observaciones astronómicas. La turbulencia produce rápidas fluctuaciones aleatorias del camino óptico a través de la atmósfera. El centelleo estelar, por ejemplo, ocurre en malas condiciones de visibilidad astrónomica.",Original
-75,"El nivel de altura sigma es el nivel de modelo vertical de coordenadas que siguen el terreno en altura (Gal-Chen y Somerville, 1975). El valor del nivel  (altura del nivel – altura del terreno) / (altura del nivel superior – altura del terreno), que es ≥0 y ≤1.",Original
+75,"El nivel de altura sigma es el nivel de modelo vertical de coordenadas que siguen el terreno en altura (Gal-Chen y Somerville, 1975). El valor del nivel = (altura del nivel – altura del terreno) / (altura del nivel superior – altura del terreno), que es ≥0 y ≤1.",Original
 77,"El equivalente en agua de la cobertura de nieve, expresado como en porcentaje respecto del valor normal, se almacena en unidades de porcentaje del valor normal. Por ejemplo, un valor de 110 indica un 110% del equivalente normal en agua de la nieve para una altura de nieve dada.",Original
 78,Las gotitas de agua grandes subfundidas se definen como gotitas cuyo diámetro es superior a 50 micrómetros.,Original
 81,Temperatura en la base de la película térmica.,Original
@@ -79,14 +79,14 @@ noteID,note_es,translated_by
 87,"El índice de Fosberg expresa la posible influencia del tiempo en un incendio en zonas silvestres. Tiene en cuenta los efectos combinados de la temperatura, la velocidad del viento, la humedad relativa y la precipi- tación. Los valores superiores indican un impacto mayor posible.",Original
 90,"Las unidades indicadas para este parámetro parecen no ser apropiadas para la evapotranspiración. Se recomienda usar, en su lugar, el parámetro 39 con el proceso estadístico 1 (acumulación) para notificar la evapotranspiración en unidades de kg m–2.",Original
 91,Las unidades indicadas para este parámetro parecen ser inapropiadas para la tasa de evaporación potencial. Se recomienda usar en su lugar el parámetro 143.,Original
-92,"El valor inicial de los datos (Y en la nota 4)) de la Regla 92.9.4) tiene unidades de la Tabla de cifrado 4.2 multiplicadas por segundo, a menos que se indique lo contrario en la Tabla de cifrado 4.2.",Original
+92,"El valor inicial de los datos (Y en la nota 4) de la Regla 92.9.4) tiene unidades de la Tabla de cifrado 4.2 multiplicadas por segundo, a menos que se indique lo contrario en la Tabla de cifrado 4.2.",Original
 93,El valor inicial de los datos tiene unidades de cuadrados de la Tabla de cifrado 4.2.,Original
 94,"El valor original de los datos es un número no dimensional de 0 a 1, donde 0 indica confianza nula y 1 indica confianza máxima.",Original
 95,El valor inicial de los datos es un valor no dimensional sin unidades.,Original
 96,El valor original de los datos está definido en la Tabla de cifrado 4.244.,Original
 97,El valor original de los datos es un número no dimensional sin unidades.,Original
 98,"Relación entre el flujo radiante reflejado por una superficie y el flujo radiante reflejado por una superficie normalizada ideal (sin pérdidas) y difusa (lambertiana) en la misma geometría del haz reflejado y el mismo intervalo de longitudes de onda, irradiado en las mismas condiciones.",Original
-99,"El nivel de hielo marino representa un nivel de hielo marino de referencia respecto del que la profundiad no es constante en todos los dominios del modelo. La profundidad en metros del nivel la proporciona otro mensaje GRIB mediante el parámetro “espesor del hielo marino” con el campo de  especialización 10, categoría 2, parámetro 1.",Original
+99,"El nivel de hielo marino representa un nivel de hielo marino de referencia respecto del que la profundidad no es constante en todos los dominios del modelo. La profundidad en metros del nivel la proporciona otro mensaje GRIB mediante el parámetro “espesor del hielo marino” con el campo de  especialización 10, categoría 2, parámetro 1.",Original
 101,Flujo solar por unidad de superficie recibido desde un ángulo sólido de 2π sr en una superficie horizontal.,Original
 102,"Flujo solar por unidad de superficie recibido desde un ángulo sólido de 2π sr en una superficie horizontal, excepto el flujo procedente del disco solar.",Original
 103,Flujo solar por unidad de superficie recibido desde un ángulo sólido del disco solar en una superficie normal a los rayos del sol.,Original
