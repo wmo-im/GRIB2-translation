@@ -1,111 +1,110 @@
 noteID,note_es,translated_by
-1,Parámetro relegado. Véase la Regla 92.6.2 y utilícese en su lugar otro parámetro.,PDF_extraction
-2,"El cálculo estadístico 1 (Acumulación) no altera las unidades. Se recomienda utilizar otro parámetro con el término ""tasa"" en su nombre y acumulación en MDP.",PDF_extraction
-3,"Se recomienda no utilizar este parámetro, y utilizar en su lugar uno con una unidad más descriptiva.",PDF_extraction
-4,Parámetro relegado. Utilícese en su lugar otro parámetro de la categoría de parámetros 1: humedad.,PDF_extraction
-5,La primera y la segunda superficies especificadas de la Tabla de cifrado 4.5 (Tipos y unidades de las superficies especificadas) definen la extensión vertical.,PDF_extraction
-6,El cálculo estadístico 1 (acumulación) no altera las unidades.,PDF_extraction
-7,"Las expresiones ""superior a lo normal"", ""próxima a lo normal"" e ""inferior a lo normal"" definen tres categorías equiprobables basadas en la climatología de cada punto dentro de la zona geográfica cubierta por la retícula.",PDF_extraction
-8,Parámetro relegado. Utilícese en su lugar otro parámetro de la categoría de parámetros 3: productos relativos a los suelos.,PDF_extraction
-9,Los modelos de definición del producto que se utilizan en la Tabla de cifrado 4.9 pueden incluir octetos para almacenar los valores de los límites superior e inferior.,PDF_extraction
-10,"El cálculo estadístico 1 (acumulación) no altera las unidades. Se recomienda utilizar otro parámetro con el término ""tasa"" en su nombre y acumulación en MDP.",PDF_extraction
-11,La suma de las fracciones de agua y hielo puede superar el total debido a la superposición de volúmenes que contienen agua y los que contienen hielo.,PDF_extraction
-12,(see separate doc or pdf file),
-13,Las cifras de clave 12 y 13 están previstas para los casos en que las cifras de clave 0 y 2 no sean posibles debido a las diferencias en los parámetros físicos.,PDF_extraction
-14,"El factor de conversión entre la ""concentración de actividad específica"" (14) y la ""concentración en aire"" (10) es la ""densidad másica"" [kg m-3].",PDF_extraction
-15,Los componentes x e y del estrés superficial no son necesariamente equivalentes a los componentes u y v (este/oeste y norte/sur) del estrés superficial.,PDF_extraction
-17,Los números 17 y 20 son desviaciones del valor de referencia de 1000 kg m-3.,PDF_extraction
-18,El nivel se define por la diferencia de una propiedad del agua entre las proximidades de la superficie y el nivel.,PDF_extraction
-19,El valor original de los datos se expresa en las mismas unidades que el parámetro definido por los octetos 10 y 11 del MDP.,PDF_extraction
-20,"El término ""densidad numérica"" también se utiliza para la ""concentración numérica"" (número 59); el factor de conversión es el volumen del elemento de la retícula [m3].",PDF_extraction
+1,Parámetro relegado. Véase la Regla 92.6.2 y utilícese en su lugar otro parámetro.,Original
+2,"El cálculo estadístico 1 (Acumulación) no altera las unidades. Se recomienda utilizar otro parámetro con el término ""tasa"" en su nombre y acumulación en MDP.",Original
+3,"Se recomienda no utilizar este parámetro, y utilizar en su lugar uno con una unidad más descriptiva.",Original
+4,Parámetro relegado. Utilícese en su lugar otro parámetro de la categoría de parámetros 1: humedad.,Original
+5,La primera y la segunda superficies especificadas de la Tabla de cifrado 4.5 (Tipos y unidades de las superficies especificadas) definen la extensión vertical.,Original
+6,El cálculo estadístico 1 (acumulación) no altera las unidades.,Original
+7,"Las expresiones “superior a lo normal”, “próxima a lo normal” e “inferior a lo normal” definen tres categorías equiprobables basadas en la climatología en cada punto de la zona geográfica cubierta por la retícula. No se especifican ni el tipo ni la metodología de la climatología de  referencia, y deberían documentarse conjuntamente por los productores de los datos.",Original
+8,Parámetro relegado. Utilícese en su lugar otro parámetro de la categoría de parámetros 3: productos relativos a los suelos.,Original
+9,"Los modelos de definición del producto que se utilizan en la Taba de cifrado 4.9 pueden incluir octetos para indicar los valores de los límites inferiores y superiores. Si se utiliza la probabilidad categórica (como inferior, próximo y superior a lo normal), esos octetos se fijarán todos en 1 (valor faltante).",Original
+10,"El cálculo estadístico 1 (acumulación) no altera las unidades. Se recomienda utilizar otro parámetro con el término ""tasa"" en su nombre y acumulación en MDP.",Original
+11,La suma de las fracciones de agua y hielo puede superar el total debido a la superposición de volúmenes que contienen agua y los que contienen hielo.,Original
+12,(see separate doc or pdf file),Original
+13,Las cifras de clave 12 y 13 están previstas para los casos en que las cifras de clave 0 y 2 no sean posibles debido a las diferencias en los parámetros físicos.,Original
+14,"El factor de conversión entre la ""concentración de actividad específica"" (14) y la ""concentración en aire"" (10) es la ""densidad másica"" [kg m-3].",Original
+15,En relación con los ejes de coordenadas locales en el borde de una celda.,Original
+17,Los números 17 y 20 son desviaciones del valor de referencia de 1000 kg m-3.,Original
+18,"El nivel se define por la diferencia de una propiedad del agua entre las proximidades de la superficie y el nivel. Las proximidades de la superficie se fijan generalmente en los 10 metros de profundidad. La magnitud física utilizada para calcular la diferencia puede ser la densidad del agua (σθ) cuando se utiliza el tipo de nivel 169 o la temperatura potencial del agua (θ) cuando se usa el tipo de nivel 170.",Original
+19,El valor original de los datos se expresa en las mismas unidades que el parámetro definido por los octetos 10 y 11 del MDP.,Original
+20,"El término “densidad numérica” también se utiliza para la “concentración numérica” (número 59); el factor de conversión entre la “densidad numérica” (59) y la “concentración numérica específica” (60) es la “densidad másica” [kg m-3].",Original
 21,"Los componentes x e y del estrés superficial no son necesariamente equivalentes a los componentes u y v (dirección este y dirección norte). Los componentes x e y siguien estrictamente el sistema de coordenadas definido, que puede o no seguir las direcciones este y norte.",Original
-22,Los componentes x e y de la velocidad del agua no son necesariamente equivalentes a los componentes u y v (este/oeste y norte/sur) de dicha velocidad.,PDF_extraction
-23,La tasa de precipitación total/ de nieve caída representa la suma de la tasa de precipitación/nieve caída convectiva y en gran escala.,PDF_extraction
-24,"La radiación solar global UVI se formula empleando el espectro de acción de referencia de la Comisión Internacional sobre Iluminación (CII) para el eritema provocado por la radiación UV en la piel humana (Norma 17166 de la ISO:1999/CII S 007/E-1998). Es una medida de la radiación UV, pertinente y definida para una superficie horizontal.",PDF_extraction
-25,"Un campo de datos que representa la cobertura de nieve por altitud indica a qué altitud hay un manto de nieve. Los valores de altitud normalmente van de 0 a 90, en incrementos de 100 m. Un valor de 253 representa un punto de datos que corresponde a ""sin nieve/sin nubes"". Un valor de 254 representa un punto de datos que indica que la altitud de la cobertura de nubes no se ha podido determinar.",PDF_extraction
-27,Proyección llamada también equidistante cilíndrica o Plate Carrée.,
-28,Un análisis inicializado se considera previsión de vencimiento inmediato (hora cero).,PDF_extraction
-29,El incremento de análisis representa el análisis menos la primera aproximación.,PDF_extraction
-30,"La temperatura aparente es la temperatura exterior percibida, causada por una combinación de fenómenos, como la temperatura del aire, la humedad relativa y la velocidad del viento.",PDF_extraction
-31,"En el supuesto de que una nube contiene una distribución bimodal de las partículas de hielo, el ""hielo en nube"" se refiere a un tipo pequeño de partícula, mientras que el tipo grande se denomina comúnmente ""nieve en nube"". Por el contrario, el ""hielo granulado"" puede referirse a la precipitación de aguanieve.",PDF_extraction
-32,"Los bits 5 a 8 podrán utilizarse para generar retículas escalonadas, como las retículas Arakawa (véase el Suplemento I de la Parte B del código GRIB).",PDF_extraction
-33,Por interpolación del balance se entiende un método de interpolación de orden inferior que casi conserva los integrales de campo en cada cuadrado de retícula.,PDF_extraction
-34,"Por convención, el signo será positivo cuando el flujo sea descendente.",PDF_extraction
-35,"Puede ser secante o tangente, cónica o bipolar",
-36,Puede ser tanto sur como norte.,
-37,La cifra de clave 5 se aplica cuando se ha utilizado un solo subintervalo de tiempo para calcular el estadístico dentro del intervalo de tiempo de referencia.,PDF_extraction
-38,Las cifras de claves 11 a 20 indican que las cuatro capas están especificadas y que la niebla en la superficie se sitúa por debajo de la capa más baja.,PDF_extraction
+22,Los componentes x e y de la velocidad del agua no son necesariamente equivalentes a los componentes u y v (este/oeste y norte/sur) de dicha velocidad.,Original
+23,La tasa de precipitación total/ de nieve caída representa la suma de la tasa de precipitación/nieve caída convectiva y en gran escala.,Original
+24,"La radiación solar global UVI se formula empleando el espectro de acción de referencia de la Comisión Internacional sobre Iluminación (CII) para el eritema provocado por la radiación UV en la piel humana (Norma 17166 de la ISO:1999/CII S 007/E-1998). Es una medida de la radiación UV, pertinente y definida para una superficie horizontal.",Original
+25,"Un campo de datos que representa la cobertura de nieve por altitud indica a qué altitud hay un manto de nieve. Los valores de altitud normalmente van de 0 a 90, en incrementos de 100 m. Un valor de 253 representa un punto de datos que corresponde a ""sin nieve/sin nubes"". Un valor de 254 representa un punto de datos que indica que la altitud de la cobertura de nubes no se ha podido determinar.",Original
+27,Proyección llamada también equidistante cilíndrica o Plate Carrée.,Original
+28,Un análisis inicializado se considera previsión de vencimiento inmediato (hora cero).,Original
+29,El incremento de análisis representa el análisis menos la primera aproximación.,Original
+30,"La temperatura aparente es la temperatura exterior percibida, causada por una combinación de fenómenos, como la temperatura del aire, la humedad relativa y la velocidad del viento.",Original
+31,"En el supuesto de que una nube contiene una distribución bimodal de las partículas de hielo, el ""hielo en nube"" se refiere a un tipo pequeño de partícula, mientras que el tipo grande se denomina comúnmente ""nieve en nube"". Por el contrario, el ""hielo granulado"" puede referirse a la precipitación de aguanieve.",Original
+32,"Los bits 5 a 8 podrán utilizarse para generar retículas escalonadas, como las retículas Arakawa (véase el Suplemento I de la Parte B del código GRIB).",Original
+33,"Por interpolación del balance se entiende un método de interpolación de orden inferior que casi conserva las medias de zona. Este método sería adecuado para interpolar campos de balance como las precipitaciones. Parte del supuesto de que el campo representa en realidad las medias/máximas/mínimas, donde cada cuadro llega a la mitad del punto reticular contiguo en cada dirección. El método promedia los valores obtenidos por interpolación bilineal, lo que da lugar a un conjunto cuadrado de puntos distribuidos en cada cuadrícula resultante.",Original
+34,"Por convención, el signo será positivo cuando el flujo sea descendente.",Original
+35,"Puede ser secante o tangente, cónica o bipolar",Original
+36,Puede ser tanto sur como norte.,Original
+37,La cifra de clave 5 se aplica cuando se ha utilizado un solo subintervalo de tiempo para calcular el estadístico dentro del intervalo de tiempo de referencia.,Original
+38,Las cifras de claves 11 a 20 indican que las cuatro capas están especificadas y que la niebla en la superficie se sitúa por debajo de la capa más baja.,Original
 39,Los datos se expresan en unidades físicas especificadas.,Original
-40,"Los datos son numéricos y no expresan unidades, aunque podría asignárseles un significado cuantitativo.",Original
-41,"El decibelio (dB) es una unidad logarítmica que mide la potencia relativa o los valores relativos de dos densidades de flujo, especialmente de la intensidad del sonido y de las densidades de la potencia de la radio y del radar. En la meteorología por radar, la escala logarítmica, expresada en dBZ, se usa para medir el factor de reflectividad del radar.",PDF_extraction
-42,Definida por el centro de origen.,PDF_extraction
-43,"Definición del índice de potencial de relámpagos según Lynn y otros: Lynn, B. y Y. Yair, 2010: Prediction of lightning flash density with the WRF model.",PDF_extraction
-44,"Se presupone que Di y Dj son positivas, y la dirección i y j vendrá dada por los bits 1 y 2.",PDF_extraction
-45,El parámetro de disipación de los remolinos es la raíz cúbica de la tasa de disipación de los remolinos [m2 s-3].,PDF_extraction
-46,"Las entradas 9, 10, 11 y 12 quedan relegadas.",PDF_extraction
-47,Fundamentalmente un año no bisiesto.,PDF_extraction
+40,"Los datos son numéricos y no expresan unidades, aunque podría asignárseles un significado cuanti- tativo mediante una tabla de cifrado definida externamente a este documento. Lo que interesa es una “imagen” visualizable de un fenómeno, posiblemente mejorada en algunos aspectos. Por lo general, cada dato es un entero de uocteto, sin signo, aunque algunos productos de formato de imagen podrían tener un tamaño de dato distinto. El tamaño de un dato se indica en la Sección 5.",Original
+41,"El decibelio (dB) es una unidad logarítmica que mide la potencia relativa o los valores relativos de dos densidades de flujo, especialmente de la intensidad del sonido y de las densidades de la potencia de la radio y del radar. En la meteorología por radar, la escala logarítmica, expresada en dBZ, se usa para medir el factor de reflectividad del radar.",Original
+42,Definida por el centro de origen.,Original
+43,"Definición del índice de potencial de relámpagos según Lynn y otros: Lynn, B. y Y. Yair, 2010: Prediction of lightning flash density with the WRF model, Adv. Geosci., 23: 11–16; Yair, Y., B. Lynn, C. Price, V. Kotroni, K. Lagouvardos, E. Morin, A. Mugnai y M. Llasat, 2010: Predicting the  potential for lightning activity in Mediterranean storms based on the Weather Research and Forecasting (WRF) model dynamic and microphysical fields, Journal of Geophysical Research, 115, D04205, doi:10.1029/2008JD010868.",Original
+44,"Se presupone que Di y Dj son positivas, y la dirección i y j vendrá dada por los bits 1 y 2.",Original
+45,El parámetro de disipación de los remolinos es la raíz cúbica de la tasa de disipación de los remolinos [m2 s-3].,Original
+46,"Las entradas 8 - 12 quedan relegadas.",Original
+47,Fundamentalmente un año no bisiesto.,Original
 48,Amplía el calendario gregoriano indefinidamente en el pasado,Original
-49,La niebla se define como la nubosidad en el nivel más bajo del modelo.,PDF_extraction
-50,"En lo que se refiere a la entrada 1, se ha de señalar que en función de los valores de las coordenadas extremas (primera/última) y con independencia del mapa de bits, el número efectivo de puntos de retícula podría ser distinto del que indica este modelo.",PDF_extraction
-51,"Para el parámetro 38 (categoría de parámetros 0), el volumen de hielo se expresa como si el contenido de hielo de la columna se extendiera por toda la columna y no solo por las nubes en las que se encuentra.",PDF_extraction
-52,En la Guía para el Análisis y Pronóstico de las Olas (OMM-Nº 702) se ofrece más información sobre los parámetros de las olas.,PDF_extraction
-54,"El nivel de altura híbrido (Cifra de clave 118) se define como sigue: z(k) = A(k) + B(k) x orog (k = 1, … N niveles; orog = orografía; z(k) = altura en metros del nivel k).",PDF_extraction
-55,"El nivel de presión híbrido, para el que se usará la cifra de clave 119 en lugar de la 105, se define como sigue: p(k) = A(k) + B(k) x p_sup (k = 1, …, N niveles; p_sup = presión en superficie; p(k) = presión del nivel k).",PDF_extraction
-56,Dirección i : de oeste a este a lo largo de un paralelo o de izquierda a derecha a lo largo del eje x.,PDF_extraction
-57,La presión o tensión interna del hielo (Pa m) es la presión global en el espesor de una capa de hielo.,PDF_extraction
-58,"Si se especifican cualquiera de los bits 5, 6, 7 u 8, Di y Dj no son optativas.",PDF_extraction
-59,"Si el número de bit 4 se cifra en uno, la primera línea explorada está indicada por los indicadores anteriores.",PDF_extraction
-60,"En astronomía, la transparencia del cielo se refiere a los efectos, en la observación, de la dispersión de la luz por las moléculas del aire y las partículas de polvo y de humo.",PDF_extraction
-61,El incremento de inicialización para el análisis representa la inicialización para el análisis menos el análisis.,PDF_extraction
-63,"Nótese que la referencia para el ""mínimo de todos los miembros del conjunto"" y el ""máximo de todos los miembros del conjunto"" es el grupo de miembros del conjunto y no un periodo de tiempo.",PDF_extraction
-65,"Dirección j: de sur a norte a lo largo de un meridiano, o de abajo arriba a lo largo de un eje y.",PDF_extraction
-66,"La1 y Lo1 definen la primera línea, que es impar.",PDF_extraction
-67,"El índice de anomalía grande se define como {(número de miembros cuya anomalía es superior a 0,5 x DE) – (número de miembros cuya anomalía es inferior a –0,5 x DE)} / (número de miembros) en cada punto de retícula, donde DE es la desviación típica climatológica observada.",PDF_extraction
-68,"Valores negativos asignados a esta coordenada indicarán una profundidad por debajo de la superficie del suelo. Si todos los valores son negativos, éstos se enumeran de mayor a menor magnitud.",PDF_extraction
-69,El flujo normal se produce sobre una superficie normal a la dirección del sol.,PDF_extraction
-70,Los números 31 a 40 han dejado de usarse.,PDF_extraction
-71,Los parámetros a partir del número 10 pueden utilizarse conjuntamente con los Modelos de definición del producto 4.40 a 4.43 y con la Tabla de códigos común C-14 para representar cualquier tipo de radioisótopo.,PDF_extraction
-72,Este método consiste en realizar una interpolación del balance en el punto reticular más cercano al punto de retícula nominal.,PDF_extraction
-73,"La cobertura de nieve captada por teledetección se expresa como campo de valor temático sin dimensiones. En la actualidad los siguientes valores son válidos: 50 para ""sin nieve/sin nubes"", 100 para ""nubes"" y 250 para ""nieve"". Véase la Tabla de cifrado 4.215.",PDF_extraction
-74,"El término ""seeing"" se refiere a la estabilidad o turbulencia de la atmósfera en el contexto de las observaciones astronómicas.",PDF_extraction
-75,"El nivel de altura sigma es el nivel de modelo vertical de coordenadas que siguen el terreno en altura (Gal-Chen y Somerville, 1975).",PDF_extraction
-77,"El equivalente en agua de la cobertura de nieve, expresado como en porcentaje respecto del valor normal, se almacena en unidades de porcentaje del valor normal. Por ejemplo, un valor de 110 indica un 110% del equivalente normal en agua de la nieve para una altura de nieve dada.",PDF_extraction
-78,Las gotitas de agua grandes subfundidas se definen como gotitas cuyo diámetro es superior a 50 micrómetros.,PDF_extraction
-81,Temperatura en la base de la película térmica.,PDF_extraction
-82,Temperatura del agua a lo largo de una profundidad mínima (aproximadamente los primeros 20 micrómetros).,PDF_extraction
-83,Temperatura de la columna de agua sin variabilidad térmica diurna o equivalente a la temperatura subsuperficial.,PDF_extraction
-84,La definición de una coordenada generalizada de altura vertical implica la ausencia de valores de coordenada en la Sección 4.,PDF_extraction
-85,Integral temporal de la irradiancia solar difusa.,PDF_extraction
-87,Integral temporal de la irradiancia solar directa.,PDF_extraction
-90,Las unidades indicadas para este parámetro parecen ser inapropiadas para la tasa de evaporación potencial. Se recomienda usar en su lugar el parámetro 143.,PDF_extraction
-91,Las unidades indicadas para este parámetro parecen no ser apropiadas para la evapotranspiración. Se recomienda usar en su lugar el parámetro 140.,PDF_extraction
-92,El valor inicial de los datos (Y en la nota 4) de la Regla 92.9.4) tiene unidades de la Tabla de cifrado 4.2.,PDF_extraction
-93,El valor inicial de los datos tiene unidades de cuadrados de la Tabla de cifrado 4.2.,PDF_extraction
-94,"El valor original de los datos es un número no dimensional de 0 a 1, donde 0 indica confianza nula y 1 indica confianza máxima.",PDF_extraction
-95,El valor inicial de los datos es un valor no dimensional sin unidades.,PDF_extraction
-96,El valor original de los datos está definido en la Tabla de cifrado 4.244.,PDF_extraction
-97,El valor original de los datos es un número no dimensional sin unidades.,PDF_extraction
-98,Relación entre el flujo radiante reflejado por una superficie y el flujo radiante reflejado por una superficie horizontal de referencia que recibe la misma irradiancia.,PDF_extraction
-99,El nivel de hielo marino representa un nivel de hielo marino de referencia respecto del que la profundidad no es constante en todo el dominio.,PDF_extraction
-100,El nivel del suelo representa un nivel de modelo para el que la profundidad no es constante en todo el dominio.,PDF_extraction
-101,Flujo solar por unidad de superficie recibido desde un ángulo sólido de 2π sr en una superficie horizontal; incluyendo la radiación directa y la difusa (excluida la radiación de onda larga).,PDF_extraction
-102,"Flujo solar por unidad de superficie recibido desde un ángulo sólido de 2π sr en una superficie horizontal, excepto el flujo procedente del disco solar.",PDF_extraction
-103,Flujo solar por unidad de superficie recibido desde un ángulo sólido del disco solar en una superficie normal a los rayos del sol.,PDF_extraction
-104,La densidad total de relámpagos es la suma de las densidades de relámpagos de nube a tierra y de nube a nube.,PDF_extraction
-105,El valor del incremento de dirección constante Di (o Dx) del modelo de definición de la retícula que se incluye en el contexto de la definición de la retícula puede ser distinto del utilizado en la codificación real.,PDF_extraction
-106,Temperatura teórica en la superficie precisa de separación aire-mar.,PDF_extraction
-108,Esta tabla de cifrado ha dejado de usarse. Utilícese en su lugar la Tabla de cifrado común C–0.,PDF_extraction
-109,Este método parte del supuesto de que cada campo representa en realidad las medias/máximas/mínimas u otros valores estadísticos en cada punto de retícula.,PDF_extraction
-110,"Este parámetro se describe más detalladamente en a) Lee, S. e I. M. Held, 1993: Baroclinic wave packets in models and observations. J. Atmos. Sci., 50: 1413–1428, b) Chang, E. K. M., 1993: Downstream development of baroclinic waves as inferred from regression analysis. J. Atmos. Sci., 50: 2038–2053, c) Archambault,H. M., D. Keyser y L. F. Bosart, 2010: Relationships between large-scale regime transitions and major cool- season precipitation events in the northeastern United States. Mon. Wea. Rev., 138: 3454 3473 y d) Zimin,A. V., I. Szunyogh, B. R. Hung y E. Orr., 2006: Extracting envelopes of nonzonally propagating Rossby wave packets. Mon. Wea. Review, 134: 1329–1333.",
+49,La niebla se define como la nubosidad en el nivel más bajo del modelo.,Original
+50,"En lo que se refiere a la entrada 1, se ha de señalar que en función de los valores de las coordenadas extremas (primera/última) y con independencia del mapa de bits, el número efectivo de puntos de retícula podría ser distinto del que indica este modelo.",Original
+51,"Para el parámetro 38 (categoría de parámetros 0), el volumen de hielo se expresa como si el contenido de hielo se derritiera convirtiéndose en agua en estado líquido y a continuación se midiera su volumen en dicho estado. Se puede considerar en los mismos términos que el equivalente en agua del espesor de la nieve.",Original
+52,En la Guía para el Análisis y Pronóstico de las Olas (OMM-Nº 702) se ofrece más información sobre los parámetros de las olas.,Original
+54,"El nivel de altura híbrido (Cifra de clave 118) se define como sigue: z(k) = A(k) + B(k) x orog (k = 1, … N niveles; orog = orografía; z(k) = altura en metros del nivel k).",Original
+55,"El nivel de presión híbrido, para el que se usará la cifra de clave 119 en lugar de la 105, se define como sigue: p(k) = A(k) + B(k) x p_sup (k = 1, …, N niveles; p_sup = presión en superficie; p(k) = presión del nivel k).",Original
+56,Dirección i : de oeste a este a lo largo de un paralelo o de izquierda a derecha a lo largo del eje x.,Original
+57,"La presión o tensión interna del hielo (Pa m) es la presión global en el espesor vertical de una capa de hielo. Se produce cuando la concentración de hielo reacciona a fuerzas externas, como el viento y las corrientes oceánicas.",Original
+58,"Si se especifican cualquiera de los bits 5, 6, 7 u 8, Di y Dj no son optativas.",Original
+59,"Si el número de bit 4 se cifra en uno, la primera línea explorada está indicada por los indicadores anteriores.",Original
+60,"En astronomía, la transparencia del cielo se refiere a los efectos, en la observación, de la dispersión de la luz a través del vapor de agua, los aerosoles y otros componentes atmosféricos. Hay condiciones ideales de transparencia cuando se produce un cielo nocturo oscuro, propicio a la observación de objetos astronómicos poco visibles, casi como en el espacio ultraterrestre. En condiciones de baja transparencia, que pueden producirse incluso cuando no hay nubes, el cielo profundo es grisáceo (no negro), los detalles poco visibles no pueden observarse y se reduce el contraste.",Original
+61,El incremento de inicialización para el análisis representa la inicialización para el análisis menos el análisis.,Original
+63,"Nótese que la referencia para el “mínimo de todos los miembros del conjunto” y el “máximo de todos los miembros del conjunto” es la totalidad de los miembros del conjunto y no un intervalo de tiempo, y no debería confundirse con el máximo y el mínimo indicados en el modelo de definición del producto 4.8.",Original
+65,"Dirección j: de sur a norte a lo largo de un meridiano, o de abajo arriba a lo largo de un eje y.",Original
+66,"La1 y Lo1 definen la primera línea, que es impar.",Original
+67,"El índice de anomalía grande se define como {(número de miembros cuya anomalía es superior a 0,5 x DE) – (número de miembros cuya anomalía es inferior a –0,5 x DE)} / (número de miembros) en cada punto de retícula, donde DE es la desviación típica climatológica observada.",Original
+68,"Valores negativos asignados a esta coordenada indicarán una profundidad por debajo de la superficie del terreno. Si todos los valores son por debajo de la superficie, se recomienda el uso de la cifra de clave 106, con valores de coordenada positivos.",Original
+69,El flujo normal se produce sobre una superficie normal a la dirección del sol.,Original
+70,Los números 31 a 40 han dejado de usarse.,Original
+71,Los parámetros a partir del número 10 pueden utilizarse conjuntamente con los Modelos de definición del producto 4.40 a 4.43 y con la Tabla de códigos común C-14 para representar cualquier tipo de radioisótopo.,Original
+72,Este método consiste en realizar una interpolación del balance en el punto reticular más cercano al punto de retícula nominal.,Original
+73,"La cobertura de nieve captada por teledetección se expresa como campo de valor temático sin dimensiones. En la actualidad los siguientes valores son válidos: 50 para ""sin nieve/sin nubes"", 100 para ""nubes"" y 250 para ""nieve"". Véase la Tabla de cifrado 4.215.",Original
+74,"El término “seeing” se refiere a la estabilidad o turbulencia de la atmósfera en el contexto de las observaciones astronómicas. La turbulencia produce rápidas fluctuaciones aleatorias del camino óptico a través de la atmósfera. El centelleo estelar, por ejemplo, ocurre en malas condiciones de visibilidad astrónomica.",Original
+75,"El nivel de altura sigma es el nivel de modelo vertical de coordenadas que siguen el terreno en altura (Gal-Chen y Somerville, 1975). El valor del nivel  (altura del nivel – altura del terreno) / (altura del nivel superior – altura del terreno), que es ≥0 y ≤1.",Original
+77,"El equivalente en agua de la cobertura de nieve, expresado como en porcentaje respecto del valor normal, se almacena en unidades de porcentaje del valor normal. Por ejemplo, un valor de 110 indica un 110% del equivalente normal en agua de la nieve para una altura de nieve dada.",Original
+78,Las gotitas de agua grandes subfundidas se definen como gotitas cuyo diámetro es superior a 50 micrómetros.,Original
+81,Temperatura en la base de la película térmica.,Original
+82,Temperatura del agua a lo largo de una profundidad mínima (aproximadamente los primeros 20 micrómetros).,Original
+83,Temperatura de la columna de agua sin variabilidad térmica diurna o equivalente a la temperatura subsuperficial.,Original
+84,"La definición de una coordenada generalizada de altura vertical implica la ausencia de valores de coordenadas en la sección 4, pero también la presencia de un mensaje GRIB 3D externo que especifique la altura de cada punto de retícula del modelo, en metros (véanse las notas de la sección 4 en la sección anterior titulada Especificaciones del contenido de los octetos); en otras palabras, el mensaje GRIB contendrá el campo de especialización = 0, categoría = 3, parámetro = 6 (altura geométrica).",Original
+85,El sistema de coordenadas verticales Eta consiste en normalizar la presión en un punto dado de un nivel específico por la presión del nivel medio del mar en ese punto.,Original
+87,"El índice de Fosberg expresa la posible influencia del tiempo en un incendio en zonas silvestres. Tiene en cuenta los efectos combinados de la temperatura, la velocidad del viento, la humedad relativa y la precipi- tación. Los valores superiores indican un impacto mayor posible.",Original
+90,"Las unidades indicadas para este parámetro parecen no ser apropiadas para la evapotranspiración. Se recomienda usar, en su lugar, el parámetro 39 con el proceso estadístico 1 (acumulación) para notificar la evapotranspiración en unidades de kg m–2.",Original
+91,Las unidades indicadas para este parámetro parecen ser inapropiadas para la tasa de evaporación potencial. Se recomienda usar en su lugar el parámetro 143.,Original
+92,"El valor inicial de los datos (Y en la nota 4)) de la Regla 92.9.4) tiene unidades de la Tabla de cifrado 4.2 multiplicadas por segundo, a menos que se indique lo contrario en la Tabla de cifrado 4.2.",Original
+93,El valor inicial de los datos tiene unidades de cuadrados de la Tabla de cifrado 4.2.,Original
+94,"El valor original de los datos es un número no dimensional de 0 a 1, donde 0 indica confianza nula y 1 indica confianza máxima.",Original
+95,El valor inicial de los datos es un valor no dimensional sin unidades.,Original
+96,El valor original de los datos está definido en la Tabla de cifrado 4.244.,Original
+97,El valor original de los datos es un número no dimensional sin unidades.,Original
+98,"Relación entre el flujo radiante reflejado por una superficie y el flujo radiante reflejado por una superficie normalizada ideal (sin pérdidas) y difusa (lambertiana) en la misma geometría del haz reflejado y el mismo intervalo de longitudes de onda, irradiado en las mismas condiciones.",Original
+99,"El nivel de hielo marino representa un nivel de hielo marino de referencia respecto del que la profundiad no es constante en todos los dominios del modelo. La profundidad en metros del nivel la proporciona otro mensaje GRIB mediante el parámetro “espesor del hielo marino” con el campo de  especialización 10, categoría 2, parámetro 1.",Original
+101,Flujo solar por unidad de superficie recibido desde un ángulo sólido de 2π sr en una superficie horizontal.,Original
+102,"Flujo solar por unidad de superficie recibido desde un ángulo sólido de 2π sr en una superficie horizontal, excepto el flujo procedente del disco solar.",Original
+103,Flujo solar por unidad de superficie recibido desde un ángulo sólido del disco solar en una superficie normal a los rayos del sol.,Original
+104,"La densidad total de relámpagos es la suma de las densidades de relámpagos de nube a tierra y de nube a nube (véase López, P., 2016: A lightning parameterization for the ECMWF Integrated Forecasting System, Monthly Weather Review, 144, 3057-3075).",Original
+105,"El valor del incremento de dirección constante Di (o Dx) del modelo de definición de la retícula que se acompaña debería cifrar todos los bits en “1” (valor faltante).",Original
+106,Temperatura teórica en la superficie precisa de separación aire-mar.,Original
+108,Esta tabla de cifrado ha dejado de usarse. Utilícese en su lugar la Tabla de cifrado común C–0.,Original
+109,"Este método parte del supuesto de que cada campo representa en realidad las medias/máximas/mínimas, donde cada cuadro llega a la mitad del punto reticular contiguo en cada dirección con el fin de representar medias/máximas/mínimas de los valores de la retícula fuente sin interpolación",Original
+110,"Este parámetro se describe más detalladamente en a) Lee, S. e I. M. Held, 1993: Baroclinic wave packets in models and observations. J. Atmos. Sci., 50: 1413–1428, b) Chang, E. K. M., 1993: Downstream development of baroclinic waves as inferred from regression analysis. J. Atmos. Sci., 50: 2038–2053, c) Archambault,H. M., D. Keyser y L. F. Bosart, 2010: Relationships between large-scale regime transitions and major cool- season precipitation events in the northeastern United States. Mon. Wea. Rev., 138: 3454 3473 y d) Zimin,A. V., I. Szunyogh, B. R. Hung y E. Orr., 2006: Extracting envelopes of nonzonally propagating Rossby wave packets. Mon. Wea. Review, 134: 1329–1333.",Original
 111,Integral temporal de la irradiancia solar difusa.,Original
-112,Integral temporal de la irradiancia solar directa.,Ori
-113,Integral temporal de la irradiancia solar global.,PDF_extraction
-114,"Parte superior de la radiancia de la atmósfera observada por un sensor, multiplicada por pi y dividida por la irradiancia solar exoatmosférica.",PDF_extraction
-115,"La precipitación sólida total incluye la suma de todos los tipos de agua sólida, por ejemplo, la nieve, la nieve granulada y el granizo.",PDF_extraction
+112,Integral temporal de la irradiancia solar directa.,Original
+113,Integral temporal de la irradiancia solar global.,Original
+114,"Parte superior de la radiancia de la atmósfera observada por un sensor, multiplicada por pi y dividida por la irradiancia solar exoatmosférica.",Original
+115,"La precipitación sólida total incluye la suma de todos los tipos de agua sólida, por ejemplo, la nieve, la nieve granulada y el granizo.",Original
 116,"Valores de N(m) para casos comunes de truncado: Triangulares: M = J = K, N(m) = J / Romboidales: K = J + M, N(m) = J+m / Trapezoidales: K = J, K > M, N(m) = J",Original
 117,WGS-84 es un sistema geodésico que usa el modelo IAG-GRS80 como base.,Original
-118,"Con respecto a la inclusión de una nueva categoría en la Tabla de cifrado 4.1, cuando hay más de una disciplina aplicable, la elección de la disciplina debería hacerse en función del uso al que se destine el producto.",PDF_extraction
-119,"Cuando deba añadirse un nuevo parámetro a la Tabla de cifrado 4.2 y cuando más de una categoría sea aplicable, la elección de la categoría debería hacerse en función del uso a que se destine el producto. El campo de especialización y la categoría son una parte importante de toda definición de producto, por lo tanto es posible que el mismo nombre de parámetro figure en más de una categoría.",PDF_extraction
-120,"Cuando se usa un valor no faltante de esta tabla de cifrado, el valor original de los datos es un valor de calidad asociado al parámetro definido por los octetos 10 y 11 del MDP.",PDF_extraction
+118,"Con respecto a la inclusión de una nueva categoría en la Tabla de cifrado 4.1, cuando hay más de una disciplina aplicable, la elección de la disciplina debería hacerse en función del uso al que se destine el producto.",Original
+119,"Cuando deba añadirse un nuevo parámetro a la Tabla de cifrado 4.2 y cuando más de una categoría sea aplicable, la elección de la categoría debería hacerse en función del uso a que se destine el producto. El campo de especialización y la categoría son una parte importante de toda definición de producto, por lo tanto es posible que el mismo nombre de parámetro figure en más de una categoría.",Original
+120,"Cuando se usa un valor no faltante de esta tabla de cifrado, el valor original de los datos es un valor de calidad asociado al parámetro definido por los octetos 10 y 11 del MDP.",Original
 121,"Con respecto a las cifras de clave 0, 1, 3, 6 y 7, las coordenadas solo pueden interpretarse de manera inequívoca si se conoce el sistema de coordenadas de referencia en el que están subsumidas. Así pues, definir simplemente la forma de la Tierra, sin que se indiquen los ejes de origen del sistema de coordenadas resulta equívoco. En general, puede suponerse con seguridad que el meridiano principal definido en el sistema geodésico WGS-84 es el origen longitudinal. No obstante, dado que estas cifras de clave no especifican el origen longitudinal explícitamente, se sugiere ponerse en contacto con el centro de origen si se necesitan coordenadas de alta precisión.",Original
 122,<<note has images of formulas>>,

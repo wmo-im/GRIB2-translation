@@ -16,7 +16,7 @@ noteID,note_fr,translated_by
 15,En rapport avec les axes de coordonnées en bordure de cellule.,Original
 17,Les numéros 17 et 20 correspondent à des écarts par rapport à la valeur de référence de 1 000 kg m–3.,Original
 18,"Le niveau est défini par l'écart entre la proximité de la surface et le niveau s'agissant d'une propriété de l'eau. La proximité de la surface se situe généralement à 10 mètres de profondeur. La quantité physique utilisée pour calculer l'écart peut être la masse volumique de l'eau (σθ), pour le chiffre du code 169, ou la température potentielle de l'eau (θ), pour le chiffre du code 170.",Original
-19,"Lorsqu’une valeur non manquante est utilisée dans cette table de code, la valeur initiale des données est une valeur relative à la qualité associée au paramètre défini par les octets 10 et 11 du modèle de définition du produit.",Original
+19,"La valeur initiale des données s’exprime dans la même unité que le paramètre défini par les octets 10 et 11 du modèle de définition du produit.",Original
 20,"Le terme «concentration en nombre» est également utilisé pour parler de la concentration (chiffre 59); le facteur de conversion entre la concentration en nombre (59) et la concentration massique (60) est la densité massique [kg m–3].",Original
 23,"On entend par intensité totale des précipitations ou de la chute de neige, la somme des intensités des précipitations ou de la chute de neige à grande échelle et de convection.",Original
 24,"La formule de l’indice universel de rayonnement ultraviolet repose sur le spectre d’action érythémale de référence due au rayonnement UV sur la peau humaine, établi par la Commission internationale de l’éclairage (CIE) (ISO 17166:1999/CIE S 007/E-1998). Il s’agit d’une mesure du rayonnement ultraviolet en rapport avec une surface horizontale pour laquelle elle est définie. L’indice est une quantité (sans unité) obtenue par la formule suivante:",Original
@@ -38,12 +38,12 @@ noteID,note_fr,translated_by
 43,"Définition (en anglais) du LPI d’après Lynn et al.: Lynn, B. et Y. Yair, 2010: Prediction of lightning flash density with the WRF model, Adv. Geosci., 23: 11-16; Yair, Y., B. Lynn, C. Price, V. Kotroni, K. Lagouvardos, E. Morin, A. Mugnai et M. Llasat, 2010: Predicting the potential for lightning activity in Mediterranean storms based on the Weather Research and Forecasting (WRF) model dynamic and microphysical fields, Journal of Geophysical Research, 115, D04205, doi:10.1029/2008JD010868.",Original
 44,"Il est admis que Di et Dj sont de signe positif, la direction de i et j étant fournie par les bits 1 et 2.",Original
 45,Le paramètre de dissipation des tourbillons est la troisième racine du taux de dissipation des tourbillons [m2 s–3].,Original
-46,"Les entrées 9, 10, 11 et 12 sont caduques.",Original
+46,"Les entrées 8 - 12 sont caduques.",Original
 47,Année non bissextile en principe.,Original
 48,Fait remonter le calendrier grégorien indéfiniment dans le passé.,Original
 50,"Au sujet du chiffre de code 1, il y a lieu de noter que, en fonction des valeurs des coordonnées extrêmes (première et dernière) et quelle que soit la table binaire, le nombre de points par ligne peut être inférieur au nombre de points du cercle.",Original
 51,"Pour le paramètre 38 (catégorie de paramètres 0), le volume de glace est exprimé comme si on avait mesuré le volume d’eau liquide une fois la glace fondue. Cela est comparable à l’équivalent en eau de la hauteur de neige.",Original
-52,Se référer au Guide de l’analyse et de la prévision des vagues (OMM-N° 702) pour obtenir davantage de,Original
+52,Se référer au Guide de l’analyse et de la prévision des vagues (OMM-N° 702) pour obtenir davantage de renseignements sur les paramètres des vagues.,Original
 54,"Le niveau de la hauteur formulé en coordonnées hybrides (chiffre de code 118) se définit comme suit: z(k) = A(k) + B(k) x orog (k = 1, ..., N niveaux; orog = orographie; z(k) = hauteur en mètres au niveau k)",Original
 55,"Le niveau barique formulé en coordonnées hybrides, pour lequel il y a lieu d’utiliser le chiffre de code 119 et non plus 105, se définit comme suit: p(k) = A(k) + B(k) x sp (k = 1, ... , N niveaux; sp = pression en surface; p(k) = pression au niveau k)",Original
 56,"Direction i: d’ouest en est le long d’un parallèle, ou de gauche à droite le long d’un axe X.",Original
@@ -60,7 +60,7 @@ noteID,note_fr,translated_by
 72,Cette méthode consiste à interpoler le bilan au point de grille le plus proche du point de grille nominal.,Original
 73,"La couverture neigeuse télédétectée est exprimée en tant que champ de valeurs sans dimension. Sont actuellement admises les valeurs suivantes: 50 pour «pas de neige/pas de nuages», 100 pour «nuages» et 250 pour «neige». Voir la table de code 4.215",Original
 75,"Par altitude sigma on entend le niveau vertical du modèle qui correspond à la coordonnée suivant le terrain basée sur l'altitude (Gal-Chen et Somerville, 1975). Sa valeur est la suivante: (altitude du niveau – altitude du terrain) / (altitude du niveau supérieur – altitude du terrain), qui est ≥ 0 et ≤ 1.",Original
-77,"L’équivalent en eau de la couverture de neige exprimé en pourcentage par rapport à la normale est indiqué en pourcentage de l’unité normale. Par exemple, une valeur de 110 indique 110 % de l’équivalent en eau normale de la neige pour une hauteur de neige donnée. (à suivre)",Original
+77,"L’équivalent en eau de la couverture de neige exprimé en pourcentage par rapport à la normale est indiqué en pourcentage de l’unité normale. Par exemple, une valeur de 110 indique 110 % de l’équivalent en eau normale de la neige pour une hauteur de neige donnée.",Original
 81,Température à la base de la pellicule thermique.,Original
 82,Température à très faible profondeur (les 20 microns supérieurs environ).,Original
 83,Température de la colonne d’eau n’étant pas soumise aux variations diurnes de la température ou égale à la température de surface de la mer sous-pelliculaire en l’absence de tout signal diurne.,Original
