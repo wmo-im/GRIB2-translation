@@ -1,5 +1,5 @@
 ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
-grib2/3/15/0-19,Физическое значение вертикальной координаты,,0-19,,Зарезервировано,,,,,Original
+grib2/3/15/0-19,Физическое значение вертикальной координаты,,0-19,,Зарезервировано,,,,Operational,Original
 grib2/3/15/20,Физическое значение вертикальной координаты,,20,,Температура,,,К,Operational,Original
 grib2/3/15/21-99,Физическое значение вертикальной координаты,,21-99,,Зарезервировано,,,,Operational,Original
 grib2/3/15/100,Физическое значение вертикальной координаты,,100,,Давление,,,Па,Operational,Original
