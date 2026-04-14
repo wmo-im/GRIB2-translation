@@ -1,0 +1,10 @@
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
+grib2/3/25/0-76,Вид усечения двумерного Фурье,,0-76,,Зарезервированы,,,,Operational,Original
+grib2/3/25/77,Вид усечения двумерного Фурье,,77,,Прямоугольное,,,,Operational,Original
+grib2/3/25/78-87,Вид усечения двумерного Фурье,,78-87,,Зарезервированы,,,,Operational,Original
+grib2/3/25/88,Вид усечения двумерного Фурье,,88,,Эллиптическое,,,,Operational,Original
+grib2/3/25/89-98,Вид усечения двумерного Фурье,,89-98,,Зарезервированы,,,,Operational,Original
+grib2/3/25/99,Вид усечения двумерного Фурье,,99,,Ромбовидное,,,,Operational,Original
+grib2/3/25/100-191,Вид усечения двумерного Фурье,,100-191,,Зарезервированы,,,,Operational,Original
+grib2/3/25/192-254,Вид усечения двумерного Фурье,,192-254,,Зарезервированы для локального использования,,,,Operational,Original
+grib2/3/25/255,Вид усечения двумерного Фурье,,255,,Отсутствующее,,,,Operational,Original

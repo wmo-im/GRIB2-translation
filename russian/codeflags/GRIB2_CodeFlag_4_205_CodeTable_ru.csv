@@ -1,0 +1,6 @@
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
+grib2/4/205/0,Присутствие аэрозоля,,0,,Аэрозоль не присутствует,,,,Operational,Original
+grib2/4/205/1,Присутствие аэрозоля,,1,,Аэрозоль присутствует,,,,Operational,Original
+grib2/4/205/2-191,Присутствие аэрозоля,,2-191,,Зарезервированы,,,,Operational,Original
+grib2/4/205/192-254,Присутствие аэрозоля,,192-254,,Зарезервированы для местного использования,,,,Operational,Original
+grib2/4/205/255,Присутствие аэрозоля,,255,,Отсутствующее,,,,Operational,Original

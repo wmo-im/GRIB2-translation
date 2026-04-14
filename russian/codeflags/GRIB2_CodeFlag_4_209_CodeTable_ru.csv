@@ -1,0 +1,9 @@
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
+grib2/4/209/0,Режим планетарного пограничного слоя,,0,,Зарезервировано,,,,Operational,Original
+grib2/4/209/1,Режим планетарного пограничного слоя,,1,,Стабильный,,,,Operational,Original
+grib2/4/209/2,Режим планетарного пограничного слоя,,2,,"Турбулентность, вызванная механическими причинами",,,,Operational,Original
+grib2/4/209/3,Режим планетарного пограничного слоя,,3,,Вынужденная конвекция,,,,Operational,Original
+grib2/4/209/4,Режим планетарного пограничного слоя,,4,,Свободная конвекция,,,,Operational,Original
+grib2/4/209/5-191,Режим планетарного пограничного слоя,,5-191,,Зарезервированы,,,,Operational,Original
+grib2/4/209/192-254,Режим планетарного пограничного слоя,,192-254,,Зарезервированы для местного использования,,,,Operational,Original
+grib2/4/209/255,Режим планетарного пограничного слоя,,255,,Отсутствующее,,,,Operational,Original

@@ -1,0 +1,7 @@
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
+grib2/5/7/0,Точность величин с плавающей запятой,,0,,Зарезервирована,,,,Operational,Original
+grib2/5/7/1,Точность величин с плавающей запятой,,1,,32-битовый стандарт IEEE (I=4 в разделе 7),,,,Operational,Original
+grib2/5/7/2,Точность величин с плавающей запятой,,2,,64-битовый стандарт IEEE (I=8 в разделе 7),,,,Operational,Original
+grib2/5/7/3,Точность величин с плавающей запятой,,3,,128-битовый стандарт IEEE (I=16 в разделе 7),,,,Operational,Original
+grib2/5/7/4-254,Точность величин с плавающей запятой,,4-254,,Зарезервированы,,,,Operational,Original
+grib2/5/7/255,Точность величин с плавающей запятой,,255,,Отсутствующее,,,,Operational,Original

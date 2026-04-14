@@ -1,0 +1,5 @@
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
+grib2/3/5/1/0,Центр проекции,,1,0,Северный полюс находится на плоскости проекции,,,,Operational,Original
+grib2/3/5/1/1,Центр проекции,,1,1,Южный полюс находится на плоскости проекции,,,,Operational,Original
+grib2/3/5/2/0,Центр проекции,,2,0,Используется только один центр проекции,,,,Operational,Original
+grib2/3/5/2/1,Центр проекции,,2,1,Проекция является биполярной и симметричной,,,,Operational,Original

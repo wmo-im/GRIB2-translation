@@ -1,0 +1,7 @@
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
+grib2/1/5/0,Номер образца идентификации,,0,,Определение календаря,,,,Operational,Original
+grib2/1/5/1,Номер образца идентификации,,1,,Палеонтологический временной интервал,,,,Operational,Original
+grib2/1/5/2,Номер образца идентификации,,2,,Определение календаря и палеонтологический временной интервал,,,,Operational,Original
+grib2/1/5/3-32767,Номер образца идентификации,,3-32767,,Зарезервированы,,,,Operational,Original
+grib2/1/5/32768-65534,Номер образца идентификации,,32768-65534,,Зарезервированы для местного использования,,,,Operational,Original
+grib2/1/5/65535,Номер образца идентификации,,65535,,Отсутствующее,,,,Operational,Original

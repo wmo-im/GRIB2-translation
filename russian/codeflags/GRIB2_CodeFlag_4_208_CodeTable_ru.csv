@@ -1,0 +1,9 @@
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
+grib2/4/208/0,Турбулентность,,0,,Отсутствует (спокойно),,,,Operational,Original
+grib2/4/208/1,Турбулентность,,1,,Легкая,,,,Operational,Original
+grib2/4/208/2,Турбулентность,,2,,Умеренная,,,,Operational,Original
+grib2/4/208/3,Турбулентность,,3,,Сильная,,,,Operational,Original
+grib2/4/208/4,Турбулентность,,4,,Экстремальная,,,,Operational,Original
+grib2/4/208/5-191,Турбулентность,,5-191,,Зарезервированы,,,,Operational,Original
+grib2/4/208/192-254,Турбулентность,,192-254,,Зарезервированы для местного использования,,,,Operational,Original
+grib2/4/208/255,Турбулентность,,255,,Отсутствующее,,,,Operational,Original

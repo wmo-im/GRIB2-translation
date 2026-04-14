@@ -1,0 +1,5 @@
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
+grib2/4/216/0-90,"Высотная отметка территории, покрытой снегом",,0-90,,Высотная отметка с шагом в 100 м,,,,Operational,Original
+grib2/4/216/91-253,"Высотная отметка территории, покрытой снегом",,91-253,,Зарезервированы,,,,Operational,Original
+grib2/4/216/254,"Высотная отметка территории, покрытой снегом",,254,,Облака,,,,Operational,Original
+grib2/4/216/255,"Высотная отметка территории, покрытой снегом",,255,,Отсутствующее,,,,Operational,Original

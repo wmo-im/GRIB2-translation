@@ -1,0 +1,5 @@
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
+grib2/4/13/0,Указатель контроля качества,,0,,Контроль качества не применяется,,,,Operational,Original
+grib2/4/13/1,Указатель контроля качества,,1,,Контроль качества применяется,,,,Operational,Original
+grib2/4/13/2-191,Указатель контроля качества,,2-191,,Зарезервированы Зарезервированы для местного использования,,,,Operational,Original
+grib2/4/13/255,Указатель контроля качества,,255,,Отсутствующее,,,,Operational,Original

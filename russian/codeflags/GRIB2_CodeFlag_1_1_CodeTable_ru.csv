@@ -1,0 +1,4 @@
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
+grib2/1/1/0,Номера версий местных таблиц GRIB,,0,,Местные таблицы не используются.  Действительны только табличные элементы и образцы из действующей эталонной таблицы.,,,,Operational,Original
+grib2/1/1/1-254,Номера версий местных таблиц GRIB,,1-254,,Используемые номера версий местных таблиц,,,,Operational,Original
+grib2/1/1/255,Номера версий местных таблиц GRIB,,255,,Отсутствующее,,,,Operational,Original

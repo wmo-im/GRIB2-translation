@@ -1,0 +1,8 @@
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
+grib2/4/217/0,Тип маски облачности,,0,,Ясно над водной поверхностью,,,,Operational,Original
+grib2/4/217/1,Тип маски облачности,,1,,Ясно над сушей,,,,Operational,Original
+grib2/4/217/2,Тип маски облачности,,2,,Облачность,,,,Operational,Original
+grib2/4/217/3,Тип маски облачности,,3,,Данные отсутствуют,,,,Operational,Original
+grib2/4/217/4-191,Тип маски облачности,,4-191,,Зарезервированы,,,,Operational,Original
+grib2/4/217/192-254,Тип маски облачности,,192-254,,Зарезервированы для местного использования,,,,Operational,Original
+grib2/4/217/255,Тип маски облачности,,255,,Отсутствующее,,,,Operational,Original

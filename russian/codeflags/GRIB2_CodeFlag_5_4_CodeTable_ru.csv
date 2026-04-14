@@ -1,0 +1,6 @@
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
+grib2/5/4/0,Метод разбивки на группы,,0,,Порядовая разбивка,,,,Operational,Original
+grib2/5/4/1,Метод разбивки на группы,,1,,Полная разбивка на группы,,,,Operational,Original
+grib2/5/4/2-191,Метод разбивки на группы,,2-191,,Зарезервированы,,,,Operational,Original
+grib2/5/4/192-254,Метод разбивки на группы,,192-254,,Зарезервированы для местного использования,,,,Operational,Original
+grib2/5/4/255,Метод разбивки на группы,,255,,Отсутствующее,,,,Operational,Original
