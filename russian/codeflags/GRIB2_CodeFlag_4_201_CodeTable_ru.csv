@@ -1,17 +1,17 @@
 ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
-grib2/4/201/0,Тип осадков,,0,,Зарезервировано,,,,Operational,Original
-grib2/4/201/1,Тип осадков,,1,,Дождь,,,,Operational,Original
-grib2/4/201/2,Тип осадков,,2,,Гроза,,,,Operational,Original
-grib2/4/201/3,Тип осадков,,3,,Замерзающий дождь,,,,Operational,Original
-grib2/4/201/4,Тип осадков,,4,,Смешанный/лед,,,,Operational,Original
-grib2/4/201/5,Тип осадков,,5,,Снег,,,,Operational,Original
-grib2/4/201/6,Тип осадков,,6,,Мокрый снег,,,,Operational,Original
-grib2/4/201/7,Тип осадков,,7,,Смесь дождя и снега,,,,Operational,Original
-grib2/4/201/8,Тип осадков,,8,,Ледяные зерна,,,,Operational,Original
-grib2/4/201/9,Тип осадков,,9,,Снежная крупа,,,,Operational,Original
-grib2/4/201/10,Тип осадков,,10,,Град,,,,Operational,Original
-grib2/4/201/11,Тип осадков,,11,,Морось,,,,Operational,Original
-grib2/4/201/12,Тип осадков,,12,,Замерзающая морось,,,,Operational,Original
-grib2/4/201/13-191,Тип осадков,,13-191,,Зарезервированы,,,,Operational,Original
-grib2/4/201/192-254,Тип осадков,,192-254,,Зарезервированы для местного использования,,,,Operational,Original
-grib2/4/201/255,Тип осадков,,255,,Отсутствующее,,,,Operational,Original
+grib2/4/201/0,Тип осадков,,0,,Зарезервировано,,,,Operational,PDF
+grib2/4/201/1,Тип осадков,,1,,Дождь,,,,Operational,PDF
+grib2/4/201/2,Тип осадков,,2,,Гроза,,,,Operational,PDF
+grib2/4/201/3,Тип осадков,,3,,Замерзающий дождь,,,,Operational,PDF
+grib2/4/201/4,Тип осадков,,4,,Смешанный/лед,,,,Operational,PDF
+grib2/4/201/5,Тип осадков,,5,,Снег,,,,Operational,PDF
+grib2/4/201/6,Тип осадков,,6,,Мокрый снег,,,,Operational,PDF
+grib2/4/201/7,Тип осадков,,7,,Смесь дождя и снега,,,,Operational,PDF
+grib2/4/201/8,Тип осадков,,8,,Ледяные зерна,,,,Operational,PDF
+grib2/4/201/9,Тип осадков,,9,,Снежная крупа,,,,Operational,PDF
+grib2/4/201/10,Тип осадков,,10,,Град,,,,Operational,PDF
+grib2/4/201/11,Тип осадков,,11,,Морось,,,,Operational,PDF
+grib2/4/201/12,Тип осадков,,12,,Замерзающая морось,,,,Operational,PDF
+grib2/4/201/13-191,Тип осадков,,13-191,,Зарезервированы,,,,Operational,PDF
+grib2/4/201/192-254,Тип осадков,,192-254,,Зарезервированы для местного использования,,,,Operational,PDF
+grib2/4/201/255,Тип осадков,,255,,Отсутствующее,,,,Operational,PDF

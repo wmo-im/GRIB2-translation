@@ -1,6 +1,6 @@
 ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
-grib2/3/20/0,Тип горизонтальной линии,,0,,Румб,,,,Operational,Original
-grib2/3/20/1,Тип горизонтальной линии,,1,,Большой цикл,,,,Operational,Original
-grib2/3/20/2-191,Тип горизонтальной линии,,2-191,,Зарезервированы,,,,Operational,Original
-grib2/3/20/192-254,Тип горизонтальной линии,,192-254,,Зарезервированы для местного использования,,,,Operational,Original
-grib2/3/20/255,Тип горизонтальной линии,,255,,Отсутствующее,,,,Operational,Original
+grib2/3/20/0,Тип горизонтальной линии,,0,,Румб,,,,Operational,PDF
+grib2/3/20/1,Тип горизонтальной линии,,1,,Большой цикл,,,,Operational,PDF
+grib2/3/20/2-191,Тип горизонтальной линии,,2-191,,Зарезервированы,,,,Operational,PDF
+grib2/3/20/192-254,Тип горизонтальной линии,,192-254,,Зарезервированы для местного использования,,,,Operational,PDF
+grib2/3/20/255,Тип горизонтальной линии,,255,,Отсутствующее,,,,Operational,PDF

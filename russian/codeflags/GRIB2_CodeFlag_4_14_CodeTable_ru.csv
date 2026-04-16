@@ -1,6 +1,6 @@
 ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
-grib2/4/14/0,Указатель фильтра помех,,0,,Фильтр помех не используется,,,,Operational,Original
-grib2/4/14/1,Указатель фильтра помех,,1,,Фильтр помех используется,,,,Operational,Original
-grib2/4/14/2-191,Указатель фильтра помех,,2-191,,Зарезервированы,,,,Operational,Original
-grib2/4/14/192-254,Указатель фильтра помех,,192-254,,Зарезервированы для местного использования,,,,Operational,Original
-grib2/4/14/255,Указатель фильтра помех,,255,,Отсутствующее,,,,Operational,Original
+grib2/4/14/0,Указатель фильтра помех,,0,,Фильтр помех не используется,,,,Operational,PDF
+grib2/4/14/1,Указатель фильтра помех,,1,,Фильтр помех используется,,,,Operational,PDF
+grib2/4/14/2-191,Указатель фильтра помех,,2-191,,Зарезервированы,,,,Operational,PDF
+grib2/4/14/192-254,Указатель фильтра помех,,192-254,,Зарезервированы для местного использования,,,,Operational,PDF
+grib2/4/14/255,Указатель фильтра помех,,255,,Отсутствующее,,,,Operational,PDF

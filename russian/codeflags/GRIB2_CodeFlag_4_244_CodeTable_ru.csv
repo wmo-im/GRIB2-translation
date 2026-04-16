@@ -1,7 +1,7 @@
 ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
-grib2/4/244/0,Индикатор качества,,0,,Информация о качестве отсутствует,,,,Operational,Original
-grib2/4/244/1,Индикатор качества,,1,,Неудовлетворительное,,,,Operational,Original
-grib2/4/244/2,Индикатор качества,,2,,Удовлетворительное,,,,Operational,Original
-grib2/4/244/3-191,Индикатор качества,,3-191,,Зарезервированы,,,,Operational,Original
-grib2/4/244/192-254,Индикатор качества,,192-254,,Зарезервированы для местного использования,,,,Operational,Original
-grib2/4/244/255,Индикатор качества,,255,,Отсутствующее,,,,Operational,Original
+grib2/4/244/0,Индикатор качества,,0,,Информация о качестве отсутствует,,,,Operational,PDF
+grib2/4/244/1,Индикатор качества,,1,,Неудовлетворительное,,,,Operational,PDF
+grib2/4/244/2,Индикатор качества,,2,,Удовлетворительное,,,,Operational,PDF
+grib2/4/244/3-191,Индикатор качества,,3-191,,Зарезервированы,,,,Operational,PDF
+grib2/4/244/192-254,Индикатор качества,,192-254,,Зарезервированы для местного использования,,,,Operational,PDF
+grib2/4/244/255,Индикатор качества,,255,,Отсутствующее,,,,Operational,PDF
