@@ -1,27 +1,27 @@
 ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
-grib2/1/0/0,GRIB master tables version number,,0,,Experimental,,,,Deprecated,Original
-grib2/1/0/1,GRIB master tables version number,,1,,Version implemented on 7 November 2001,,,,Deprecated,Original
-grib2/1/0/2,GRIB master tables version number,,2,,Version implemented on 4 November 2003,,,,Deprecated,Original
-grib2/1/0/3,GRIB master tables version number,,3,,Version implemented on 2 November 2005,,,,Deprecated,Original
-grib2/1/0/4,GRIB master tables version number,,4,,Version implemented on 7 November 2007,,,,Deprecated,Original
-grib2/1/0/5,GRIB master tables version number,,5,,Version implemented on 4 November 2009,,,,Deprecated,Original
-grib2/1/0/6,GRIB master tables version number,,6,,Version implemented on 15 September 2010,,,,Deprecated,Original
-grib2/1/0/7,GRIB master tables version number,,7,,Version implemented on 4 May 2011,,,,Deprecated,Original
-grib2/1/0/8,GRIB master tables version number,,8,,Version implemented on 2 November 2011,,,,Deprecated,Original
-grib2/1/0/9,GRIB master tables version number,,9,,Version implemented on 2 May 2012,,,,Deprecated,Original
-grib2/1/0/10,GRIB master tables version number,,10,,Version implemented on 7 November 2012,,,,Deprecated,Original
-grib2/1/0/11,GRIB master tables version number,,11,,Version implemented on 8 May 2013,,,,Deprecated,Original
-grib2/1/0/12,GRIB master tables version number,,12,,Version implemented on 14 November 2013,,,,Deprecated,Original
-grib2/1/0/13,GRIB master tables version number,,13,,Version implemented on 7 May 2014,,,,Deprecated,Original
-grib2/1/0/14,GRIB master tables version number,,14,,Version implemented on 5 November 2014,,,,Deprecated,Original
-grib2/1/0/15,GRIB master tables version number,,15,,Version implemented on 6 May 2015,,,,Deprecated,Original
-grib2/1/0/16,GRIB master tables version number,,16,,Version implemented on 11 November 2015,,,,Deprecated,Original
-grib2/1/0/17,GRIB master tables version number,,17,,Version implemented on 4 May 2016,,,,Deprecated,Original
-grib2/1/0/18,GRIB master tables version number,,18,,Version implemented on 2 November 2016,,,,Deprecated,Original
-grib2/1/0/19,GRIB master tables version number,,19,,Version implemented on 3 May 2017,,,,Deprecated,Original
-grib2/1/0/20,GRIB master tables version number,,20,,Version implemented on 8 November 2017,,,,Deprecated,Original
-grib2/1/0/21,GRIB master tables version number,,21,,Version implemented on 2 May 2018,,,,Deprecated,Original
-grib2/1/0/22,GRIB master tables version number,,22,,Version implemented on 7 November 2018,,,,Deprecated,Original
-grib2/1/0/23,GRIB master tables version number,,23,,Pre-operational to be implemented by next amendment,,,,Deprecated,Original
-grib2/1/0/24-254,GRIB master tables version number,,24-254,,Future versions,(see Note),108,,Deprecated,Original
-grib2/1/0/255,GRIB master tables version number,,255,,Missing,,,,Deprecated,Original
+grib2/1/0/0,GRIB master tables version number,,0,,Experimental,,,,Deprecated,PDF
+grib2/1/0/1,GRIB master tables version number,,1,,Version implemented on 7 November 2001,,,,Deprecated,PDF
+grib2/1/0/2,GRIB master tables version number,,2,,Version implemented on 4 November 2003,,,,Deprecated,PDF
+grib2/1/0/3,GRIB master tables version number,,3,,Version implemented on 2 November 2005,,,,Deprecated,PDF
+grib2/1/0/4,GRIB master tables version number,,4,,Version implemented on 7 November 2007,,,,Deprecated,PDF
+grib2/1/0/5,GRIB master tables version number,,5,,Version implemented on 4 November 2009,,,,Deprecated,PDF
+grib2/1/0/6,GRIB master tables version number,,6,,Version implemented on 15 September 2010,,,,Deprecated,PDF
+grib2/1/0/7,GRIB master tables version number,,7,,Version implemented on 4 May 2011,,,,Deprecated,PDF
+grib2/1/0/8,GRIB master tables version number,,8,,Version implemented on 2 November 2011,,,,Deprecated,PDF
+grib2/1/0/9,GRIB master tables version number,,9,,Version implemented on 2 May 2012,,,,Deprecated,PDF
+grib2/1/0/10,GRIB master tables version number,,10,,Version implemented on 7 November 2012,,,,Deprecated,PDF
+grib2/1/0/11,GRIB master tables version number,,11,,Version implemented on 8 May 2013,,,,Deprecated,PDF
+grib2/1/0/12,GRIB master tables version number,,12,,Version implemented on 14 November 2013,,,,Deprecated,PDF
+grib2/1/0/13,GRIB master tables version number,,13,,Version implemented on 7 May 2014,,,,Deprecated,PDF
+grib2/1/0/14,GRIB master tables version number,,14,,Version implemented on 5 November 2014,,,,Deprecated,PDF
+grib2/1/0/15,GRIB master tables version number,,15,,Version implemented on 6 May 2015,,,,Deprecated,PDF
+grib2/1/0/16,GRIB master tables version number,,16,,Version implemented on 11 November 2015,,,,Deprecated,PDF
+grib2/1/0/17,GRIB master tables version number,,17,,Version implemented on 4 May 2016,,,,Deprecated,PDF
+grib2/1/0/18,GRIB master tables version number,,18,,Version implemented on 2 November 2016,,,,Deprecated,PDF
+grib2/1/0/19,GRIB master tables version number,,19,,Version implemented on 3 May 2017,,,,Deprecated,PDF
+grib2/1/0/20,GRIB master tables version number,,20,,Version implemented on 8 November 2017,,,,Deprecated,PDF
+grib2/1/0/21,GRIB master tables version number,,21,,Version implemented on 2 May 2018,,,,Deprecated,PDF
+grib2/1/0/22,GRIB master tables version number,,22,,Version implemented on 7 November 2018,,,,Deprecated,PDF
+grib2/1/0/23,GRIB master tables version number,,23,,Pre-operational to be implemented by next amendment,,,,Deprecated,PDF
+grib2/1/0/24-254,GRIB master tables version number,,24-254,,Future versions,(see Note),108,,Deprecated,PDF
+grib2/1/0/255,GRIB master tables version number,,255,,Missing,,,,Deprecated,PDF

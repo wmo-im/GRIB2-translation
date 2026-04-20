@@ -1,9 +1,9 @@
 ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
-grib2/4/204/0,Thunderstorm coverage,,0,,None,,,,Operational,Original
-grib2/4/204/1,Thunderstorm coverage,,1,,Isolated (1-2%),,,,Operational,Original
-grib2/4/204/2,Thunderstorm coverage,,2,,Few (3-5%),,,,Operational,Original
-grib2/4/204/3,Thunderstorm coverage,,3,,Scattered (6-45%),,,,Operational,Original
-grib2/4/204/4,Thunderstorm coverage,,4,,Numerous (> 45%),,,,Operational,Original
-grib2/4/204/5-191,Thunderstorm coverage,,5-191,,Reserved,,,,Operational,Original
-grib2/4/204/192-254,Thunderstorm coverage,,192-254,,Reserved for local use,,,,Operational,Original
-grib2/4/204/255,Thunderstorm coverage,,255,,Missing,,,,Operational,Original
+grib2/4/204/0,Thunderstorm coverage,,0,,None,,,,Operational,PDF
+grib2/4/204/1,Thunderstorm coverage,,1,,Isolated (1-2%),,,,Operational,PDF
+grib2/4/204/2,Thunderstorm coverage,,2,,Few (3-5%),,,,Operational,PDF
+grib2/4/204/3,Thunderstorm coverage,,3,,Scattered (6-45%),,,,Operational,PDF
+grib2/4/204/4,Thunderstorm coverage,,4,,Numerous (> 45%),,,,Operational,PDF
+grib2/4/204/5-191,Thunderstorm coverage,,5-191,,Reserved,,,,Operational,PDF
+grib2/4/204/192-254,Thunderstorm coverage,,192-254,,Reserved for local use,,,,Operational,PDF
+grib2/4/204/255,Thunderstorm coverage,,255,,Missing,,,,Operational,PDF

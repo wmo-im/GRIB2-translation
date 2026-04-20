@@ -1,14 +1,14 @@
 ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
-grib2/4/6/0,Type of ensemble forecast,,0,,Unperturbed high-resolution control forecast,,,,Operational,Original
-grib2/4/6/1,Type of ensemble forecast,,1,,Unperturbed low-resolution control forecast,,,,Operational,Original
-grib2/4/6/2,Type of ensemble forecast,,2,,Negatively perturbed forecast,,,,Operational,Original
-grib2/4/6/3,Type of ensemble forecast,,3,,Positively perturbed forecast,,,,Operational,Original
-grib2/4/6/4,Type of ensemble forecast,,4,,Multi-model forecast,,,,Operational,Original
-grib2/4/6/5,Type of ensemble forecast,,5,,Unperturbed forecast,,,,Operational,Original
-grib2/4/6/6,Type of ensemble forecast,,6,,Perturbed forecast,,,,Operationaal,Original
-grib2/4/6/7,Type of ensemble forecast,,7,,Initial conditions perturbations,(see Note 1),160,,Operational,Original
-grib2/4/6/8,Type of ensemble forecast,,8,,Model physics perturbations,(see Note 2),165,,Operational,Original
-grib2/4/6/9,Type of ensemble forecast,,9,,Initial conditions and model physics perturbations,(see Note 3),161,,Operational,Original
-grib2/4/6/10-191,Type of ensemble forecast,,10-191,,Reserved,,,,Operational,Original
-grib2/4/6/192-254,Type of ensemble forecast,,192-254,,Reserved for local use,,,,Operational,Original
-grib2/4/6/255,Type of ensemble forecast,,255,,Missing,,,,Operational,Original
+grib2/4/6/0,Type of ensemble forecast,,0,,Unperturbed high-resolution control forecast,,,,Operational,PDF
+grib2/4/6/1,Type of ensemble forecast,,1,,Unperturbed low-resolution control forecast,,,,Operational,PDF
+grib2/4/6/2,Type of ensemble forecast,,2,,Negatively perturbed forecast,,,,Operational,PDF
+grib2/4/6/3,Type of ensemble forecast,,3,,Positively perturbed forecast,,,,Operational,PDF
+grib2/4/6/4,Type of ensemble forecast,,4,,Multi-model forecast,,,,Operational,PDF
+grib2/4/6/5,Type of ensemble forecast,,5,,Unperturbed forecast,,,,Operational,PDF
+grib2/4/6/6,Type of ensemble forecast,,6,,Perturbed forecast,,,,Operationaal,PDF
+grib2/4/6/7,Type of ensemble forecast,,7,,Initial conditions perturbations,(see Note 1),160,,Operational,PDF
+grib2/4/6/8,Type of ensemble forecast,,8,,Model physics perturbations,(see Note 2),165,,Operational,PDF
+grib2/4/6/9,Type of ensemble forecast,,9,,Initial conditions and model physics perturbations,(see Note 3),161,,Operational,PDF
+grib2/4/6/10-191,Type of ensemble forecast,,10-191,,Reserved,,,,Operational,PDF
+grib2/4/6/192-254,Type of ensemble forecast,,192-254,,Reserved for local use,,,,Operational,PDF
+grib2/4/6/255,Type of ensemble forecast,,255,,Missing,,,,Operational,PDF

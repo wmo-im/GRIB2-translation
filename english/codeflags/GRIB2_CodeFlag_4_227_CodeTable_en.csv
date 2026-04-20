@@ -1,9 +1,9 @@
 ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
-grib2/4/227/0,Icing scenario (weather/cloud classification),,0,,None,,,,Operational,Original
-grib2/4/227/1,Icing scenario (weather/cloud classification),,1,,General,,,,Operational,Original
-grib2/4/227/2,Icing scenario (weather/cloud classification),,2,,Convective,,,,Operational,Original
-grib2/4/227/3,Icing scenario (weather/cloud classification),,3,,Stratiform,,,,Operational,Original
-grib2/4/227/4,Icing scenario (weather/cloud classification),,4,,Freezing,,,,Operational,Original
-grib2/4/227/5-191,Icing scenario (weather/cloud classification),,5-191,,Reserved,,,,Operational,Original
-grib2/4/227/192-254,Icing scenario (weather/cloud classification),,192-254,,Reserved for local use,,,,Operational,Original
-grib2/4/227/255,Icing scenario (weather/cloud classification),,255,,Missing value,,,,Operational,Original
+grib2/4/227/0,Icing scenario (weather/cloud classification),,0,,None,,,,Operational,PDF
+grib2/4/227/1,Icing scenario (weather/cloud classification),,1,,General,,,,Operational,PDF
+grib2/4/227/2,Icing scenario (weather/cloud classification),,2,,Convective,,,,Operational,PDF
+grib2/4/227/3,Icing scenario (weather/cloud classification),,3,,Stratiform,,,,Operational,PDF
+grib2/4/227/4,Icing scenario (weather/cloud classification),,4,,Freezing,,,,Operational,PDF
+grib2/4/227/5-191,Icing scenario (weather/cloud classification),,5-191,,Reserved,,,,Operational,PDF
+grib2/4/227/192-254,Icing scenario (weather/cloud classification),,192-254,,Reserved for local use,,,,Operational,PDF
+grib2/4/227/255,Icing scenario (weather/cloud classification),,255,,Missing value,,,,Operational,PDF

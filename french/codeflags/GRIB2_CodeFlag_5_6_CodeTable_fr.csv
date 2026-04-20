@@ -1,7 +1,7 @@
 ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
-grib2/5/6/0,Table de code 5.6 – Ordre de la différenciation spatiale,,0,,En réserve,,,,Operational,Original
-grib2/5/6/1,Table de code 5.6 – Ordre de la différenciation spatiale,,1,,Différenciation spatiale de premier ordre,,,,Operational,Original
-grib2/5/6/2,Table de code 5.6 – Ordre de la différenciation spatiale,,2,,Différenciation spatiale de deuxième ordre,,,,Operational,Original
-grib2/5/6/3-191,Table de code 5.6 – Ordre de la différenciation spatiale,,3-191,,En réserve,,,,Operational,Original
-grib2/5/6/192-254,Table de code 5.6 – Ordre de la différenciation spatiale,,192-254,,En réserve pour un usage local,,,,Operational,Original
-grib2/5/6/255,Table de code 5.6 – Ordre de la différenciation spatiale,,255,,Valeur manquante,,,,Operational,Original
+grib2/5/6/0,Table de code 5.6 – Ordre de la différenciation spatiale,,0,,En réserve,,,,Operational,PDF
+grib2/5/6/1,Table de code 5.6 – Ordre de la différenciation spatiale,,1,,Différenciation spatiale de premier ordre,,,,Operational,PDF
+grib2/5/6/2,Table de code 5.6 – Ordre de la différenciation spatiale,,2,,Différenciation spatiale de deuxième ordre,,,,Operational,PDF
+grib2/5/6/3-191,Table de code 5.6 – Ordre de la différenciation spatiale,,3-191,,En réserve,,,,Operational,PDF
+grib2/5/6/192-254,Table de code 5.6 – Ordre de la différenciation spatiale,,192-254,,En réserve pour un usage local,,,,Operational,PDF
+grib2/5/6/255,Table de code 5.6 – Ordre de la différenciation spatiale,,255,,Valeur manquante,,,,Operational,PDF

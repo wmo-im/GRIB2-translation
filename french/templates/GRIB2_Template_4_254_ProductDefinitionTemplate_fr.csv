@@ -1,4 +1,4 @@
 ﻿ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translation_source
-grib2/4/254/10,Modèle de définition du produit 4.254 – Chaîne de caractères CCITT IA5,10,1,Catégorie du paramètre,(voir la table de code 4.1),,4.1,,Operational,Original
-grib2/4/254/11,Modèle de définition du produit 4.254 – Chaîne de caractères CCITT IA5,11,1,Numéro du paramètre,(voir la table de code 4.2),,4.2,,Operational,Original
-grib2/4/254/12-15,Modèle de définition du produit 4.254 – Chaîne de caractères CCITT IA5,12-15,4,Nombre de caractères,,,,,Operational,Original
+grib2/4/254/10,Modèle de définition du produit 4.254 – Chaîne de caractères CCITT IA5,10,1,Catégorie du paramètre,(voir la table de code 4.1),,4.1,,Operational,PDF
+grib2/4/254/11,Modèle de définition du produit 4.254 – Chaîne de caractères CCITT IA5,11,1,Numéro du paramètre,(voir la table de code 4.2),,4.2,,Operational,PDF
+grib2/4/254/12-15,Modèle de définition du produit 4.254 – Chaîne de caractères CCITT IA5,12-15,4,Nombre de caractères,,,,,Operational,PDF

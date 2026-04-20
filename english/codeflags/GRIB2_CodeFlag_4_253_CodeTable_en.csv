@@ -1,4 +1,4 @@
 ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
-grib2/4/253/0,Hazard index,,0,,Undefined,,,,Operational,Original
-grib2/4/253/1-65534,Hazard index,,1-65534,,Reserved,(see Note),167,,Operational,Original
-grib2/4/253/65535,Hazard index,,65535,,Missing,,,,Operational,Original
+grib2/4/253/0,Hazard index,,0,,Undefined,,,,Operational,PDF
+grib2/4/253/1-65534,Hazard index,,1-65534,,Reserved,(see Note),167,,Operational,PDF
+grib2/4/253/65535,Hazard index,,65535,,Missing,,,,Operational,PDF

@@ -1,5 +1,5 @@
 ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
-grib2/5/26/0,packing mode for axes,,0,,Spectral coefficients for axes are packed,,,,Operational,Original
-grib2/5/26/1,packing mode for axes,,1,,Spectral coefficients for axes included in the unpacked subset,,,,Operational,Original
-grib2/5/26/2-254,packing mode for axes,,2-254,,Reserved,,,,Operational,Original
-grib2/5/26/255,packing mode for axes,,255,,Missing,,,,Operational,Original
+grib2/5/26/0,packing mode for axes,,0,,Spectral coefficients for axes are packed,,,,Operational,PDF
+grib2/5/26/1,packing mode for axes,,1,,Spectral coefficients for axes included in the unpacked subset,,,,Operational,PDF
+grib2/5/26/2-254,packing mode for axes,,2-254,,Reserved,,,,Operational,PDF
+grib2/5/26/255,packing mode for axes,,255,,Missing,,,,Operational,PDF

@@ -1,4 +1,4 @@
 ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
-grib2/3/9/1/0,Numbering order of diamonds as seen from the corresponding pole,,1,0,Clockwise orientation,,,,Operational,Original
-grib2/3/9/1/1,Numbering order of diamonds as seen from the corresponding pole,,1,1,Anti-clockwise (i.e. counter-clockwise) orientation,,,,Operational,Original
-grib2/3/9/2-8,Numbering order of diamonds as seen from the corresponding pole,,2-8,,Reserved,,,,Operational,Original
+grib2/3/9/1/0,Numbering order of diamonds as seen from the corresponding pole,,1,0,Clockwise orientation,,,,Operational,PDF
+grib2/3/9/1/1,Numbering order of diamonds as seen from the corresponding pole,,1,1,Anti-clockwise (i.e. counter-clockwise) orientation,,,,Operational,PDF
+grib2/3/9/2-8,Numbering order of diamonds as seen from the corresponding pole,,2-8,,Reserved,,,,Operational,PDF

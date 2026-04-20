@@ -1,22 +1,22 @@
 ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
-grib2/4/10/0,Type of statistical processing,,0,,Average,,,,Operational,Original
-grib2/4/10/1,Type of statistical processing,,1,,Accumulation,(see Note 1),92,,Operational,Original
-grib2/4/10/2,Type of statistical processing,,2,,Maximum,,,,Operational,Original
-grib2/4/10/3,Type of statistical processing,,3,,Minimum,,,,Operational,Original
-grib2/4/10/4,Type of statistical processing,,4,,Difference (value at the end of time range minus value at the beginning),,,,Operational,Original
-grib2/4/10/5,Type of statistical processing,,5,,Root mean square,,,,Operational,Original
-grib2/4/10/6,Type of statistical processing,,6,,Standard deviation,,,,Operational,Original
-grib2/4/10/7,Type of statistical processing,,7,,Covariance (temporal variance),(see Note 2),93,,Operational,Original
-grib2/4/10/8,Type of statistical processing,,8,,Difference (value at the start of time range minus value at the end),,,,Operational,Original
-grib2/4/10/9,Type of statistical processing,,9,,Ratio,(see Note 3),97,,Operational,Original
-grib2/4/10/10,Type of statistical processing,,10,,Standardized anomaly,,,,Operational,Original
-grib2/4/10/11,Type of statistical processing,,11,,Summation,,,,Operational,Original
-grib2/4/10/12,Type of statistical processing,,12,,Return period,,,,Operational,Original
-grib2/4/10/13,Type of statistical processing,,13,,Median,,,,Operational,Original
-grib2/4/10/14-99,Type of statistical processing,,14-99,,Reserved,,,,Operational,Original
-grib2/4/10/100,Type of statistical processing,,100,,Severity,,,,Operational,Original
-grib2/4/10/101,Type of statistical processing,,101,,Mode,,,,Operational,Original
-grib2/4/10/102,Type of statistical processing,,102,,Index processing,(see Note 4),146,,Operational,Original
-grib2/4/10/103-191,Type of statistical processing,,103-191,,Reserved,,,,Operational,Original
-grib2/4/10/192-254,Type of statistical processing,,192-254,,Reserved for local use,,,,Operational,Original
-grib2/4/10/255,Type of statistical processing,,255,,Missing,,,,Operational,Original
+grib2/4/10/0,Type of statistical processing,,0,,Average,,,,Operational,PDF
+grib2/4/10/1,Type of statistical processing,,1,,Accumulation,(see Note 1),92,,Operational,PDF
+grib2/4/10/2,Type of statistical processing,,2,,Maximum,,,,Operational,PDF
+grib2/4/10/3,Type of statistical processing,,3,,Minimum,,,,Operational,PDF
+grib2/4/10/4,Type of statistical processing,,4,,Difference (value at the end of time range minus value at the beginning),,,,Operational,PDF
+grib2/4/10/5,Type of statistical processing,,5,,Root mean square,,,,Operational,PDF
+grib2/4/10/6,Type of statistical processing,,6,,Standard deviation,,,,Operational,PDF
+grib2/4/10/7,Type of statistical processing,,7,,Covariance (temporal variance),(see Note 2),93,,Operational,PDF
+grib2/4/10/8,Type of statistical processing,,8,,Difference (value at the start of time range minus value at the end),,,,Operational,PDF
+grib2/4/10/9,Type of statistical processing,,9,,Ratio,(see Note 3),97,,Operational,PDF
+grib2/4/10/10,Type of statistical processing,,10,,Standardized anomaly,,,,Operational,PDF
+grib2/4/10/11,Type of statistical processing,,11,,Summation,,,,Operational,PDF
+grib2/4/10/12,Type of statistical processing,,12,,Return period,,,,Operational,PDF
+grib2/4/10/13,Type of statistical processing,,13,,Median,,,,Operational,PDF
+grib2/4/10/14-99,Type of statistical processing,,14-99,,Reserved,,,,Operational,PDF
+grib2/4/10/100,Type of statistical processing,,100,,Severity,,,,Operational,PDF
+grib2/4/10/101,Type of statistical processing,,101,,Mode,,,,Operational,PDF
+grib2/4/10/102,Type of statistical processing,,102,,Index processing,(see Note 4),146,,Operational,PDF
+grib2/4/10/103-191,Type of statistical processing,,103-191,,Reserved,,,,Operational,PDF
+grib2/4/10/192-254,Type of statistical processing,,192-254,,Reserved for local use,,,,Operational,PDF
+grib2/4/10/255,Type of statistical processing,,255,,Missing,,,,Operational,PDF

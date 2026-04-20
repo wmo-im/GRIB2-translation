@@ -1,17 +1,17 @@
 ID,Title_en,OctetNo,OctetCount,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status,translation_source
-grib2/3/110/15,equatorial azimuthal equidistant projection,15,1,Shape of the Earth,(see Code table 3.2),,3.2,,Operational,Original
-grib2/3/110/16,equatorial azimuthal equidistant projection,16,1,Scale factor of radius of spherical Earth,,,,,Operational,Original
-grib2/3/110/17-20,equatorial azimuthal equidistant projection,17-20,4,Scaled value of radius of spherical Earth,,,,,Operational,Original
-grib2/3/110/21,equatorial azimuthal equidistant projection,21,1,Scale factor of major axis of oblate spheroid Earth,,,,,Operational,Original
-grib2/3/110/22-25,equatorial azimuthal equidistant projection,22-25,4,Scaled value of major axis of oblate spheroid Earth,,,,,Operational,Original
-grib2/3/110/26,equatorial azimuthal equidistant projection,26,1,Scale factor of minor axis of oblate spheroid Earth,,,,,Operational,Original
-grib2/3/110/27-30,equatorial azimuthal equidistant projection,27-30,4,Scaled value of minor axis of oblate spheroid Earth,,,,,Operational,Original
-grib2/3/110/31-34,equatorial azimuthal equidistant projection,31-34,4,Nx - number of points along x-axis,,,,,Operational,Original
-grib2/3/110/35-38,equatorial azimuthal equidistant projection,35-38,4,Ny - number of points along y-axis,,,,,Operational,Original
-grib2/3/110/39-42,equatorial azimuthal equidistant projection,39-42,4,La1 - latitude of tangency point (centre of grid),,,,,Operational,Original
-grib2/3/110/43-46,equatorial azimuthal equidistant projection,43-46,4,Lo1 - longitude of tangency point,,,,,Operational,Original
-grib2/3/110/47,equatorial azimuthal equidistant projection,47,1,Resolution and component flags,(see Flag table 3.3),,,3.3,Operational,Original
-grib2/3/110/48-51,equatorial azimuthal equidistant projection,48-51,4,Dx - x-direction grid length in units of 10-3 m as measured at the point of the axis,,,,,Operational,Original
-grib2/3/110/52-55,equatorial azimuthal equidistant projection,52-55,4,Dy - y-direction grid length in units of 10-3 m as measured at the point of the axis,,,,,Operational,Original
-grib2/3/110/56,equatorial azimuthal equidistant projection,56,1,Projection centre flag,,,,,Operational,Original
-grib2/3/110/57,equatorial azimuthal equidistant projection,57,1,Scanning mode,(see Flag table 3.4),,,3.4,Operational,Original
+grib2/3/110/15,equatorial azimuthal equidistant projection,15,1,Shape of the Earth,(see Code table 3.2),,3.2,,Operational,PDF
+grib2/3/110/16,equatorial azimuthal equidistant projection,16,1,Scale factor of radius of spherical Earth,,,,,Operational,PDF
+grib2/3/110/17-20,equatorial azimuthal equidistant projection,17-20,4,Scaled value of radius of spherical Earth,,,,,Operational,PDF
+grib2/3/110/21,equatorial azimuthal equidistant projection,21,1,Scale factor of major axis of oblate spheroid Earth,,,,,Operational,PDF
+grib2/3/110/22-25,equatorial azimuthal equidistant projection,22-25,4,Scaled value of major axis of oblate spheroid Earth,,,,,Operational,PDF
+grib2/3/110/26,equatorial azimuthal equidistant projection,26,1,Scale factor of minor axis of oblate spheroid Earth,,,,,Operational,PDF
+grib2/3/110/27-30,equatorial azimuthal equidistant projection,27-30,4,Scaled value of minor axis of oblate spheroid Earth,,,,,Operational,PDF
+grib2/3/110/31-34,equatorial azimuthal equidistant projection,31-34,4,Nx - number of points along x-axis,,,,,Operational,PDF
+grib2/3/110/35-38,equatorial azimuthal equidistant projection,35-38,4,Ny - number of points along y-axis,,,,,Operational,PDF
+grib2/3/110/39-42,equatorial azimuthal equidistant projection,39-42,4,La1 - latitude of tangency point (centre of grid),,,,,Operational,PDF
+grib2/3/110/43-46,equatorial azimuthal equidistant projection,43-46,4,Lo1 - longitude of tangency point,,,,,Operational,PDF
+grib2/3/110/47,equatorial azimuthal equidistant projection,47,1,Resolution and component flags,(see Flag table 3.3),,,3.3,Operational,PDF
+grib2/3/110/48-51,equatorial azimuthal equidistant projection,48-51,4,Dx - x-direction grid length in units of 10-3 m as measured at the point of the axis,,,,,Operational,PDF
+grib2/3/110/52-55,equatorial azimuthal equidistant projection,52-55,4,Dy - y-direction grid length in units of 10-3 m as measured at the point of the axis,,,,,Operational,PDF
+grib2/3/110/56,equatorial azimuthal equidistant projection,56,1,Projection centre flag,,,,,Operational,PDF
+grib2/3/110/57,equatorial azimuthal equidistant projection,57,1,Scanning mode,(see Flag table 3.4),,,3.4,Operational,PDF

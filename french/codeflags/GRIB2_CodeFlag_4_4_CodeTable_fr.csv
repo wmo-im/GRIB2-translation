@@ -1,17 +1,17 @@
 ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
-grib2/4/4/0,Table de code 4.4 – Indicateur d'unité de l'intervalle de temps,,0,,Minute,,,,Operational,Original
-grib2/4/4/1,Table de code 4.4 – Indicateur d'unité de l'intervalle de temps,,1,,Heure,,,,Operational,Original
-grib2/4/4/2,Table de code 4.4 – Indicateur d'unité de l'intervalle de temps,,2,,Jour,,,,Operational,Original
-grib2/4/4/3,Table de code 4.4 – Indicateur d'unité de l'intervalle de temps,,3,,Mois,,,,Operational,Original
-grib2/4/4/4,Table de code 4.4 – Indicateur d'unité de l'intervalle de temps,,4,,Année,,,,Operational,Original
-grib2/4/4/5,Table de code 4.4 – Indicateur d'unité de l'intervalle de temps,,5,,Décennie (10 ans),,,,Operational,Original
-grib2/4/4/6,Table de code 4.4 – Indicateur d'unité de l'intervalle de temps,,6,,Normale (30 ans),,,,Operational,Original
-grib2/4/4/7,Table de code 4.4 – Indicateur d'unité de l'intervalle de temps,,7,,Siècle (100 ans),,,,Operational,Original
-grib2/4/4/8-9,Table de code 4.4 – Indicateur d'unité de l'intervalle de temps,,8-9,,En réserve,,,,Operational,Original
-grib2/4/4/10,Table de code 4.4 – Indicateur d'unité de l'intervalle de temps,,10,,3 heures,,,,Operational,Original
-grib2/4/4/11,Table de code 4.4 – Indicateur d'unité de l'intervalle de temps,,11,,6 heures,,,,Operational,Original
-grib2/4/4/12,Table de code 4.4 – Indicateur d'unité de l'intervalle de temps,,12,,12 heures,,,,Operational,Original
-grib2/4/4/13,Table de code 4.4 – Indicateur d'unité de l'intervalle de temps,,13,,Seconde,,,,Operational,Original
-grib2/4/4/14-191,Table de code 4.4 – Indicateur d'unité de l'intervalle de temps,,14-191,,En réserve,,,,Operational,Original
-grib2/4/4/192-254,Table de code 4.4 – Indicateur d'unité de l'intervalle de temps,,192-254,,En réserve pour un usage local,,,,Operational,Original
-grib2/4/4/255,Table de code 4.4 – Indicateur d'unité de l'intervalle de temps,,255,,Valeur manquante,,,,Operational,Original
+grib2/4/4/0,Table de code 4.4 – Indicateur d'unité de l'intervalle de temps,,0,,Minute,,,,Operational,PDF
+grib2/4/4/1,Table de code 4.4 – Indicateur d'unité de l'intervalle de temps,,1,,Heure,,,,Operational,PDF
+grib2/4/4/2,Table de code 4.4 – Indicateur d'unité de l'intervalle de temps,,2,,Jour,,,,Operational,PDF
+grib2/4/4/3,Table de code 4.4 – Indicateur d'unité de l'intervalle de temps,,3,,Mois,,,,Operational,PDF
+grib2/4/4/4,Table de code 4.4 – Indicateur d'unité de l'intervalle de temps,,4,,Année,,,,Operational,PDF
+grib2/4/4/5,Table de code 4.4 – Indicateur d'unité de l'intervalle de temps,,5,,Décennie (10 ans),,,,Operational,PDF
+grib2/4/4/6,Table de code 4.4 – Indicateur d'unité de l'intervalle de temps,,6,,Normale (30 ans),,,,Operational,PDF
+grib2/4/4/7,Table de code 4.4 – Indicateur d'unité de l'intervalle de temps,,7,,Siècle (100 ans),,,,Operational,PDF
+grib2/4/4/8-9,Table de code 4.4 – Indicateur d'unité de l'intervalle de temps,,8-9,,En réserve,,,,Operational,PDF
+grib2/4/4/10,Table de code 4.4 – Indicateur d'unité de l'intervalle de temps,,10,,3 heures,,,,Operational,PDF
+grib2/4/4/11,Table de code 4.4 – Indicateur d'unité de l'intervalle de temps,,11,,6 heures,,,,Operational,PDF
+grib2/4/4/12,Table de code 4.4 – Indicateur d'unité de l'intervalle de temps,,12,,12 heures,,,,Operational,PDF
+grib2/4/4/13,Table de code 4.4 – Indicateur d'unité de l'intervalle de temps,,13,,Seconde,,,,Operational,PDF
+grib2/4/4/14-191,Table de code 4.4 – Indicateur d'unité de l'intervalle de temps,,14-191,,En réserve,,,,Operational,PDF
+grib2/4/4/192-254,Table de code 4.4 – Indicateur d'unité de l'intervalle de temps,,192-254,,En réserve pour un usage local,,,,Operational,PDF
+grib2/4/4/255,Table de code 4.4 – Indicateur d'unité de l'intervalle de temps,,255,,Valeur manquante,,,,Operational,PDF

@@ -1,23 +1,23 @@
 ID,Title_en,OctetNo,OctetCount,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status,translation_source
-grib2/3/12/15,transverse Mercator,15,1,Shape of the Earth,(see Code table 3.2),,3.2,,Operational,Original
-grib2/3/12/16,transverse Mercator,16,1,Scale factor of radius of spherical Earth,,,,,Operational,Original
-grib2/3/12/17-20,transverse Mercator,17-20,4,Scaled value of radius of spherical Earth,,,,,Operational,Original
-grib2/3/12/21,transverse Mercator,21,1,Scale factor of major axis of oblate spheroid Earth,,,,,Operational,Original
-grib2/3/12/22-25,transverse Mercator,22-25,4,Scaled value of major axis of oblate spheroid Earth,,,,,Operational,Original
-grib2/3/12/26,transverse Mercator,26,1,Scale factor of minor axis of oblate spheroid Earth,,,,,Operational,Original
-grib2/3/12/27-30,transverse Mercator,27-30,4,Scaled value of minor axis of oblate spheroid Earth,,,,,Operational,Original
-grib2/3/12/31-34,transverse Mercator,31-34,4,Ni - number of points along i-axis,,,,,Operational,Original
-grib2/3/12/35-38,transverse Mercator,35-38,4,Nj - number of points along j-axis,,,,,Operational,Original
-grib2/3/12/39-42,transverse Mercator,39-42,4,LaR - geographic latitude of reference point,,,,,Operational,Original
-grib2/3/12/43-46,transverse Mercator,43-46,4,LoR - geographic longitude of reference point,,,,,Operational,Original
-grib2/3/12/47,transverse Mercator,47,1,Resolution and component flags,(see Flag table 3.3),,,3.3,Operational,Original
-grib2/3/12/48-51,transverse Mercator,48-51,4,m - scale factor at reference point ratio of distance on map to distance on spheroid (IEEE 32-bit floating-point values),,,,,Operational,Original
-grib2/3/12/52-55,transverse Mercator,52-55,4,"XR - false easting, i-direction coordinate of reference point in units of 10-2 m",,,,,Operational,Original
-grib2/3/12/56-59,transverse Mercator,56-59,4,"YR - false northing, j-direction coordinate of reference point in units of 10-2 m",,,,,Operational,Original
-grib2/3/12/60,transverse Mercator,60,1,Scanning mode,(see Flag table 3.4),,,3.4,Operational,Original
-grib2/3/12/61-64,transverse Mercator,61-64,4,Di - i-direction increment length in units of  10-2 m,,,,,Operational,Original
-grib2/3/12/65-68,transverse Mercator,65-68,4,Dj - j-direction increment length in units of 10-2 m,,,,,Operational,Original
-grib2/3/12/69-72,transverse Mercator,69-72,4,x1 - i-direction coordinate of the first grid point in units of 10-2 m,,,,,Operational,Original
-grib2/3/12/73-76,transverse Mercator,73-76,4,y1 - j-direction coordinate of the first grid point in units of 10-2 m,,,,,Operational,Original
-grib2/3/12/77-80,transverse Mercator,77-80,4,x2 - i-direction coordinate of the last grid point in units of 10-2 m,,,,,Operational,Original
-grib2/3/12/81-84,transverse Mercator,81-84,4,y2 - j-direction coordinate of the last grid point in units of 10-2 m,,,,,Operational,Original
+grib2/3/12/15,transverse Mercator,15,1,Shape of the Earth,(see Code table 3.2),,3.2,,Operational,PDF
+grib2/3/12/16,transverse Mercator,16,1,Scale factor of radius of spherical Earth,,,,,Operational,PDF
+grib2/3/12/17-20,transverse Mercator,17-20,4,Scaled value of radius of spherical Earth,,,,,Operational,PDF
+grib2/3/12/21,transverse Mercator,21,1,Scale factor of major axis of oblate spheroid Earth,,,,,Operational,PDF
+grib2/3/12/22-25,transverse Mercator,22-25,4,Scaled value of major axis of oblate spheroid Earth,,,,,Operational,PDF
+grib2/3/12/26,transverse Mercator,26,1,Scale factor of minor axis of oblate spheroid Earth,,,,,Operational,PDF
+grib2/3/12/27-30,transverse Mercator,27-30,4,Scaled value of minor axis of oblate spheroid Earth,,,,,Operational,PDF
+grib2/3/12/31-34,transverse Mercator,31-34,4,Ni - number of points along i-axis,,,,,Operational,PDF
+grib2/3/12/35-38,transverse Mercator,35-38,4,Nj - number of points along j-axis,,,,,Operational,PDF
+grib2/3/12/39-42,transverse Mercator,39-42,4,LaR - geographic latitude of reference point,,,,,Operational,PDF
+grib2/3/12/43-46,transverse Mercator,43-46,4,LoR - geographic longitude of reference point,,,,,Operational,PDF
+grib2/3/12/47,transverse Mercator,47,1,Resolution and component flags,(see Flag table 3.3),,,3.3,Operational,PDF
+grib2/3/12/48-51,transverse Mercator,48-51,4,m - scale factor at reference point ratio of distance on map to distance on spheroid (IEEE 32-bit floating-point values),,,,,Operational,PDF
+grib2/3/12/52-55,transverse Mercator,52-55,4,"XR - false easting, i-direction coordinate of reference point in units of 10-2 m",,,,,Operational,PDF
+grib2/3/12/56-59,transverse Mercator,56-59,4,"YR - false northing, j-direction coordinate of reference point in units of 10-2 m",,,,,Operational,PDF
+grib2/3/12/60,transverse Mercator,60,1,Scanning mode,(see Flag table 3.4),,,3.4,Operational,PDF
+grib2/3/12/61-64,transverse Mercator,61-64,4,Di - i-direction increment length in units of  10-2 m,,,,,Operational,PDF
+grib2/3/12/65-68,transverse Mercator,65-68,4,Dj - j-direction increment length in units of 10-2 m,,,,,Operational,PDF
+grib2/3/12/69-72,transverse Mercator,69-72,4,x1 - i-direction coordinate of the first grid point in units of 10-2 m,,,,,Operational,PDF
+grib2/3/12/73-76,transverse Mercator,73-76,4,y1 - j-direction coordinate of the first grid point in units of 10-2 m,,,,,Operational,PDF
+grib2/3/12/77-80,transverse Mercator,77-80,4,x2 - i-direction coordinate of the last grid point in units of 10-2 m,,,,,Operational,PDF
+grib2/3/12/81-84,transverse Mercator,81-84,4,y2 - j-direction coordinate of the last grid point in units of 10-2 m,,,,,Operational,PDF

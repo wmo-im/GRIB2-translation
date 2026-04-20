@@ -1,2 +1,2 @@
 ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
-grib2/4/2/2/5/1,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 2 - Productos para la superficie terrestre, categoría de parámetros 5: glaciares y capas de hielo",1,,Temperatura del glaciar,,,K,Operational,Original
+grib2/4/2/2/5/1,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 2 - Productos para la superficie terrestre, categoría de parámetros 5: glaciares y capas de hielo",1,,Temperatura del glaciar,,,K,Operational,PDF

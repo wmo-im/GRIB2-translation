@@ -1,9 +1,9 @@
 ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
-grib2/4/16/0,Table de code 4.16 – Valeur relative à la qualité associée au paramètre,,0,,Indice de confiance,(voir la note 2),,,Operational,Original
-grib2/4/16/1,Table de code 4.16 – Valeur relative à la qualité associée au paramètre,,1,,Indicateur de qualité,(voir la note 3 et la table de code 4.244),,,Operational,Original
-grib2/4/16/2,Table de code 4.16 – Valeur relative à la qualité associée au paramètre,,2,,Corrélation entre le produit et le produit d'étalonnage utilisé,(voir la note 4),,,Operational,Original
-grib2/4/16/3,Table de code 4.16 – Valeur relative à la qualité associée au paramètre,,3,,Écart-type,(voir la note 5),,,Operational,Original
-grib2/4/16/4,Table de code 4.16 – Valeur relative à la qualité associée au paramètre,,4,,Erreur aléatoire ,(voir la note 5),,,Operational,Original
-grib2/4/16/5-191,Table de code 4.16 – Valeur relative à la qualité associée au paramètre,,5-191,,En réserve,,,,Operational,Original
-grib2/4/16/192-254,Table de code 4.16 – Valeur relative à la qualité associée au paramètre,,192-254,,En réserve pour un usage local,,,,Operational,Original
-grib2/4/16/255,Table de code 4.16 – Valeur relative à la qualité associée au paramètre,,255,,Valeur manquante,,,,Operational,Original
+grib2/4/16/0,Table de code 4.16 – Valeur relative à la qualité associée au paramètre,,0,,Indice de confiance,(voir la note 2),,,Operational,PDF
+grib2/4/16/1,Table de code 4.16 – Valeur relative à la qualité associée au paramètre,,1,,Indicateur de qualité,(voir la note 3 et la table de code 4.244),,,Operational,PDF
+grib2/4/16/2,Table de code 4.16 – Valeur relative à la qualité associée au paramètre,,2,,Corrélation entre le produit et le produit d'étalonnage utilisé,(voir la note 4),,,Operational,PDF
+grib2/4/16/3,Table de code 4.16 – Valeur relative à la qualité associée au paramètre,,3,,Écart-type,(voir la note 5),,,Operational,PDF
+grib2/4/16/4,Table de code 4.16 – Valeur relative à la qualité associée au paramètre,,4,,Erreur aléatoire ,(voir la note 5),,,Operational,PDF
+grib2/4/16/5-191,Table de code 4.16 – Valeur relative à la qualité associée au paramètre,,5-191,,En réserve,,,,Operational,PDF
+grib2/4/16/192-254,Table de code 4.16 – Valeur relative à la qualité associée au paramètre,,192-254,,En réserve pour un usage local,,,,Operational,PDF
+grib2/4/16/255,Table de code 4.16 – Valeur relative à la qualité associée au paramètre,,255,,Valeur manquante,,,,Operational,PDF

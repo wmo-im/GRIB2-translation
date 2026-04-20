@@ -1,10 +1,10 @@
 ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
-grib2/4/11/0,Type of time intervals,,0,,Reserved,,,,Operational,Original
-grib2/4/11/1,Type of time intervals,,1,,"Successive times processed have same forecast time, start time of forecast is incremented",,,,Operational,Original
-grib2/4/11/2,Type of time intervals,,2,,"Successive times processed have same start time of forecast, forecast time is incremented",,,,Operational,Original
-grib2/4/11/3,Type of time intervals,,3,,Successive times processed have start time of forecast incremented and forecast time decremented so that valid time remains constant,,,,Operational,Original
-grib2/4/11/4,Type of time intervals,,4,,Successive times processed have start time of forecast decremented and forecast time incremented so that valid time remains constant,,,,Operational,Original
-grib2/4/11/5,Type of time intervals,,5,,Floating subinterval of time between forecast time and end of overall time interval,(see Note),37,,Operational,Original
-grib2/4/11/6-191,Type of time intervals,,6-191,,Reserved,,,,Operational,Original
-grib2/4/11/192-254,Type of time intervals,,192-254,,Reserved for local use,,,,Operational,Original
-grib2/4/11/255,Type of time intervals,,255,,Missing,,,,Operational,Original
+grib2/4/11/0,Type of time intervals,,0,,Reserved,,,,Operational,PDF
+grib2/4/11/1,Type of time intervals,,1,,"Successive times processed have same forecast time, start time of forecast is incremented",,,,Operational,PDF
+grib2/4/11/2,Type of time intervals,,2,,"Successive times processed have same start time of forecast, forecast time is incremented",,,,Operational,PDF
+grib2/4/11/3,Type of time intervals,,3,,Successive times processed have start time of forecast incremented and forecast time decremented so that valid time remains constant,,,,Operational,PDF
+grib2/4/11/4,Type of time intervals,,4,,Successive times processed have start time of forecast decremented and forecast time incremented so that valid time remains constant,,,,Operational,PDF
+grib2/4/11/5,Type of time intervals,,5,,Floating subinterval of time between forecast time and end of overall time interval,(see Note),37,,Operational,PDF
+grib2/4/11/6-191,Type of time intervals,,6-191,,Reserved,,,,Operational,PDF
+grib2/4/11/192-254,Type of time intervals,,192-254,,Reserved for local use,,,,Operational,PDF
+grib2/4/11/255,Type of time intervals,,255,,Missing,,,,Operational,PDF

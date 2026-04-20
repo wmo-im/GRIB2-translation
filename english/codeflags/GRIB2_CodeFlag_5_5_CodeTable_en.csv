@@ -1,7 +1,7 @@
 ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
-grib2/5/5/0,Missing value management for complex packing,,0,,No explicit missing values included within data values,,,,Operational,Original
-grib2/5/5/1,Missing value management for complex packing,,1,,Primary missing values included within data values,,,,Operational,Original
-grib2/5/5/2,Missing value management for complex packing,,2,,Primary and secondary missing values included within data values,,,,Operational,Original
-grib2/5/5/3-191,Missing value management for complex packing,,3-191,,Reserved,,,,Operational,Original
-grib2/5/5/192-254,Missing value management for complex packing,,192-254,,Reserved for local use,,,,Operational,Original
-grib2/5/5/255,Missing value management for complex packing,,255,,Missing,,,,Operational,Original
+grib2/5/5/0,Missing value management for complex packing,,0,,No explicit missing values included within data values,,,,Operational,PDF
+grib2/5/5/1,Missing value management for complex packing,,1,,Primary missing values included within data values,,,,Operational,PDF
+grib2/5/5/2,Missing value management for complex packing,,2,,Primary and secondary missing values included within data values,,,,Operational,PDF
+grib2/5/5/3-191,Missing value management for complex packing,,3-191,,Reserved,,,,Operational,PDF
+grib2/5/5/192-254,Missing value management for complex packing,,192-254,,Reserved for local use,,,,Operational,PDF
+grib2/5/5/255,Missing value management for complex packing,,255,,Missing,,,,Operational,PDF

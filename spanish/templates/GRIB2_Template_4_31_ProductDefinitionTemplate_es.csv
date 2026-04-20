@@ -1,12 +1,12 @@
 ﻿ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translation_source
-grib2/4/31/10,Producto del satélite,10,1,Categoría del parámetro,(véase la Tabla de cifrado 4.1),,4.1,,Operational,Original
-grib2/4/31/11,Producto del satélite,11,1,Número del parámetro,(véase la Tabla de cifrado 4.2),,4.2,,Operational,Original
-grib2/4/31/12,Producto del satélite,12,1,Tipo de proceso de producción,(véase la Tabla de cifrado 4.3),,4.3,,Operational,Original
-grib2/4/31/13,Producto del satélite,13,1,Identificador del proceso de observación (definido por los centros de origen),,,,,Operational,Original
-grib2/4/31/14,Producto del satélite,14,1,Número de bandas espectrales tomadas en consideración (NB),,,,,Operational,Original
-grib2/4/31//1,Producto del satélite,,,"15- Repítanse los 11 octetos siguientes para cada una de las bandas tomadas en consideración (nb = 1, NB)",,,,,Operational,Original
-grib2/4/31/(15+11(nb-1))-(16+11(nb-1)),Producto del satélite,(15+11(nb-1))-(16+11(nb-1)),,Serie de los satélites de la banda nb (tabla de cifrado establecida por el centro de origen/generación),,,,,Operational,Original
-grib2/4/31/(17+11(nb-1))-(18+11(nb-1)),Producto del satélite,(17+11(nb-1))-(18+11(nb-1)),,Números de los satélites de la banda nb (tabla de cifrado establecida por el centro de origen/generación),,,,,Operational,Original
-grib2/4/31/(19+11(nb-1))-(20+11(nb-1)),Producto del satélite,(19+11(nb-1))-(20+11(nb-1)),,Tipos de instrumento de la banda nb (tabla de cifrado establecida por el centro de origen/generación),,,,,Operational,Original
-grib2/4/31/(21+11(nb-1)),Producto del satélite,(21+11(nb-1)),,Factor de escala del número de onda central de la banda nb,,,,,Operational,Original
-grib2/4/31/(22+11(nb-1))-(25+11(nb-1)),Producto del satélite,(22+11(nb-1))-(25+11(nb-1)),,Valor ajustado del número de onda central de la banda nb (unidades: m-1),,,,,Operational,Original
+grib2/4/31/10,Producto del satélite,10,1,Categoría del parámetro,(véase la Tabla de cifrado 4.1),,4.1,,Operational,PDF
+grib2/4/31/11,Producto del satélite,11,1,Número del parámetro,(véase la Tabla de cifrado 4.2),,4.2,,Operational,PDF
+grib2/4/31/12,Producto del satélite,12,1,Tipo de proceso de producción,(véase la Tabla de cifrado 4.3),,4.3,,Operational,PDF
+grib2/4/31/13,Producto del satélite,13,1,Identificador del proceso de observación (definido por los centros de origen),,,,,Operational,PDF
+grib2/4/31/14,Producto del satélite,14,1,Número de bandas espectrales tomadas en consideración (NB),,,,,Operational,PDF
+grib2/4/31//1,Producto del satélite,,,"15- Repítanse los 11 octetos siguientes para cada una de las bandas tomadas en consideración (nb = 1, NB)",,,,,Operational,PDF
+grib2/4/31/(15+11(nb-1))-(16+11(nb-1)),Producto del satélite,(15+11(nb-1))-(16+11(nb-1)),,Serie de los satélites de la banda nb (tabla de cifrado establecida por el centro de origen/generación),,,,,Operational,PDF
+grib2/4/31/(17+11(nb-1))-(18+11(nb-1)),Producto del satélite,(17+11(nb-1))-(18+11(nb-1)),,Números de los satélites de la banda nb (tabla de cifrado establecida por el centro de origen/generación),,,,,Operational,PDF
+grib2/4/31/(19+11(nb-1))-(20+11(nb-1)),Producto del satélite,(19+11(nb-1))-(20+11(nb-1)),,Tipos de instrumento de la banda nb (tabla de cifrado establecida por el centro de origen/generación),,,,,Operational,PDF
+grib2/4/31/(21+11(nb-1)),Producto del satélite,(21+11(nb-1)),,Factor de escala del número de onda central de la banda nb,,,,,Operational,PDF
+grib2/4/31/(22+11(nb-1))-(25+11(nb-1)),Producto del satélite,(22+11(nb-1))-(25+11(nb-1)),,Valor ajustado del número de onda central de la banda nb (unidades: m-1),,,,,Operational,PDF

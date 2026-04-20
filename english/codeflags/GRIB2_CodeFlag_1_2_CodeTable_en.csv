@@ -1,11 +1,11 @@
 ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
-grib2/1/2/0,Significance of reference time,,0,,Analysis,,,,Operational,Original
-grib2/1/2/1,Significance of reference time,,1,,Start of forecast,,,,Operational,Original
-grib2/1/2/2,Significance of reference time,,2,,Verifying time of forecast,,,,Operational,Original
-grib2/1/2/3,Significance of reference time,,3,,Observation time,,,,Operational,Original
-grib2/1/2/4,Significance of reference time,,4,,Local time,,,,Operational,Original
-grib2/1/2/5,Significance of reference time,,5,,Simulation start,(see Note),150,,Operational,Original
-grib2/1/2/6,Significance of reference time,,6,,Start of data assimilation,,,,Operational,Original
-grib2/1/2/7-191,Significance of reference time,,7-191,,Reserved,,,,Operational,Original
-grib2/1/2/192-254,Significance of reference time,,192-254,,Reserved for local use,,,,Operational,Original
-grib2/1/2/255,Significance of reference time,,255,,Missing,,,,Operational,Original
+grib2/1/2/0,Significance of reference time,,0,,Analysis,,,,Operational,PDF
+grib2/1/2/1,Significance of reference time,,1,,Start of forecast,,,,Operational,PDF
+grib2/1/2/2,Significance of reference time,,2,,Verifying time of forecast,,,,Operational,PDF
+grib2/1/2/3,Significance of reference time,,3,,Observation time,,,,Operational,PDF
+grib2/1/2/4,Significance of reference time,,4,,Local time,,,,Operational,PDF
+grib2/1/2/5,Significance of reference time,,5,,Simulation start,(see Note),150,,Operational,PDF
+grib2/1/2/6,Significance of reference time,,6,,Start of data assimilation,,,,Operational,PDF
+grib2/1/2/7-191,Significance of reference time,,7-191,,Reserved,,,,Operational,PDF
+grib2/1/2/192-254,Significance of reference time,,192-254,,Reserved for local use,,,,Operational,PDF
+grib2/1/2/255,Significance of reference time,,255,,Missing,,,,Operational,PDF

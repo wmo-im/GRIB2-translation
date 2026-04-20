@@ -1,5 +1,5 @@
 ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
-grib2/4/223/0,Fire detection indicator,,0,,No fire detected,,,,Operational,Original
-grib2/4/223/1,Fire detection indicator,,1,,Possible fire detected,,,,Operational,Original
-grib2/4/223/2,Fire detection indicator,,2,,Probable fire detected,,,,Operational,Original
-grib2/4/223/3,Fire detection indicator,,3,,Missing,,,,Operational,Original
+grib2/4/223/0,Fire detection indicator,,0,,No fire detected,,,,Operational,PDF
+grib2/4/223/1,Fire detection indicator,,1,,Possible fire detected,,,,Operational,PDF
+grib2/4/223/2,Fire detection indicator,,2,,Probable fire detected,,,,Operational,PDF
+grib2/4/223/3,Fire detection indicator,,3,,Missing,,,,Operational,PDF

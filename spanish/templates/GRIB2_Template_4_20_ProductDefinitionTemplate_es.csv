@@ -1,20 +1,20 @@
 ﻿ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translation_source
-grib2/4/20/10,Producto del radar,10,1,Categoría del parámetro (véase la Tabla de cifrado 4.1),,,4.1,,Operational,Original
-grib2/4/20/11,Producto del radar,11,1,Número del parámetro (véase la Tabla de cifrado 4.2),,,4.2,,Operational,Original
-grib2/4/20/12,Producto del radar,12,1,Tipo de proceso de producción (véase la Tabla de cifrado 4.3),,,4.3,,Operational,Original
-grib2/4/20/13,Producto del radar,13,1,Número de estaciones de radar,,,,,Operational,Original
-grib2/4/20/14,Producto del radar,14,1,Indicador de unidad del intervalo de tiempo,,,,,Operational,Original
-grib2/4/20/15-18,Producto del radar,15-18,4,Latitud de la estación (10-6 grados),,,,,Operational,Original
-grib2/4/20/19-22,Producto del radar,19-22,4,Longitud de la estación (10-6 grados),,,,,Operational,Original
-grib2/4/20/23-24,Producto del radar,23-24,2,Altitud de la estación (metros),,,,,Operational,Original
-grib2/4/20/25-28,Producto del radar,25-28,4,Identificación de la estación (alfanumérica),,,,,Operational,Original
-grib2/4/20/29-30,Producto del radar,29-30,2,Identificación de la estación (numérica),,,,,Operational,Original
-grib2/4/20/31,Producto del radar,31,1,Modo de funcionamiento (véase la Tabla de cifrado 4.12),,,4.12,,Operational,Original
-grib2/4/20/32,Producto del radar,32,1,Constante de calibración de la reflectividad (décimas de dB),,,,,Operational,Original
-grib2/4/20/33,Producto del radar,33,1,Indicador de control de la calidad (véase la Tabla de cifrado 4.13),,,4.13,,Operational,Original
-grib2/4/20/34,Producto del radar,34,1,Indicador de filtro de ecos parásitos (véase la Tabla de cifrado 4.14),,,4.14,,Operational,Original
-grib2/4/20/35,Producto del radar,35,1,Constante del ángulo de elevación de la antena (décimas de grado verdadero),,,,,Operational,Original
-grib2/4/20/36-37,Producto del radar,36-37,2,Intervalo de totalización (minutos),,,,,Operational,Original
-grib2/4/20/38,Producto del radar,38,1,Reflectividad de referencia para los techos de ecos (dB),,,,,Operational,Original
-grib2/4/20/39-41,Producto del radar,39-41,3,Intervalo de espaciamiento de las células (metros),,,,,Operational,Original
-grib2/4/20/42-43,Producto del radar,42-43,2,Espaciamiento angular radial (décimas de grado verdadero),,,,,Operational,Original
+grib2/4/20/10,Producto del radar,10,1,Categoría del parámetro (véase la Tabla de cifrado 4.1),,,4.1,,Operational,PDF
+grib2/4/20/11,Producto del radar,11,1,Número del parámetro (véase la Tabla de cifrado 4.2),,,4.2,,Operational,PDF
+grib2/4/20/12,Producto del radar,12,1,Tipo de proceso de producción (véase la Tabla de cifrado 4.3),,,4.3,,Operational,PDF
+grib2/4/20/13,Producto del radar,13,1,Número de estaciones de radar,,,,,Operational,PDF
+grib2/4/20/14,Producto del radar,14,1,Indicador de unidad del intervalo de tiempo,,,,,Operational,PDF
+grib2/4/20/15-18,Producto del radar,15-18,4,Latitud de la estación (10-6 grados),,,,,Operational,PDF
+grib2/4/20/19-22,Producto del radar,19-22,4,Longitud de la estación (10-6 grados),,,,,Operational,PDF
+grib2/4/20/23-24,Producto del radar,23-24,2,Altitud de la estación (metros),,,,,Operational,PDF
+grib2/4/20/25-28,Producto del radar,25-28,4,Identificación de la estación (alfanumérica),,,,,Operational,PDF
+grib2/4/20/29-30,Producto del radar,29-30,2,Identificación de la estación (numérica),,,,,Operational,PDF
+grib2/4/20/31,Producto del radar,31,1,Modo de funcionamiento (véase la Tabla de cifrado 4.12),,,4.12,,Operational,PDF
+grib2/4/20/32,Producto del radar,32,1,Constante de calibración de la reflectividad (décimas de dB),,,,,Operational,PDF
+grib2/4/20/33,Producto del radar,33,1,Indicador de control de la calidad (véase la Tabla de cifrado 4.13),,,4.13,,Operational,PDF
+grib2/4/20/34,Producto del radar,34,1,Indicador de filtro de ecos parásitos (véase la Tabla de cifrado 4.14),,,4.14,,Operational,PDF
+grib2/4/20/35,Producto del radar,35,1,Constante del ángulo de elevación de la antena (décimas de grado verdadero),,,,,Operational,PDF
+grib2/4/20/36-37,Producto del radar,36-37,2,Intervalo de totalización (minutos),,,,,Operational,PDF
+grib2/4/20/38,Producto del radar,38,1,Reflectividad de referencia para los techos de ecos (dB),,,,,Operational,PDF
+grib2/4/20/39-41,Producto del radar,39-41,3,Intervalo de espaciamiento de las células (metros),,,,,Operational,PDF
+grib2/4/20/42-43,Producto del radar,42-43,2,Espaciamiento angular radial (décimas de grado verdadero),,,,,Operational,PDF

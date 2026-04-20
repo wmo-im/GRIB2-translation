@@ -1,6 +1,6 @@
 ID,Title_en,OctetNo,OctetCount,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status,translation_source
-grib2/3/42/15-72,stretched Gaussian latitude/longitude,15-72,58,Same as grid definition template 3.40,(see Note 1),9,,,Operational,Original
-grib2/3/42/73-76,stretched Gaussian latitude/longitude,73-76,4,Latitude of the pole of stretching,,,,,Operational,Original
-grib2/3/42/77-80,stretched Gaussian latitude/longitude,77-80,4,Longitude of the pole of stretching,,,,,Operational,Original
-grib2/3/42/81-84,stretched Gaussian latitude/longitude,81-84,4,Stretching factor,,,,,Operational,Original
-grib2/3/42/85-nn,stretched Gaussian latitude/longitude,85-nn,,List of number of points along each meridian or parallel,(see Notes 4 and 5),"4,124",,,Operational,Original
+grib2/3/42/15-72,stretched Gaussian latitude/longitude,15-72,58,Same as grid definition template 3.40,(see Note 1),9,,,Operational,PDF
+grib2/3/42/73-76,stretched Gaussian latitude/longitude,73-76,4,Latitude of the pole of stretching,,,,,Operational,PDF
+grib2/3/42/77-80,stretched Gaussian latitude/longitude,77-80,4,Longitude of the pole of stretching,,,,,Operational,PDF
+grib2/3/42/81-84,stretched Gaussian latitude/longitude,81-84,4,Stretching factor,,,,,Operational,PDF
+grib2/3/42/85-nn,stretched Gaussian latitude/longitude,85-nn,,List of number of points along each meridian or parallel,(see Notes 4 and 5),"4,124",,,Operational,PDF

@@ -1,14 +1,14 @@
 ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
-grib2/3/2/0,Table de code 3.2 — Forme de la Terre,,0,,"Terre considérée comme sphérique avec un rayon de 6 367 470,0 m",,,,Operational,Original
-grib2/3/2/1,Table de code 3.2 — Forme de la Terre,,1,,"Terre considérée comme sphérique, le rayon étant précisé (en m) par le fournisseur des données",,,,Operational,Original
-grib2/3/2/2,Table de code 3.2 — Forme de la Terre,,2,,"Terre considérée comme ellipsoïdale aplatie dont la taille a été définie par l'UAI en 1965 (grand axe = 6 378 160,0 m, petit axe = 6 356 775,0 m, f = 1/297,0)",,,,Operational,Original
-grib2/3/2/3,Table de code 3.2 — Forme de la Terre,,3,,"Terre considérée comme ellipsoïdale aplatie, le grand et le petit axes étant précisés (en km) par le fournisseur des données",,,,Operational,Original
-grib2/3/2/4,Table de code 3.2 — Forme de la Terre,,4,,"Terre considérée comme ellipsoïdale aplatie définie dans le modèle IAG-GRS80 (grand axe = 6 378 137,0 m, petit axe = 6 356 752,314 m, f = 1/298,257 222 101)",,,,Operational,Original
-grib2/3/2/5,Table de code 3.2 — Forme de la Terre,,5,,Terre représentée par le système WGS-84 (utilisé par l'OACI depuis 1998),,,,Operational,Original
-grib2/3/2/6,Table de code 3.2 — Forme de la Terre,,6,,"Terre considérée comme sphérique avec un rayon de 6 371 229,0 m",,,,Operational,Original
-grib2/3/2/7,Table de code 3.2 — Forme de la Terre,,7,,"Terre considérée comme ellipsoïdale aplatie, le grand et le petit axes étant précisés (en m) par le fournisseur des données",,,,Operational,Original
-grib2/3/2/8,Table de code 3.2 — Forme de la Terre,,8,,Terre considérée comme sphérique avec un rayon de 6 371 200 m mais le cadre de référence du WGS-84 est pris comme référence horizontale du champ résultant en latitude et en longitude,,,,Operational,Original
-grib2/3/2/9,Table de code 3.2 — Forme de la Terre,,9,,"Terre représentée par le système 1936 du service de cartographie Ordnance Survey de Grande-Bretagne, basé sur l'ellipsoïde de Airy 1830, avec pour longitude 0 le méridien de Greenwich et pour altitude 0 le niveau moyen de la mer mesuré à Newlyn",,,,Operational,Original
-grib2/3/2/10-191,Table de code 3.2 — Forme de la Terre,,10-191,,En réserve,,,,Operational,Original
-grib2/3/2/192-254,Table de code 3.2 — Forme de la Terre,,192-254,,En réserve pour un usage local,,,,Operational,Original
-grib2/3/2/255,Table de code 3.2 — Forme de la Terre,,255,,Valeur manquante,,,,Operational,Original
+grib2/3/2/0,Table de code 3.2 — Forme de la Terre,,0,,"Terre considérée comme sphérique avec un rayon de 6 367 470,0 m",,,,Operational,PDF
+grib2/3/2/1,Table de code 3.2 — Forme de la Terre,,1,,"Terre considérée comme sphérique, le rayon étant précisé (en m) par le fournisseur des données",,,,Operational,PDF
+grib2/3/2/2,Table de code 3.2 — Forme de la Terre,,2,,"Terre considérée comme ellipsoïdale aplatie dont la taille a été définie par l'UAI en 1965 (grand axe = 6 378 160,0 m, petit axe = 6 356 775,0 m, f = 1/297,0)",,,,Operational,PDF
+grib2/3/2/3,Table de code 3.2 — Forme de la Terre,,3,,"Terre considérée comme ellipsoïdale aplatie, le grand et le petit axes étant précisés (en km) par le fournisseur des données",,,,Operational,PDF
+grib2/3/2/4,Table de code 3.2 — Forme de la Terre,,4,,"Terre considérée comme ellipsoïdale aplatie définie dans le modèle IAG-GRS80 (grand axe = 6 378 137,0 m, petit axe = 6 356 752,314 m, f = 1/298,257 222 101)",,,,Operational,PDF
+grib2/3/2/5,Table de code 3.2 — Forme de la Terre,,5,,Terre représentée par le système WGS-84 (utilisé par l'OACI depuis 1998),,,,Operational,PDF
+grib2/3/2/6,Table de code 3.2 — Forme de la Terre,,6,,"Terre considérée comme sphérique avec un rayon de 6 371 229,0 m",,,,Operational,PDF
+grib2/3/2/7,Table de code 3.2 — Forme de la Terre,,7,,"Terre considérée comme ellipsoïdale aplatie, le grand et le petit axes étant précisés (en m) par le fournisseur des données",,,,Operational,PDF
+grib2/3/2/8,Table de code 3.2 — Forme de la Terre,,8,,Terre considérée comme sphérique avec un rayon de 6 371 200 m mais le cadre de référence du WGS-84 est pris comme référence horizontale du champ résultant en latitude et en longitude,,,,Operational,PDF
+grib2/3/2/9,Table de code 3.2 — Forme de la Terre,,9,,"Terre représentée par le système 1936 du service de cartographie Ordnance Survey de Grande-Bretagne, basé sur l'ellipsoïde de Airy 1830, avec pour longitude 0 le méridien de Greenwich et pour altitude 0 le niveau moyen de la mer mesuré à Newlyn",,,,Operational,PDF
+grib2/3/2/10-191,Table de code 3.2 — Forme de la Terre,,10-191,,En réserve,,,,Operational,PDF
+grib2/3/2/192-254,Table de code 3.2 — Forme de la Terre,,192-254,,En réserve pour un usage local,,,,Operational,PDF
+grib2/3/2/255,Table de code 3.2 — Forme de la Terre,,255,,Valeur manquante,,,,Operational,PDF

@@ -1,18 +1,18 @@
 ﻿ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translation_source
-grib2/3/140/15,Modèle de définition de la grille 3.140 — Projection azimutale équivalente de Lambert,15,1,Forme de la Terre,(voir la table de code 3.2),,3.2,,Operational,Original
-grib2/3/140/16,Modèle de définition de la grille 3.140 — Projection azimutale équivalente de Lambert,16,1,Facteur d'échelle du rayon de la Terre sphérique,,,,,Operational,Original
-grib2/3/140/17-20,Modèle de définition de la grille 3.140 — Projection azimutale équivalente de Lambert,17-20,4,Valeur ajustée du rayon de la Terre sphérique,,,,,Operational,Original
-grib2/3/140/21,Modèle de définition de la grille 3.140 — Projection azimutale équivalente de Lambert,21,1,Facteur d'échelle du grand axe de la Terre ellipsoïdale aplatie,,,,,Operational,Original
-grib2/3/140/22-25,Modèle de définition de la grille 3.140 — Projection azimutale équivalente de Lambert,22-25,4,Valeur ajustée du grand axe de la Terre ellipsoïdale aplatie,,,,,Operational,Original
-grib2/3/140/26,Modèle de définition de la grille 3.140 — Projection azimutale équivalente de Lambert,26,1,Facteur d'échelle du petit axe de la Terre ellipsoïdale aplatie,,,,,Operational,Original
-grib2/3/140/27-30,Modèle de définition de la grille 3.140 — Projection azimutale équivalente de Lambert,27-30,4,Valeur ajustée du petit axe de la Terre ellipsoïdale aplatie,,,,,Operational,Original
-grib2/3/140/31-34,Modèle de définition de la grille 3.140 — Projection azimutale équivalente de Lambert,31-34,4,Nx - nombre de points le long de l'axe des x,,,,,Operational,Original
-grib2/3/140/35-38,Modèle de définition de la grille 3.140 — Projection azimutale équivalente de Lambert,35-38,4,Ny - nombre de points le long de l'axe des y,,,,,Operational,Original
-grib2/3/140/39-42,Modèle de définition de la grille 3.140 — Projection azimutale équivalente de Lambert,39-42,4,La1 - latitude du premier point de la grille,,,,,Operational,Original
-grib2/3/140/43-46,Modèle de définition de la grille 3.140 — Projection azimutale équivalente de Lambert,43-46,4,Lo1 - longitude du premier point de la grille,,,,,Operational,Original
-grib2/3/140/47-50,Modèle de définition de la grille 3.140 — Projection azimutale équivalente de Lambert,47-50,4,Parallèle standard,,,,,Operational,Original
-grib2/3/140/51-54,Modèle de définition de la grille 3.140 — Projection azimutale équivalente de Lambert,51-54,4,Longitude centrale,,,,,Operational,Original
-grib2/3/140/55,Modèle de définition de la grille 3.140 — Projection azimutale équivalente de Lambert,55,1,Indicateurs de résolution et de composantes,(voir la table d'indicateurs 3.3),,,3.3,Operational,Original
-grib2/3/140/56-59,Modèle de définition de la grille 3.140 — Projection azimutale équivalente de Lambert,56-59,4,Dx - longueur de grille dans la direction x,(voir la note),,,,Operational,Original
-grib2/3/140/60-63,Modèle de définition de la grille 3.140 — Projection azimutale équivalente de Lambert,60-63,4,Dy - longueur de grille dans la direction y,(voir la note),,,,Operational,Original
-grib2/3/140/64,Modèle de définition de la grille 3.140 — Projection azimutale équivalente de Lambert,64,1,Mode d'exploration,(voir la table d'indicateurs 3.4),,,,Operational,Original
+grib2/3/140/15,Modèle de définition de la grille 3.140 — Projection azimutale équivalente de Lambert,15,1,Forme de la Terre,(voir la table de code 3.2),,3.2,,Operational,PDF
+grib2/3/140/16,Modèle de définition de la grille 3.140 — Projection azimutale équivalente de Lambert,16,1,Facteur d'échelle du rayon de la Terre sphérique,,,,,Operational,PDF
+grib2/3/140/17-20,Modèle de définition de la grille 3.140 — Projection azimutale équivalente de Lambert,17-20,4,Valeur ajustée du rayon de la Terre sphérique,,,,,Operational,PDF
+grib2/3/140/21,Modèle de définition de la grille 3.140 — Projection azimutale équivalente de Lambert,21,1,Facteur d'échelle du grand axe de la Terre ellipsoïdale aplatie,,,,,Operational,PDF
+grib2/3/140/22-25,Modèle de définition de la grille 3.140 — Projection azimutale équivalente de Lambert,22-25,4,Valeur ajustée du grand axe de la Terre ellipsoïdale aplatie,,,,,Operational,PDF
+grib2/3/140/26,Modèle de définition de la grille 3.140 — Projection azimutale équivalente de Lambert,26,1,Facteur d'échelle du petit axe de la Terre ellipsoïdale aplatie,,,,,Operational,PDF
+grib2/3/140/27-30,Modèle de définition de la grille 3.140 — Projection azimutale équivalente de Lambert,27-30,4,Valeur ajustée du petit axe de la Terre ellipsoïdale aplatie,,,,,Operational,PDF
+grib2/3/140/31-34,Modèle de définition de la grille 3.140 — Projection azimutale équivalente de Lambert,31-34,4,Nx - nombre de points le long de l'axe des x,,,,,Operational,PDF
+grib2/3/140/35-38,Modèle de définition de la grille 3.140 — Projection azimutale équivalente de Lambert,35-38,4,Ny - nombre de points le long de l'axe des y,,,,,Operational,PDF
+grib2/3/140/39-42,Modèle de définition de la grille 3.140 — Projection azimutale équivalente de Lambert,39-42,4,La1 - latitude du premier point de la grille,,,,,Operational,PDF
+grib2/3/140/43-46,Modèle de définition de la grille 3.140 — Projection azimutale équivalente de Lambert,43-46,4,Lo1 - longitude du premier point de la grille,,,,,Operational,PDF
+grib2/3/140/47-50,Modèle de définition de la grille 3.140 — Projection azimutale équivalente de Lambert,47-50,4,Parallèle standard,,,,,Operational,PDF
+grib2/3/140/51-54,Modèle de définition de la grille 3.140 — Projection azimutale équivalente de Lambert,51-54,4,Longitude centrale,,,,,Operational,PDF
+grib2/3/140/55,Modèle de définition de la grille 3.140 — Projection azimutale équivalente de Lambert,55,1,Indicateurs de résolution et de composantes,(voir la table d'indicateurs 3.3),,,3.3,Operational,PDF
+grib2/3/140/56-59,Modèle de définition de la grille 3.140 — Projection azimutale équivalente de Lambert,56-59,4,Dx - longueur de grille dans la direction x,(voir la note),,,,Operational,PDF
+grib2/3/140/60-63,Modèle de définition de la grille 3.140 — Projection azimutale équivalente de Lambert,60-63,4,Dy - longueur de grille dans la direction y,(voir la note),,,,Operational,PDF
+grib2/3/140/64,Modèle de définition de la grille 3.140 — Projection azimutale équivalente de Lambert,64,1,Mode d'exploration,(voir la table d'indicateurs 3.4),,,,Operational,PDF

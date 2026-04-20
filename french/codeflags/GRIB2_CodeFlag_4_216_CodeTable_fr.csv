@@ -1,5 +1,5 @@
 ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
-grib2/4/216/0-90,Table de code 4.216 – Altitude du terrain couvert de neige,,0-90,,Altitude par incréments de 100 m,,,,Operational,Original
-grib2/4/216/91-253,Table de code 4.216 – Altitude du terrain couvert de neige,,91-253,,En réserve,,,,Operational,Original
-grib2/4/216/254,Table de code 4.216 – Altitude du terrain couvert de neige,,254,,Nuages,,,,Operational,Original
-grib2/4/216/255,Table de code 4.216 – Altitude du terrain couvert de neige,,255,,Valeur manquante,,,,Operational,Original
+grib2/4/216/0-90,Table de code 4.216 – Altitude du terrain couvert de neige,,0-90,,Altitude par incréments de 100 m,,,,Operational,PDF
+grib2/4/216/91-253,Table de code 4.216 – Altitude du terrain couvert de neige,,91-253,,En réserve,,,,Operational,PDF
+grib2/4/216/254,Table de code 4.216 – Altitude du terrain couvert de neige,,254,,Nuages,,,,Operational,PDF
+grib2/4/216/255,Table de code 4.216 – Altitude du terrain couvert de neige,,255,,Valeur manquante,,,,Operational,PDF

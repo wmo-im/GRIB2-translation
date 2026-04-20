@@ -1,7 +1,7 @@
 ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
-grib2/4/12/0,Table de code 4.12 – Mode de fonctionnement,,0,,Mode maintenance,,,,Operational,Original
-grib2/4/12/1,Table de code 4.12 – Mode de fonctionnement,,1,,Ciel clair,,,,Operational,Original
-grib2/4/12/2,Table de code 4.12 – Mode de fonctionnement,,2,,Précipitation,,,,Operational,Original
-grib2/4/12/3-191,Table de code 4.12 – Mode de fonctionnement,,3-191,,En réserve,,,,Operational,Original
-grib2/4/12/192-254,Table de code 4.12 – Mode de fonctionnement,,192-254,,En réserve pour un usage local,,,,Operational,Original
-grib2/4/12/255,Table de code 4.12 – Mode de fonctionnement,,255,,Valeur manquante,,,,Operational,Original
+grib2/4/12/0,Table de code 4.12 – Mode de fonctionnement,,0,,Mode maintenance,,,,Operational,PDF
+grib2/4/12/1,Table de code 4.12 – Mode de fonctionnement,,1,,Ciel clair,,,,Operational,PDF
+grib2/4/12/2,Table de code 4.12 – Mode de fonctionnement,,2,,Précipitation,,,,Operational,PDF
+grib2/4/12/3-191,Table de code 4.12 – Mode de fonctionnement,,3-191,,En réserve,,,,Operational,PDF
+grib2/4/12/192-254,Table de code 4.12 – Mode de fonctionnement,,192-254,,En réserve pour un usage local,,,,Operational,PDF
+grib2/4/12/255,Table de code 4.12 – Mode de fonctionnement,,255,,Valeur manquante,,,,Operational,PDF

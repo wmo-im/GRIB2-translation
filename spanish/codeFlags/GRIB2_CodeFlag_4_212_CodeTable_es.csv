@@ -1,18 +1,18 @@
 ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
-grib2/4/212/0,Tabla de cifrado 4.212 - Usos de las tierras,,0,,Reservada,,,,Operational,Original
-grib2/4/212/1,Tabla de cifrado 4.212 - Usos de las tierras,,1,,Terrenos urbanos,,,,Operational,Original
-grib2/4/212/2,Tabla de cifrado 4.212 - Usos de las tierras,,2,,Agricultura,,,,Operational,Original
-grib2/4/212/3,Tabla de cifrado 4.212 - Usos de las tierras,,3,,Pastizales,,,,Operational,Original
-grib2/4/212/4,Tabla de cifrado 4.212 - Usos de las tierras,,4,,Bosque caducifolio,,,,Operational,Original
-grib2/4/212/5,Tabla de cifrado 4.212 - Usos de las tierras,,5,,Bosque de coníferas,,,,Operational,Original
-grib2/4/212/6,Tabla de cifrado 4.212 - Usos de las tierras,,6,,Bosque/humedal,,,,Operational,Original
-grib2/4/212/7,Tabla de cifrado 4.212 - Usos de las tierras,,7,,Agua,,,,Operational,Original
-grib2/4/212/8,Tabla de cifrado 4.212 - Usos de las tierras,,8,,Humedales,,,,Operational,Original
-grib2/4/212/9,Tabla de cifrado 4.212 - Usos de las tierras,,9,,Desierto,,,,Operational,Original
-grib2/4/212/10,Tabla de cifrado 4.212 - Usos de las tierras,,10,,Tundra,,,,Operational,Original
-grib2/4/212/11,Tabla de cifrado 4.212 - Usos de las tierras,,11,,Hielo,,,,Operational,Original
-grib2/4/212/12,Tabla de cifrado 4.212 - Usos de las tierras,,12,,Bosque tropical,,,,Operational,Original
-grib2/4/212/13,Tabla de cifrado 4.212 - Usos de las tierras,,13,,Sabana,,,,Operational,Original
-grib2/4/212/14-191,Tabla de cifrado 4.212 - Usos de las tierras,,14-191,,Reservadas,,,,Operational,Original
-grib2/4/212/192-254,Tabla de cifrado 4.212 - Usos de las tierras,,192-254,,Reservadas para uso local,,,,Operational,Original
-grib2/4/212/255,Tabla de cifrado 4.212 - Usos de las tierras,,255,,Valor faltante,,,,Operational,Original
+grib2/4/212/0,Tabla de cifrado 4.212 - Usos de las tierras,,0,,Reservada,,,,Operational,PDF
+grib2/4/212/1,Tabla de cifrado 4.212 - Usos de las tierras,,1,,Terrenos urbanos,,,,Operational,PDF
+grib2/4/212/2,Tabla de cifrado 4.212 - Usos de las tierras,,2,,Agricultura,,,,Operational,PDF
+grib2/4/212/3,Tabla de cifrado 4.212 - Usos de las tierras,,3,,Pastizales,,,,Operational,PDF
+grib2/4/212/4,Tabla de cifrado 4.212 - Usos de las tierras,,4,,Bosque caducifolio,,,,Operational,PDF
+grib2/4/212/5,Tabla de cifrado 4.212 - Usos de las tierras,,5,,Bosque de coníferas,,,,Operational,PDF
+grib2/4/212/6,Tabla de cifrado 4.212 - Usos de las tierras,,6,,Bosque/humedal,,,,Operational,PDF
+grib2/4/212/7,Tabla de cifrado 4.212 - Usos de las tierras,,7,,Agua,,,,Operational,PDF
+grib2/4/212/8,Tabla de cifrado 4.212 - Usos de las tierras,,8,,Humedales,,,,Operational,PDF
+grib2/4/212/9,Tabla de cifrado 4.212 - Usos de las tierras,,9,,Desierto,,,,Operational,PDF
+grib2/4/212/10,Tabla de cifrado 4.212 - Usos de las tierras,,10,,Tundra,,,,Operational,PDF
+grib2/4/212/11,Tabla de cifrado 4.212 - Usos de las tierras,,11,,Hielo,,,,Operational,PDF
+grib2/4/212/12,Tabla de cifrado 4.212 - Usos de las tierras,,12,,Bosque tropical,,,,Operational,PDF
+grib2/4/212/13,Tabla de cifrado 4.212 - Usos de las tierras,,13,,Sabana,,,,Operational,PDF
+grib2/4/212/14-191,Tabla de cifrado 4.212 - Usos de las tierras,,14-191,,Reservadas,,,,Operational,PDF
+grib2/4/212/192-254,Tabla de cifrado 4.212 - Usos de las tierras,,192-254,,Reservadas para uso local,,,,Operational,PDF
+grib2/4/212/255,Tabla de cifrado 4.212 - Usos de las tierras,,255,,Valor faltante,,,,Operational,PDF

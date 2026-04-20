@@ -1,6 +1,6 @@
 ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
-grib2/4/248/0,Method used to derive data values for a given local time,,0,,Nearest forecast or analysis time to specified local time,,,,Operational,Original
-grib2/4/248/1,Method used to derive data values for a given local time,,1,,Interpolated to be valid at the specified local time,,,,Operational,Original
-grib2/4/248/2-191,Method used to derive data values for a given local time,,2-191,,Reserved,,,,Operational,Original
-grib2/4/248/192-254,Method used to derive data values for a given local time,,192-254,,Reserved for local use,,,,Operational,Original
-grib2/4/248/255,Method used to derive data values for a given local time,,255,,Missing,,,,Operational,Original
+grib2/4/248/0,Method used to derive data values for a given local time,,0,,Nearest forecast or analysis time to specified local time,,,,Operational,PDF
+grib2/4/248/1,Method used to derive data values for a given local time,,1,,Interpolated to be valid at the specified local time,,,,Operational,PDF
+grib2/4/248/2-191,Method used to derive data values for a given local time,,2-191,,Reserved,,,,Operational,PDF
+grib2/4/248/192-254,Method used to derive data values for a given local time,,192-254,,Reserved for local use,,,,Operational,PDF
+grib2/4/248/255,Method used to derive data values for a given local time,,255,,Missing,,,,Operational,PDF

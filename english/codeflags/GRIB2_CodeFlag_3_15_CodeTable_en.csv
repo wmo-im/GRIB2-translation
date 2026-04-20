@@ -1,23 +1,23 @@
 ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
-grib2/3/15/0-19,Physical meaning of vertical coordinate,,0-19,,Reserved,,,,Operational,Original
-grib2/3/15/20,Physical meaning of vertical coordinate,,20,,Temperature,,,K,Operational,Original
-grib2/3/15/21-99,Physical meaning of vertical coordinate,,21-99,,Reserved,,,,Operational,Original
-grib2/3/15/100,Physical meaning of vertical coordinate,,100,,Pressure,,,Pa,Operational,Original
-grib2/3/15/101,Physical meaning of vertical coordinate,,101,,Pressure deviation from mean sea level,,,Pa,Operational,Original
-grib2/3/15/102,Physical meaning of vertical coordinate,,102,,Altitude above mean sea level,,,m,Operational,Original
-grib2/3/15/103,Physical meaning of vertical coordinate,,103,,Height above ground,(see Note 1),68,m,Operational,Original
-grib2/3/15/104,Physical meaning of vertical coordinate,,104,,Sigma coordinate,,,,Operational,Original
-grib2/3/15/105,Physical meaning of vertical coordinate,,105,,Hybrid coordinate,,,,Operational,Original
-grib2/3/15/106,Physical meaning of vertical coordinate,,106,,Depth below land surface,,,m,Operational,Original
-grib2/3/15/107,Physical meaning of vertical coordinate,,107,,Potential temperature (theta),,,K,Operational,Original
-grib2/3/15/108,Physical meaning of vertical coordinate,,108,,Pressure deviation from ground to level,,,Pa,Operational,Original
-grib2/3/15/109,Physical meaning of vertical coordinate,,109,,Potential vorticity,,,K m2 kg-1 s-1,Operational,Original
-grib2/3/15/110,Physical meaning of vertical coordinate,,110,,Geometrical height,,,m,Operational,Original
-grib2/3/15/111,Physical meaning of vertical coordinate,,111,,Eta coordinate,(see Note 2),85,,Operational,Original
-grib2/3/15/112,Physical meaning of vertical coordinate,,112,,Geopotential height,,,gpm,Operational,Original
-grib2/3/15/113,Physical meaning of vertical coordinate,,113,,Logarithmic hybrid coordinate,,,,Operational,Original
-grib2/3/15/114-159,Physical meaning of vertical coordinate,,114-159,,Reserved,,,,Operational,Original
-grib2/3/15/160,Physical meaning of vertical coordinate,,160,,Depth below sea level,,,m,Operational,Original
-grib2/3/15/161-191,Physical meaning of vertical coordinate,,161-191,,Reserved,,,,Operational,Original
-grib2/3/15/192-254,Physical meaning of vertical coordinate,,192-254,,Reserved for local use,,,,Operational,Original
-grib2/3/15/255,Physical meaning of vertical coordinate,,255,,Missing,,,,Operational,Original
+grib2/3/15/0-19,Physical meaning of vertical coordinate,,0-19,,Reserved,,,,Operational,PDF
+grib2/3/15/20,Physical meaning of vertical coordinate,,20,,Temperature,,,K,Operational,PDF
+grib2/3/15/21-99,Physical meaning of vertical coordinate,,21-99,,Reserved,,,,Operational,PDF
+grib2/3/15/100,Physical meaning of vertical coordinate,,100,,Pressure,,,Pa,Operational,PDF
+grib2/3/15/101,Physical meaning of vertical coordinate,,101,,Pressure deviation from mean sea level,,,Pa,Operational,PDF
+grib2/3/15/102,Physical meaning of vertical coordinate,,102,,Altitude above mean sea level,,,m,Operational,PDF
+grib2/3/15/103,Physical meaning of vertical coordinate,,103,,Height above ground,(see Note 1),68,m,Operational,PDF
+grib2/3/15/104,Physical meaning of vertical coordinate,,104,,Sigma coordinate,,,,Operational,PDF
+grib2/3/15/105,Physical meaning of vertical coordinate,,105,,Hybrid coordinate,,,,Operational,PDF
+grib2/3/15/106,Physical meaning of vertical coordinate,,106,,Depth below land surface,,,m,Operational,PDF
+grib2/3/15/107,Physical meaning of vertical coordinate,,107,,Potential temperature (theta),,,K,Operational,PDF
+grib2/3/15/108,Physical meaning of vertical coordinate,,108,,Pressure deviation from ground to level,,,Pa,Operational,PDF
+grib2/3/15/109,Physical meaning of vertical coordinate,,109,,Potential vorticity,,,K m2 kg-1 s-1,Operational,PDF
+grib2/3/15/110,Physical meaning of vertical coordinate,,110,,Geometrical height,,,m,Operational,PDF
+grib2/3/15/111,Physical meaning of vertical coordinate,,111,,Eta coordinate,(see Note 2),85,,Operational,PDF
+grib2/3/15/112,Physical meaning of vertical coordinate,,112,,Geopotential height,,,gpm,Operational,PDF
+grib2/3/15/113,Physical meaning of vertical coordinate,,113,,Logarithmic hybrid coordinate,,,,Operational,PDF
+grib2/3/15/114-159,Physical meaning of vertical coordinate,,114-159,,Reserved,,,,Operational,PDF
+grib2/3/15/160,Physical meaning of vertical coordinate,,160,,Depth below sea level,,,m,Operational,PDF
+grib2/3/15/161-191,Physical meaning of vertical coordinate,,161-191,,Reserved,,,,Operational,PDF
+grib2/3/15/192-254,Physical meaning of vertical coordinate,,192-254,,Reserved for local use,,,,Operational,PDF
+grib2/3/15/255,Physical meaning of vertical coordinate,,255,,Missing,,,,Operational,PDF

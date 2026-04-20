@@ -1,7 +1,7 @@
 ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
-grib2/4/246/0,Thunderstorm intensity,,0,,No thunderstorm occurrence,,,,Operational,Original
-grib2/4/246/1,Thunderstorm intensity,,1,,Weak thunderstorm,,,,Operational,Original
-grib2/4/246/2,Thunderstorm intensity,,2,,Moderate thunderstorm,,,,Operational,Original
-grib2/4/246/3,Thunderstorm intensity,,3,,Severe thunderstorm,,,,Operational,Original
-grib2/4/246/4-254,Thunderstorm intensity,,4-254,,Reserved,,,,Operational,Original
-grib2/4/246/255,Thunderstorm intensity,,255,,Missing,,,,Operational,Original
+grib2/4/246/0,Thunderstorm intensity,,0,,No thunderstorm occurrence,,,,Operational,PDF
+grib2/4/246/1,Thunderstorm intensity,,1,,Weak thunderstorm,,,,Operational,PDF
+grib2/4/246/2,Thunderstorm intensity,,2,,Moderate thunderstorm,,,,Operational,PDF
+grib2/4/246/3,Thunderstorm intensity,,3,,Severe thunderstorm,,,,Operational,PDF
+grib2/4/246/4-254,Thunderstorm intensity,,4-254,,Reserved,,,,Operational,PDF
+grib2/4/246/255,Thunderstorm intensity,,255,,Missing,,,,Operational,PDF

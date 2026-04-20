@@ -1,7 +1,7 @@
 ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
-grib2/5/3/1,Tabla de cifrado 5.3 Parámetro de las coordenadas matriciales,,1,,Dirección en grados verdaderos,,,,Operational,Original
-grib2/5/3/2,Tabla de cifrado 5.3 Parámetro de las coordenadas matriciales,,2,,Frecuencia (s-1)),,,,Operational,Original
-grib2/5/3/3,Tabla de cifrado 5.3 Parámetro de las coordenadas matriciales,,3,,Número radial (2pi/lambda) (m-1),,,,Operational,Original
-grib2/5/3/4-191,Tabla de cifrado 5.3 Parámetro de las coordenadas matriciales,,4-191,,Reservadas,,,,Operational,Original
-grib2/5/3/192-254,Tabla de cifrado 5.3 Parámetro de las coordenadas matriciales,,192-254,,Reservadas para uso local,,,,Operational,Original
-grib2/5/3/255,Tabla de cifrado 5.3 Parámetro de las coordenadas matriciales,,255,,Valor faltante,,,,Operational,Original
+grib2/5/3/1,Tabla de cifrado 5.3 Parámetro de las coordenadas matriciales,,1,,Dirección en grados verdaderos,,,,Operational,PDF
+grib2/5/3/2,Tabla de cifrado 5.3 Parámetro de las coordenadas matriciales,,2,,Frecuencia (s-1)),,,,Operational,PDF
+grib2/5/3/3,Tabla de cifrado 5.3 Parámetro de las coordenadas matriciales,,3,,Número radial (2pi/lambda) (m-1),,,,Operational,PDF
+grib2/5/3/4-191,Tabla de cifrado 5.3 Parámetro de las coordenadas matriciales,,4-191,,Reservadas,,,,Operational,PDF
+grib2/5/3/192-254,Tabla de cifrado 5.3 Parámetro de las coordenadas matriciales,,192-254,,Reservadas para uso local,,,,Operational,PDF
+grib2/5/3/255,Tabla de cifrado 5.3 Parámetro de las coordenadas matriciales,,255,,Valor faltante,,,,Operational,PDF

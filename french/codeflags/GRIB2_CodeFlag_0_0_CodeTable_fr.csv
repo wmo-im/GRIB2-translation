@@ -1,11 +1,11 @@
 ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
-grib2/0/0/0,"Table de code 0.0 — Domaine de spécialisation des données traitées dans le message GRIB, numéro de la table principale du code GRIB",,0,,Produits météorologiques,,,,Operational,Original
-grib2/0/0/1,"Table de code 0.0 — Domaine de spécialisation des données traitées dans le message GRIB, numéro de la table principale du code GRIB",,1,,Produits hydrologiques,,,,Operational,Original
-grib2/0/0/2,"Table de code 0.0 — Domaine de spécialisation des données traitées dans le message GRIB, numéro de la table principale du code GRIB",,2,,Produits pour la surface des terres,,,,Operational,Original
-grib2/0/0/3,"Table de code 0.0 — Domaine de spécialisation des données traitées dans le message GRIB, numéro de la table principale du code GRIB",,3,,Produits de télédétection satellitaire (auparavant «Produits spatiaux»),,,,Operational,Original
-grib2/0/0/4,"Table de code 0.0 — Domaine de spécialisation des données traitées dans le message GRIB, numéro de la table principale du code GRIB",,4,,Produits relatifs à la météorologie de l'espace,,,,Operational,Original
-grib2/0/0/5-9,"Table de code 0.0 — Domaine de spécialisation des données traitées dans le message GRIB, numéro de la table principale du code GRIB",,5-9,,En réserve,,,,Operational,Original
-grib2/0/0/10,"Table de code 0.0 — Domaine de spécialisation des données traitées dans le message GRIB, numéro de la table principale du code GRIB",,10,,Produits océanographiques,,,,Operational,Original
-grib2/0/0/11-191,"Table de code 0.0 — Domaine de spécialisation des données traitées dans le message GRIB, numéro de la table principale du code GRIB",,11-191,,En réserve,,,,Operational,Original
-grib2/0/0/192-254,"Table de code 0.0 — Domaine de spécialisation des données traitées dans le message GRIB, numéro de la table principale du code GRIB",,192-254,,En réserve pour un usage local,,,,Operational,Original
-grib2/0/0/255,"Table de code 0.0 — Domaine de spécialisation des données traitées dans le message GRIB, numéro de la table principale du code GRIB",,255,,Valeur manquante,,,,Operational,Original
+grib2/0/0/0,"Table de code 0.0 — Domaine de spécialisation des données traitées dans le message GRIB, numéro de la table principale du code GRIB",,0,,Produits météorologiques,,,,Operational,PDF
+grib2/0/0/1,"Table de code 0.0 — Domaine de spécialisation des données traitées dans le message GRIB, numéro de la table principale du code GRIB",,1,,Produits hydrologiques,,,,Operational,PDF
+grib2/0/0/2,"Table de code 0.0 — Domaine de spécialisation des données traitées dans le message GRIB, numéro de la table principale du code GRIB",,2,,Produits pour la surface des terres,,,,Operational,PDF
+grib2/0/0/3,"Table de code 0.0 — Domaine de spécialisation des données traitées dans le message GRIB, numéro de la table principale du code GRIB",,3,,Produits de télédétection satellitaire (auparavant «Produits spatiaux»),,,,Operational,PDF
+grib2/0/0/4,"Table de code 0.0 — Domaine de spécialisation des données traitées dans le message GRIB, numéro de la table principale du code GRIB",,4,,Produits relatifs à la météorologie de l'espace,,,,Operational,PDF
+grib2/0/0/5-9,"Table de code 0.0 — Domaine de spécialisation des données traitées dans le message GRIB, numéro de la table principale du code GRIB",,5-9,,En réserve,,,,Operational,PDF
+grib2/0/0/10,"Table de code 0.0 — Domaine de spécialisation des données traitées dans le message GRIB, numéro de la table principale du code GRIB",,10,,Produits océanographiques,,,,Operational,PDF
+grib2/0/0/11-191,"Table de code 0.0 — Domaine de spécialisation des données traitées dans le message GRIB, numéro de la table principale du code GRIB",,11-191,,En réserve,,,,Operational,PDF
+grib2/0/0/192-254,"Table de code 0.0 — Domaine de spécialisation des données traitées dans le message GRIB, numéro de la table principale du code GRIB",,192-254,,En réserve pour un usage local,,,,Operational,PDF
+grib2/0/0/255,"Table de code 0.0 — Domaine de spécialisation des données traitées dans le message GRIB, numéro de la table principale du code GRIB",,255,,Valeur manquante,,,,Operational,PDF

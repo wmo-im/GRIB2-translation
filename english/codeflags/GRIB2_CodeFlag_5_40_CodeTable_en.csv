@@ -1,5 +1,5 @@
 ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
-grib2/5/40/0,Type of compression,,0,,Lossless,,,,Operational,Original
-grib2/5/40/1,Type of compression,,1,,Lossy,,,,Operational,Original
-grib2/5/40/2-254,Type of compression,,2-254,,Reserved,,,,Operational,Original
-grib2/5/40/255,Type of compression,,255,,Missing,,,,Operational,Original
+grib2/5/40/0,Type of compression,,0,,Lossless,,,,Operational,PDF
+grib2/5/40/1,Type of compression,,1,,Lossy,,,,Operational,PDF
+grib2/5/40/2-254,Type of compression,,2-254,,Reserved,,,,Operational,PDF
+grib2/5/40/255,Type of compression,,255,,Missing,,,,Operational,PDF

@@ -1,6 +1,6 @@
 ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
-grib2/3/20/0,Type of horizontal line,,0,,Rhumb,,,,Operational,Original
-grib2/3/20/1,Type of horizontal line,,1,,Great circle,,,,Operational,Original
-grib2/3/20/2-191,Type of horizontal line,,2-191,,Reserved,,,,Operational,Original
-grib2/3/20/192-254,Type of horizontal line,,192-254,,Reserved for local use,,,,Operational,Original
-grib2/3/20/255,Type of horizontal line,,255,,Missing,,,,Operational,Original
+grib2/3/20/0,Type of horizontal line,,0,,Rhumb,,,,Operational,PDF
+grib2/3/20/1,Type of horizontal line,,1,,Great circle,,,,Operational,PDF
+grib2/3/20/2-191,Type of horizontal line,,2-191,,Reserved,,,,Operational,PDF
+grib2/3/20/192-254,Type of horizontal line,,192-254,,Reserved for local use,,,,Operational,PDF
+grib2/3/20/255,Type of horizontal line,,255,,Missing,,,,Operational,PDF

@@ -1,16 +1,16 @@
 ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
-grib2/4/10/0,Table de code 4.10 – Calcul statistique,,0,,Moyenne,,,,Operational,Original
-grib2/4/10/1,Table de code 4.10 – Calcul statistique,,1,,Total,"(voir la note 1) La valeur initiale des données (Y dans la note 4 de la règle 92.9.4) s'exprime en unités de la table de code 4.2 par seconde, à moins qu'il n'en soit noté autrement dans la table de code 4.2.",,,Operational,Original
-grib2/4/10/2,Table de code 4.10 – Calcul statistique,,2,,Maximum,,,,Operational,Original
-grib2/4/10/3,Table de code 4.10 – Calcul statistique,,3,,Minimum,,,,Operational,Original
-grib2/4/10/4,Table de code 4.10 – Calcul statistique,,4,,Différence (entre la valeur à la fin de l'intervalle de temps et la valeur au début de cet intervalle),,,,Operational,Original
-grib2/4/10/5,Table de code 4.10 – Calcul statistique,,5,,Moyenne quadratique,,,,Operational,Original
-grib2/4/10/6,Table de code 4.10 – Calcul statistique,,6,,Écart type,,,,Operational,Original
-grib2/4/10/7,Table de code 4.10 – Calcul statistique,,7,,Covariance (variance temporelle),(voir la note 2) La valeur initiale des données s'exprime en unités carrées de la table de code 4.2.,,,Operational,Original
-grib2/4/10/8,Table de code 4.10 – Calcul statistique,,8,,Différence (entre la valeur au début de l'intervalle de temps et la valeur à la fin de cet intervalle),,,,Operational,Original
-grib2/4/10/9,Table de code 4.10 – Calcul statistique,,9,,Ratio,(voir la note 3) La valeur initiale des données s'exprime sous forme numérique non dimensionnelle sans unité.,,,Operational,Original
-grib2/4/10/10,Table de code 4.10 – Calcul statistique,,10,,Anomalie normalisée,,,,Operational,Original
-grib2/4/10/11,Table de code 4.10 – Calcul statistique,,11,,Somme,,,,Operational,Original
-grib2/4/10/12-191,Table de code 4.10 – Calcul statistique,,12-191,,En réserve,,,,Operational,Original
-grib2/4/10/192-254,Table de code 4.10 – Calcul statistique,,192-254,,En réserve pour un usage local,,,,Operational,Original
-grib2/4/10/255,Table de code 4.10 – Calcul statistique,,255,,Valeur manquante,,,,Operational,Original
+grib2/4/10/0,Table de code 4.10 – Calcul statistique,,0,,Moyenne,,,,Operational,PDF
+grib2/4/10/1,Table de code 4.10 – Calcul statistique,,1,,Total,"(voir la note 1) La valeur initiale des données (Y dans la note 4 de la règle 92.9.4) s'exprime en unités de la table de code 4.2 par seconde, à moins qu'il n'en soit noté autrement dans la table de code 4.2.",,,Operational,PDF
+grib2/4/10/2,Table de code 4.10 – Calcul statistique,,2,,Maximum,,,,Operational,PDF
+grib2/4/10/3,Table de code 4.10 – Calcul statistique,,3,,Minimum,,,,Operational,PDF
+grib2/4/10/4,Table de code 4.10 – Calcul statistique,,4,,Différence (entre la valeur à la fin de l'intervalle de temps et la valeur au début de cet intervalle),,,,Operational,PDF
+grib2/4/10/5,Table de code 4.10 – Calcul statistique,,5,,Moyenne quadratique,,,,Operational,PDF
+grib2/4/10/6,Table de code 4.10 – Calcul statistique,,6,,Écart type,,,,Operational,PDF
+grib2/4/10/7,Table de code 4.10 – Calcul statistique,,7,,Covariance (variance temporelle),(voir la note 2) La valeur initiale des données s'exprime en unités carrées de la table de code 4.2.,,,Operational,PDF
+grib2/4/10/8,Table de code 4.10 – Calcul statistique,,8,,Différence (entre la valeur au début de l'intervalle de temps et la valeur à la fin de cet intervalle),,,,Operational,PDF
+grib2/4/10/9,Table de code 4.10 – Calcul statistique,,9,,Ratio,(voir la note 3) La valeur initiale des données s'exprime sous forme numérique non dimensionnelle sans unité.,,,Operational,PDF
+grib2/4/10/10,Table de code 4.10 – Calcul statistique,,10,,Anomalie normalisée,,,,Operational,PDF
+grib2/4/10/11,Table de code 4.10 – Calcul statistique,,11,,Somme,,,,Operational,PDF
+grib2/4/10/12-191,Table de code 4.10 – Calcul statistique,,12-191,,En réserve,,,,Operational,PDF
+grib2/4/10/192-254,Table de code 4.10 – Calcul statistique,,192-254,,En réserve pour un usage local,,,,Operational,PDF
+grib2/4/10/255,Table de code 4.10 – Calcul statistique,,255,,Valeur manquante,,,,Operational,PDF

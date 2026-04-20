@@ -1,7 +1,7 @@
 ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
-grib2/4/244/0,Quality indicator,,0,,No quality information available,,,,Operational,Original
-grib2/4/244/1,Quality indicator,,1,,Failed,,,,Operational,Original
-grib2/4/244/2,Quality indicator,,2,,Passed,,,,Operational,Original
-grib2/4/244/3-191,Quality indicator,,3-191,,Reserved,,,,Operational,Original
-grib2/4/244/192-254,Quality indicator,,192-254,,Reserved for local use,,,,Operational,Original
-grib2/4/244/255,Quality indicator,,255,,Missing,,,,Operational,Original
+grib2/4/244/0,Quality indicator,,0,,No quality information available,,,,Operational,PDF
+grib2/4/244/1,Quality indicator,,1,,Failed,,,,Operational,PDF
+grib2/4/244/2,Quality indicator,,2,,Passed,,,,Operational,PDF
+grib2/4/244/3-191,Quality indicator,,3-191,,Reserved,,,,Operational,PDF
+grib2/4/244/192-254,Quality indicator,,192-254,,Reserved for local use,,,,Operational,PDF
+grib2/4/244/255,Quality indicator,,255,,Missing,,,,Operational,PDF

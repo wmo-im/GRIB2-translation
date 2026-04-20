@@ -1,46 +1,46 @@
 ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
-grib2/4/218/0,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,0,,Escena no identificada,,,,Operational,Original
-grib2/4/218/1,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,1,,Bosque de hoja aciculada perenne,,,,Operational,Original
-grib2/4/218/2,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,2,,Bosque de hoja ancha perenne,,,,Operational,Original
-grib2/4/218/3,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,3,,Bosque de hoja aciculada caducifolio,,,,Operational,Original
-grib2/4/218/4,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,4,,Bosque de hoja ancha caducifolio,,,,Operational,Original
-grib2/4/218/5,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,5,,Bosque mixto caducifolio,,,,Operational,Original
-grib2/4/218/6,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,6,,Tierras de matorral espeso,,,,Operational,Original
-grib2/4/218/7,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,7,,Tierras de matorral ralo,,,,Operational,Original
-grib2/4/218/8,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,8,,Sabana boscosa,,,,Operational,Original
-grib2/4/218/9,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,9,,Sabana,,,,Operational,Original
-grib2/4/218/10,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,10,,Pastizal,,,,Operational,Original
-grib2/4/218/11,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,11,,Humedal permanente,,,,Operational,Original
-grib2/4/218/12,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,12,,Tierra de cultivo,,,,Operational,Original
-grib2/4/218/13,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,13,,Urbana,,,,Operational,Original
-grib2/4/218/14,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,14,,Vegetación/cultivos,,,,Operational,Original
-grib2/4/218/15,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,15,,Nieve/hielo permanente,,,,Operational,Original
-grib2/4/218/16,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,16,,Desierto estéril,,,,Operational,Original
-grib2/4/218/17,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,17,,Masas de agua,,,,Operational,Original
-grib2/4/218/18,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,18,,Tundra,,,,Operational,Original
-grib2/4/218/19,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,19,,Nube de agua caliente en estado líquido,,,,Operational,Original
-grib2/4/218/20,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,20,,Nube de agua subfundida en estado líquido,,,,Operational,Original
-grib2/4/218/21,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,21,,Nube de fase mixta,,,,Operational,Original
-grib2/4/218/22,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,22,,Nube de hielo ópticamente delgado,,,,Operational,Original
-grib2/4/218/23,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,23,,Nube de hielo ópticamente espeso,,,,Operational,Original
-grib2/4/218/24,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,24,,Nube de capas múltiples,,,,Operational,Original
-grib2/4/218/25-96,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,25-96,,Reservadas,,,,Operational,Original
-grib2/4/218/97,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,97,,Nieve/hielo sobre la tierra,,,,Operational,Original
-grib2/4/218/98,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,98,,Nieve/hielo sobre el agua,,,,Operational,Original
-grib2/4/218/99,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,99,,Destello solar,,,,Operational,Original
-grib2/4/218/100,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,100,,Nube general,,,,Operational,Original
-grib2/4/218/101,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,101,,Nube baja/niebla/estratos,,,,Operational,Original
-grib2/4/218/102,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,102,,Nube baja/estratocúmulus,,,,Operational,Original
-grib2/4/218/103,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,103,,Nube baja/tipo desconocido,,,,Operational,Original
-grib2/4/218/104,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,104,,Nube media/nimbostratus,,,,Operational,Original
-grib2/4/218/105,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,105,,Nube media/altoestratus,,,,Operational,Original
-grib2/4/218/106,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,106,,Nube media/tipo desconocido,,,,Operational,Original
-grib2/4/218/107,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,107,,Nube alta/cúmulus,,,,Operational,Original
-grib2/4/218/108,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,108,,Nube alta/cirrus,,,,Operational,Original
-grib2/4/218/109,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,109,,Nube alta/desconocido,,,,Operational,Original
-grib2/4/218/110,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,110,,Tipo de nube desconocido,,,,Operational,Original
-grib2/4/218/111,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,111,,Nube de agua de una sola capa,,,,Operational,Original
-grib2/4/218/112,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,112,,Nube de hielo de una sola capa,,,,Operational,Original
-grib2/4/218/113-191,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,113-191,,Reservadas,,,,Operational,Original
-grib2/4/218/192-254,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,192-254,,Reservadas para uso local,,,,Operational,Original
-grib2/4/218/255,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,255,,Valor faltante,,,,Operational,Original
+grib2/4/218/0,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,0,,Escena no identificada,,,,Operational,PDF
+grib2/4/218/1,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,1,,Bosque de hoja aciculada perenne,,,,Operational,PDF
+grib2/4/218/2,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,2,,Bosque de hoja ancha perenne,,,,Operational,PDF
+grib2/4/218/3,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,3,,Bosque de hoja aciculada caducifolio,,,,Operational,PDF
+grib2/4/218/4,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,4,,Bosque de hoja ancha caducifolio,,,,Operational,PDF
+grib2/4/218/5,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,5,,Bosque mixto caducifolio,,,,Operational,PDF
+grib2/4/218/6,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,6,,Tierras de matorral espeso,,,,Operational,PDF
+grib2/4/218/7,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,7,,Tierras de matorral ralo,,,,Operational,PDF
+grib2/4/218/8,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,8,,Sabana boscosa,,,,Operational,PDF
+grib2/4/218/9,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,9,,Sabana,,,,Operational,PDF
+grib2/4/218/10,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,10,,Pastizal,,,,Operational,PDF
+grib2/4/218/11,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,11,,Humedal permanente,,,,Operational,PDF
+grib2/4/218/12,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,12,,Tierra de cultivo,,,,Operational,PDF
+grib2/4/218/13,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,13,,Urbana,,,,Operational,PDF
+grib2/4/218/14,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,14,,Vegetación/cultivos,,,,Operational,PDF
+grib2/4/218/15,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,15,,Nieve/hielo permanente,,,,Operational,PDF
+grib2/4/218/16,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,16,,Desierto estéril,,,,Operational,PDF
+grib2/4/218/17,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,17,,Masas de agua,,,,Operational,PDF
+grib2/4/218/18,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,18,,Tundra,,,,Operational,PDF
+grib2/4/218/19,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,19,,Nube de agua caliente en estado líquido,,,,Operational,PDF
+grib2/4/218/20,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,20,,Nube de agua subfundida en estado líquido,,,,Operational,PDF
+grib2/4/218/21,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,21,,Nube de fase mixta,,,,Operational,PDF
+grib2/4/218/22,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,22,,Nube de hielo ópticamente delgado,,,,Operational,PDF
+grib2/4/218/23,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,23,,Nube de hielo ópticamente espeso,,,,Operational,PDF
+grib2/4/218/24,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,24,,Nube de capas múltiples,,,,Operational,PDF
+grib2/4/218/25-96,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,25-96,,Reservadas,,,,Operational,PDF
+grib2/4/218/97,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,97,,Nieve/hielo sobre la tierra,,,,Operational,PDF
+grib2/4/218/98,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,98,,Nieve/hielo sobre el agua,,,,Operational,PDF
+grib2/4/218/99,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,99,,Destello solar,,,,Operational,PDF
+grib2/4/218/100,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,100,,Nube general,,,,Operational,PDF
+grib2/4/218/101,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,101,,Nube baja/niebla/estratos,,,,Operational,PDF
+grib2/4/218/102,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,102,,Nube baja/estratocúmulus,,,,Operational,PDF
+grib2/4/218/103,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,103,,Nube baja/tipo desconocido,,,,Operational,PDF
+grib2/4/218/104,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,104,,Nube media/nimbostratus,,,,Operational,PDF
+grib2/4/218/105,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,105,,Nube media/altoestratus,,,,Operational,PDF
+grib2/4/218/106,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,106,,Nube media/tipo desconocido,,,,Operational,PDF
+grib2/4/218/107,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,107,,Nube alta/cúmulus,,,,Operational,PDF
+grib2/4/218/108,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,108,,Nube alta/cirrus,,,,Operational,PDF
+grib2/4/218/109,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,109,,Nube alta/desconocido,,,,Operational,PDF
+grib2/4/218/110,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,110,,Tipo de nube desconocido,,,,Operational,PDF
+grib2/4/218/111,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,111,,Nube de agua de una sola capa,,,,Operational,PDF
+grib2/4/218/112,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,112,,Nube de hielo de una sola capa,,,,Operational,PDF
+grib2/4/218/113-191,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,113-191,,Reservadas,,,,Operational,PDF
+grib2/4/218/192-254,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,192-254,,Reservadas para uso local,,,,Operational,PDF
+grib2/4/218/255,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,255,,Valor faltante,,,,Operational,PDF
