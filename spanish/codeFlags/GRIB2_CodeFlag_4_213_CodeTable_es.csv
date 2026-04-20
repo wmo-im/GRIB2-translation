@@ -1,4 +1,4 @@
-ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translated_by
+ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
 grib2/4/213/0,Tabla de cifrado 4.213 – Tipo de suelo,,0,,Reservada,,,,Operational,Original
 grib2/4/213/1,Tabla de cifrado 4.213 – Tipo de suelo,,1,,Arena,,,,Operational,Original
 grib2/4/213/2,Tabla de cifrado 4.213 – Tipo de suelo,,2,,Arena limosa,,,,Operational,Original

@@ -1,4 +1,4 @@
-﻿ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
+﻿ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
 grib2/5/0/0,Table de code 5.0 – Numéro du modèle de représentation des données,,0,,Données aux points de grille - compression simple,,,,Operational,Original
 grib2/5/0/1,Table de code 5.0 – Numéro du modèle de représentation des données,,1,,Matrices - compression simple,,,,Experimental,Original
 grib2/5/0/2,Table de code 5.0 – Numéro du modèle de représentation des données,,2,,Données aux points de grille - compression complexe,,,,Operational,Original

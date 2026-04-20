@@ -1,4 +1,4 @@
-ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
 grib2/5/4/0,Table de code 5.4 – Méthode de séparation en groupes,,0,,Séparation ligne par ligne,,,,Operational,Original
 grib2/5/4/1,Table de code 5.4 – Méthode de séparation en groupes,,1,,Séparation générale en groupes,,,,Operational,Original
 grib2/5/4/2-191,Table de code 5.4 – Méthode de séparation en groupes,,2-191,,En réserve,,,,Operational,Original

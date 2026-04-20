@@ -1,4 +1,4 @@
-ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
 grib2/4/236/1,Table de code 4.236 – Fraction de texture du sol (à utiliser comme paramètre partitionné dans le modèle de définition du produit 4.53 ou 4.54),,1,,Grossière,,,,Operational,Original
 grib2/4/236/2,Table de code 4.236 – Fraction de texture du sol (à utiliser comme paramètre partitionné dans le modèle de définition du produit 4.53 ou 4.54),,2,,Moyenne,,,,Operational,Original
 grib2/4/236/3,Table de code 4.236 – Fraction de texture du sol (à utiliser comme paramètre partitionné dans le modèle de définition du produit 4.53 ou 4.54),,3,,Moyenne à fine,,,,Operational,Original

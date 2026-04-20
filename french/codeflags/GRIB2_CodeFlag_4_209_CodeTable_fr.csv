@@ -1,4 +1,4 @@
-ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
 grib2/4/209/0,Table de code 4.209 – Régime de la couche limite planétaire,,0,,En réserve,,,,Operational,Original
 grib2/4/209/1,Table de code 4.209 – Régime de la couche limite planétaire,,1,,Stable,,,,Operational,Original
 grib2/4/209/2,Table de code 4.209 – Régime de la couche limite planétaire,,2,,Turbulence d'origine mécanique,,,,Operational,Original

@@ -1,4 +1,4 @@
-ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
 grib2/4/213/0,Table de code 4.213 – Type de sol,,0,,En réserve,,,,Operational,Original
 grib2/4/213/1,Table de code 4.213 – Type de sol,,1,,Sable,,,,Operational,Original
 grib2/4/213/2,Table de code 4.213 – Type de sol,,2,,Sable limoneux,,,,Operational,Original

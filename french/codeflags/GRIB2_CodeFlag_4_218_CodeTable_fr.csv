@@ -1,4 +1,4 @@
-ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
 grib2/4/218/0,Table de code 4.218 – Type de scène formée de pixels,,0,,Aucune scène identifiée,,,,Operational,Original
 grib2/4/218/1,Table de code 4.218 – Type de scène formée de pixels,,1,,Forêt à feuillage aciculaire persistant,,,,Operational,Original
 grib2/4/218/2,Table de code 4.218 – Type de scène formée de pixels,,2,,Forêt à feuillage large persistant,,,,Operational,Original

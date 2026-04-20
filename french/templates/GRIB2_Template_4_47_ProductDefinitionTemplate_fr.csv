@@ -1,4 +1,4 @@
-﻿ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translated_by
+﻿ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/4/47/10,"Modèle de définition du produit 4.47 — Prévision d'ensemble prise séparément, de contrôle ou «perturbée», pour une surface ou une couche horizontale, durant un intervalle de temps continu ou non, relative aux aérosols",10,1,Catégorie du paramètre,(voir la table de code 4.1),,4.1,,Operational,Original
 grib2/4/47/11,"Modèle de définition du produit 4.47 — Prévision d'ensemble prise séparément, de contrôle ou «perturbée», pour une surface ou une couche horizontale, durant un intervalle de temps continu ou non, relative aux aérosols",11,1,Numéro du paramètre,(voir la table de code 4.2),,4.2,,Operational,Original
 grib2/4/47/12,"Modèle de définition du produit 4.47 — Prévision d'ensemble prise séparément, de contrôle ou «perturbée», pour une surface ou une couche horizontale, durant un intervalle de temps continu ou non, relative aux aérosols",12,1,Type du processus de production,(voir la table de code 4.3),,4.3,,Operational,Original

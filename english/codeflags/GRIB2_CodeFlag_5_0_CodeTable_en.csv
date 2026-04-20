@@ -1,4 +1,4 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
 grib2/5/0/0,Data representation template number,,0,,Grid point data - simple packing,,,,Operational,Original
 grib2/5/0/1,Data representation template number,,1,,Matrix value at grid point - simple packing,,,,Experimental,Original
 grib2/5/0/2,Data representation template number,,2,,Grid point data - complex packing,,,,Operational,Original

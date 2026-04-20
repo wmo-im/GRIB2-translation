@@ -1,4 +1,4 @@
-ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translated_by
+ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
 grib2/4/217/0,Tabla de cifrado 4.217 – Tipo de máscara de nubes,,0,,Cielo despejado sobre agua,,,,Operational,Original
 grib2/4/217/1,Tabla de cifrado 4.217 – Tipo de máscara de nubes,,1,,Cielo despejado sobre tierra,,,,Operational,Original
 grib2/4/217/2,Tabla de cifrado 4.217 – Tipo de máscara de nubes,,2,,Nubes,,,,Operational,Original

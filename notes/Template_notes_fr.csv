@@ -1,4 +1,4 @@
-noteID,note_fr,translated_by
+noteID,note_fr,translation_source
 1,Une cellule de données correspond à un point de données représentant un volume dont il est le centre.,Original
 2,"Quand un groupe ne contient que des valeurs manquantes (de l’un ou l’autre type), celui–ci est codé comme un groupe constant (largeur nulle, aucune donnée associée) et, dans la référence du groupe, tous les bits sont mis à 1 dans le cas de valeurs de type primaire ou tous les bits sont mis à 1 sauf le dernier mis à 0 dans le cas de valeurs de type secondaire.",Original
 3,"Un algorithme de traitement logarithmique permettant de réduire l’ordre de grandeur de la variabilité pour qu’il ne soit que de 101 ou de 102 est utilisé avant l’algorithme de compression simple. Il nécessite un paramètre (B) pour que toutes les valeurs auxquelles la fonction logarithme est appliquée soient positives. Les valeurs ajustées sont donc obtenues selon la formule Z = ln (Y+B), où Y représentent les valeurs originales, ln est la fonction logarithme népérien et B est défini par Y+B>0.",Original

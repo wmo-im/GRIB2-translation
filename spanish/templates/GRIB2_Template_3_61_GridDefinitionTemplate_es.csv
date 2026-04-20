@@ -1,4 +1,4 @@
-﻿ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translated_by
+﻿ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/3/61/15,Modelo de definición de la retícula 3.61— Representación espectral mediante proyección Mercator con definición de los subdominios de modelización,15,1,Tipo de representación espectral,véase la Tabla de cifrado 3.6,,3.6,,Operational,Original
 grib2/3/61/16-19,Modelo de definición de la retícula 3.61— Representación espectral mediante proyección Mercator con definición de los subdominios de modelización,16-19,4,N parámetro de resolución mediante transformada bidimensional de Fourier,,,,,Operational,Original
 grib2/3/61/20-23,Modelo de definición de la retícula 3.61— Representación espectral mediante proyección Mercator con definición de los subdominios de modelización,20-23,4,M parámetro de resolución mediante transformada bidimensional de Fourier,,,,,Operational,Original

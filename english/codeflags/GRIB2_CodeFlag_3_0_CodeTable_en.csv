@@ -1,4 +1,4 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
 grib2/3/0/0,Source of grid definition,,0,,Specified in Code table 3.1,,,,Operational,Original
 grib2/3/0/1,Source of grid definition,,1,,Predetermined grid definition,(see Note),42,,Operational,Original
 grib2/3/0/2-191,Source of grid definition,,2-191,,Reserved,,,,Operational,Original

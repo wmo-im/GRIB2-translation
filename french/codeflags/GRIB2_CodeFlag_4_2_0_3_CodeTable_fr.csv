@@ -1,4 +1,4 @@
-ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
 grib2/4/2/0/3/0,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Domaine de spécialisation 0 – Produits météorologiques, Catégorie de paramètres 3: masse",0,,Pression,,,Pa,Operational,Original
 grib2/4/2/0/3/1,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Domaine de spécialisation 0 – Produits météorologiques, Catégorie de paramètres 3: masse",1,,Pression réduite au niveau moyen de la mer,,,Pa,Operational,Original
 grib2/4/2/0/3/2,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Domaine de spécialisation 0 – Produits météorologiques, Catégorie de paramètres 3: masse",2,,Tendance barométrique,,,Pa s-1,Operational,Original

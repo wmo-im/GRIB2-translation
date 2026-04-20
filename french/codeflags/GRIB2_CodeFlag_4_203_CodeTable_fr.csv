@@ -1,4 +1,4 @@
-ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
 grib2/4/203/0,Table de code 4.203 – Type de nuage,,0,,Ciel clair,,,,Operational,Original
 grib2/4/203/1,Table de code 4.203 – Type de nuage,,1,,Cumulonimbus,,,,Operational,Original
 grib2/4/203/2,Table de code 4.203 – Type de nuage,,2,,Stratus,,,,Operational,Original

@@ -1,4 +1,4 @@
-ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
 grib2/4/220/0,Table de code 4.220 – Dimension horizontale calculée,,0,,Latitude,,,,Operational,Original
 grib2/4/220/1,Table de code 4.220 – Dimension horizontale calculée,,1,,Longitude,,,,Operational,Original
 grib2/4/220/2-191,Table de code 4.220 – Dimension horizontale calculée,,2-191,,En réserve,,,,Operational,Original

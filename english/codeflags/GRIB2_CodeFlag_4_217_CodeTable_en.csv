@@ -1,4 +1,4 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
 grib2/4/217/0,Cloud mask type,,0,,Clear over water,,,,Operational,Original
 grib2/4/217/1,Cloud mask type,,1,,Clear over land,,,,Operational,Original
 grib2/4/217/2,Cloud mask type,,2,,Cloud,,,,Operational,Original

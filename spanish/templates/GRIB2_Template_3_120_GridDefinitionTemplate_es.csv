@@ -1,4 +1,4 @@
-﻿ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translated_by
+﻿ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/3/120/15-18,Modelo de definición de la retícula 3.120 — Proyección azimut-distancia,15-18,4,Nb - número de células de datos a lo largo de las líneas radiales,véase la nota,,,,Operational,Original
 grib2/3/120/19-22,Modelo de definición de la retícula 3.120 — Proyección azimut-distancia,19-22,4,Nr - número de líneas radiales,,,,,Operational,Original
 grib2/3/120/23-26,Modelo de definición de la retícula 3.120 — Proyección azimut-distancia,23-26,4,La1 - latitud del punto central,,,,,Operational,Original

@@ -1,4 +1,4 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
 grib2/4/2/10/4/0,Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 4: subsurface properties",0,,Main thermocline depth,,,m,Operational,Original
 grib2/4/2/10/4/1,Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 4: subsurface properties",1,,Main thermocline anomaly,,,m,Operational,Original
 grib2/4/2/10/4/2,Parameter number by product discipline and parameter category,"Product discipline 10 - Oceanographic products, parameter category 4: subsurface properties",2,,Transient thermocline depth,,,m,Operational,Original

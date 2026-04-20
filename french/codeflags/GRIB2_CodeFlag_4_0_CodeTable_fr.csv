@@ -1,4 +1,4 @@
-﻿ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
+﻿ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
 grib2/4/0/0,,Numéro du modèle de définition du produit,0,,"Analyse ou prévision pour une surface ou une couche horizontale, à un moment donné",,,,Operational,Original
 grib2/4/0/1,,Numéro du modèle de définition du produit,1,,"Prévision d'ensemble prise séparément, de contrôle ou «perturbée», pour une surface ou une couche horizontale, à un moment donné",,,,Operational,Original
 grib2/4/0/2,,Numéro du modèle de définition du produit,2,,"Prévision dérivée, établie à partir de tous les membres de l'ensemble, pour une surface ou une couche horizontale, à un moment donné",,,,Operational,Original

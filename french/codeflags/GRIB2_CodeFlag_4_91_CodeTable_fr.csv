@@ -1,4 +1,4 @@
-ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
 grib2/4/91/0,Table de code 4.91 – Type d'intervalle,,0,,Inférieur à la première limite,,,,Operational,Original
 grib2/4/91/1,Table de code 4.91 – Type d'intervalle,,1,,Supérieur à la deuxième limite,,,,Operational,Original
 grib2/4/91/2,Table de code 4.91 – Type d'intervalle,,2,,Entre la première et la deuxième limite. L'intervalle comprend la première limite mais pas la deuxième,,,,Operational,Original

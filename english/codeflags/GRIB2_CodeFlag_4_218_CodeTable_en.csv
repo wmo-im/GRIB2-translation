@@ -1,4 +1,4 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
 grib2/4/218/0,Pixel scene type,,0,,No scene identified,,,,Operational,Original
 grib2/4/218/1,Pixel scene type,,1,,Green needle-leafed forest,,,,Operational,Original
 grib2/4/218/2,Pixel scene type,,2,,Green broad-leafed forest,,,,Operational,Original

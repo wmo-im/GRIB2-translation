@@ -1,4 +1,4 @@
-﻿ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translated_by
+﻿ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/5/3/12-47,"Datos en los puntos de la retícula, empaquetado complejo y diferenciación espacial",12-47,36,Idéntico al Modelo de representación de los datos 5.2,,,,,Operational,Original
 grib2/5/3/48,"Datos en los puntos de la retícula, empaquetado complejo y diferenciación espacial",48,1,Orden de la diferenciación espacial,(véase la Tabla de cifrado 5.6),,5.6,,Operational,Original
 grib2/5/3/49,"Datos en los puntos de la retícula, empaquetado complejo y diferenciación espacial",49,1,Número de octetos necesarios en la Sección de datos para precisar los descriptores adicionales que requiere la diferenciación espacial (octetos 6-ww en el Modelo de datos 7.3),,,,,Operational,Original

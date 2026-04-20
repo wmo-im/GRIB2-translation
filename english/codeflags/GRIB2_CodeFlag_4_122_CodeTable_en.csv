@@ -1,4 +1,4 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
 grib2/4/122/0,Type of additional arguments for verification score,,0,,Fixed threshold value,,,,Operational,Original
 grib2/4/122/1,Type of additional arguments for verification score,,1,,Threshold specified as a quantile of the climatology,,,,Operational,Original
 grib2/4/122/2,Type of additional arguments for verification score,,2,,Threshold specified as a multiple of the standard deviation,,,,Operational,Original

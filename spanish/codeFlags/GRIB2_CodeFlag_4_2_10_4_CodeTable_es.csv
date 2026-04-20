@@ -1,4 +1,4 @@
-ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translated_by
+ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
 grib2/4/2/10/4/0,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 10 — Productos oceanográficos, categoría de parámetros 4: propiedades subsuperficiales",0,,Profundidad de la termoclina principal,,,m,Operational,Original
 grib2/4/2/10/4/1,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 10 — Productos oceanográficos, categoría de parámetros 4: propiedades subsuperficiales",1,,Anomalía de la termoclina principal,,,m,Operational,Original
 grib2/4/2/10/4/2,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 10 — Productos oceanográficos, categoría de parámetros 4: propiedades subsuperficiales",2,,Profundidad de la termoclina transitoria,,,m,Operational,Original

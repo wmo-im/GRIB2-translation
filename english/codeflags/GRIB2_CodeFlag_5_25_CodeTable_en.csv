@@ -1,4 +1,4 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
 grib2/5/25/0-76,type of bi-Fourier subtruncation,,0-76,,Reserved,,,,Operational,Original
 grib2/5/25/77,type of bi-Fourier subtruncation,,77,,Rectangular,,,,Operational,Original
 grib2/5/25/78-87,type of bi-Fourier subtruncation,,78-87,,Reserved,,,,Operational,Original

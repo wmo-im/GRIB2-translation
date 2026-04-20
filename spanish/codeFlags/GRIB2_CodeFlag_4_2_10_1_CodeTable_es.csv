@@ -1,4 +1,4 @@
-ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translated_by
+ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
 grib2/4/2/10/1/0,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 10 — Productos oceanográficos, categoría de parámetros 1: corrientes",0,,Dirección de la corriente,,,grado verdadero,Operational,Original
 grib2/4/2/10/1/1,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 10 — Productos oceanográficos, categoría de parámetros 1: corrientes",1,,Velocidad de la corriente,,,m s-1,Operational,Original
 grib2/4/2/10/1/2,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 10 — Productos oceanográficos, categoría de parámetros 1: corrientes",2,,Componente u de la corriente,,,m s-1,Operational,Original

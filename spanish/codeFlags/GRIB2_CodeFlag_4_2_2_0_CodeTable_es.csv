@@ -1,4 +1,4 @@
-﻿ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translated_by
+﻿ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
 grib2/4/2/2/0/0,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 2 Productos para la superficie terrestre, categoría de parámetros 0: vegetación/biomasa",0,,"Cobertura terrestre (0=tierra, 1=mar)",,,Proporción,Operational,Original
 grib2/4/2/2/0/1,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 2 Productos para la superficie terrestre, categoría de parámetros 0: vegetación/biomasa",1,,Rugosidad de la superficie,,,m,Operational,Original
 grib2/4/2/2/0/2,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 2 Productos para la superficie terrestre, categoría de parámetros 0: vegetación/biomasa",2,,Temperatura del suelo***,,,K,Deprecated,Original

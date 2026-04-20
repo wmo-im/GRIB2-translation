@@ -1,4 +1,4 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
 grib2/4/251/0,Wave direction and frequency formulae,,0,,Undefined sequence,,,,Operational,Original
 grib2/4/251/1,Wave direction and frequency formulae,,1,,Geometric sequence,(see Note 1),192,,Operational,Original
 grib2/4/251/2,Wave direction and frequency formulae,,2,,Arithmetic sequence,(see Note 2),193,,Operational,Original

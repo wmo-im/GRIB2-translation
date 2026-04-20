@@ -1,4 +1,4 @@
-ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
 grib2/4/219/0,Table de code 4.219 – Indicateur de qualité – Altitude du sommet des nuages,,0,,Altitude du sommet des nuages de qualité nominale,,,,Operational,Original
 grib2/4/219/1,Table de code 4.219 – Indicateur de qualité – Altitude du sommet des nuages,,1,,Brouillard dans le segment,,,,Operational,Original
 grib2/4/219/2,Table de code 4.219 – Indicateur de qualité – Altitude du sommet des nuages,,2,,Estimation de l'altitude de mauvaise qualité,,,,Operational,Original

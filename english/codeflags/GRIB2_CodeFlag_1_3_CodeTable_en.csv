@@ -1,4 +1,4 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
 grib2/1/3/0,Production status of data,,0,,Operational products,,,,Operational,Original
 grib2/1/3/1,Production status of data,,1,,Operational test products,,,,Operational,Original
 grib2/1/3/2,Production status of data,,2,,Research products,,,,Operational,Original

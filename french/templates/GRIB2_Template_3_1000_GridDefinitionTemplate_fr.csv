@@ -1,4 +1,4 @@
-﻿ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translated_by
+﻿ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/3/1000/15,"Modèle de définition de la grille 3.1000 — Grille de coupe verticale, dont les points sur l'horizontale sont équidistants",15,1,Forme de la Terre,(voir la table de code 3.2),,3.2,,Experimental,Original
 grib2/3/1000/16,"Modèle de définition de la grille 3.1000 — Grille de coupe verticale, dont les points sur l'horizontale sont équidistants",16,1,Facteur d'échelle du rayon de la Terre sphérique,,,,,Experimental,Original
 grib2/3/1000/17-20,"Modèle de définition de la grille 3.1000 — Grille de coupe verticale, dont les points sur l'horizontale sont équidistants",17-20,4,Valeur ajustée du rayon de la Terre sphérique,,,,,Experimental,Original

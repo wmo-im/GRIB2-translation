@@ -1,4 +1,4 @@
-﻿ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translated_by
+﻿ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/3/100/15,"Modèle de définition de la grille 3.100 — Grille triangulaire basée sur un icosaèdre (voir partie B, supplément I du code GRIB)",15,1,n2 - exposant de 2 indiquant le nombre d'intervalles sur les côtés du triangle,,,,,Operational,Original
 grib2/3/100/16,"Modèle de définition de la grille 3.100 — Grille triangulaire basée sur un icosaèdre (voir partie B, supplément I du code GRIB)",16,1,n3 - exposant de 3 indiquant le nombre d'intervalles sur les côtés du triangle,,,,,Operational,Original
 grib2/3/100/17-18,"Modèle de définition de la grille 3.100 — Grille triangulaire basée sur un icosaèdre (voir partie B, supplément I du code GRIB)",17-18,2,ni - nombre d'intervalles sur les côtés des triangles de l'icosaèdre,,,,,Operational,Original

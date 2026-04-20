@@ -1,4 +1,4 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
 grib2/4/228/0,Icing severity,,0,,None,,,,Operational,Original
 grib2/4/228/1,Icing severity,,1,,Trace,,,,Operational,Original
 grib2/4/228/2,Icing severity,,2,,Light,,,,Operational,Original

@@ -1,4 +1,4 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
 grib2/4/240/0,Type of distribution function,,0,,No specific distribution function given,,,,Operational,Original
 grib2/4/240/1,Type of distribution function,,1,,Delta functions with spatially variable concentration and fixed diameters Dl (p1) in metre,(see Note 1),122,,Operational,Original
 grib2/4/240/2,Type of distribution function,,2,,Delta functions with spatially variable concentration and fixed masses Ml (p1) in kg,(see Note 2),122,,Operational,Original

@@ -1,4 +1,4 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
 grib2/1/4/0,Type of data,,0,,Analysis products,,,,Operational,Original
 grib2/1/4/1,Type of data,,1,,Forecast products,,,,Operational,Original
 grib2/1/4/2,Type of data,,2,,Analysis and forecast products,,,,Operational,Original

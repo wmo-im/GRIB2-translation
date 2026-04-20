@@ -1,4 +1,4 @@
-ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
 grib2/4/212/0,Table de code 4.212 – Utilisation du sol,,0,,En réserve,,,,Operational,Original
 grib2/4/212/1,Table de code 4.212 – Utilisation du sol,,1,,Terrain urbain,,,,Operational,Original
 grib2/4/212/2,Table de code 4.212 – Utilisation du sol,,2,,Agriculture,,,,Operational,Original

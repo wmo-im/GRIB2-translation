@@ -1,4 +1,4 @@
-ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
 grib2/5/2/0,Table de code 5.2 – Définition de la fonction des coordonnées matricielles,,0,,Jeu de coordonnées explicites,,,,Operational,Original
 grib2/5/2/1,Table de code 5.2 – Définition de la fonction des coordonnées matricielles,,1,,Coordonnées linéaires f(1) = C1 f(n) = f (n-1) + C2,,,,Operational,Original
 grib2/5/2/2-10,Table de code 5.2 – Définition de la fonction des coordonnées matricielles,,2-10,,En réserve,,,,Operational,Original

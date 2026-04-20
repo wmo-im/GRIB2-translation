@@ -1,4 +1,4 @@
-﻿ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translated_by
+﻿ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/5/53/12-15,"Datos espectrales para modelos de área limitada, empaquetado complejo",12-15,4,Valor de referencia (R) (valor de coma flotante IEEE de 32 bits),,,,,Operational,Original
 grib2/5/53/16-17,"Datos espectrales para modelos de área limitada, empaquetado complejo",16-17,2,Factor de escala binario (E),,,,,Operational,Original
 grib2/5/53/18-19,"Datos espectrales para modelos de área limitada, empaquetado complejo",18-19,2,Factor de escala decimal (D),,,,,Operational,Original

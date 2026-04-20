@@ -1,4 +1,4 @@
-﻿ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translated_by
+﻿ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/4/1002/10,"Modèle de définition du produit 4.1002 – Coupe d'une analyse ou d'une prévision, moyennée ou ayant fait l'objet d'un autre traitement statistique le long d'une latitude ou d'une longitude donnée",10,1,Catégorie du paramètre,(voir la table de code 4.1),,4.1,,Experimental,Original
 grib2/4/1002/11,"Modèle de définition du produit 4.1002 – Coupe d'une analyse ou d'une prévision, moyennée ou ayant fait l'objet d'un autre traitement statistique le long d'une latitude ou d'une longitude donnée",11,1,Numéro du paramètre,(voir la table de code 4.2),,4.2,,Experimental,Original
 grib2/4/1002/12,"Modèle de définition du produit 4.1002 – Coupe d'une analyse ou d'une prévision, moyennée ou ayant fait l'objet d'un autre traitement statistique le long d'une latitude ou d'une longitude donnée",12,1,Type du processus de production,(voir la table de code 4.3),,4.3,,Experimental,Original

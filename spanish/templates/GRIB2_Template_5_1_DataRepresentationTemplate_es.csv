@@ -1,4 +1,4 @@
-﻿ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translated_by
+﻿ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/5/1/12-21,"Matrices en los puntos de la retícula, empaquetado simple",12-21,10,Idéntico al Modelo de representación de los datos 5.0,,,,,Experimental,Original
 grib2/5/1/22,"Matrices en los puntos de la retícula, empaquetado simple",22,1,0 - ausencia de mapas de bits matriciales; 1 – presencia de mapas de bits matriciales,,,,,Experimental,Original
 grib2/5/1/23-26,"Matrices en los puntos de la retícula, empaquetado simple",23-26,4,Número de valores de los datos cifrados en la Sección 7,,,,,Experimental,Original

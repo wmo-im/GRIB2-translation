@@ -1,4 +1,4 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
 grib2/4/252/0,Tile classes and groupings,,0,,Reserved,,,,Operational,Original
 grib2/4/252/1/SEOC,Tile classes and groupings,,1,SEOC,Seas and oceans,,,,Operational,Original
 grib2/4/252/2/INWB,Tile classes and groupings,,2,INWB,Inland water bodies,,,,Operational,Original

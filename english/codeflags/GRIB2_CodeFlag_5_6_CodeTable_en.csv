@@ -1,4 +1,4 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
 grib2/5/6/0,Order of spatial differencing,,0,,Reserved,,,,Operational,Original
 grib2/5/6/1,Order of spatial differencing,,1,,First-order spatial differencing,,,,Operational,Original
 grib2/5/6/2,Order of spatial differencing,,2,,Second-order spatial differencing,,,,Operational,Original

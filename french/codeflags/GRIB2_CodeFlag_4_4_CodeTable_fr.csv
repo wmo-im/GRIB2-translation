@@ -1,4 +1,4 @@
-ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
 grib2/4/4/0,Table de code 4.4 – Indicateur d'unité de l'intervalle de temps,,0,,Minute,,,,Operational,Original
 grib2/4/4/1,Table de code 4.4 – Indicateur d'unité de l'intervalle de temps,,1,,Heure,,,,Operational,Original
 grib2/4/4/2,Table de code 4.4 – Indicateur d'unité de l'intervalle de temps,,2,,Jour,,,,Operational,Original

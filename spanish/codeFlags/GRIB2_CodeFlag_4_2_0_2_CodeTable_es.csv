@@ -1,4 +1,4 @@
-ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translated_by
+ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
 grib2/4/2/0/2/0,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 2: impulso",0,,Dirección del viento (de donde sopla el viento),,,Grado verdadero,Operational,Original
 grib2/4/2/0/2/1,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 2: impulso",1,,Velocidad del viento,,,m s-1,Operational,Original
 grib2/4/2/0/2/2,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 2: impulso",2,,Componente u del viento,,,m s-1,Operational,Original

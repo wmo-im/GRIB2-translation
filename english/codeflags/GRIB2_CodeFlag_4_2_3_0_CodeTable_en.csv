@@ -1,4 +1,4 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
 grib2/4/2/3/0/0,Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 0: image format products",0,,Scaled radiance,,,Numeric,Operational,Original
 grib2/4/2/3/0/1,Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 0: image format products",1,,Scaled albedo,,,Numeric,Operational,Original
 grib2/4/2/3/0/2,Parameter number by product discipline and parameter category,"Product discipline 3 - Space products, parameter category 0: image format products",2,,Scaled brightness temperature,,,Numeric,Operational,Original

@@ -1,4 +1,4 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
 grib2/4/2/2/5/0,Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 5: glaciers and inland ice",0,,Glacier cover,(see Note),26,Proportion,Operational,Original
 grib2/4/2/2/5/1,Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 5: glaciers and inland ice",1,,Glacier temperature,,,K,Operational,Original
 grib2/4/2/2/5/2-191,Parameter number by product discipline and parameter category,"Product discipline 2 - Land surface products, parameter category 5: glaciers and inland ice",2-191,,Reserved,,,,Operational,Original

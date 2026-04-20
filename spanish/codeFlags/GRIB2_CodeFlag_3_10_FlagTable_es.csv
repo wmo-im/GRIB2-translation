@@ -1,4 +1,4 @@
-ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translated_by
+ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
 grib2/3/10/1/0,Tabla de banderines 3.10 — Modo de exploración aplicado a un rombo,,1,0,"Exploración de los puntos en la dirección +i, es decir, del polo al ecuador",,,,Operational,Original
 grib2/3/10/1/1,Tabla de banderines 3.10 — Modo de exploración aplicado a un rombo,,1,1,"Exploración de los puntos en la dirección -i, es decir, del ecuador al polo",,,,Operational,Original
 grib2/3/10/2/0,Tabla de banderines 3.10 — Modo de exploración aplicado a un rombo,,2,0,"Exploración de los puntos en la dirección +j, es decir, de oeste a este",,,,Operational,Original

@@ -1,4 +1,4 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
 grib2/4/2/0/16/0,Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 16: forecast radar imagery",0,,Equivalent radar reflectivity factor for rain,,,mm6 m-3,Operational,Original
 grib2/4/2/0/16/1,Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 16: forecast radar imagery",1,,Equivalent radar reflectivity factor for snow,,,mm6 m-3,Operational,Original
 grib2/4/2/0/16/2,Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 16: forecast radar imagery",2,,Equivalent radar reflectivity factor for parameterized convection,,,mm6 m-3,Operational,Original

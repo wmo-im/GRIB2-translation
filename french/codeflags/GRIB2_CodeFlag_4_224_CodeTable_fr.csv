@@ -1,4 +1,4 @@
-ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
 grib2/4/224/0,Table de code 4.224 – Perspective catégorielle,,0,,Zone présentant un risque nul,,,,Operational,Original
 grib2/4/224/1,Table de code 4.224 – Perspective catégorielle,,1,,En réserve,,,,Operational,Original
 grib2/4/224/2,Table de code 4.224 – Perspective catégorielle,,2,,Zone présentant un risque d'orage ordinaire,,,,Operational,Original

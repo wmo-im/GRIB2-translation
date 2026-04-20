@@ -1,4 +1,4 @@
-﻿ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translated_by
+﻿ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/3/1200/15-18,Modèle de définition de la grille 3.1200 — Grille de coupe dans le temps,15-18,4,NT - Nombre de pas de temps,,,,,Experimental,Original
 grib2/3/1200/19,Modèle de définition de la grille 3.1200 — Grille de coupe dans le temps,19,1,Unité de décalage par rapport à l'heure de référence,(voir la table de code 4.4),,4.4,,Experimental,Original
 grib2/3/1200/20-23,Modèle de définition de la grille 3.1200 — Grille de coupe dans le temps,20-23,4,Décalage de la première heure par rapport à l'heure de référence (valeur négative lorsque le premier bit est mis à 1),,,,,Experimental,Original

@@ -1,4 +1,4 @@
-ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
 grib2/3/8/0,Table de code 3.8 — Position des points de grille,,0,,Points de grille situés aux sommets des triangles,,,,Operational,Original
 grib2/3/8/1,Table de code 3.8 — Position des points de grille,,1,,Points de grille situés au centre des triangles,,,,Operational,Original
 grib2/3/8/2,Table de code 3.8 — Position des points de grille,,2,,Points de grille situés au centre des côtés des triangles,,,,Operational,Original

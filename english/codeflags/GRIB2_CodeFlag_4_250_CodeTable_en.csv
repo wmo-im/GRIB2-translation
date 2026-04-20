@@ -1,4 +1,4 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
 grib2/4/250/0,Drainage direction,,0,,Reserved,,,,Operational,Original
 grib2/4/250/1,Drainage direction,,1,,South-west,,,,Operational,Original
 grib2/4/250/2,Drainage direction,,2,,South,,,,Operational,Original

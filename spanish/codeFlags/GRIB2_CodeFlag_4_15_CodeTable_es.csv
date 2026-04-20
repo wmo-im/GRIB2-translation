@@ -1,4 +1,4 @@
-ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translated_by
+ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
 grib2/4/15/0,Tabla de cifrado 4.15 – Tipo de tratamiento espacial utilizado para obtener un determinado valor a partir de los datos fuente,,0,,Los datos se calculan directamente a partir de la retícula fuente sin interpolación (véase la nota 1),,,,Operational,Original
 grib2/4/15/1,Tabla de cifrado 4.15 – Tipo de tratamiento espacial utilizado para obtener un determinado valor a partir de los datos fuente,,1,,Interpolación bilineal que usa los 4 valores de los puntos reticulares de la retícula fuente que rodean el punto reticular nominal,,,,Operational,Original
 grib2/4/15/2,Tabla de cifrado 4.15 – Tipo de tratamiento espacial utilizado para obtener un determinado valor a partir de los datos fuente,,2,,Interpolación bicúbica que usa los 4 valores de los puntos reticulares de la retícula fuente que rodean el punto de retícula nominal,,,,Operational,Original

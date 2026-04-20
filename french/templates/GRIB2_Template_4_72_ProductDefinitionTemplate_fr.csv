@@ -1,4 +1,4 @@
-﻿ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translated_by
+﻿ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/4/72/10,"Modèle de définition du produit 4.72 Valeurs moyennes post-traitement, cumulées et/ou extrêmes, ou autres valeurs statistiques, pour une surface ou une couche horizontale, durant un intervalle de temps continu ou non",10,1,Catégorie de paramètre,(voir la table de code 4.1),,4.1,,Operational,Original
 grib2/4/72/11,"Modèle de définition du produit 4.72 Valeurs moyennes post-traitement, cumulées et/ou extrêmes, ou autres valeurs statistiques, pour une surface ou une couche horizontale, durant un intervalle de temps continu ou non",11,1,Numéro du paramètre,(voir la table de code 4.2),,4.2,,Operational,Original
 grib2/4/72/12-13,"Modèle de définition du produit 4.72 Valeurs moyennes post-traitement, cumulées et/ou extrêmes, ou autres valeurs statistiques, pour une surface ou une couche horizontale, durant un intervalle de temps continu ou non",12-13,2,Indicateur pour le traitement des données d'entrée,(voir la note 1),,,,Operational,Original

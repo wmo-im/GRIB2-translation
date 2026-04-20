@@ -1,4 +1,4 @@
-ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
 grib2/3/15/0-19,Table de code 3.15 — Signification physique des coordonnées verticales,,0-19,,En réserve,,,,Operational,Original
 grib2/3/15/20,Table de code 3.15 — Signification physique des coordonnées verticales,,20,,Température,,,K,Operational,Original
 grib2/3/15/21-99,Table de code 3.15 — Signification physique des coordonnées verticales,,21-99,,En réserve,,,,Operational,Original

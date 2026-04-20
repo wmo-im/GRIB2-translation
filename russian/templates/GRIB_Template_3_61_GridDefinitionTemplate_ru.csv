@@ -1,4 +1,4 @@
-ID,Title_ru,OctetNo,OctetCount,Contents_ru,Note_ru,noteIDs,codeTable,flagTable,Status,translated_by
+ID,Title_ru,OctetNo,OctetCount,Contents_ru,Note_ru,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/3/61/15,Образец определения сетки 3.61 — с пектральная модель в проекции Меркатора с опреде-,15,,Вид спектрального представления данных,см. кодовую таблицу 3.6,,3.6,,operational,Original
 grib2/3/61/16-19,Образец определения сетки 3.61 — с пектральная модель в проекции Меркатора с опреде-,16–19,,N — параметр разрешения двумерного Фурье,,,,,operational,Original
 grib2/3/61/20-23,Образец определения сетки 3.61 — с пектральная модель в проекции Меркатора с опреде-,20–23,,M — параметр разрешения двумерного Фурье,,,,,operational,Original

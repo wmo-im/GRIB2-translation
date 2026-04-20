@@ -1,4 +1,4 @@
-ID,Title_ru,OctetNo,OctetCount,Contents_ru,Note_ru,noteIDs,codeTable,flagTable,Status,translated_by
+ID,Title_ru,OctetNo,OctetCount,Contents_ru,Note_ru,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/3/4/15,Образец определения сетки 3.4 — широтно-долготная с переменным разрешением,15,,Форма Земли,см. кодовую таблицу 3.2,,3.2,,operational,Original
 grib2/3/4/16,Образец определения сетки 3.4 — широтно-долготная с переменным разрешением,16,,Масштабный коэффициент радиуса сферической Земли,,,,,operational,Original
 grib2/3/4/17-20,Образец определения сетки 3.4 — широтно-долготная с переменным разрешением,17–20,,Масштабированная величина радиуса сферической Земли,,,,,operational,Original

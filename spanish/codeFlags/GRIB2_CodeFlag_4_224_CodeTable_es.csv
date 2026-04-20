@@ -1,4 +1,4 @@
-ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translated_by
+ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
 grib2/4/224/0,Tabla de cifrado 4.224 – Predicción categórica,,0,,Zona sin riesgo,,,,Operational,Original
 grib2/4/224/1,Tabla de cifrado 4.224 – Predicción categórica,,1,,Reservada,,,,Operational,Original
 grib2/4/224/2,Tabla de cifrado 4.224 – Predicción categórica,,2,,Zona de riesgo de tormentas generales,,,,Operational,Original

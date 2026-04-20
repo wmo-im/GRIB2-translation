@@ -1,4 +1,4 @@
-﻿ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translated_by
+﻿ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/3/3/15-72,"Modèle de définition de la grille 3.3 — Projection latitude/longitude (ou équidistante cylindrique, ou Plate Carrée) après dilatation et rotation",15-72,58,Voir modèle de définition de la grille 3.0,(voir note 1),,,,Operational,Original
 grib2/3/3/73-76,"Modèle de définition de la grille 3.3 — Projection latitude/longitude (ou équidistante cylindrique, ou Plate Carrée) après dilatation et rotation",73-76,4,Latitude du pôle Sud de la projection,,,,,Operational,Original
 grib2/3/3/77-80,"Modèle de définition de la grille 3.3 — Projection latitude/longitude (ou équidistante cylindrique, ou Plate Carrée) après dilatation et rotation",77-80,4,Longitude du pôle Sud de la projection,,,,,Operational,Original

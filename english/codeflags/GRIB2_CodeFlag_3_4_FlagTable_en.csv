@@ -1,4 +1,4 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
 grib2/3/4/1/0,Scanning mode,,1,0,Points of first row or column scan in the +i (+x) direction,,,,Operational,Original
 grib2/3/4/1/1,Scanning mode,,1,1,Points of first row or column scan in the -i (-x) direction,,,,Operational,Original
 grib2/3/4/2/0,Scanning mode,,2,0,Points of first row or column scan in the -j (-y) direction,,,,Operational,Original

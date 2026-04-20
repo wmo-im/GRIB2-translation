@@ -1,4 +1,4 @@
-﻿ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translated_by
+﻿ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/3/0/15,Modelo de definición de la retícula 3.0 — Retícula latitud/longitud (cilíndrica equidistante o proyección Plate Carrée),15,1,Forma de la Tierra,véase la Tabla de cifrado 3.2,,3.2,,Operational,Original
 grib2/3/0/16,Modelo de definición de la retícula 3.0 — Retícula latitud/longitud (cilíndrica equidistante o proyección Plate Carrée),16,1,Factor de escala del radio de la Tierra esférica,,,,,Operational,Original
 grib2/3/0/17-20,Modelo de definición de la retícula 3.0 — Retícula latitud/longitud (cilíndrica equidistante o proyección Plate Carrée),17-20,4,Valor ajustado del radio de la Tierra esférica,,,,,Operational,Original

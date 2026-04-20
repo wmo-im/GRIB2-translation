@@ -1,4 +1,4 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
 grib2/4/102/0,Statistical processing of reference period,,0,,Average,,,,Operational,Original
 grib2/4/102/1,Statistical processing of reference period,,1,,Accumulation,,,,Operational,Original
 grib2/4/102/2,Statistical processing of reference period,,2,,Maximum,,,,Operational,Original

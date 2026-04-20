@@ -1,4 +1,4 @@
-ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
 grib2/5/6/0,Table de code 5.6 – Ordre de la différenciation spatiale,,0,,En réserve,,,,Operational,Original
 grib2/5/6/1,Table de code 5.6 – Ordre de la différenciation spatiale,,1,,Différenciation spatiale de premier ordre,,,,Operational,Original
 grib2/5/6/2,Table de code 5.6 – Ordre de la différenciation spatiale,,2,,Différenciation spatiale de deuxième ordre,,,,Operational,Original

@@ -1,4 +1,4 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
 grib2/4/2/0/15/0,Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 15: radar",0,,Base spectrum width,,,m/s,Operational,Original
 grib2/4/2/0/15/1,Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 15: radar",1,,Base reflectivity,,,dB,Operational,Original
 grib2/4/2/0/15/2,Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 15: radar",2,,Base radial velocity,,,m/s,Operational,Original

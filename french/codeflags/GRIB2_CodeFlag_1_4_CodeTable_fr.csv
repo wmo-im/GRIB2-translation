@@ -1,4 +1,4 @@
-ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
 grib2/1/4/0,Table de code 1.4 – Type de données,,0,,Analyse,,,,Operational,Original
 grib2/1/4/1,Table de code 1.4 – Type de données,,1,,Prévision,,,,Operational,Original
 grib2/1/4/2,Table de code 1.4 – Type de données,,2,,Analyse et prévision,,,,Operational,Original

@@ -1,4 +1,4 @@
-ID,Title_en,OctetNo,OctetCount,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status,translated_by
+ID,Title_en,OctetNo,OctetCount,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/5/2/12-21,Grid point data - complex packing,12-21,10,Same as data representation template 5.0,,,,,Operational,Original
 grib2/5/2/22,Grid point data - complex packing,22,1,Group splitting method used,(see Code table 5.4),,5.4,,Operational,Original
 grib2/5/2/23,Grid point data - complex packing,23,1,Missing value management used,(see Code table 5.5),,5.5,,Operational,Original

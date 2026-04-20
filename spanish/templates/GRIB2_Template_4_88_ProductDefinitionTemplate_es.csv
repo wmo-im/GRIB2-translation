@@ -1,4 +1,4 @@
-﻿ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translated_by
+﻿ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/4/88/10,Modelo de definición del producto 4.88 – Análisis o predicción en una superficie o capa horizontal a una hora local,10,1,Categoría de parámetro,(véase la Tabla de cifrado 4.1),,4.1,,Operational,Original
 grib2/4/88/11,Modelo de definición del producto 4.88 – Análisis o predicción en una superficie o capa horizontal a una hora local,11,1,Número del parámetro,(véase la Tabla de cifrado 4.2),,4.2,,Operational,Original
 grib2/4/88/12,Modelo de definición del producto 4.88 – Análisis o predicción en una superficie o capa horizontal a una hora local,12,1,Tipo de proceso de producción,(véase la Tabla de cifrado 4.3),,4.3,,Operational,Original

@@ -1,4 +1,4 @@
-ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translated_by
+ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
 grib2/4/2/3/6/0,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 3 — Productos espaciales, categoría de parámetros 6: radiación solar",0,,Irradiancia solar global,(véase la nota 1),,W m-2,Operational,Original
 grib2/4/2/3/6/1,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 3 — Productos espaciales, categoría de parámetros 6: radiación solar",1,,Exposición solar global,(véase la nota 2),,J m-2,Operational,Original
 grib2/4/2/3/6/2,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 3 — Productos espaciales, categoría de parámetros 6: radiación solar",2,,Irradiancia solar directa,(véase la nota 3),,W m-2,Operational,Original

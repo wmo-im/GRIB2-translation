@@ -1,4 +1,4 @@
-ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
 grib2/1/0/0,Table de code 1.0 – Numéro de version des tables principales du code GRIB,,0,,À usage expérimental,,,,Deprecated,Original
 grib2/1/0/1,Table de code 1.0 – Numéro de version des tables principales du code GRIB,,1,,Version entrée en vigueur le 7 novembre 2001,,,,Deprecated,Original
 grib2/1/0/2,Table de code 1.0 – Numéro de version des tables principales du code GRIB,,2,,Version entrée en vigueur le 4 novembre 2003,,,,Deprecated,Original

@@ -1,4 +1,4 @@
-ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translated_by
+ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
 grib2/4/2/10/0/0,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 10 — Productos oceanográficos, categoría de parámetros 0: olas",0,,Espectros de las olas (1),,,—,Operational,Original
 grib2/4/2/10/0/1,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 10 — Productos oceanográficos, categoría de parámetros 0: olas",1,,Espectros de las olas (2),,,—,Operational,Original
 grib2/4/2/10/0/2,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 10 — Productos oceanográficos, categoría de parámetros 0: olas",2,,Espectros de las olas (3),,,—,Operational,Original

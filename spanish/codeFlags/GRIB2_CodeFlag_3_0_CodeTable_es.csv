@@ -1,4 +1,4 @@
-ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translated_by
+ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
 grib2/3/0/0,Tabla de cifrado 3.0 — Fuente de definición de la retícula,,0,,Especificado en la Tabla de cifrado 3.1,,,,Operational,Original
 grib2/3/0/1,Tabla de cifrado 3.0 — Fuente de definición de la retícula,,1,,Definición de retícula predeterminada,,42,,Operational,Original
 grib2/3/0/2-191,Tabla de cifrado 3.0 — Fuente de definición de la retícula,,2-191,,Reservadas,,,,Operational,Original

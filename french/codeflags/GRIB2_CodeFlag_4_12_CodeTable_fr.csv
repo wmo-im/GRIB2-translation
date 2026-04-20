@@ -1,4 +1,4 @@
-ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
 grib2/4/12/0,Table de code 4.12 – Mode de fonctionnement,,0,,Mode maintenance,,,,Operational,Original
 grib2/4/12/1,Table de code 4.12 – Mode de fonctionnement,,1,,Ciel clair,,,,Operational,Original
 grib2/4/12/2,Table de code 4.12 – Mode de fonctionnement,,2,,Précipitation,,,,Operational,Original

@@ -1,4 +1,4 @@
-ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
 grib2/5/7/0,Table de code 5.7 – Précision des nombres en virgule flottante,,0,,En réserve,,,,Operational,Original
 grib2/5/7/1,Table de code 5.7 – Précision des nombres en virgule flottante,,1,,IEEE 32 bits (I=4 dans la Section 7),,,,Operational,Original
 grib2/5/7/2,Table de code 5.7 – Précision des nombres en virgule flottante,,2,,IEEE 64 bits (I=8 dans la Section 7),,,,Operational,Original

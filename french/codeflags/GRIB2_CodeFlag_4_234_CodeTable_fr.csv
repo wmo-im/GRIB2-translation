@@ -1,4 +1,4 @@
-ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
 grib2/4/234/1,Table de code 4.234 – Fraction de couvert forestier (à utiliser comme paramètre partitionné dans le modèle de définition du produit 4.53 ou 4.54),,1,,"Cultures, agriculture mixte",,,,Operational,Original
 grib2/4/234/2,Table de code 4.234 – Fraction de couvert forestier (à utiliser comme paramètre partitionné dans le modèle de définition du produit 4.53 ou 4.54),,2,,Herbe rase,,,,Operational,Original
 grib2/4/234/3,Table de code 4.234 – Fraction de couvert forestier (à utiliser comme paramètre partitionné dans le modèle de définition du produit 4.53 ou 4.54),,3,,Conifères à feuillage persistant,,,,Operational,Original

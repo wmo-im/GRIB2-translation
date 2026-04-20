@@ -1,4 +1,4 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
 grib2/4/0/0,Product definition template number,,0,,Analysis or forecast at a horizontal level or in a horizontal layer at a point in time,,,,Operational,Original
 grib2/4/0/1,Product definition template number,,1,,"Individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time",,,,Operational,Original
 grib2/4/0/2,Product definition template number,,2,,Derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time,,,,Operational,Original

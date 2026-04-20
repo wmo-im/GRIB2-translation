@@ -1,4 +1,4 @@
-ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translated_by
+ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
 grib2/4/243/0,Tabla de cifrado 4.243 – Clase de placa,,0,,Reservada,,,,Operational,Original
 grib2/4/243/1,Tabla de cifrado 4.243 – Clase de placa,,1,,Bosque de hoja ancha perenne,,,,Operational,Original
 grib2/4/243/2,Tabla de cifrado 4.243 – Clase de placa,,2,,Bosque cerrado de hoja ancha caducifolio,,,,Operational,Original

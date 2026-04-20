@@ -1,4 +1,4 @@
-﻿ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translated_by
+﻿ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/3/140/15,Modèle de définition de la grille 3.140 — Projection azimutale équivalente de Lambert,15,1,Forme de la Terre,(voir la table de code 3.2),,3.2,,Operational,Original
 grib2/3/140/16,Modèle de définition de la grille 3.140 — Projection azimutale équivalente de Lambert,16,1,Facteur d'échelle du rayon de la Terre sphérique,,,,,Operational,Original
 grib2/3/140/17-20,Modèle de définition de la grille 3.140 — Projection azimutale équivalente de Lambert,17-20,4,Valeur ajustée du rayon de la Terre sphérique,,,,,Operational,Original

@@ -1,4 +1,4 @@
-ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translated_by
+ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
 grib2/4/248/0,Tabla de cifrado 4.248 – Método utilizado para obtener los valores de datos a una hora local determinada,,0,,Hora de la predicción o del análisis más próxima a la hora local especificada,,,,Operational,Original
 grib2/4/248/1,Tabla de cifrado 4.248 – Método utilizado para obtener los valores de datos a una hora local determinada,,1,,Interpolados para que sean válidos a la hora local especificada,,,,Operational,Original
 grib2/4/248/2-191,Tabla de cifrado 4.248 – Método utilizado para obtener los valores de datos a una hora local determinada,,2-191,,Reservadas,,,,Operational,Original

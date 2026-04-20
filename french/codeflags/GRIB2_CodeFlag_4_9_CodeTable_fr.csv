@@ -1,4 +1,4 @@
-ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
 grib2/4/9/0,Table de code 4.9 – Type de probabilité,,0,,Probabilité du phénomène inférieure à la limite inférieure,,,,Operational,Original
 grib2/4/9/1,Table de code 4.9 – Type de probabilité,,1,,Probabilité du phénomène supérieure à la limite supérieure,,,,Operational,Original
 grib2/4/9/2,Table de code 4.9 – Type de probabilité,,2,,Probabilité du phénomène entre les limites inférieure et supérieure,,,,Operational,Original

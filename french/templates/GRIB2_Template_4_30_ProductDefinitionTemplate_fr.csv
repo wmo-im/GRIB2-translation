@@ -1,4 +1,4 @@
-﻿ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translated_by
+﻿ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/4/30/10,Modèle de définition du produit 4.30 — Produit de satellite,10,1,Catégorie du paramètre,(voir la table de code 4.1),,4.1,,Deprecated,Original
 grib2/4/30/11,Modèle de définition du produit 4.30 — Produit de satellite,11,1,Numéro du paramètre,(voir la table de code 4.2),,4.2,,Deprecated,Original
 grib2/4/30/12,Modèle de définition du produit 4.30 — Produit de satellite,12,1,Type du processus de production,(voir la table de code 4.3),,4.3,,Deprecated,Original

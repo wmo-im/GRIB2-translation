@@ -1,4 +1,4 @@
-﻿ID,Title_es,CodeFlag,MeaningParameterDescription_es,UnitComments_es,SubTitle_es,Value,Note_es,noteIDs,Status,translated_by
+﻿ID,Title_es,CodeFlag,MeaningParameterDescription_es,UnitComments_es,SubTitle_es,Value,Note_es,noteIDs,Status,translation_source
 grib2/4/0/0,Tabla de cifrado 4.0 — Número del modelo de definición del producto,0,Análisis o previsión para una superficie o capa horizontal en un momento dado,,,,,,Operational,Original
 grib2/4/0/1,Tabla de cifrado 4.0 — Número del modelo de definición del producto,1,"Previsión de conjunto individual, de control y perturbada para una superficie o capa horizontal en un momento dado",,,,,,Operational,Original
 grib2/4/0/2,Tabla de cifrado 4.0 — Número del modelo de definición del producto,2,"Previsiones derivadas, establecidas a partir de todos los miembros del conjunto para una superficie o capa horizontal en un momento dado",,,,,,Operational,Original

@@ -1,4 +1,4 @@
-ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
 grib2/4/208/0,Table de code 4.208 – Turbulence,,0,,Pas de turbulence,,,,Operational,Original
 grib2/4/208/1,Table de code 4.208 – Turbulence,,1,,Turbulence faible,,,,Operational,Original
 grib2/4/208/2,Table de code 4.208 – Turbulence,,2,,Turbulence modérée,,,,Operational,Original

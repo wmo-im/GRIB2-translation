@@ -1,4 +1,4 @@
-ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
 grib2/4/11/0,Table de code 4.11 – Type d'intervalle de temps,,0,,En réserve,,,,Operational,Original
 grib2/4/11/1,Table de code 4.11 – Type d'intervalle de temps,,1,,Heures traitées successivement avec même heure de prévision et début de prévision incrémenté,,,,Operational,Original
 grib2/4/11/2,Table de code 4.11 – Type d'intervalle de temps,,2,,Heures traitées successivement avec même début de prévision et heure de prévision incrémentée,,,,Operational,Original

@@ -1,4 +1,4 @@
-ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translated_by
+ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
 grib2/4/2/3/4/0,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 3 Productos espaciales, categoría de parámetros 4: cenizas volcánicas",0,,Probabilidad de cenizas volcánicas,,,%,Operational,Original
 grib2/4/2/3/4/1,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 3 Productos espaciales, categoría de parámetros 4: cenizas volcánicas",1,,Temperatura de la cima de la nube de cenizas volcánicas,,,K,Operational,Original
 grib2/4/2/3/4/2,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 3 Productos espaciales, categoría de parámetros 4: cenizas volcánicas",2,,Presión en la cima de la nube de cenizas volcánicas,,,Pa,Operational,Original

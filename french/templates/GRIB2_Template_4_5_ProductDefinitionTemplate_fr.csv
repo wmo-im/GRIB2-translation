@@ -1,4 +1,4 @@
-﻿ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translated_by
+﻿ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/4/5/10,"Modèle de définition du produit 4.5 — Prévision de probabilité pour une surface ou une couche horizontale, à un moment donné",10,1,Catégorie du paramètre,(voir la table de code 4.1),,4.1,,Operational,Original
 grib2/4/5/11,"Modèle de définition du produit 4.5 — Prévision de probabilité pour une surface ou une couche horizontale, à un moment donné",11,1,Numéro du paramètre,(voir la table de code 4.2),,4.2,,Operational,Original
 grib2/4/5/12,"Modèle de définition du produit 4.5 — Prévision de probabilité pour une surface ou une couche horizontale, à un moment donné",12,1,Type du processus de production,(voir la table de code 4.3),,4.3,,Operational,Original

@@ -1,4 +1,4 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
 grib2/4/211/0,Contrail engine type,,0,,Low bypass,,,,Operational,Original
 grib2/4/211/1,Contrail engine type,,1,,High bypass,,,,Operational,Original
 grib2/4/211/2,Contrail engine type,,2,,Non-bypass,,,,Operational,Original

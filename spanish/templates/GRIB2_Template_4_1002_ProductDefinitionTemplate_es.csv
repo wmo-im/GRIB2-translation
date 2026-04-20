@@ -1,4 +1,4 @@
-﻿ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translated_by
+﻿ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/4/1002/10,"Modelo de definición del producto 4.1002 Corte transversal de un análisis o una predicción, promediada o estadísticamente procesada para las diferentes latitudes o longitudes",10,1,Categoría del parámetro,(véase la Tabla de cifrado 4.1),,4.1,,Experimental,Original
 grib2/4/1002/11,"Modelo de definición del producto 4.1002 Corte transversal de un análisis o una predicción, promediada o estadísticamente procesada para las diferentes latitudes o longitudes",11,1,Número del parámetro,(véase la Tabla de cifrado 4.2),,4.2,,Experimental,Original
 grib2/4/1002/12,"Modelo de definición del producto 4.1002 Corte transversal de un análisis o una predicción, promediada o estadísticamente procesada para las diferentes latitudes o longitudes",12,1,Tipo del proceso de generación,(véase la Tabla de cifrado 4.3),,4.3,,Experimental,Original

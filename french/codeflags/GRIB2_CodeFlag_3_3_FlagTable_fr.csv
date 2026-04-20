@@ -1,4 +1,4 @@
-ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
 grib2/3/3/1-2,Table d'indicateurs 3.3 - Indicateurs de résolution et de composantes,,1-2,,En réserve,,,,Operational,Original
 grib2/3/3/3/0,Table d'indicateurs 3.3 - Indicateurs de résolution et de composantes,,3,0,Incréments non indiqués dans la direction i,,,,Operational,Original
 grib2/3/3/3/1,Table d'indicateurs 3.3 - Indicateurs de résolution et de composantes,,3,1,Incréments indiqués dans la direction i,,,,Operational,Original

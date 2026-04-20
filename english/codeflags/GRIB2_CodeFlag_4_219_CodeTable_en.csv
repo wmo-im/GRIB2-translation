@@ -1,4 +1,4 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
 grib2/4/219/0,Cloud top height quality indicator,,0,,Nominal cloud top height quality,,,,Operational,Original
 grib2/4/219/1,Cloud top height quality indicator,,1,,Fog in segment,,,,Operational,Original
 grib2/4/219/2,Cloud top height quality indicator,,2,,Poor quality height estimation,,,,Operational,Original

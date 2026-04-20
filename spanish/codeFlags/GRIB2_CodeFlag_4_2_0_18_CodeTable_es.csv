@@ -1,4 +1,4 @@
-ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translated_by
+ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
 grib2/4/2/0/18/0,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 18: nuclear/radiología",0,,Concentración en el aire de cesio 137,,,Bq m-3,Operational,Original
 grib2/4/2/0/18/1,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 18: nuclear/radiología",1,,Concentración en el aire de yodo 131,,,Bq m-3,Operational,Original
 grib2/4/2/0/18/2,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 18: nuclear/radiología",2,,Concentración en el aire de contaminante radiactivo,,,Bq m-3,Operational,Original

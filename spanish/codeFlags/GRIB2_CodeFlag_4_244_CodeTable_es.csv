@@ -1,4 +1,4 @@
-ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translated_by
+ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
 grib2/4/244/0,Tabla de cifrado 4.244 – Indicador de calidad,,0,,Información sobre calidad no disponible,,,,Operational,Original
 grib2/4/244/1,Tabla de cifrado 4.244 – Indicador de calidad,,1,,No fiable,,,,Operational,Original
 grib2/4/244/2,Tabla de cifrado 4.244 – Indicador de calidad,,2,,Fiable,,,,Operational,Original

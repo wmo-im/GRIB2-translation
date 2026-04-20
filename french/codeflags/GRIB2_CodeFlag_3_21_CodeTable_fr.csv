@@ -1,4 +1,4 @@
-ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
 grib2/3/21/0,Table de code 3.21 — Définition des coordonnées dans la dimension verticale,,0,,Ensemble de valeurs explicites,,,,Operational,Original
 grib2/3/21/1,Table de code 3.21 — Définition des coordonnées dans la dimension verticale,,1,,Coordonnées linéaires f(1) = C1 f(n) = f(n-1) + C2,,,,Operational,Original
 grib2/3/21/2-10,Table de code 3.21 — Définition des coordonnées dans la dimension verticale,,2-10,,En réserve,,,,Operational,Original

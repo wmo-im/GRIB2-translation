@@ -1,4 +1,4 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
 grib2/4/201/0,Precipitation type,,0,,No precipitation,,,,Operational,Original
 grib2/4/201/1,Precipitation type,,1,,Rain,,,,Operational,Original
 grib2/4/201/2,Precipitation type,,2,,Thunderstorm,,,,Operational,Original

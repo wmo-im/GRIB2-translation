@@ -1,4 +1,4 @@
-ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
 grib2/4/7/0,Table de code 4.7 – Prévision dérivée,,0,,Moyenne non pondérée de tous les membres,,,,Operational,Original
 grib2/4/7/1,Table de code 4.7 – Prévision dérivée,,1,,Moyenne pondérée de tous les membres,,,,Operational,Original
 grib2/4/7/2,Table de code 4.7 – Prévision dérivée,,2,,Écart type par rapport à la moyenne du groupe de membres,,,,Operational,Original

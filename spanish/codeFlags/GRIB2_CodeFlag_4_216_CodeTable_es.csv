@@ -1,4 +1,4 @@
-ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translated_by
+ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
 grib2/4/216/0-90,Tabla de cifrado 4.216 – Altitud del terreno cubierto de nieve,,0-90,,Altitud en incrementos de 100 metros,,,,Operational,Original
 grib2/4/216/91-253,Tabla de cifrado 4.216 – Altitud del terreno cubierto de nieve,,91-253,,Reservadas,,,,Operational,Original
 grib2/4/216/254,Tabla de cifrado 4.216 – Altitud del terreno cubierto de nieve,,254,,Nube,,,,Operational,Original

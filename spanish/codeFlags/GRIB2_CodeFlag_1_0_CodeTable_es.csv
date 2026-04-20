@@ -1,4 +1,4 @@
-ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translated_by
+ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
 grib2/1/0/0,Tabla de cifrado 1.0 – Número de versión de las tablas maestras de la clave GRIB,,0,,Experimental,,,,Deprecated,Original
 grib2/1/0/1,Tabla de cifrado 1.0 – Número de versión de las tablas maestras de la clave GRIB,,1,,Versión aplicada el 7 de noviembre de 2001,,,,Deprecated,Original
 grib2/1/0/2,Tabla de cifrado 1.0 – Número de versión de las tablas maestras de la clave GRIB,,2,,Versión aplicada el 4 de noviembre de 2003,,,,Deprecated,Original

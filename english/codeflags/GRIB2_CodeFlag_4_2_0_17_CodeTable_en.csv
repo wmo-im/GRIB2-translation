@@ -1,4 +1,4 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
 grib2/4/2/0/17/0,Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 17: electrodynamics",0,,Lightning strike density,,,m-2 s-1,Operational,Original
 grib2/4/2/0/17/1,Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 17: electrodynamics",1,,Lightning potential index (LPI),(see Note 1),43,J kg-1,Operational,Original
 grib2/4/2/0/17/2,Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 17: electrodynamics",2,,Cloud-to-ground lightning flash density,,,km-2 day-1,Operational,Original

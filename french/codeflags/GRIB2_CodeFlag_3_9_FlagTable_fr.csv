@@ -1,4 +1,4 @@
-ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
 grib2/3/9/1/0,Table d'indicateurs 3.9 - Ordre de numérotation des losanges vus du pôle correspondant,,1,0,Sens horaire,,,,Operational,Original
 grib2/3/9/1/1,Table d'indicateurs 3.9 - Ordre de numérotation des losanges vus du pôle correspondant,,1,1,Sens antihoraire,,,,Operational,Original
 grib2/3/9/2-8,Table d'indicateurs 3.9 - Ordre de numérotation des losanges vus du pôle correspondant,,2-8,,En réserve,,,,Operational,Original

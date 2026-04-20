@@ -1,4 +1,4 @@
-﻿ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translated_by
+﻿ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/3/0/15,"Modèle de définition de la grille 3.0 — Grille latitude/longitude (ou équidistante cylindrique, ou Plate Carrée)",15,1,Forme de la Terre,(voir la table de code 3.2),,3.2,,Operational,Original
 grib2/3/0/16,"Modèle de définition de la grille 3.0 — Grille latitude/longitude (ou équidistante cylindrique, ou Plate Carrée)",16,1,Facteur d'échelle du rayon de la Terre sphérique,,,,,Operational,Original
 grib2/3/0/17-20,"Modèle de définition de la grille 3.0 — Grille latitude/longitude (ou équidistante cylindrique, ou Plate Carrée)",17-20,4,Valeur ajustée du rayon de la Terre sphérique,,,,,Operational,Original

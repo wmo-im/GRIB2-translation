@@ -1,4 +1,4 @@
-ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
 grib2/4/205/0,Table de code 4.205 – Présence d'aérosol,,0,,Absence d'aérosol,,,,Operational,Original
 grib2/4/205/1,Table de code 4.205 – Présence d'aérosol,,1,,Présence d'aérosol,,,,Operational,Original
 grib2/4/205/2-191,Table de code 4.205 – Présence d'aérosol,,2-191,,En réserve,,,,Operational,Original

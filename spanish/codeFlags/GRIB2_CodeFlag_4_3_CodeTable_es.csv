@@ -1,4 +1,4 @@
-ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translated_by
+ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
 grib2/4/3/0,Tabla de cifrado 4.3 – Tipo de proceso de generación,,0,,Análisis,,,,Operational,Original
 grib2/4/3/1,Tabla de cifrado 4.3 – Tipo de proceso de generación,,1,,Inicialización,,,,Operational,Original
 grib2/4/3/2,Tabla de cifrado 4.3 – Tipo de proceso de generación,,2,,Predicción,,,,Operational,Original

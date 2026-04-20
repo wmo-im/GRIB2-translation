@@ -1,4 +1,4 @@
-ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
 grib2/4/241/0,Table de code 4.241 - Caractéristique de la couverture,,0,,Valeur indéfinie,,,,Operational,Original
 grib2/4/241/1,Table de code 4.241 - Caractéristique de la couverture,,1,,Valeur inchangée,,,,Operational,Original
 grib2/4/241/2,Table de code 4.241 - Caractéristique de la couverture,,2,,Surface couverte de neige,,,,Operational,Original

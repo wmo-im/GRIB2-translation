@@ -1,4 +1,4 @@
-ID,Title_en,OctetNo,OctetCount,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status,translated_by
+ID,Title_en,OctetNo,OctetCount,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/3/3/15-72,"stretched and rotated latitude/longitude (or equidistant cylindrical, or Plate Carrée)",15-72,58,Same as grid definition template 3.0,(see Note 1),9,,,Operational,Original
 grib2/3/3/73-76,"stretched and rotated latitude/longitude (or equidistant cylindrical, or Plate Carrée)",73-76,4,Latitude of the southern pole of projection,,,,,Operational,Original
 grib2/3/3/77-80,"stretched and rotated latitude/longitude (or equidistant cylindrical, or Plate Carrée)",77-80,4,Longitude of the southern pole of projection,,,,,Operational,Original

@@ -1,4 +1,4 @@
-﻿ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translated_by
+﻿ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/3/50/15-18,Modelo de definición de la retícula 3.50 – Coeficientes armónicos esféricos,15-18,4,J - parámetro de resolución pentagonal,,,,,Operational,Original
 grib2/3/50/19-22,Modelo de definición de la retícula 3.50 – Coeficientes armónicos esféricos,19-22,4,K - parámetro de resolución pentagonal,,,,,Operational,Original
 grib2/3/50/23-26,Modelo de definición de la retícula 3.50 – Coeficientes armónicos esféricos,23-26,4,M - parámetro de resolución pentagonal,,,,,Operational,Original

@@ -1,4 +1,4 @@
-ID,Title_en,OctetNo,OctetCount,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status,translated_by
+ID,Title_en,OctetNo,OctetCount,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/3/120/15-18,azimuth-range projection,15-18,4,Nb - number of data bins along radials,(see Note),1,,,Operational,Original
 grib2/3/120/19-22,azimuth-range projection,19-22,4,Nr - number of radials,,,,,Operational,Original
 grib2/3/120/23-26,azimuth-range projection,23-26,4,La1 - latitude of centre point,,,,,Operational,Original

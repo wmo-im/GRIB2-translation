@@ -1,4 +1,4 @@
-ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translated_by
+ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
 grib2/5/2/0,Tabla de cifrado 5.2 Definición de la función de los valores de las coordenadas matriciales,,0,,Juego de valores de coordenadas explícitas,,,,Operational,Original
 grib2/5/2/1,Tabla de cifrado 5.2 Definición de la función de los valores de las coordenadas matriciales,,1,,Coordenadas lineales f(1) = C1 f(n) = f(n-1) + C2,,,,Operational,Original
 grib2/5/2/2-10,Tabla de cifrado 5.2 Definición de la función de los valores de las coordenadas matriciales,,2-10,,Reservadas,,,,Operational,Original

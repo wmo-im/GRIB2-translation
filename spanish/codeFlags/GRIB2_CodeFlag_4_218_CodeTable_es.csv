@@ -1,4 +1,4 @@
-ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translated_by
+ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
 grib2/4/218/0,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,0,,Escena no identificada,,,,Operational,Original
 grib2/4/218/1,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,1,,Bosque de hoja aciculada perenne,,,,Operational,Original
 grib2/4/218/2,Tabla de cifrado 4.218 - Tipo de escena en píxeles,,2,,Bosque de hoja ancha perenne,,,,Operational,Original

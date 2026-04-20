@@ -1,4 +1,4 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
 grib2/5/2/0,Matrix coordinate value function definition,,0,,Explicit coordinate values set,,,,Operational,Original
 grib2/5/2/1,Matrix coordinate value function definition,,1,,"Linear coordinates f(1) = C1, f(n) = f(n-1) + C2",,,,Operational,Original
 grib2/5/2/2-10,Matrix coordinate value function definition,,2-10,,Reserved,,,,Operational,Original

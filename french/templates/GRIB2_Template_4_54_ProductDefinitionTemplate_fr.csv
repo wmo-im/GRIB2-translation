@@ -1,4 +1,4 @@
-﻿ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translated_by
+﻿ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/4/54/10,"Modèle de définition du produit 4.54 — Prévision d'ensemble prise séparément, de contrôle ou «perturbée», pour une surface ou une couche horizontale, à un moment donné, relative aux paramètres partitionnés",10,1,Catégorie du paramètre,(voir la table de code 4.1),,4.1,,Operational,Original
 grib2/4/54/11,"Modèle de définition du produit 4.54 — Prévision d'ensemble prise séparément, de contrôle ou «perturbée», pour une surface ou une couche horizontale, à un moment donné, relative aux paramètres partitionnés",11,1,Numéro du paramètre,(voir la table de code 4.2 et les notes 2 et 3),,4.2,,Operational,Original
 grib2/4/54/12,"Modèle de définition du produit 4.54 — Prévision d'ensemble prise séparément, de contrôle ou «perturbée», pour une surface ou une couche horizontale, à un moment donné, relative aux paramètres partitionnés",12,1,Numéro de table de partition (PTN),(voir les notes 1 et 3),,,,Operational,Original

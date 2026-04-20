@@ -1,4 +1,4 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
 grib2/3/3/1-2,Resolution and component flags,,1-2,,Reserved,,,,Operational,Original
 grib2/3/3/3/0,Resolution and component flags,,3,0,i direction increments not given,,,,Operational,Original
 grib2/3/3/3/1,Resolution and component flags,,3,1,i direction increments given,,,,Operational,Original

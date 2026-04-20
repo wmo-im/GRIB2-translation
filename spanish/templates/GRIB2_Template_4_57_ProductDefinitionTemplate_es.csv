@@ -1,4 +1,4 @@
-﻿ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translated_by
+﻿ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/4/57/10,Modelo de definición del producto 4.57 – Análisis o predicción de componentes químicos atmosféricos para una superficie o capa horizontal en un momento dado basado en una función de distribución,10,1,Categoría del parámetro,(véase la Tabla de cifrado 4.1),,4.1,,Operational,Original
 grib2/4/57/11,Modelo de definición del producto 4.57 – Análisis o predicción de componentes químicos atmosféricos para una superficie o capa horizontal en un momento dado basado en una función de distribución,11,1,Número del parámetro,(véase la Tabla de cifrado 4.2),,4.2,,Operational,Original
 grib2/4/57/12-13,Modelo de definición del producto 4.57 – Análisis o predicción de componentes químicos atmosféricos para una superficie o capa horizontal en un momento dado basado en una función de distribución,12-13,2,Tipo de componente químico atmosférico,(véase la Tabla de cifrado 4.230),,4.230,,Operational,Original

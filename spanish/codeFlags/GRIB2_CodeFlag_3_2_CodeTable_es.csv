@@ -1,4 +1,4 @@
-ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translated_by
+ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
 grib2/3/2/0,Tabla de cifrado 3.2 — Forma de la Tierra,,0,,"Tierra considerada como esférica con un radio de 6 367 470,0 m",,121,,Operational,Original
 grib2/3/2/1,Tabla de cifrado 3.2 — Forma de la Tierra,,1,,"Tierra considerada como esférica, con radio especificado (en m) por el productor de los datos",,121,,Operational,Original
 grib2/3/2/2,Tabla de cifrado 3.2 — Forma de la Tierra,,2,,"Tierra considerada como esferoide achatado cuyo tamaño ha sido determinado por la UAI en 1965 (eje mayor = 6 378 160,0 m; eje menor = 6 356 775,0 m; f = 1/297,0)",,,,Operational,Original

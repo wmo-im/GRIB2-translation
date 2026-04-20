@@ -1,4 +1,4 @@
-ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
 grib2/4/204/0,Table de code 4.204 – Étendue des orages,,0,,Aucun,,,,Operational,Original
 grib2/4/204/1,Table de code 4.204 – Étendue des orages,,1,,Isolés (1 % - 2 %),,,,Operational,Original
 grib2/4/204/2,Table de code 4.204 – Étendue des orages,,2,,Peu nombreux (3 % - 5 %),,,,Operational,Original

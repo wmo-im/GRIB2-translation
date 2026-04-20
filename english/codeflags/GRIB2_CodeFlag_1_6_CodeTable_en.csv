@@ -1,4 +1,4 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
 grib2/1/6/0,Type of calendar,,0,,Gregorian,,,,Operational,Original
 grib2/1/6/1,Type of calendar,,1,,360-day,,,,Operational,Original
 grib2/1/6/2,Type of calendar,,2,,365-day,(see Note 1),47,,Operational,Original

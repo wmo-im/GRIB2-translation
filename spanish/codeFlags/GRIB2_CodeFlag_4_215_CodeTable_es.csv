@@ -1,4 +1,4 @@
-ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translated_by
+ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
 grib2/4/215/0-49,Tabla de cifrado 4.215 – Cobertura de nieve captada por teledetección,,0-49,,Reservadas,,,,Operational,Original
 grib2/4/215/50,Tabla de cifrado 4.215 – Cobertura de nieve captada por teledetección,,50,,Ninguna nieve ni nube,,,,Operational,Original
 grib2/4/215/51-99,Tabla de cifrado 4.215 – Cobertura de nieve captada por teledetección,,51-99,,Reservadas,,,,Operational,Original

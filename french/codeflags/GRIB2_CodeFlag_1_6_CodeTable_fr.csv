@@ -1,4 +1,4 @@
-ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
 grib2/1/6/0,Table de code 1.6 – Type de calendrier,,0,,Grégorien,,,,Operational,Original
 grib2/1/6/1,Table de code 1.6 – Type de calendrier,,1,,360 jours,,,,Operational,Original
 grib2/1/6/2,Table de code 1.6 – Type de calendrier,,2,,365 jours,,47,,Operational,Original

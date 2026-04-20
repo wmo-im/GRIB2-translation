@@ -1,4 +1,4 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
 grib2/4/100/0,Type of reference dataset,,0,,Analysis,,,,Operational,Original
 grib2/4/100/1,Type of reference dataset,,1,,Forecast,,,,Operational,Original
 grib2/4/100/2,Type of reference dataset,,2,,Reforecast (Hindcast),,,,Operational,Original

@@ -1,4 +1,4 @@
-ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
 grib2/4/2/10/2/0,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Domaine de spécialisation 10 — Produits océanographiques, Catégorie de paramètres 2: glace",0,,Proportion de glace,,,Proportion,Operational,Original
 grib2/4/2/10/2/1,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Domaine de spécialisation 10 — Produits océanographiques, Catégorie de paramètres 2: glace",1,,Épaisseur de la glace,,,m,Operational,Original
 grib2/4/2/10/2/2,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Domaine de spécialisation 10 — Produits océanographiques, Catégorie de paramètres 2: glace",2,,Direction de la dérive de la glace,,,Degré vrai,Operational,Original

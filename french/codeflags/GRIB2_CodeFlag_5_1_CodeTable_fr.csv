@@ -1,4 +1,4 @@
-ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
 grib2/5/1/0,Table de code 5.1 – Type des valeurs du champ d'origine,,0,,Virgule flottante,,,,Operational,Original
 grib2/5/1/1,Table de code 5.1 – Type des valeurs du champ d'origine,,1,,Entier,,,,Operational,Original
 grib2/5/1/2-191,Table de code 5.1 – Type des valeurs du champ d'origine,,2-191,,En réserve,,,,Operational,Original

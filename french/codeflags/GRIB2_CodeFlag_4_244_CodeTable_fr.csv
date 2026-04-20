@@ -1,4 +1,4 @@
-ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
 grib2/4/244/0,Table de code 4.244 - Indicateur de qualité,,0,,Aucune information disponible sur la qualité,,,,Operational,Original
 grib2/4/244/1,Table de code 4.244 - Indicateur de qualité,,1,,Échec,,,,Operational,Original
 grib2/4/244/2,Table de code 4.244 - Indicateur de qualité,,2,,Accepté,,,,Operational,Original

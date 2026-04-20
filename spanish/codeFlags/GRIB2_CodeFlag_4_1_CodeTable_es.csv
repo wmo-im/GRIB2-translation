@@ -1,4 +1,4 @@
-﻿ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_en,Status,translated_by
+﻿ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_en,Status,translation_source
 grib2/4/1/0/0,Tabla de cifrado 4.1 — Categoría de parámetros por campo de especialización de los productos,Campo de especialización 0 — Productos meteorológicos,0,,Temperatura,,,,Operational,Original
 grib2/4/1/0/1,Tabla de cifrado 4.1 — Categoría de parámetros por campo de especialización de los productos,Campo de especialización 0 — Productos meteorológicos,1,,Humedad,,,,Operational,Original
 grib2/4/1/0/2,Tabla de cifrado 4.1 — Categoría de parámetros por campo de especialización de los productos,Campo de especialización 0 — Productos meteorológicos,2,,Impulso,,,,Operational,Original

@@ -1,4 +1,4 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
 grib2/4/234/1,Canopy cover fraction (to be used as partitioned parameter in product definition template 4.53 or 4.54),,1,,"Crops, mixed farming",,,,Operational,Original
 grib2/4/234/2,Canopy cover fraction (to be used as partitioned parameter in product definition template 4.53 or 4.54),,2,,Short grass,,,,Operational,Original
 grib2/4/234/3,Canopy cover fraction (to be used as partitioned parameter in product definition template 4.53 or 4.54),,3,,Evergreen needleleaf trees,,,,Operational,Original

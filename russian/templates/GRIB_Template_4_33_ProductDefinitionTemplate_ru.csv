@@ -1,4 +1,4 @@
-ID,Title_ru,OctetNo,OctetCount,Contents_ru,Note_ru,noteIDs,codeTable,flagTable,Status,translated_by
+ID,Title_ru,OctetNo,OctetCount,Contents_ru,Note_ru,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/4/33//1,Образец определения продукции 4.33 — индивидуальный прогноз по ансамблю,,10,,Категория параметра,см. кодовую таблицу 4.1,,4.1,,Original
 grib2/4/33//2,Образец определения продукции 4.33 — индивидуальный прогноз по ансамблю,,11,,Номер параметра,см. кодовую таблицу 4.2,,4.2,,Original
 grib2/4/33//3,Образец определения продукции 4.33 — индивидуальный прогноз по ансамблю,,12,,Тип процесса подготовки,см. кодовую таблицу 4.3,,4.3,,Original

@@ -1,4 +1,4 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
 grib2/3/11/0,Interpretation of list of numbers at end of section 3,,0,,There is no appended list,,,,Operational,Original
 grib2/3/11/1,Interpretation of list of numbers at end of section 3,,1,,"Numbers define number of points corresponding to full coordinate circles (i.e. parallels), coordinate values on each circle are multiple of the circle mesh, and extreme coordinate values given in grid definition (i.e. extreme longitudes) may not be reached in all rows",(see Note 1),50,,Operational,Original
 grib2/3/11/2,Interpretation of list of numbers at end of section 3,,2,,Numbers define number of points corresponding to coordinate lines delimited by extreme coordinate values given in grid definition (i.e. extreme longitudes) which are present in each row,,,,Operational,Original

@@ -1,4 +1,4 @@
-ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translated_by
+ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
 grib2/4/6/0,Tabla de cifrado 4.6 – Tipo de predicción por conjuntos,,0,,Predicción de control de alta resolución sin perturbación,,,,Operational,Original
 grib2/4/6/1,Tabla de cifrado 4.6 – Tipo de predicción por conjuntos,,1,,Predicción de control de baja resolución sin perturbación,,,,Operational,Original
 grib2/4/6/2,Tabla de cifrado 4.6 – Tipo de predicción por conjuntos,,2,,Predicción con perturbación negativa,,,,Operational,Original

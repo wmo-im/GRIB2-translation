@@ -1,4 +1,4 @@
-ID,Title_en,OctetNo,OctetCount,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status,translated_by
+ID,Title_en,OctetNo,OctetCount,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/3/53/15-28,stretched and rotated spherical harmonic coefficients,15-28,14,Same as grid definition template 3.50,,,,,Operational,Original
 grib2/3/53/29-32,stretched and rotated spherical harmonic coefficients,29-32,4,Latitude of the southern pole of projection,,,,,Operational,Original
 grib2/3/53/33-36,stretched and rotated spherical harmonic coefficients,33-36,4,Longitude of the southern pole of projection,,,,,Operational,Original

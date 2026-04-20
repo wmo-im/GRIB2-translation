@@ -1,4 +1,4 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
 grib2/4/121/0,Type of reference dataset for verification,,0,,Analysis interpolated on forecast grid,,,,Operational,Original
 grib2/4/121/1,Type of reference dataset for verification,,1,,Analysis with forecast interpolated on analysis grid,,,,Operational,Original
 grib2/4/121/2,Type of reference dataset for verification,,2,,Analysis interpolated on a common grid with the forecast but different to original grid,,,,Operational,Original

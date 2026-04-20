@@ -1,4 +1,4 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
 grib2/3/21/0,Vertical dimension coordinate values definition,,0,,Explicit coordinate values set,,,,Operational,Original
 grib2/3/21/1,Vertical dimension coordinate values definition,,1,,"Linear coordinates f(1) = C1, f(n) = f(n-1) + C2",,,,Operational,Original
 grib2/3/21/2-10,Vertical dimension coordinate values definition,,2-10,,Reserved,,,,Operational,Original

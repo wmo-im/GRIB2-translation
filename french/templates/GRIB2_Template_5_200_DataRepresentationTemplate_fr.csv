@@ -1,4 +1,4 @@
-﻿ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translated_by
+﻿ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/5/200/12,Modèle de représentation des données 5.200 — Données aux points de grille — compression en longueur de ligne avec des valeurs de niveau,12,1,Nombre de bits utilisés pour chaque valeur comprimée dans la compression en longueur de ligne avec la valeur de niveau,,,,,Operational,Original
 grib2/5/200/13-14,Modèle de représentation des données 5.200 — Données aux points de grille — compression en longueur de ligne avec des valeurs de niveau,13-14,2,MV - Valeur maximale dans les limites des niveaux utilisés pour la compression,,,,,Operational,Original
 grib2/5/200/15-16,Modèle de représentation des données 5.200 — Données aux points de grille — compression en longueur de ligne avec des valeurs de niveau,15-16,2,MVL - Valeur maximale du niveau (prédéfinie),,,,,Operational,Original

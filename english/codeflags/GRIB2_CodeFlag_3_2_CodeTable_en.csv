@@ -1,4 +1,4 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
 grib2/3/2/0,Shape of the reference system,,0,,Earth assumed spherical with radius = 6 367 470.0 m,(see Note 2),121,,Operational,Original
 grib2/3/2/1,Shape of the reference system,,1,,Earth assumed spherical with radius specified (in m) by data producer,(see Note 2),121,,Operational,Original
 grib2/3/2/2,Shape of the reference system,,2,,"Earth assumed oblate spheroid with size as determined by IAU in 1965 (major axis = 6 378 160.0 m, minor axis = 6 356 775.0 m, f = 1/297.0)",,,,Operational,Original

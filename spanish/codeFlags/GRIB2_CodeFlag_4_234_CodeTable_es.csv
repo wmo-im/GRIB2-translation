@@ -1,4 +1,4 @@
-ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translated_by
+ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
 grib2/4/234/1,Tabla de cifrado 4.234 – Fracción de la cubierta vegetal (se utilizará como parámetro con particiones en el modelo de definición del producto 4.53 ó 4.54),,1,,"Cultivos, agricultura mixta",,,,Operational,Original
 grib2/4/234/2,Tabla de cifrado 4.234 – Fracción de la cubierta vegetal (se utilizará como parámetro con particiones en el modelo de definición del producto 4.53 ó 4.54),,2,,Hierba corta,,,,Operational,Original
 grib2/4/234/3,Tabla de cifrado 4.234 – Fracción de la cubierta vegetal (se utilizará como parámetro con particiones en el modelo de definición del producto 4.53 ó 4.54),,3,,Árboles perennes de hoja acicular,,,,Operational,Original

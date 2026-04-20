@@ -1,4 +1,4 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
 grib2/5/3/1,Matrix coordinate parameter,,1,,Direction degrees true,,,,Operational,Original
 grib2/5/3/2,Matrix coordinate parameter,,2,,Frequency (s-1),,,,Operational,Original
 grib2/5/3/3,Matrix coordinate parameter,,3,,Radial number (2pi/lambda) (m-1),,,,Operational,Original

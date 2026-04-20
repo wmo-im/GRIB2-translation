@@ -1,4 +1,4 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
 grib2/4/2/20/3/0,Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 3: renewable energy sector",0,,Renewable power capacity,,,W,Operational,Original
 grib2/4/2/20/3/1,Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 3: renewable energy sector",1,,Renewable power production rate,,,W,Operational,Original
 grib2/4/2/20/3/2,Parameter number by product discipline and parameter category,"Product discipline 20 - Health and socioeconomic impacts, parameter category 3: renewable energy sector",2,,Wind power capacity,,,W,Operational,Original

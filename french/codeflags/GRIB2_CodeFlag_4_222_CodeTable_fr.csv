@@ -1,4 +1,4 @@
-ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
 grib2/4/222/0,Table de code 4.222 – Résultat catégoriel,,0,,Non,,,,Operational,Original
 grib2/4/222/1,Table de code 4.222 – Résultat catégoriel,,1,,Oui,,,,Operational,Original
 grib2/4/222/2-191,Table de code 4.222 – Résultat catégoriel,,2-191,,En réserve,,,,Operational,Original

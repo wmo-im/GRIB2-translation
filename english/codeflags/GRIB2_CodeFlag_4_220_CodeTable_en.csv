@@ -1,4 +1,4 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
 grib2/4/220/0,Horizontal dimension processed,,0,,Latitude,,,,Operational,Original
 grib2/4/220/1,Horizontal dimension processed,,1,,Longitude,,,,Operational,Original
 grib2/4/220/2-191,Horizontal dimension processed,,2-191,,Reserved,,,,Operational,Original

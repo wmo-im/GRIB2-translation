@@ -1,4 +1,4 @@
-ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
 grib2/1/2/0,Table de code 1.2 – Signification de l'heure de référence,,0,,Analyse,,,,Operational,Original
 grib2/1/2/1,Table de code 1.2 – Signification de l'heure de référence,,1,,Début de la prévision,,,,Operational,Original
 grib2/1/2/2,Table de code 1.2 – Signification de l'heure de référence,,2,,Heure de vérification de la prévision,,,,Operational,Original

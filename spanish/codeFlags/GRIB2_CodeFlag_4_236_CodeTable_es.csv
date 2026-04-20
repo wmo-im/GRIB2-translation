@@ -1,4 +1,4 @@
-ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translated_by
+ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
 grib2/4/236/1,Tabla de cifrado 4.236 - Fracción de textura del suelo (se utilizará como parámetro con particiones en el modelo de definición del producto 4.53 ó 4.54),,1,,Gruesa,,,,Operational,Original
 grib2/4/236/2,Tabla de cifrado 4.236 - Fracción de textura del suelo (se utilizará como parámetro con particiones en el modelo de definición del producto 4.53 ó 4.54),,2,,Media,,,,Operational,Original
 grib2/4/236/3,Tabla de cifrado 4.236 - Fracción de textura del suelo (se utilizará como parámetro con particiones en el modelo de definición del producto 4.53 ó 4.54),,3,,Media-fina,,,,Operational,Original

@@ -1,4 +1,4 @@
-﻿ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
+﻿ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
 grib2/3/1/0,Table de code 3.1 — Numéro du modèle de définition de la grille,,0,,Grille latitude/longitude,Projection appelée aussi équidistante cylindrique ou Plate Carrée,,,Operational,Original
 grib2/3/1/1,Table de code 3.1 — Numéro du modèle de définition de la grille,,1,,Grille latitude/longitude après rotation,,,,Operational,Original
 grib2/3/1/2,Table de code 3.1 — Numéro du modèle de définition de la grille,,2,,Grille latitude/longitude après dilatation,,,,Operational,Original

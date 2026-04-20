@@ -1,4 +1,4 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
 grib2/5/4/0,Group splitting method,,0,,Row by row splitting,,,,Operational,Original
 grib2/5/4/1,Group splitting method,,1,,General group splitting,,,,Operational,Original
 grib2/5/4/2-191,Group splitting method,,2-191,,Reserved,,,,Operational,Original

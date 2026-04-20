@@ -1,4 +1,4 @@
-ID,Title_en,OctetNo,OctetCount,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status,translated_by
+ID,Title_en,OctetNo,OctetCount,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/3/61/15,spectral Mercator with modelling subdomains definition,15,1,Spectral representation type,(see Code table 3.6),,3.6,,Operational,Original
 grib2/3/61/16-19,spectral Mercator with modelling subdomains definition,16-19,4,N - bi-Fourier resolution parameter,,,,,Operational,Original
 grib2/3/61/20-23,spectral Mercator with modelling subdomains definition,20-23,4,M - bi-Fourier resolution parameter,,,,,Operational,Original

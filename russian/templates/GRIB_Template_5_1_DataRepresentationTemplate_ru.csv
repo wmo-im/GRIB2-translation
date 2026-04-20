@@ -1,4 +1,4 @@
-ID,Title_ru,OctetNo,OctetCount,Contents_ru,Note_ru,noteIDs,codeTable,flagTable,Status,translated_by
+ID,Title_ru,OctetNo,OctetCount,Contents_ru,Note_ru,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/5/1/12-21,Образец представления данных 5.1 — матричные величины в узлах сетки — простая,12–21,,То же, что и в образце представления данных 5.0,,,,,Original
 grib2/5/1/22,Образец представления данных 5.1 — матричные величины в узлах сетки — простая,22,,0 — матричное битовое отображение отсутствует; 1 — матричное битовое отображение присутствует,,,,,operational,Original
 grib2/5/1/23-26,Образец представления данных 5.1 — матричные величины в узлах сетки — простая,23–26,,Количество значений данных, закодированных в разделе 7,,,,,Original

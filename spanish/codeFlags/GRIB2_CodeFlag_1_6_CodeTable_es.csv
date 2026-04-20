@@ -1,4 +1,4 @@
-ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translated_by
+ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
 grib2/1/6/0,Tabla de cifrado 1.6 – Tipo de calendario,,0,,Gregoriano,,,,Operational,Original
 grib2/1/6/1,Tabla de cifrado 1.6 – Tipo de calendario,,1,,360 días,,,,Operational,Original
 grib2/1/6/2,Tabla de cifrado 1.6 – Tipo de calendario,,2,,365 días,,,,Operational,Original

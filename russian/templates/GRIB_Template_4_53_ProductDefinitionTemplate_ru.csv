@@ -1,4 +1,4 @@
-ID,Title_ru,OctetNo,OctetCount,Contents_ru,Note_ru,noteIDs,codeTable,flagTable,Status,translated_by
+ID,Title_ru,OctetNo,OctetCount,Contents_ru,Note_ru,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/4/53/10,Образец определения продукции 4.53 — разделенные параметры на горизонтальном уровне,10,,Категория параметра,см. кодовую таблицу 4.1,,4.1,,operational,Original
 grib2/4/53/11,Образец определения продукции 4.53 — разделенные параметры на горизонтальном уровне,11,,Номер параметра (см. кодовую таблицу 4.2 и примечания 2 и 3),,,,,operational,Original
 grib2/4/53/12,Образец определения продукции 4.53 — разделенные параметры на горизонтальном уровне,12,,Номер таблицы разделения (PTN) (см. примечания 1 и 3),,,,,operational,Original

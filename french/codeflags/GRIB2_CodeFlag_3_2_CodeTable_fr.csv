@@ -1,4 +1,4 @@
-ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
 grib2/3/2/0,Table de code 3.2 — Forme de la Terre,,0,,"Terre considérée comme sphérique avec un rayon de 6 367 470,0 m",,,,Operational,Original
 grib2/3/2/1,Table de code 3.2 — Forme de la Terre,,1,,"Terre considérée comme sphérique, le rayon étant précisé (en m) par le fournisseur des données",,,,Operational,Original
 grib2/3/2/2,Table de code 3.2 — Forme de la Terre,,2,,"Terre considérée comme ellipsoïdale aplatie dont la taille a été définie par l'UAI en 1965 (grand axe = 6 378 160,0 m, petit axe = 6 356 775,0 m, f = 1/297,0)",,,,Operational,Original

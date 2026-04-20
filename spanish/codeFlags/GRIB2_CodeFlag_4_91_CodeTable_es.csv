@@ -1,4 +1,4 @@
-ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translated_by
+ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
 grib2/4/91/0,Tabla de cifrado 4.91 – Tipo de intervalo,,0,,Inferior al primer límite,,,,Operational,Original
 grib2/4/91/1,Tabla de cifrado 4.91 – Tipo de intervalo,,1,,Superior al segundo límite,,,,Operational,Original
 grib2/4/91/2,Tabla de cifrado 4.91 – Tipo de intervalo,,2,,"Comprendido entre el primero y el segundo límites. El intervalo incluye el primer límite, pero no el segundo",,,,Operational,Original

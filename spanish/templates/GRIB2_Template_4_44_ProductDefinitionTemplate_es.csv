@@ -1,4 +1,4 @@
-﻿ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translated_by
+﻿ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/4/44/10,Análisis o predicción para una superficie o capa horizontal en un momento dado respecto de aerosoles,10,1,Categoría del parámetro,(véase la Tabla de cifrado 4.1),,4.1,,Deprecated,Original
 grib2/4/44/11,Análisis o predicción para una superficie o capa horizontal en un momento dado respecto de aerosoles,11,1,Número del parámetro,(véase la Tabla de cifrado 4.2),,4.2,,Deprecated,Original
 grib2/4/44/12-13,Análisis o predicción para una superficie o capa horizontal en un momento dado respecto de aerosoles,12-13,2,Tipo de aerosol,(véase la Tabla de cifrado 4.233),,4.233,,Deprecated,Original

@@ -1,4 +1,4 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
 grib2/4/10/0,Type of statistical processing,,0,,Average,,,,Operational,Original
 grib2/4/10/1,Type of statistical processing,,1,,Accumulation,(see Note 1),92,,Operational,Original
 grib2/4/10/2,Type of statistical processing,,2,,Maximum,,,,Operational,Original

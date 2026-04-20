@@ -1,4 +1,4 @@
-ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
 grib2/4/16/0,Table de code 4.16 – Valeur relative à la qualité associée au paramètre,,0,,Indice de confiance,(voir la note 2),,,Operational,Original
 grib2/4/16/1,Table de code 4.16 – Valeur relative à la qualité associée au paramètre,,1,,Indicateur de qualité,(voir la note 3 et la table de code 4.244),,,Operational,Original
 grib2/4/16/2,Table de code 4.16 – Valeur relative à la qualité associée au paramètre,,2,,Corrélation entre le produit et le produit d'étalonnage utilisé,(voir la note 4),,,Operational,Original

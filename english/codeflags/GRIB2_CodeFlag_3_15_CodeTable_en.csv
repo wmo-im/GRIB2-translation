@@ -1,4 +1,4 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
 grib2/3/15/0-19,Physical meaning of vertical coordinate,,0-19,,Reserved,,,,Operational,Original
 grib2/3/15/20,Physical meaning of vertical coordinate,,20,,Temperature,,,K,Operational,Original
 grib2/3/15/21-99,Physical meaning of vertical coordinate,,21-99,,Reserved,,,,Operational,Original

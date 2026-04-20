@@ -1,4 +1,4 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
 grib2/3/1/0,Grid definition template number,,0,,Latitude/longitude,(see Note 1),27,,Operational,Original
 grib2/3/1/1,Grid definition template number,,1,,Rotated latitude/longitude,,,,Operational,Original
 grib2/3/1/2,Grid definition template number,,2,,Stretched latitude/longitude,,,,Operational,Original

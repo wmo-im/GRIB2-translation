@@ -1,4 +1,4 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
 grib2/1/0/0,GRIB master tables version number,,0,,Experimental,,,,Deprecated,Original
 grib2/1/0/1,GRIB master tables version number,,1,,Version implemented on 7 November 2001,,,,Deprecated,Original
 grib2/1/0/2,GRIB master tables version number,,2,,Version implemented on 4 November 2003,,,,Deprecated,Original

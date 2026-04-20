@@ -1,4 +1,4 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
 grib2/4/247/0,Precipitation intensity,,0,,No precipitation occurrence,,,,Operational,Original
 grib2/4/247/1,Precipitation intensity,,1,,Light precipitation,,,,Operational,Original
 grib2/4/247/2,Precipitation intensity,,2,,Moderate precipitation,,,,Operational,Original

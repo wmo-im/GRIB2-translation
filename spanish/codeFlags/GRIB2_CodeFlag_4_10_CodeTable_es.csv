@@ -1,4 +1,4 @@
-ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translated_by
+ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
 grib2/4/10/0,Tabla de cifrado 4.10 – Tipo de cálculo estadístico,,0,,Media,,,,Operational,Original
 grib2/4/10/1,Tabla de cifrado 4.10 – Tipo de cálculo estadístico,,1,,Acumulación (véase la nota 1),,,,Operational,Original
 grib2/4/10/2,Tabla de cifrado 4.10 – Tipo de cálculo estadístico,,2,,Máxima,,,,Operational,Original

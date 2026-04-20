@@ -1,4 +1,4 @@
-ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
 grib2/4/211/0,Table de code 4.211 – Traînée de condensation selon le réacteur,,0,,Double flux (taux de dilution faible),,,,Operational,Original
 grib2/4/211/1,Table de code 4.211 – Traînée de condensation selon le réacteur,,1,,Double flux (taux de dilution élevé),,,,Operational,Original
 grib2/4/211/2,Table de code 4.211 – Traînée de condensation selon le réacteur,,2,,Sans double flux,,,,Operational,Original

@@ -1,4 +1,4 @@
-ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translated_by
+ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
 grib2/4/240/0,Tabla de cifrado 4.240 – Tipo de función de distribución,,0,,No se proporciona ninguna función de distribución específica,,,,Operational,Original
 grib2/4/240/1,Tabla de cifrado 4.240 – Tipo de función de distribución,,1,,Funciones delta con concentración espacialmente variable y diámetros fijos Dl (p1) en metros (véase la nota 1),,,,Operational,Original
 grib2/4/240/2,Tabla de cifrado 4.240 – Tipo de función de distribución,,2,,Funciones delta con concentración espacialmente variable y masas fijas Ml (p1) en kg (véase la nota 2),,,,Operational,Original

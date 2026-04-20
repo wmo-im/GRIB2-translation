@@ -1,4 +1,4 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
 grib2/4/15/0,Type of spatial processing used to arrive at given data value from the source data,,0,,Data is calculated directly from the source grid with no interpolation,(see Note 1),109,,Operational,Original
 grib2/4/15/1,Type of spatial processing used to arrive at given data value from the source data,,1,,Bilinear interpolation using the 4 source grid grid-point values surrounding the nominal grid-point,,,,Operational,Original
 grib2/4/15/2,Type of spatial processing used to arrive at given data value from the source data,,2,,Bicubic interpolation using the 4 source grid grid-point values surrounding the nominal grid-point,,,,Operational,Original

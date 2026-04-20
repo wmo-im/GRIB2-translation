@@ -1,4 +1,4 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
 grib2/4/16/0,Quality value associated with parameter,,0,,Confidence index,(see Note 2),94,,Operational,Original
 grib2/4/16/1,Quality value associated with parameter,,1,,Quality indicator,(see Note 3 and Code table 4.244),96,,Operational,Original
 grib2/4/16/2,Quality value associated with parameter,,2,,Correlation of product with used calibration product,(see Note 4),95,,Operational,Original

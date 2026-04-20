@@ -1,4 +1,4 @@
-ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translated_by
+ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
 grib2/3/15/0-19,Tabla de cifrado 3.15 — Significado físico de la coordenada vertical,,0-19,,Reservadas,,,,Operational,Original
 grib2/3/15/20,Tabla de cifrado 3.15 — Significado físico de la coordenada vertical,,20,,Temperatura,,,,Operational,Original
 grib2/3/15/21-99,Tabla de cifrado 3.15 — Significado físico de la coordenada vertical,,21-99,,Reservadas,,,,Operational,Original

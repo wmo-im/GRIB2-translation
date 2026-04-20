@@ -1,4 +1,4 @@
-ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translated_by
+ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
 grib2/4/2/10/3/0,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 10 — Productos oceanográficos, categoría de parámetros 3: propiedades de la superficie",0,,Temperatura del agua,,,K,Operational,Original
 grib2/4/2/10/3/1,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 10 — Productos oceanográficos, categoría de parámetros 3: propiedades de la superficie",1,,Desviación en relación con el nivel medio del mar,,,m,Operational,Original
 grib2/4/2/10/3/2,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 10 — Productos oceanográficos, categoría de parámetros 3: propiedades de la superficie",2,,Coeficiente de intercambio de calor,,,—,Operational,Original

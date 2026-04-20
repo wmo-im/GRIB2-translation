@@ -1,4 +1,4 @@
-ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
 grib2/4/240/0,Table de code 4.240 - Type de distribution,,0,,Aucune précision fournie sur la fonction de distribution,,,,Operational,Original
 grib2/4/240/1,Table de code 4.240 - Type de distribution,,1,,Fonctions delta - concentration variable dans l'espace et diamètres fixes Dᵢ (ρ1) en mètres,(voir la note 1),,,Operational,Original
 grib2/4/240/2,Table de code 4.240 - Type de distribution,,2,,Fonctions delta – concentration variable dans l'espace et masses fixes Mᵢ (ρ1) en kg,(voir la note 2),,,Operational,Original

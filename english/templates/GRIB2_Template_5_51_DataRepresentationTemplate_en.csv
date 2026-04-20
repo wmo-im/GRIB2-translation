@@ -1,4 +1,4 @@
-ID,Title_en,OctetNo,OctetCount,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status,translated_by
+ID,Title_en,OctetNo,OctetCount,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/5/51/12-20,Spherical harmonics data - complex packing,12-20,9,Same as data representation template 5.50,,,,,Operational,Original
 grib2/5/51/21-24,Spherical harmonics data - complex packing,21-24,4,P - Laplacian scaling factor (expressed in 10-6 units),,,,,Operational,Original
 grib2/5/51/25-26,Spherical harmonics data - complex packing,25-26,2,JS - pentagonal resolution parameter of the unpacked subset,(see Note 1),119,,,Operational,Original

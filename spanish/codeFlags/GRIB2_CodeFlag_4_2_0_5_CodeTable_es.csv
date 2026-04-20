@@ -1,4 +1,4 @@
-ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translated_by
+ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
 grib2/4/2/0/5/0,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 5: radiación de onda larga",0,,Flujo neto de la radiación de onda larga (superficie)*,,,W m-2,Deprecated,Original
 grib2/4/2/0/5/1,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 5: radiación de onda larga",1,,Flujo neto de la radiación de onda larga* (capa superior de la atmósfera),,,W m-2,Deprecated,Original
 grib2/4/2/0/5/2,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 5: radiación de onda larga",2,,Flujo de la radiación de onda larga*,,,W m-2,Deprecated,Original

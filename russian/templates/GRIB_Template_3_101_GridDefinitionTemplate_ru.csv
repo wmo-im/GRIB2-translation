@@ -1,4 +1,4 @@
-ID,Title_ru,OctetNo,OctetCount,Contents_ru,Note_ru,noteIDs,codeTable,flagTable,Status,translated_by
+ID,Title_ru,OctetNo,OctetCount,Contents_ru,Note_ru,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/3/101/15,Образец определения сетки 3.101 — общая неструктурированная сетка,15,,Форма Земли,см. кодовую таблицу 3.2,,3.2,,operational,Original
 grib2/3/101/16-18,Образец определения сетки 3.101 — общая неструктурированная сетка,16–18,,Номер используемой сетки (определяется центром-поставщиком),,,,,operational,Original
 grib2/3/101/19,Образец определения сетки 3.101 — общая неструктурированная сетка,19,,Соответствующий номер сетки (для возможности снабжения пояснительными замечаниями С-сетки Аракавы на произвольной сетке координат) (примечание 1),,,,,operational,Original

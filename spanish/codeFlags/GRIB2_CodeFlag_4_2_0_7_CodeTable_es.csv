@@ -1,4 +1,4 @@
-ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translated_by
+ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
 grib2/4/2/0/7/0,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 7: índices de estabilidad termodinámica",0,,Índice de elevación de una partícula (a 500 hPa),,,K,Operational,Original
 grib2/4/2/0/7/1,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 7: índices de estabilidad termodinámica",1,,Índice de elevación óptimo (a 500 hPa),,,K,Operational,Original
 grib2/4/2/0/7/2,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 0 — Productos meteorológicos, categoría de parámetros 7: índices de estabilidad termodinámica",2,,Índice K,,,K,Operational,Original

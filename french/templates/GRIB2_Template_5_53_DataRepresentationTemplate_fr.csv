@@ -1,4 +1,4 @@
-﻿ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translated_by
+﻿ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/5/53/12-15,Modèle de représentation des données 5.53 — Données spectrales pour les modèles à domaine limité - compression complexe,12-15,4,Valeur de référence (R) (valeur en virgule flottante IEEE 32 bits),,,,,Operational,Original
 grib2/5/53/16-17,Modèle de représentation des données 5.53 — Données spectrales pour les modèles à domaine limité - compression complexe,16-17,2,Facteur d'échelle binaire (E),,,,,Operational,Original
 grib2/5/53/18-19,Modèle de représentation des données 5.53 — Données spectrales pour les modèles à domaine limité - compression complexe,18-19,2,Facteur d'échelle décimale (D),,,,,Operational,Original

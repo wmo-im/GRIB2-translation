@@ -1,4 +1,4 @@
-ID,Title_ru,OctetNo,OctetCount,Contents_ru,Note_ru,noteIDs,codeTable,flagTable,Status,translated_by
+ID,Title_ru,OctetNo,OctetCount,Contents_ru,Note_ru,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/5/53/12-15,Образец представления данных 5.53 — спектральные данные для моделей ограниченной,12–15,,Величина начала отсчета (R) (32-битовая величина в стандарте IEEE с плавающей запятой),,,,,operational,Original
 grib2/5/53/16-17,Образец представления данных 5.53 — спектральные данные для моделей ограниченной,16–17,,Двоичный масштабный коэффициент (E),,,,,operational,Original
 grib2/5/53/18-19,Образец представления данных 5.53 — спектральные данные для моделей ограниченной,18–19,,Десятичный масштабный коэффициент (D),,,,,operational,Original

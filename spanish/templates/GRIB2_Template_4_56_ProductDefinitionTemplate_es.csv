@@ -1,4 +1,4 @@
-﻿ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translated_by
+﻿ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/4/56/10,"Modelo de definición del producto 4.56 – Predicción de conjunto individual, de control y perturbada, para una superficie o capa horizontal en un momento dado, para parámetros de cambios espacio-temporales en las placas",10,1,Categoría de parámetros,(véase la Tabla de cifrado 4.1),,4.1,,Deprecated,Original
 grib2/4/56/11,"Modelo de definición del producto 4.56 – Predicción de conjunto individual, de control y perturbada, para una superficie o capa horizontal en un momento dado, para parámetros de cambios espacio-temporales en las placas",11,1,Número de parámetros,(véase la Tabla de cifrado 4.2),,4.2,,Deprecated,Original
 grib2/4/56/12,"Modelo de definición del producto 4.56 – Predicción de conjunto individual, de control y perturbada, para una superficie o capa horizontal en un momento dado, para parámetros de cambios espacio-temporales en las placas",12,1,Clasificación de la placa,(véase la Tabla de cifrado 4.242),,4.242,,Deprecated,Original

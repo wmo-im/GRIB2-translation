@@ -1,4 +1,4 @@
-ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
 grib2/5/25/0-76,Table de code 5.25 – Type de sous-troncature avec transformée de Fourier 2D,,0-76,,En réserve,,,,Operational,Original
 grib2/5/25/77,Table de code 5.25 – Type de sous-troncature avec transformée de Fourier 2D,,77,,Rectangulaire,,,,Operational,Original
 grib2/5/25/78-87,Table de code 5.25 – Type de sous-troncature avec transformée de Fourier 2D,,78-87,,En réserve,,,,Operational,Original

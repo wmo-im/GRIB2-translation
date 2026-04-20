@@ -1,4 +1,4 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
 grib2/4/120/0,Verification scores,,0,,Mean error,,,,Operational,Original
 grib2/4/120/1,Verification scores,,1,,Root mean squared error,,,,Operational,Original
 grib2/4/120/2,Verification scores,,2,,Continuous ranked probability score (CRPS),,,,Operational,Original

@@ -1,4 +1,4 @@
-ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translated_by
+ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
 grib2/4/201/0,Tabla de cifrado 4.201 – Tipo de precipitación,,0,,Reservada,,,,Operational,Original
 grib2/4/201/1,Tabla de cifrado 4.201 – Tipo de precipitación,,1,,Lluvia,,,,Operational,Original
 grib2/4/201/2,Tabla de cifrado 4.201 – Tipo de precipitación,,2,,Tormenta,,,,Operational,Original

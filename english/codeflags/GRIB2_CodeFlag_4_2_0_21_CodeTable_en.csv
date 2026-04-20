@@ -1,4 +1,4 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
 grib2/4/2/0/21/0,Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 21: thermodynamic properties",0,,Column integrated potential + internal energy,,,J m-2,Operational,Original
 grib2/4/2/0/21/1,Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 21: thermodynamic properties",1,,Column integrated kinetic energy,,,J m-2,Operational,Original
 grib2/4/2/0/21/2,Parameter number by product discipline and parameter category,"Product discipline 0 - Meteorological products, parameter category 21: thermodynamic properties",2,,Column integrated total energy,(see Note 1),126,J m-2,Operational,Original

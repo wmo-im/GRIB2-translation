@@ -1,4 +1,4 @@
-ID,Title_ru,OctetNo,OctetCount,Contents_ru,Note_ru,noteIDs,codeTable,flagTable,Status,translated_by
+ID,Title_ru,OctetNo,OctetCount,Contents_ru,Note_ru,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/3/3/15-72,Образец определения сетки 3.3 — р астянутая и повернутая широтно-долготная,15–72,,То же, что и в образце определения сетки 3.0,см. примечание 1,,1,,Original
 grib2/3/3/73-76,Образец определения сетки 3.3 — р астянутая и повернутая широтно-долготная,73–76,,Широта Южного полюса проекции,,,,,operational,Original
 grib2/3/3/77-80,Образец определения сетки 3.3 — р астянутая и повернутая широтно-долготная,77–80,,Долгота Южного полюса проекции,,,,,operational,Original

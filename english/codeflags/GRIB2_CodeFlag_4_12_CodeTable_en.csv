@@ -1,4 +1,4 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
 grib2/4/12/0,Operating mode,,0,,Maintenance mode,,,,Operational,Original
 grib2/4/12/1,Operating mode,,1,,Clear air,,,,Operational,Original
 grib2/4/12/2,Operating mode,,2,,Precipitation,,,,Operational,Original

@@ -1,4 +1,4 @@
-ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
 grib2/4/10/0,Table de code 4.10 – Calcul statistique,,0,,Moyenne,,,,Operational,Original
 grib2/4/10/1,Table de code 4.10 – Calcul statistique,,1,,Total,"(voir la note 1) La valeur initiale des données (Y dans la note 4 de la règle 92.9.4) s'exprime en unités de la table de code 4.2 par seconde, à moins qu'il n'en soit noté autrement dans la table de code 4.2.",,,Operational,Original
 grib2/4/10/2,Table de code 4.10 – Calcul statistique,,2,,Maximum,,,,Operational,Original

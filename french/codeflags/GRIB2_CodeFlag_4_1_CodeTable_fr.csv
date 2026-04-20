@@ -1,4 +1,4 @@
-ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
 grib2/4/1/0/0,Table de code 4.1 — Catégorie de paramètres par domaine de spécialisation des produits,Domaine de spécialisation 0 — Produits météorologiques,0,,Température,,,,Operational,Original
 grib2/4/1/0/1,Table de code 4.1 — Catégorie de paramètres par domaine de spécialisation des produits,Domaine de spécialisation 0 — Produits météorologiques,1,,Humidité,,,,Operational,Original
 grib2/4/1/0/2,Table de code 4.1 — Catégorie de paramètres par domaine de spécialisation des produits,Domaine de spécialisation 0 — Produits météorologiques,2,,Quantité de mouvement,,,,Operational,Original

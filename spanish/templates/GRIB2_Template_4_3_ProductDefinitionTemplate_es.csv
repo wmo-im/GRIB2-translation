@@ -1,4 +1,4 @@
-﻿ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translated_by
+﻿ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/4/3/10,"Previsión derivada, sobre la base de un grupo de miembros del conjunto, aplicada a una zona rectangular, para una superficie o una capa horizontal, en un momento dado",10,1,Categoría del parámetro,véase la Tabla de cifrado 4.1,,4.1,,Operational,Original
 grib2/4/3/11,"Previsión derivada, sobre la base de un grupo de miembros del conjunto, aplicada a una zona rectangular, para una superficie o una capa horizontal, en un momento dado",11,1,Número del parámetro,véase la Tabla de cifrado 4.2,,4.2,,Operational,Original
 grib2/4/3/12,"Previsión derivada, sobre la base de un grupo de miembros del conjunto, aplicada a una zona rectangular, para una superficie o una capa horizontal, en un momento dado",12,1,Tipo de proceso de producción,véase la Tabla de cifrado 4.3,,4.3,,Operational,Original

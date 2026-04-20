@@ -1,4 +1,4 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
 grib2/4/106/0,Radar data quality flags,,0,,Normal operating data,,,,Operational,Original
 grib2/4/106/1,Radar data quality flags,,1,,No data,(see Note 1),176,,Operational,Original
 grib2/4/106/2,Radar data quality flags,,2,,Undetected,(see Note 2),177,,Operational,Original

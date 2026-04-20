@@ -1,4 +1,4 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
 grib2/4/2/4/8/0,Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 8: imagery",0,,X-ray radiance,,,W sr-1 m-2,Operational,Original
 grib2/4/2/4/8/1,Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 8: imagery",1,,EUV radiance,,,W sr-1 m-2,Operational,Original
 grib2/4/2/4/8/2,Parameter number by product discipline and parameter category,"Product discipline 4 - Space weather products, parameter category 8: imagery",2,,H-alpha radiance,,,W sr-1 m-2,Operational,Original

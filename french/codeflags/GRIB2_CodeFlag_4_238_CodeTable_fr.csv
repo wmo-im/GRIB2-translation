@@ -1,4 +1,4 @@
-ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
 grib2/4/238/0,Table de code 4.238 – Source ou puits,,0,,En réserve,,,,Operational,Original
 grib2/4/238/1,Table de code 4.238 – Source ou puits,,1,,Aéronautique,,,,Operational,Original
 grib2/4/238/2,Table de code 4.238 – Source ou puits,,2,,Éclair,,,,Operational,Original
