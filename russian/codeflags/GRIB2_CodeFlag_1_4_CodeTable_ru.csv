@@ -1,0 +1,13 @@
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translation_source
+grib2/1/4/0,Тип данных,,0,,Продукция анализа,,,,Operational,PDF
+grib2/1/4/1,Тип данных,,1,,Продукция прогноза,,,,Operational,PDF
+grib2/1/4/2,Тип данных,,2,,Продукция анализа и прогноза,,,,Operational,PDF
+grib2/1/4/3,Тип данных,,3,,Продукция проконтролированного прогноза,,,,Operational,PDF
+grib2/1/4/4,Тип данных,,4,,Продукция возмущенного прогноза,,,,Operational,PDF
+grib2/1/4/5,Тип данных,,5,,Продукция проконтролированного и возмущенного прогноза,,,,Operational,PDF
+grib2/1/4/6,Тип данных,,6,,Обработанные спутниковые наблюдения,,,,Operational,PDF
+grib2/1/4/7,Тип данных,,7,,Обработанные радиолокационные наблюдения,,,,Operational,PDF
+grib2/1/4/8,Тип данных,,8,,Вероятность события,,,,Operational,PDF
+grib2/1/4/9-191,Тип данных,,9-191,,Зарезервированы,,,,Operational,PDF
+grib2/1/4/192-254,Тип данных,,192-254,,Зарезервированы для местного использования,,,,Operational,PDF
+grib2/1/4/255,Тип данных,,255,,Отсутствующее,,,,Operational,PDF

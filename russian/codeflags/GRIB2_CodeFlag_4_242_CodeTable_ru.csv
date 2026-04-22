@@ -1,0 +1,7 @@
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translation_source
+grib2/4/242/0,Классификация тайлов,,0,,Зарезервирована,,,,Operational,PDF
+grib2/4/242/1,Классификация тайлов,,1,,Классы землепользования в соответствии с проектом ЕКА Глобальное покрытие (GlobCover GCV2009),,,,Operational,PDF
+grib2/4/242/2,Классификация тайлов,,2,,Классы землепользования в соответствии с проектом Европейской комиссии — Глобальное покрытие суши (GLC2000),,,,Operational,PDF
+grib2/4/242/3-191,Классификация тайлов,,3-191,,Зарезервированы,,,,Operational,PDF
+grib2/4/242/192-254,Классификация тайлов,,192-254,,Зарезервированы для местного использования,,,,Operational,PDF
+grib2/4/242/255,Классификация тайлов,,255,,Отсутствующее,,,,Operational,PDF

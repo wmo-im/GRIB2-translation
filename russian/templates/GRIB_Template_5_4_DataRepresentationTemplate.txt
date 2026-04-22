@@ -1,0 +1,2 @@
+Title_ru,OctetNo,OctetCount,Contents_ru,Note_ru,noteIDs,codeTable,flagTable,Status
+Образец представления данных 5.4 — данные в узлах сетки — данные в стандарте IEEE,12,,Точность,см. кодовую таблицу 5.7,,5.7,,operational

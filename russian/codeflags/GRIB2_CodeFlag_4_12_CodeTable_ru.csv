@@ -1,0 +1,7 @@
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translation_source
+grib2/4/12/0,Режим работы,,0,,Режим обслуживания,,,,Operational,PDF
+grib2/4/12/1,Режим работы,,1,,Ясно,,,,Operational,PDF
+grib2/4/12/2,Режим работы,,2,,Осадки,,,,Operational,PDF
+grib2/4/12/3-191,Режим работы,,3-191,,Зарезервированы,,,,Operational,PDF
+grib2/4/12/192-254,Режим работы,,192-254,,Зарезервированы для местного использования,,,,Operational,PDF
+grib2/4/12/255,Режим работы,,255,,Отсутствующее,,,,Operational,PDF

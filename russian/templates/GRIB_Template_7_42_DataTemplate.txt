@@ -1,0 +1,2 @@
+Title_ru,OctetNo,OctetCount,Contents_ru,Note_ru,noteIDs,codeTable,flagTable,Status
+Образец данных 7.42 — данные в узлах сетки и спектральные данные — рекомендованное,6–nn,,Рекомендованный CCSDS стандарт для кодового потока со сжатием данных без потерь,,,,,operational

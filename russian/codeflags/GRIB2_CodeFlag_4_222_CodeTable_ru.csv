@@ -1,0 +1,6 @@
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translation_source
+grib2/4/222/0,Категорийный результат,,0,,Нет,,,,Operational,PDF
+grib2/4/222/1,Категорийный результат,,1,,Есть,,,,Operational,PDF
+grib2/4/222/2-191,Категорийный результат,,2-191,,Зарезервированы,,,,Operational,PDF
+grib2/4/222/192-254,Категорийный результат,,192-254,,Зарезервированы для местного использования,,,,Operational,PDF
+grib2/4/222/255,Категорийный результат,,255,,Отсутствующее,,,,Operational,PDF

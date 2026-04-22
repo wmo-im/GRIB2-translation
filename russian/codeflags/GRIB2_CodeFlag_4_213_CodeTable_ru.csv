@@ -1,0 +1,16 @@
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translation_source
+grib2/4/213/0,Тип почвы,,0,,Зарезервировано,,,,Operational,PDF
+grib2/4/213/1,Тип почвы,,1,,Песок,,,,Operational,PDF
+grib2/4/213/2,Тип почвы,,2,,Супесь,,,,Operational,PDF
+grib2/4/213/3,Тип почвы,,3,,Опесчаненный суглинок,,,,Operational,PDF
+grib2/4/213/4,Тип почвы,,4,,Пылеватый суглинок,,,,Operational,PDF
+grib2/4/213/5,Тип почвы,,5,,Органическая (вновь определена),,,,Operational,PDF
+grib2/4/213/6,Тип почвы,,6,,Опесчаненный иловатый суглинок,,,,Operational,PDF
+grib2/4/213/7,Тип почвы,,7,,Пылевато-иловатый суглинок,,,,Operational,PDF
+grib2/4/213/8,Тип почвы,,8,,Иловатый суглинок,,,,Operational,PDF
+grib2/4/213/9,Тип почвы,,9,,Песчаная глина,,,,Operational,PDF
+grib2/4/213/10,Тип почвы,,10,,Иловатая глина,,,,Operational,PDF
+grib2/4/213/11,Тип почвы,,11,,Глина,,,,Operational,PDF
+grib2/4/213/12-191,Тип почвы,,12-191,,Зарезервированы,,,,Operational,PDF
+grib2/4/213/192-254,Тип почвы,,192-254,,Зарезервированы для местного использования,,,,Operational,PDF
+grib2/4/213/255,Тип почвы,,255,,Отсутствующее,,,,Operational,PDF

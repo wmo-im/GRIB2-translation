@@ -1,0 +1,5 @@
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translation_source
+grib2/5/40/0,Тип сжатия,,0,,Сжатие без потерь,,,,Operational,PDF
+grib2/5/40/1,Тип сжатия,,1,,Сжатие с потерями,,,,Operational,PDF
+grib2/5/40/2-254,Тип сжатия,,2-254,,Зарезервированы,,,,Operational,PDF
+grib2/5/40/255,Тип сжатия,,255,,Отсутствующее,,,,Operational,PDF

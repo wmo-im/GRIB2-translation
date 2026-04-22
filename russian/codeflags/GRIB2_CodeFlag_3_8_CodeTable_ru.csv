@@ -1,0 +1,7 @@
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translation_source
+grib2/3/8/0,Положение узла сетки,,0,,Узлы сетки в вершинах треугольников,,,,Operational,PDF
+grib2/3/8/1,Положение узла сетки,,1,,Узлы сетки в центрах треугольников,,,,Operational,PDF
+grib2/3/8/2,Положение узла сетки,,2,,Узлы сетки на середине сторон треугольников,,,,Operational,PDF
+grib2/3/8/3-191,Положение узла сетки,,3-191,,Зарезервированы,,,,Operational,PDF
+grib2/3/8/192-254,Положение узла сетки,,192-254,,Зарезервированы для местного использования,,,,Operational,PDF
+grib2/3/8/255,Положение узла сетки,,255,,Отсутствующее,,,,Operational,PDF

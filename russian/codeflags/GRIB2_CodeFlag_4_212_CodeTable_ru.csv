@@ -1,0 +1,18 @@
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translation_source
+grib2/4/212/0,Землепользование,,0,,Зарезервировано,,,,Operational,PDF
+grib2/4/212/1,Землепользование,,1,,Городская территория,,,,Operational,PDF
+grib2/4/212/2,Землепользование,,2,,Сельскохозяйственные земли,,,,Operational,PDF
+grib2/4/212/3,Землепользование,,3,,Пастбища,,,,Operational,PDF
+grib2/4/212/4,Землепользование,,4,,Лиственный лес,,,,Operational,PDF
+grib2/4/212/5,Землепользование,,5,,Хвойный лес,,,,Operational,PDF
+grib2/4/212/6,Землепользование,,6,,Заболоченные леса,,,,Operational,PDF
+grib2/4/212/7,Землепользование,,7,,Вода,,,,Operational,PDF
+grib2/4/212/8,Землепользование,,8,,Заболоченные территории,,,,Operational,PDF
+grib2/4/212/9,Землепользование,,9,,Пустыня,,,,Operational,PDF
+grib2/4/212/10,Землепользование,,10,,Тундра,,,,Operational,PDF
+grib2/4/212/11,Землепользование,,11,,Лед,,,,Operational,PDF
+grib2/4/212/12,Землепользование,,12,,Тропический лес,,,,Operational,PDF
+grib2/4/212/13,Землепользование,,13,,Саванна,,,,Operational,PDF
+grib2/4/212/14-191,Землепользование,,14-191,,Зарезервированы,,,,Operational,PDF
+grib2/4/212/192-254,Землепользование,,192-254,,Зарезервированы для местного использования,,,,Operational,PDF
+grib2/4/212/255,Землепользование,,255,,Отсутствующее,,,,Operational,PDF

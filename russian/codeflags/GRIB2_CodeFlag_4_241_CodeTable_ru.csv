@@ -1,0 +1,9 @@
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translation_source
+grib2/4/241/0,Атрибуты покрытия,,0,,Не определено,,,,Operational,PDF
+grib2/4/241/1,Атрибуты покрытия,,1,,Не изменено,,,,Operational,PDF
+grib2/4/241/2,Атрибуты покрытия,,2,,Покрыто снегом,,,,Operational,PDF
+grib2/4/241/3,Атрибуты покрытия,,3,,Затоплено,,,,Operational,PDF
+grib2/4/241/4,Атрибуты покрытия,,4,,Покрыто льдом,,,,Operational,PDF
+grib2/4/241/5-191,Атрибуты покрытия,,5-191,,Зарезервированы,,,,Operational,PDF
+grib2/4/241/192-254,Атрибуты покрытия,,192-254,,Зарезервированы для местного использования,,,,Operational,PDF
+grib2/4/241/255,Атрибуты покрытия,,255,,Отсутствующее,,,,Operational,PDF

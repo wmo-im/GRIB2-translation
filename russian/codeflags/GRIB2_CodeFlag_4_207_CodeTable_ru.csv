@@ -1,0 +1,10 @@
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translation_source
+grib2/4/207/0,Обледенение,,0,,Отсутствует,,,,Operational,PDF
+grib2/4/207/1,Обледенение,,1,,Легкое,,,,Operational,PDF
+grib2/4/207/2,Обледенение,,2,,Умеренное,,,,Operational,PDF
+grib2/4/207/3,Обледенение,,3,,Сильное,,,,Operational,PDF
+grib2/4/207/4,Обледенение,,4,,Признаки обледенения,,,,Operational,PDF
+grib2/4/207/5,Обледенение,,5,,Значительное,,,,Operational,PDF
+grib2/4/207/6-191,Обледенение,,6-191,,Зарезервированы,,,,Operational,PDF
+grib2/4/207/192-254,Обледенение,,192-254,,Зарезервированы для местного использования,,,,Operational,PDF
+grib2/4/207/255,Обледенение,,255,,Отсутствующее,,,,Operational,PDF

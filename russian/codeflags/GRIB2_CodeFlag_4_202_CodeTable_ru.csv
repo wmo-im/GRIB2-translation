@@ -1,0 +1,4 @@
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translation_source
+grib2/4/202/0-191,Категория осажденной воды,,0-191,,Зарезервированы,,,,Operational,PDF
+grib2/4/202/192-254,Категория осажденной воды,,192-254,,Зарезервированы для местного использования,,,,Operational,PDF
+grib2/4/202/255,Категория осажденной воды,,255,,Отсутствующее,,,,Operational,PDF
