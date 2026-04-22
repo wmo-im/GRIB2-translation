@@ -1,4 +1,4 @@
-ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translation_source
 grib2/4/91/0,Тип интервала,,0,,"Меньше, чем первый предел",,,,Operational,PDF
 grib2/4/91/1,Тип интервала,,1,,"Больше, чем второй предел",,,,Operational,PDF
 grib2/4/91/2,Тип интервала,,2,,"Между первым и вторым пределами. Диапазон включает первый предел, но не второй предел",,,,Operational,PDF

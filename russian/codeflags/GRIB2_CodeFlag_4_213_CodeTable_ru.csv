@@ -1,4 +1,4 @@
-ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translation_source
 grib2/4/213/0,Тип почвы,,0,,Зарезервировано,,,,Operational,PDF
 grib2/4/213/1,Тип почвы,,1,,Песок,,,,Operational,PDF
 grib2/4/213/2,Тип почвы,,2,,Супесь,,,,Operational,PDF

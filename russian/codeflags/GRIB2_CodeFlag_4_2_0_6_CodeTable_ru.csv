@@ -1,4 +1,4 @@
-ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translation_source
 grib2/4/2/0/6/0,"Номер параметра, согласно дисциплине продукции и категории параметра","Дисциплина продукции 0 — Метеорологическая продукция, категория параметра 6: облачность",0,,Лед в облаках,,,кг ⋅ м-2,Operational,PDF
 grib2/4/2/0/6/1,"Номер параметра, согласно дисциплине продукции и категории параметра","Дисциплина продукции 0 — Метеорологическая продукция, категория параметра 6: облачность",1,,Общая облачность,,,%,Operational,PDF
 grib2/4/2/0/6/2,"Номер параметра, согласно дисциплине продукции и категории параметра","Дисциплина продукции 0 — Метеорологическая продукция, категория параметра 6: облачность",2,,Конвективная облачность,,,%,Operational,PDF

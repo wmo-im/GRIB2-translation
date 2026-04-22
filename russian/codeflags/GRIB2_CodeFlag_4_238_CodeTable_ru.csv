@@ -1,4 +1,4 @@
-ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translation_source
 grib2/4/238/0,Источник или поглотитель,,0,,Зарезервировано,,,,Operational,PDF
 grib2/4/238/1,Источник или поглотитель,,1,,Авиация,,,,Operational,PDF
 grib2/4/238/2,Источник или поглотитель,,2,,Молния,,,,Operational,PDF

@@ -1,4 +1,4 @@
-ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translation_source
 grib2/4/203/0,Тип облаков,,0,,Ясно,,,,Operational,PDF
 grib2/4/203/1,Тип облаков,,1,,Кучево-дождевые облака,,,,Operational,PDF
 grib2/4/203/2,Тип облаков,,2,,Слоистые облака,,,,Operational,PDF

@@ -1,4 +1,4 @@
-ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translation_source
 grib2/4/210/0,Интенсивность конденсационного следа,,0,,Конденсационный след не присутствует,,,,Operational,PDF
 grib2/4/210/1,Интенсивность конденсационного следа,,1,,Конденсационный след присутствует,,,,Operational,PDF
 grib2/4/210/2-191,Интенсивность конденсационного следа,,2-191,,Зарезервированы,,,,Operational,PDF

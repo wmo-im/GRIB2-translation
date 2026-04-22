@@ -1,4 +1,4 @@
-ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translation_source
 grib2/5/5/0,Обработка отсутствующих значений при сложной упаковке,,0,,"Нет явных отсутствующих значений, включенных в данные",,,,Operational,PDF
 grib2/5/5/1,Обработка отсутствующих значений при сложной упаковке,,1,,Первичные отсутствующие значения включены в данные,,,,Operational,PDF
 grib2/5/5/2,Обработка отсутствующих значений при сложной упаковке,,2,,Первичные и вторичные значения включены в данные,,,,Operational,PDF

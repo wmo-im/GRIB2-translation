@@ -1,4 +1,4 @@
-ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translation_source
 grib2/4/201/0,Тип осадков,,0,,Зарезервировано,,,,Operational,PDF
 grib2/4/201/1,Тип осадков,,1,,Дождь,,,,Operational,PDF
 grib2/4/201/2,Тип осадков,,2,,Гроза,,,,Operational,PDF

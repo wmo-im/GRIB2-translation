@@ -1,4 +1,4 @@
-ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translation_source
 grib2/4/221/0,Обработка отсутствующих данных,,0,,Не включено,,,,Operational,PDF
 grib2/4/221/1,Обработка отсутствующих данных,,1,,Экстраполировано,,,,Operational,PDF
 grib2/4/221/2-191,Обработка отсутствующих данных,,2-191,,Зарезервированы,,,,Operational,PDF

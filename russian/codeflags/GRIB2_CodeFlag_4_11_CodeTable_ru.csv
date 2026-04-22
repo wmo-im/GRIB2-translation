@@ -1,4 +1,4 @@
-ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translation_source
 grib2/4/11/0,Тип временных интервалов,,0,,Зарезервировано,,,,Operational,PDF
 grib2/4/11/1,Тип временных интервалов,,1,,"При расчетах последовательных сроков периоды действия прогнозов одинаковы, а время начала прогноза дискретно увеличивается",,,,Operational,PDF
 grib2/4/11/2,Тип временных интервалов,,2,,"При расчетах последовательных сроков время начала прогноза остается постоянным, а период действия его дискретно увеличивается",,,,Operational,PDF

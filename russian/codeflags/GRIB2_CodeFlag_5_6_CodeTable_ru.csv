@@ -1,4 +1,4 @@
-ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translation_source
 grib2/5/6/0,Порядок пространственной разбивки,,0,,Зарезервировано,,,,Operational,PDF
 grib2/5/6/1,Порядок пространственной разбивки,,1,,Пространственная разбивка первого порядка,,,,Operational,PDF
 grib2/5/6/2,Порядок пространственной разбивки,,2,,Пространственная разбивка второго порядка,,,,Operational,PDF

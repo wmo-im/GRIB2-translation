@@ -1,4 +1,4 @@
-ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translation_source
 grib2/3/3/1-2,Флаги разрешения и компонентов,,1-2,,Зарезервированы,,,,Operational,PDF
 grib2/3/3/3/0,Флаги разрешения и компонентов,,3,0,Инкременты по направлению i не даются,,,,Operational,PDF
 grib2/3/3/3/1,Флаги разрешения и компонентов,,3,1,Инкременты по направлению i даются,,,,Operational,PDF

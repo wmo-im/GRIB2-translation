@@ -1,4 +1,4 @@
-ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translation_source
 grib2/4/6/0,Тип ансамблевого прогноза,,0,,Невозмущенный прогноз с контролем высокого разрешения,,,,Operational,PDF
 grib2/4/6/1,Тип ансамблевого прогноза,,1,,Невозмущенный прогноз с контролем низкого разрешения,,,,Operational,PDF
 grib2/4/6/2,Тип ансамблевого прогноза,,2,,Отрицательно возмущенный прогноз,,,,Operational,PDF

@@ -1,4 +1,4 @@
-ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translation_source
 grib2/3/1/0,Номер образца определения сетки,,0,,Широтно-долготная Также называется равноудаленной цилиндрической или плоской квадратной,,27,,Operational,PDF
 grib2/3/1/1,Номер образца определения сетки,,1,,Повернутая широтно-долготная,,,,Operational,PDF
 grib2/3/1/2,Номер образца определения сетки,,2,,Растянутая широтно-долготная,,,,Operational,PDF

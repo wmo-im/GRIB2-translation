@@ -1,4 +1,4 @@
-ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translation_source
 grib2/4/0/0,Номер образца определения продукции,,0,,Анализ или прогноз на горизонтальном уровне или в горизонтальном слое на данный момент времени,,,,Operational,PDF
 grib2/4/0/1,Номер образца определения продукции,,1,,"Индивидуальный ансамблевый прогноз, контролируемый и возмущенный, по горизонтальному уровню или горизонтальному слою на данный момент времени",,,,Operational,PDF
 grib2/4/0/2,Номер образца определения продукции,,2,,Вычисленные прогнозы на основе всех членов ансамбля на горизонтальном уровне или в горизонтальном слое на данный момент времени,,,,Operational,PDF

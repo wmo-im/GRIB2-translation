@@ -1,4 +1,4 @@
-ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translation_source
 grib2/1/4/0,Тип данных,,0,,Продукция анализа,,,,Operational,PDF
 grib2/1/4/1,Тип данных,,1,,Продукция прогноза,,,,Operational,PDF
 grib2/1/4/2,Тип данных,,2,,Продукция анализа и прогноза,,,,Operational,PDF

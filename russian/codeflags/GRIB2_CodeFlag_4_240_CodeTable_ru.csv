@@ -1,4 +1,4 @@
-ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translation_source
 grib2/4/240/0,Тип функции распределения.,,0,,Конкретный тип функции распределения не указан,,,,Operational,PDF
 grib2/4/240/1,Тип функции распределения.,,1,,Дельта-функции с пространственно переменной концентрацией и фиксированными диаметрами D ( p 1) в метрах,(см. примечание 1),122,,Operational,PDF
 grib2/4/240/2,Тип функции распределения.,,2,,Дельта-функции с пространственно переменной концентрацией и фиксированными массами M ( p 1) в кг,(см. примечание 2),122,,Operational,PDF

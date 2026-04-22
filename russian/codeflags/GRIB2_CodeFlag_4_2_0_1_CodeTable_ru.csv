@@ -1,4 +1,4 @@
-ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translation_source
 grib2/4/2/0/1/0,"Номер параметра, согласно дисциплине продукции и категории параметра","Дисциплина продукции 0 — Метеорологическая продукция, категория параметра 1: влажность",0,,Удельная влажность,,,кг ⋅ кг-1,Operational,PDF
 grib2/4/2/0/1/1,"Номер параметра, согласно дисциплине продукции и категории параметра","Дисциплина продукции 0 — Метеорологическая продукция, категория параметра 1: влажность",1,,Относительная влажность,,,%,Operational,PDF
 grib2/4/2/0/1/2,"Номер параметра, согласно дисциплине продукции и категории параметра","Дисциплина продукции 0 — Метеорологическая продукция, категория параметра 1: влажность",2,,Отношение смеси,,,кг ⋅ кг-1,Operational,PDF

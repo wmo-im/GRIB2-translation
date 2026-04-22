@@ -1,4 +1,4 @@
-ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translation_source
 grib2/4/4/0,Указатель единицы измерения временного диапазона,,0,,Минута,,,,Operational,PDF
 grib2/4/4/1,Указатель единицы измерения временного диапазона,,1,,Час,,,,Operational,PDF
 grib2/4/4/2,Указатель единицы измерения временного диапазона,,2,,День,,,,Operational,PDF

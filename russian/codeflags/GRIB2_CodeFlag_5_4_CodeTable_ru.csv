@@ -1,4 +1,4 @@
-ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translation_source
 grib2/5/4/0,Метод разбивки на группы,,0,,Порядовая разбивка,,,,Operational,PDF
 grib2/5/4/1,Метод разбивки на группы,,1,,Полная разбивка на группы,,,,Operational,PDF
 grib2/5/4/2-191,Метод разбивки на группы,,2-191,,Зарезервированы,,,,Operational,PDF

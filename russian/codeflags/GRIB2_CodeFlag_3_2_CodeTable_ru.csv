@@ -1,4 +1,4 @@
-ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translation_source
 grib2/3/2/0,Форма Земли,,0,,"Предполагается, что Земля имеет форму шара с радиусом 6 367 470,0 м",,121,,Operational,PDF
 grib2/3/2/1,Форма Земли,,1,,"Предполагается, что Земля имеет форму шара с радиусом, определенным в метрах производителем данных",,121,,Operational,PDF
 grib2/3/2/2,Форма Земли,,2,,"Предполагается, что Земля имеет форму сплюснутого сфероида с размерами, определенными МАС в 1965 г. (большая ось = 6 378 160 м, малая ось = 6 356 775 м, f = 1/297,0)",,,,Operational,PDF

@@ -1,4 +1,4 @@
-ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translation_source
 grib2/6/0/0,Указатель битового отображения,,0,,Битовое отображение применяется к этой продукции и определено в настоящем разделе,,,,Operational,PDF
 grib2/6/0/1-253,Указатель битового отображения,,1-253,,"Битовое отображение, предопределенное центром — поставщиком/производителем продукции, применяется к настоящей продукции и не определено в настоящем разделе",,,,Operational,PDF
 grib2/6/0/254,Указатель битового отображения,,254,,"Битовое отображение, определенное предварительно в том же самом сообщении «GRIB», применяется к настоящей продукции",,,,Operational,PDF

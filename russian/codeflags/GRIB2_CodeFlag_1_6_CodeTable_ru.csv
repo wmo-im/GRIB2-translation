@@ -1,4 +1,4 @@
-ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translation_source
 grib2/1/6/0,Тип календаря,,0,,Григорианский,,,,Operational,PDF
 grib2/1/6/1,Тип календаря,,1,,360-дневный,,,,Operational,PDF
 grib2/1/6/2,Тип календаря,,2,,365-дневный Преимущественно невисокосный год,,47,,Operational,PDF

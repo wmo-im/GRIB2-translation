@@ -1,4 +1,4 @@
-ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translation_source
 grib2/4/236/1,Фракция текстуры почвы (для использования в качестве разделенного параметра в образце определения продукции 4.53 или 4.54).,,1,,Грубая,,,,Operational,PDF
 grib2/4/236/2,Фракция текстуры почвы (для использования в качестве разделенного параметра в образце определения продукции 4.53 или 4.54).,,2,,Средняя,,,,Operational,PDF
 grib2/4/236/3,Фракция текстуры почвы (для использования в качестве разделенного параметра в образце определения продукции 4.53 или 4.54).,,3,,Средняя-мелкая,,,,Operational,PDF

@@ -1,4 +1,4 @@
-ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translation_source
 grib2/4/14/0,Указатель фильтра помех,,0,,Фильтр помех не используется,,,,Operational,PDF
 grib2/4/14/1,Указатель фильтра помех,,1,,Фильтр помех используется,,,,Operational,PDF
 grib2/4/14/2-191,Указатель фильтра помех,,2-191,,Зарезервированы,,,,Operational,PDF

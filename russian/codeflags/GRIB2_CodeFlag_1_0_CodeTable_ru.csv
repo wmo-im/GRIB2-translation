@@ -1,4 +1,4 @@
-ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translation_source
 grib2/1/0/0,Номера версий эталонных таблиц GRIB,,0,,Экспериментальная,,,,Deprecated,PDF
 grib2/1/0/1,Номера версий эталонных таблиц GRIB,,1,,"Версия, осуществляемая с 7 ноября 2001 г.",,,,Deprecated,PDF
 grib2/1/0/2,Номера версий эталонных таблиц GRIB,,2,,"Версия, осуществляемая с 4 ноября 2003 г.",,,,Deprecated,PDF

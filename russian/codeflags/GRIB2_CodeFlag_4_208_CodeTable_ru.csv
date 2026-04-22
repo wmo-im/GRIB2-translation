@@ -1,4 +1,4 @@
-ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translation_source
 grib2/4/208/0,Турбулентность,,0,,Отсутствует (спокойно),,,,Operational,PDF
 grib2/4/208/1,Турбулентность,,1,,Легкая,,,,Operational,PDF
 grib2/4/208/2,Турбулентность,,2,,Умеренная,,,,Operational,PDF

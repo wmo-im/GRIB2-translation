@@ -1,4 +1,4 @@
-ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translation_source
 grib2/4/227/0,Сценарий обледенения (погода/классификация облаков),,0,,Отсутствует,,,,Operational,PDF
 grib2/4/227/1,Сценарий обледенения (погода/классификация облаков),,1,,Общее,,,,Operational,PDF
 grib2/4/227/2,Сценарий обледенения (погода/классификация облаков),,2,,Конвективные,,,,Operational,PDF

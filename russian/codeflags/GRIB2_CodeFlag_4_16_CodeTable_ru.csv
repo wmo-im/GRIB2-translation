@@ -1,4 +1,4 @@
-ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translation_source
 grib2/4/16/0,"Значение качества, связанное с параметром",,0,,Индекс доверия,(см. примечание 2),94,,Operational,PDF
 grib2/4/16/1,"Значение качества, связанное с параметром",,1,,Индикатор качества,(см. примечание 3 и кодовую таблицу 4.244),96,,Operational,PDF
 grib2/4/16/2,"Значение качества, связанное с параметром",,2,,Корреляция продукта с используемым калибровочным продуктом,(см. примечание 4),95,,Operational,PDF

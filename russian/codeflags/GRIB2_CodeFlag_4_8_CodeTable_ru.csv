@@ -1,4 +1,4 @@
-ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translation_source
 grib2/4/8/0,Метод формирования кластеров,,0,,Корреляция аномалии,,,,Operational,PDF
 grib2/4/8/1,Метод формирования кластеров,,1,,Среднеквадратическое,,,,Operational,PDF
 grib2/4/8/2-191,Метод формирования кластеров,,2-191,,Зарезервированы,,,,Operational,PDF

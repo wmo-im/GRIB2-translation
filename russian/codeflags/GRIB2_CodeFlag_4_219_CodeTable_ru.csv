@@ -1,4 +1,4 @@
-ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translation_source
 grib2/4/219/0,Индикатор качества верхней границы облаков,,0,,Номинальное качество данных верхней границы облаков,,,,Operational,PDF
 grib2/4/219/1,Индикатор качества верхней границы облаков,,1,,Туман местами,,,,Operational,PDF
 grib2/4/219/2,Индикатор качества верхней границы облаков,,2,,Низкое качество оценки высоты,,,,Operational,PDF

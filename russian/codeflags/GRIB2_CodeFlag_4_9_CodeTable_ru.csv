@@ -1,4 +1,4 @@
-ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translation_source
 grib2/4/9/0,Тип вероятности,,0,,Вероятность события ниже нижнего предела,,,,Operational,PDF
 grib2/4/9/1,Тип вероятности,,1,,Вероятность события выше верхнего предела,,,,Operational,PDF
 grib2/4/9/2,Тип вероятности,,2,,"Вероятность события между нижним и верхним пределами, данный диапазон включает нижний предел, но не включает верхний",,,,Operational,PDF

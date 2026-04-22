@@ -1,4 +1,4 @@
-ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translation_source
 grib2/4/2/0/0/0,"Номер параметра, согласно дисциплине продукции и категории параметра","Дисциплина продукции 0 — Метеорологическая продукция, категория параметра 0: температура",0,,Температура,,,К,Operational,PDF
 grib2/4/2/0/0/1,"Номер параметра, согласно дисциплине продукции и категории параметра","Дисциплина продукции 0 — Метеорологическая продукция, категория параметра 0: температура",1,,Виртуальная температура,,,К,Operational,PDF
 grib2/4/2/0/0/2,"Номер параметра, согласно дисциплине продукции и категории параметра","Дисциплина продукции 0 — Метеорологическая продукция, категория параметра 0: температура",2,,Потенциальная температура,,,К,Operational,PDF

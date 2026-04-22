@@ -1,4 +1,4 @@
-ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translation_source
 grib2/4/223/0,Указатель обнаружения пожара,,0,,Не обнаружено никакого пожара,,,,Operational,PDF
 grib2/4/223/1,Указатель обнаружения пожара,,1,,Обнаружен возможный пожар,,,,Operational,PDF
 grib2/4/223/2,Указатель обнаружения пожара,,2,,Обнаружен вероятный пожар,,,,Operational,PDF

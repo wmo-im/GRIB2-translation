@@ -1,4 +1,4 @@
-ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translation_source
 grib2/4/7/0,Вычисленный прогноз,,0,,Невзвешенные средние значения всех членов,,,,Operational,PDF
 grib2/4/7/1,Вычисленный прогноз,,1,,Взвешенные средние значения всех членов,,,,Operational,PDF
 grib2/4/7/2,Вычисленный прогноз,,2,,Стандартное отклонение по отношению к среднему для кластера,,,,Operational,PDF

@@ -1,4 +1,4 @@
-ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translation_source
 grib2/4/224/0,Категориальный ориентировочный прогноз,,0,,Отсутствие области риска,,,,Operational,PDF
 grib2/4/224/1,Категориальный ориентировочный прогноз,,1,,Зарезервировано,,,,Operational,PDF
 grib2/4/224/2,Категориальный ориентировочный прогноз,,2,,Область общего риска грозы,,,,Operational,PDF

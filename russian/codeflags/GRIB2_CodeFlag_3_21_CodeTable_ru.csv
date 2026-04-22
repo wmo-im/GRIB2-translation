@@ -1,4 +1,4 @@
-ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translation_source
 grib2/3/21/0,Определение значений вертикального размера координаты,,0,,Комплект точных значений координаты,,,,Operational,PDF
 grib2/3/21/1,Определение значений вертикального размера координаты,,1,,Линейные координаты f(1) = C1 f(n) = f(n-1) + C2,,,,Operational,PDF
 grib2/3/21/2-10,Определение значений вертикального размера координаты,,2-10,,Зарезервированы,,,,Operational,PDF

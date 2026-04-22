@@ -1,4 +1,4 @@
-ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translation_source
 grib2/1/2/0,Значимость времени начала отсчета,,0,,Анализ,,,,Operational,PDF
 grib2/1/2/1,Значимость времени начала отсчета,,1,,Время начала прогноза,,,,Operational,PDF
 grib2/1/2/2,Значимость времени начала отсчета,,2,,Время уточнения прогноза,,,,Operational,PDF

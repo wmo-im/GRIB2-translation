@@ -1,4 +1,4 @@
-ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translation_source
 grib2/4/204/0,Зона распространения грозы,,0,,Отсутствие,,,,Operational,PDF
 grib2/4/204/1,Зона распространения грозы,,1,,Изолированная (1-2 %),,,,Operational,PDF
 grib2/4/204/2,Зона распространения грозы,,2,,Незначительная (3-5 %),,,,Operational,PDF

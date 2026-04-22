@@ -1,4 +1,4 @@
-ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translation_source
 grib2/3/7/0,Режим представления спектральных данных,,0,,Зарезервирована,,,,Operational,PDF
 grib2/3/7/1,Режим представления спектральных данных,,1,,(см. отдельный документ или PDF-файл),(см. примечание),116,,Operational,PDF
 grib2/3/7/2-254,Режим представления спектральных данных,,2-254,,Зарезервированы,,,,Operational,PDF

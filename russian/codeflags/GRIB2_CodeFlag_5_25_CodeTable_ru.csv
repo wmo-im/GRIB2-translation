@@ -1,4 +1,4 @@
-ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translation_source
 grib2/5/25/0-76,Вид суб-усечения двумерного Фурье,,0-76,,Зарезервированы,,,,Operational,PDF
 grib2/5/25/77,Вид суб-усечения двумерного Фурье,,77,,Прямоугольное,,,,Operational,PDF
 grib2/5/25/78-87,Вид суб-усечения двумерного Фурье,,78-87,,Зарезервированы,,,,Operational,PDF

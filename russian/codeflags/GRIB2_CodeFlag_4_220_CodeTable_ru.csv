@@ -1,4 +1,4 @@
-ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translation_source
 grib2/4/220/0,Обработанный горизонтальный размер,,0,,Широта,,,,Operational,PDF
 grib2/4/220/1,Обработанный горизонтальный размер,,1,,Долгота,,,,Operational,PDF
 grib2/4/220/2-191,Обработанный горизонтальный размер,,2-191,,Зарезервированы,,,,Operational,PDF

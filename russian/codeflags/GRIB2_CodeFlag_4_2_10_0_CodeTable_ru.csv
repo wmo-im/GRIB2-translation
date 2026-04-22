@@ -1,4 +1,4 @@
-ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translation_source
 grib2/4/2/10/0/0,"Номер параметра, согласно дисциплине продукции и категории параметра","Дисциплина продукции 10 — Океанографическая продукция, категория параметра 0: волнение",0,,Спектры волнения (1),,,—,Operational,PDF
 grib2/4/2/10/0/1,"Номер параметра, согласно дисциплине продукции и категории параметра","Дисциплина продукции 10 — Океанографическая продукция, категория параметра 0: волнение",1,,Спектры волнения (2),,,—,Operational,PDF
 grib2/4/2/10/0/2,"Номер параметра, согласно дисциплине продукции и категории параметра","Дисциплина продукции 10 — Океанографическая продукция, категория параметра 0: волнение",2,,Спектры волнения (3),,,—,Operational,PDF

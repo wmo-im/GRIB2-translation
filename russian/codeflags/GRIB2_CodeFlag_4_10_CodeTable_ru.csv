@@ -1,4 +1,4 @@
-ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translation_source
 grib2/4/10/0,Тип статистической обработки,,0,,Среднее,,,,Operational,PDF
 grib2/4/10/1,Тип статистической обработки,,1,,Аккумулированное,(см. примечание 1),92,,Operational,PDF
 grib2/4/10/2,Тип статистической обработки,,2,,Максимальное,,,,Operational,PDF

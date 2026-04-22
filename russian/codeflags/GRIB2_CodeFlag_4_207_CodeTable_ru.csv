@@ -1,4 +1,4 @@
-ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translation_source
 grib2/4/207/0,Обледенение,,0,,Отсутствует,,,,Operational,PDF
 grib2/4/207/1,Обледенение,,1,,Легкое,,,,Operational,PDF
 grib2/4/207/2,Обледенение,,2,,Умеренное,,,,Operational,PDF

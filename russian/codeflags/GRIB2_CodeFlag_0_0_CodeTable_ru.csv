@@ -1,4 +1,4 @@
-ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translation_source
 grib2/0/0/0,"Дисциплина обработанных данных в сообщении GRIB, номер эталонной таблицы GRIB",,0,,Метеорологическая продукция,,,,Operational,PDF
 grib2/0/0/1,"Дисциплина обработанных данных в сообщении GRIB, номер эталонной таблицы GRIB",,1,,Гидрологическая продукция,,,,Operational,PDF
 grib2/0/0/2,"Дисциплина обработанных данных в сообщении GRIB, номер эталонной таблицы GRIB",,2,,"Продукция, связанная с поверхностью суши",,,,Operational,PDF

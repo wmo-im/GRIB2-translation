@@ -1,4 +1,4 @@
-ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translation_source
 grib2/5/0/0,Номер образца представления данных,,0,,Данные в узлах сетки — простая упаковка,,,,Operational,PDF
 grib2/5/0/1,Номер образца представления данных,,1,,Матричные значения в узлах сетки — простая упаковка,,,,Experimental,PDF
 grib2/5/0/2,Номер образца представления данных,,2,,Данные в узлах сетки — сложная упаковка,,,,Operational,PDF

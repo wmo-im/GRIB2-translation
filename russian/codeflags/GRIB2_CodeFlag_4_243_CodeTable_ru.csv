@@ -1,4 +1,4 @@
-ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translation_source
 grib2/4/243/0,Класс тайла,,0,,Зарезервирована,,,,Operational,PDF
 grib2/4/243/1,Класс тайла,,1,,Вечнозеленый широколиственный лес,,,,Operational,PDF
 grib2/4/243/2,Класс тайла,,2,,Листопадный широколиственный сомкнутый лес,,,,Operational,PDF

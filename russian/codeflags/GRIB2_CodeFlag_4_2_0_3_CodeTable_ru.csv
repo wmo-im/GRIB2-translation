@@ -1,4 +1,4 @@
-ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translation_source
 grib2/4/2/0/3/0,"Номер параметра, согласно дисциплине продукции и категории параметра","Дисциплина продукции 0 — Метеорологическая продукция, категория параметра 3: масса",0,,Давление,,,Па,Operational,PDF
 grib2/4/2/0/3/1,"Номер параметра, согласно дисциплине продукции и категории параметра","Дисциплина продукции 0 — Метеорологическая продукция, категория параметра 3: масса",1,,"Давление, приведенное к среднему уровню моря (СУМ)",,,Па,Operational,PDF
 grib2/4/2/0/3/2,"Номер параметра, согласно дисциплине продукции и категории параметра","Дисциплина продукции 0 — Метеорологическая продукция, категория параметра 3: масса",2,,Барическая тенденция,,,Па ⋅ с-1,Operational,PDF

@@ -1,4 +1,4 @@
-ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translation_source
 grib2/4/5/0,Типы и единицы измерения фиксированных поверхностей,,0,,Зарезервировано,,,,Operational,PDF
 grib2/4/5/1,Типы и единицы измерения фиксированных поверхностей,,1,,Земная или водная поверхность,,,—,Operational,PDF
 grib2/4/5/2,Типы и единицы измерения фиксированных поверхностей,,2,,Уровень основания облака,,,—,Operational,PDF

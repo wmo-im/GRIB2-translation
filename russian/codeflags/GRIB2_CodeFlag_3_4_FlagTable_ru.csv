@@ -1,4 +1,4 @@
-ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translation_source
 grib2/3/4/1/0,Режим сканирования,,1,0,Сканирование точек первого ряда или колонки в направлении +i (+x),,,,Operational,PDF
 grib2/3/4/1/1,Режим сканирования,,1,1,Сканирование точек первого ряда или колонки в направлении -i (-x),,,,Operational,PDF
 grib2/3/4/2/0,Режим сканирования,,2,0,Сканирование точек первого ряда или колонки в направлении -j (-y),,,,Operational,PDF

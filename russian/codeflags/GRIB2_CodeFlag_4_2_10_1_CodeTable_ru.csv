@@ -1,4 +1,4 @@
-ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translation_source
 grib2/4/2/10/1/0,"Номер параметра, согласно дисциплине продукции и категории параметра","Дисциплина продукции 10 — Океанографическая продукция, категория параметра 1: течения",0,,Направление течения,,,истинные градусы,Operational,PDF
 grib2/4/2/10/1/1,"Номер параметра, согласно дисциплине продукции и категории параметра","Дисциплина продукции 10 — Океанографическая продукция, категория параметра 1: течения",1,,Скорость течения,,,м ⋅ с-1,Operational,PDF
 grib2/4/2/10/1/2,"Номер параметра, согласно дисциплине продукции и категории параметра","Дисциплина продукции 10 — Океанографическая продукция, категория параметра 1: течения",2,,Компонента течения u,,,м ⋅ с-1,Operational,PDF

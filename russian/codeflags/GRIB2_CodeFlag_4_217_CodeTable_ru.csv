@@ -1,4 +1,4 @@
-ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translation_source
 grib2/4/217/0,Тип маски облачности,,0,,Ясно над водной поверхностью,,,,Operational,PDF
 grib2/4/217/1,Тип маски облачности,,1,,Ясно над сушей,,,,Operational,PDF
 grib2/4/217/2,Тип маски облачности,,2,,Облачность,,,,Operational,PDF

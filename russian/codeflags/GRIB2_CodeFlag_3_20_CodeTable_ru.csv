@@ -1,4 +1,4 @@
-ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translation_source
 grib2/3/20/0,Тип горизонтальной линии,,0,,Румб,,,,Operational,PDF
 grib2/3/20/1,Тип горизонтальной линии,,1,,Большой цикл,,,,Operational,PDF
 grib2/3/20/2-191,Тип горизонтальной линии,,2-191,,Зарезервированы,,,,Operational,PDF

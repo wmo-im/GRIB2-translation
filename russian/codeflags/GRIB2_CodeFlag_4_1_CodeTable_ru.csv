@@ -1,4 +1,4 @@
-ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translation_source
 grib2/4/1/0/0,Категории параметров по дисциплинам продукции,Дисциплина продукции 0 — Метеорологическая продукция,0,,Температура,,,,Operational,PDF
 grib2/4/1/0/1,Категории параметров по дисциплинам продукции,Дисциплина продукции 0 — Метеорологическая продукция,1,,Влажность,,,,Operational,PDF
 grib2/4/1/0/2,Категории параметров по дисциплинам продукции,Дисциплина продукции 0 — Метеорологическая продукция,2,,Количество движения,,,,Operational,PDF

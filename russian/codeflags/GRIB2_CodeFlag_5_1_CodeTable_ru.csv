@@ -1,4 +1,4 @@
-ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translation_source
 grib2/5/1/0,Тип значений исходного поля,,0,,Плавающая запятая,,,,Operational,PDF
 grib2/5/1/1,Тип значений исходного поля,,1,,Целое число,,,,Operational,PDF
 grib2/5/1/2-191,Тип значений исходного поля,,2-191,,Зарезервированы,,,,Operational,PDF

@@ -1,4 +1,4 @@
-ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translated_by
+ID,Title_ru,SubTitle_ru,CodeFlag,Value,MeaningParameterDescription_ru,Note_ru,noteIDs,UnitComments_ru,Status,translation_source
 grib2/4/13/0,Указатель контроля качества,,0,,Контроль качества не применяется,,,,Operational,PDF
 grib2/4/13/1,Указатель контроля качества,,1,,Контроль качества применяется,,,,Operational,PDF
 grib2/4/13/2-191,Указатель контроля качества,,2-191,,Зарезервированы,,,,Operational,PDF
