@@ -14,7 +14,4 @@ grib2/3/4/6/1,Table d'indicateurs 3.4 - Mode d'exploration,,6,1,Les points des l
 grib2/3/4/7/0,Table d'indicateurs 3.4 - Mode d'exploration,,7,0,Les points ne sont pas décalés dans la direction j (y),,,,Operational,PDF
 grib2/3/4/7/1,Table d'indicateurs 3.4 - Mode d'exploration,,7,1,Les points sont décalés de Dj/2 dans la direction j (y),,,,Operational,PDF
 grib2/3/4/8/0,Table d'indicateurs 3.4 - Mode d'exploration,,8,0,"Les lignes contiennent Ni points de grille et les colonnes, Nj points de grille",,,,Operational,PDF
-grib2/3/4/8/1,Table d'indicateurs 3.4 - Mode d'exploration,,8,1,"Les lignes contiennent Ni points de grille, si les points ne sont pas décalés dans la direction i
-Les lignes contiennent Ni-1 points de grille, si les points sont décalés de Di/2 dans la direction i
-Les colonnes contiennent Nj points de grille, si les points ne sont pas décalés dans la direction j
-Les colonnes contiennent Nj-1 points de grille, si les points sont décalés de Dj/2 dans la direction j",,,,Operational,PDF
+grib2/3/4/8/1,Table d'indicateurs 3.4 - Mode d'exploration,,8,1,"Les lignes contiennent Ni points de grille, si les points ne sont pas décalés dans la direction i Les lignes contiennent Ni-1 points de grille, si les points sont décalés de Di/2 dans la direction i Les colonnes contiennent Nj points de grille, si les points ne sont pas décalés dans la direction j Les colonnes contiennent Nj-1 points de grille, si les points sont décalés de Dj/2 dans la direction j",,,,Operational,PDF

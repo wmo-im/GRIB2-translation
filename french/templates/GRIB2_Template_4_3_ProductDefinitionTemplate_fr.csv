@@ -1,4 +1,4 @@
-﻿ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translation_source
+ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/4/3/10,"Modèle de définition du produit 4.3 — Prévision dérivée, établie à partir d'un groupe de membres de l'ensemble, appliquée à une zone rectangulaire, pour une surface ou une couche horizontale, à un moment donné",10,1,Catégorie du paramètre,(voir la table de code 4.1),,4.1,,Operational,PDF
 grib2/4/3/11,"Modèle de définition du produit 4.3 — Prévision dérivée, établie à partir d'un groupe de membres de l'ensemble, appliquée à une zone rectangulaire, pour une surface ou une couche horizontale, à un moment donné",11,1,Numéro du paramètre,(voir la table de code 4.2),,4.2,,Operational,PDF
 grib2/4/3/12,"Modèle de définition du produit 4.3 — Prévision dérivée, établie à partir d'un groupe de membres de l'ensemble, appliquée à une zone rectangulaire, pour une surface ou une couche horizontale, à un moment donné",12,1,Type du processus de production,(voir la table de code 4.3),,4.3,,Operational,PDF

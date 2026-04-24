@@ -1,0 +1,7 @@
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
+grib2/4/247/0,intensité des précipitations,,0,,Aucune occurrence de précipitation,,,,Operational,AI
+grib2/4/247/1,intensité des précipitations,,1,,Précipitations légères,,,,Operational,AI
+grib2/4/247/2,intensité des précipitations,,2,,Précipitations modérées,,,,Operational,AI
+grib2/4/247/3,intensité des précipitations,,3,,Forte précipitation,,,,Operational,AI
+grib2/4/247/4-254,intensité des précipitations,,4-254,,En réserve,,,,Operational,AI
+grib2/4/247/255,intensité des précipitations,,255,,Valeur manquante,,,,Operational,AI

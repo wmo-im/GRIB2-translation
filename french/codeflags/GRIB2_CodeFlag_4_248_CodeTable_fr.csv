@@ -1,0 +1,6 @@
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
+grib2/4/248/0,Méthode utilisée pour dériver les valeurs de données pour une heure locale donnée,,0,,Le moment de prévision ou d'analyse le plus proche de l'heure locale spécifiée,,,,Operational,AI
+grib2/4/248/1,Méthode utilisée pour dériver les valeurs de données pour une heure locale donnée,,1,,Interpolé pour être valide à l'heure locale spécifiée,,,,Operational,AI
+grib2/4/248/2-191,Méthode utilisée pour dériver les valeurs de données pour une heure locale donnée,,2-191,,En réserve,,,,Operational,AI
+grib2/4/248/192-254,Méthode utilisée pour dériver les valeurs de données pour une heure locale donnée,,192-254,,En réserve pour un usage local,,,,Operational,AI
+grib2/4/248/255,Méthode utilisée pour dériver des valeurs de données pour une heure locale donnée,,255,,Valeur manquante,,,,Operational,AI

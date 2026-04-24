@@ -8,6 +8,8 @@ grib2/1/4/5,Table de code 1.4 – Type de données,,5,,Prévision de contrôle e
 grib2/1/4/6,Table de code 1.4 – Type de données,,6,,Observations par satellites après traitement,,,,Operational,PDF
 grib2/1/4/7,Table de code 1.4 – Type de données,,7,,Observations radar après traitement,,,,Operational,PDF
 grib2/1/4/8,Table de code 1.4 – Type de données,,8,,Probabilité d'occurrence d'un phénomène,,,,Operational,PDF
-grib2/1/4/9-191,Table de code 1.4 – Type de données,,9-191,,En réserve,,,,Operational,PDF
+grib2/1/4/9,Table de code 1.4 – Type de données,,9,,Données expérimentales,((voir la note 2)),157,,Operational,AI
+grib2/1/4/10,Table de code 1.4 – Type de données,,10,,Prévision basée sur ML,((voir la note 3)),158,,Operational,AI
+grib2/1/4/11-191,Table de code 1.4 – Type de données,,11-191,,En réserve,,,,Operational,AI
 grib2/1/4/192-254,Table de code 1.4 – Type de données,,192-254,,En réserve pour un usage local,,,,Operational,PDF
 grib2/1/4/255,Table de code 1.4 – Type de données,,255,,Valeur manquante,,,,Operational,PDF

@@ -1,0 +1,7 @@
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
+grib2/4/249/0,Caractère des précipitations,,0,,Aucun,,,,Operational,AI
+grib2/4/249/1,Caractère des précipitations,,1,,Douches,,,,Operational,AI
+grib2/4/249/2,Caractère des précipitations,,2,,Intermittent,,,,Operational,AI
+grib2/4/249/3,Caractère des précipitations,,3,,Continu.,,,,Operational,AI
+grib2/4/249/4-254,Caractère des précipitations,,4-254,,En réserve,,,,Operational,AI
+grib2/4/249/255,Caractère des précipitations,,255,,Valeur manquante,,,,Operational,AI

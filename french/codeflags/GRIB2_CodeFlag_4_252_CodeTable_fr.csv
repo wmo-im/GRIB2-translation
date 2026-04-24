@@ -1,0 +1,162 @@
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
+grib2/4/252/0,Classes de carreaux et regroupements,,0,,En réserve,,,,Operational,AI
+grib2/4/252/1/SEOC,Classes de carreaux et regroupements,,1,SEOC,Mers et océans,,,,Operational,AI
+grib2/4/252/2/INWB,Classes et regroupements de carreaux,,2,INWB,Corps d'eau intérieurs,,,,Operational,AI
+grib2/4/252/3/BARE,Classes de carreaux et groupements,,3,BARE,Surfaces dénudées,,,,Operational,AI
+grib2/4/252/4/HIV,Classes et regroupements de carreaux,,4,HIV,Végétation haute,,,,Operational,AI
+grib2/4/252/5/LOV,Classes et regroupements de carreaux,,5,LOV,Végétation basse,,,,Operational,AI
+grib2/4/252/6/URBAN,Classes et regroupements de carreaux,,6,URBAN,Zones urbaines,,,,Operational,AI
+grib2/4/252/7-1000,Classes et regroupements de carreaux,,7-1000,,Réservé aux classes/groupements de carreaux d'intercomparaison,"(Le chiffre du code 5 s'applique au moment où un seul sous-intervalle de temps a été utilisé pour effectuer le calcul dans le domaine traité statistiquement. Les heures exactes de début et de fin du sous-intervalle ne sont pas données, mais l'on sait qu'elles sont comprises entre le début et la fin de l'intervalle de temps complet.)",139,,Operational,AI
+grib2/4/252/1001/SEAO,Classes et regroupements de carreaux,,1001,SEAO,Mer et océans,,,,Operational,AI
+grib2/4/252/1002/LAKE,Classes et regroupements de carreaux,,1002,LAKE,Lacs,,,,Operational,AI
+grib2/4/252/1003/RIVE,Classes et regroupements de carreaux,,1003,RIVE,Rivières,,,,Operational,AI
+grib2/4/252/1004/NO,Classes et regroupements de carreaux,,1004,NO,Terrain nu,,,,Operational,AI
+grib2/4/252/1005/ROCK,Classes et regroupements de carreaux,,1005,ROCK,Roche nue,,,,Operational,AI
+grib2/4/252/1006/SNOW,Classes et regroupements de carreaux,,1006,SNOW,Neige permanente,,,,Operational,AI
+grib2/4/252/1007/BOBD,Classes et regroupements de carreaux,,1007,BOBD,Feuillus caducs boréaux,,,,Operational,AI
+grib2/4/252/1008/TEBD,Classes et regroupements de carreaux,,1008,TEBD,Feuillu tempéré caduc,,,,Operational,AI
+grib2/4/252/1009/TRBD,Classes et regroupements de carreaux,,1009,TRBD,Feuillu tropical caduc,,,,Operational,AI
+grib2/4/252/1010/TEBE,Classes et regroupements de carreaux,,1010,TEBE,Feuillu persistant tempéré,,,,Operational,AI
+grib2/4/252/1011/TRBE,Classes et regroupements de carreaux,,1011,TRBE,Feuillu tropical persistant,,,,Operational,AI
+grib2/4/252/1012/BONE,Classes et regroupements de carreaux,,1012,BONE,Conifère sempervirent boréal,,,,Operational,AI
+grib2/4/252/1013/TENE,Classes et regroupements de carreaux,,1013,TENE,Conifère à feuilles en aiguilles des régions tempérées,,,,Operational,AI
+grib2/4/252/1014/BOND,Classes et regroupements de carreaux,,1014,BOND,Feuillu à aiguilles boréal,,,,Operational,AI
+grib2/4/252/1015/SHRB,Classes et regroupements de carreaux,,1015,SHRB,Arbustes,,,,Operational,AI
+grib2/4/252/1016/BOGR,Classes et regroupements de carreaux,,1016,BOGR,Prairie boréale,,,,Operational,AI
+grib2/4/252/1017/GRAS,Classes et regroupements de carreaux,,1017,GRAS,Prairie tempérée,,,,Operational,AI
+grib2/4/252/1018/TROG,Classes et regroupements de carreaux,,1018,TROG,Prairie tropicale,,,,Operational,AI
+grib2/4/252/1019/C3W,Classes et regroupements de carreaux,,1019,C3W,Cultures C3 d'hiver,,,,Operational,AI
+grib2/4/252/1020/C3S,Classes et regroupements de carreaux,,1020,C3S,Cultures C3 estivales,,,,Operational,AI
+grib2/4/252/1021/C4,Classes et regroupements de carreaux,,1021,C4,cultures C4,,,,Operational,AI
+grib2/4/252/1022/FLTR,Classes et regroupements de carreaux,,1022,FLTR,Arbres inondés,,,,Operational,AI
+grib2/4/252/1023/FLGR,Classes et regroupements de carreaux,,1023,FLGR,Prairie inondée,,,,Operational,AI
+grib2/4/252/1024/LCZ1,Classes et regroupements de carreaux,,1024,LCZ1,Zone climatique locale 1 : immeubles de grande hauteur compacts,,,,Operational,AI
+grib2/4/252/1025/LCZ2,Classes et regroupements de carreaux,,1025,LCZ2,Zone climatique locale 2 : bâtiments compacts de hauteur moyenne,,,,Operational,AI
+grib2/4/252/1026/LCZ3,Classes et regroupements de carreaux,,1026,LCZ3,Zone climatique locale 3 : bâtiments compacts de faible hauteur,,,,Operational,AI
+grib2/4/252/1027/LCZ4,Classes et regroupements de carreaux,,1027,LCZ4,Zone climatique locale 4 : immeubles de grande hauteur ouverts,,,,Operational,AI
+grib2/4/252/1028/LCZ5,Classes et regroupements de carreaux,,1028,LCZ5,Zone climatique locale 5 : bâtiments ouverts de hauteur moyenne,,,,Operational,AI
+grib2/4/252/1029/LCZ6,Classes et regroupements de carreaux,,1029,LCZ6,Zone climatique locale 6 : bâtiments bas ouverts,,,,Operational,AI
+grib2/4/252/1030/LCZ7,Classes et regroupements de carreaux,,1030,LCZ7,Zone climatique locale 7 : bâtiments légers de faible hauteur,,,,Operational,AI
+grib2/4/252/1031/LCZ8,Classes et regroupements de carreaux,,1031,LCZ8,Zone climatique locale 8 : grands bâtiments bas,,,,Operational,AI
+grib2/4/252/1032/LCZ9,Classes et regroupements de carreaux,,1032,LCZ9,Zone climatique locale 9 : faiblement bâtie (bâtiments),,,,Operational,AI
+grib2/4/252/1033/LCZ10,Classes et regroupements de carreaux,,1033,LCZ10,Zone climatique locale 10 : industrie lourde (bâtiments),,,,Operational,AI
+grib2/4/252/1034/TEBDU,Classes et regroupements de carreaux,,1034,TEBDU,Urbaine tempérée à feuilles larges caduques,,,,Operational,AI
+grib2/4/252/1035/TRBDU,Classes et regroupements de carreaux,,1035,TRBDU,Urbain tropical à feuilles larges caduques,,,,Operational,AI
+grib2/4/252/1036/TEBEU,Classes et regroupements de carreaux,,1036,TEBEU,Urbaine tempérée à feuilles larges persistantes,,,,Operational,AI
+grib2/4/252/1037/TRBEU,Classes et regroupements de carreaux,,1037,TRBEU,Urbaine tropicale à feuilles larges persistantes,,,,Operational,AI
+grib2/4/252/1038/BONEU,Classes et regroupements de carreaux,,1038,BONEU,Urbain boréal à feuilles persistantes en aiguilles,,,,Operational,AI
+grib2/4/252/1039/TENEU,Classes et regroupements de carreaux,,1039,TENEU,Aiguille persistante tempérée urbaine,,,,Operational,AI
+grib2/4/252/1040/BONDU,Classes et regroupements de carreaux,,1040,BONDU,Urbaine boréale à feuilles en aiguilles et caduques,,,,Operational,AI
+grib2/4/252/1041-1500,Classes et regroupements de carreaux,,1041-1500,,Réservé aux entrées de classe de carreaux pour les modèles de carreaux utilisant l'enquête de couverture terrestre ECOCLIMAP-SG,"(Le chiffre du code 5 s'applique au moment où un seul sous-intervalle de temps a été utilisé pour effectuer le calcul dans le domaine traité statistiquement. Les heures exactes de début et de fin du sous-intervalle ne sont pas données, mais l'on sait qu'elles sont comprises entre le début et la fin de l'intervalle de temps complet.)",139,,Operational,AI
+grib2/4/252/1501,Classes et regroupements de carreaux,,1501,,Regroupement de la nature (NO + ROCK + SNOW + BOBD + TEBD + TRBD + TEBE + TRBE + BONE + TENE + BOND + SHRB + BOGR + GRAS + TROG + C3W + C3S + C4 + FLTR + FLGR),,,,Operational,AI
+grib2/4/252/1502,Classes et regroupements de carreaux,,1502,,Regroupement non forestier (NO + ROCK + SNOW + BOGR + GRAS + TROG + C3W + C3S + C4 + FLTR + FLGR),,,,Operational,AI
+grib2/4/252/1503,Classes et regroupements de carreaux,,1503,,Regroupement forestier (BOBD + TEBD + TRBD + TEBE + TRBE + BONE + TENE + BOND + SHRB),,,,Operational,AI
+grib2/4/252/1504,Classes et regroupements de carreaux,,1504,,Regroupement non végétalisé (NO + ROCHE + NEIGE),,,,Operational,AI
+grib2/4/252/1505,Classes et regroupements de carreaux,,1505,,Regroupement des arbres (BOBD + TEBD + TRBD + TEBE + TRBE + BONE + TENE + BOND + SHRB + FLTR),,,,Operational,AI
+grib2/4/252/1506,Classes et regroupements de carreaux,,1506,,Regroupement de végétation basse (BOGR + GRAS + TROG + C3W + C3S + C4 + FLGR),,,,Operational,AI
+grib2/4/252/1507,Classes et regroupements de carreaux,,1507,,Regroupement de végétation basse non inondée (BOGR + GRAS + TROG + C3W + C3S + C4),,,,Operational,AI
+grib2/4/252/1508,Classes et regroupements de carreaux,,1508,,Regroupement des cultures (C3W + C3S + C4),,,,Operational,AI
+grib2/4/252/1509,Classes et regroupements de carreaux,,1509,,Regroupement de prairies (BOGR + GRAS + TROG),,,,Operational,AI
+grib2/4/252/1510,Classes et regroupements de carreaux,,1510,,Regroupement de roche et nu (NO + ROCK),,,,Operational,AI
+grib2/4/252/1511,Classes et regroupements de carreaux,,1511,,Regroupement des cultures C3 (C3W + C3S),,,,Operational,AI
+grib2/4/252/1512,Classes et regroupements de carreaux,,1512,,Regroupement de forêt à feuilles larges (BOBD + TEBD + TRBD + TEBE + TRBE + SHRB),,,,Operational,AI
+grib2/4/252/1513,Classes et regroupements de carreaux,,1513,,Regroupement de forêt à feuilles en aiguilles (BONE + TENE + BOND),,,,Operational,AI
+grib2/4/252/1514,Classes et regroupements de carreaux,,1514,,Regroupement de forêts de feuillus caducs (BOBD + TEBD + TRBD + TEBE + SHRB),,,,Operational,AI
+grib2/4/252/1515,Classes et regroupements de carreaux,,1515,,Regroupement de prairie tempérée (BOGR + GRAS),,,,Operational,AI
+grib2/4/252/1516,Classes et regroupements de carreaux,,1516,,Regroupement non forestier (sans FLTR) (NO + ROCK + SNOW + BOGR + GRAS + TROG + C3W + C3S + C4 + FLGR),,,,Operational,AI
+grib2/4/252/1517,Classes et regroupements de carreaux,,1517,,Forêt de feuillus (avec FLTR) regroupement (BOBD + TEBD + TRBD + TEBE + TRBE + SHRB + FLTR),,,,Operational,AI
+grib2/4/252/1518,Classes et regroupements de carreaux,,1518,,Regroupement des arbres à feuilles larges (BOBD + TEBD + TRBD + TEBE + TRBE + FLTR),,,,Operational,AI
+grib2/4/252/1519,Classes et regroupements de carreaux,,1519,,Regroupement de prairies C3/C4 (BOGR + GRAS + FLGR),,,,Operational,AI
+grib2/4/252/1520,Classes et regroupements de carreaux,,1520,,Regroupement d'arbres feuillus à feuilles caduques (BOBD + TEBD + TRBD + FLTR),,,,Operational,AI
+grib2/4/252/1521,Classes et regroupements de carreaux,,1521,,Regroupement d'arbres à feuilles persistantes à larges feuilles (TEBE + TRBE),,,,Operational,AI
+grib2/4/252/1522,Classes et regroupements de carreaux,,1522,,Regroupement d'arbres à feuilles persistantes en aiguilles (BONE + TENE),,,,Operational,AI
+grib2/4/252/1523,Classes et regroupements de carreaux,,1523,,LCZ ou regroupement urbain (LCZ1 + LCZ2 + LCZ3 + LCZ4 + LCZ5 + LCZ6 + LCZ7 + LCZ8 + LCZ9 + LCZ10),,,,Operational,AI
+grib2/4/252/1524,Classes et regroupements de carreaux,,1524,,Regroupement des eaux intérieures (LAC + RIVE),,,,Operational,AI
+grib2/4/252/1525,Classes et regroupements de carreaux,,1525,,Regroupement TEBD des parcs et jardins urbains (NO + GRAS + TEBDU),,,,Operational,AI
+grib2/4/252/1526,Classes et regroupements de carreaux,,1526,,Regroupement des parcs urbains et des jardins TRBD (NO + GRAS + TRBDU),,,,Operational,AI
+grib2/4/252/1527,Classes et regroupements de carreaux,,1527,,Parcs urbains et jardins regroupement TEBE (NO + GRAS + TEBEU),,,,Operational,AI
+grib2/4/252/1528,Classes et regroupements de carreaux,,1528,,Parcs urbains et jardins regroupement TRBE (NO + GRAS + TRBEU),,,,Operational,AI
+grib2/4/252/1529,Classes et regroupements de carreaux,,1529,,Parcs urbains et jardins regroupement BONE (NO + GRAS + BONEU),,,,Operational,AI
+grib2/4/252/1530,Classes et regroupements de carreaux,,1530,,Parcs urbains et jardins regroupement TENE (NO + GRAS + TENEU),,,,Operational,AI
+grib2/4/252/1531,Classes et regroupements de carreaux,,1531,,Parcs urbains et jardins regroupement BOND (NO + GRAS + BONDU),,,,Operational,AI
+grib2/4/252/1532-2000,Classes et regroupements de carreaux,,1532-2000,,Réservé aux entrées de regroupement de carreaux pour les modèles de carreaux utilisant l'enquête de couverture terrestre ECOCLIMAP-SG,"(Le chiffre du code 5 s'applique au moment où un seul sous-intervalle de temps a été utilisé pour effectuer le calcul dans le domaine traité statistiquement. Les heures exactes de début et de fin du sous-intervalle ne sont pas données, mais l'on sait qu'elles sont comprises entre le début et la fin de l'intervalle de temps complet.)",139,,Operational,AI
+grib2/4/252/2001/CRMF,Classes et regroupements de carreaux,,2001,CRMF,"Cultures, agriculture mixte",,,,Operational,AI
+grib2/4/252/2002/SHGR,Classes et regroupements de carreaux,,2002,SHGR,Herbe rase,,,,Operational,AI
+grib2/4/252/2003/EVNE,Classes et regroupements de carreaux,,2003,EVNE,Conifères à feuillage persistant,,,,Operational,AI
+grib2/4/252/2004/DENE,Classes et regroupements de carreaux,,2004,DENE,Conifères à feuillage caduc,,,,Operational,AI
+grib2/4/252/2005/DEBR,Classes et regroupements de carreaux,,2005,DEBR,Feuillus à feuillage caduc,,,,Operational,AI
+grib2/4/252/2006/EVBR,Classes et regroupements de carreaux,,2006,EVBR,Feuillus à feuillage persistant,,,,Operational,AI
+grib2/4/252/2007/TAGR,Classes et regroupements de carreaux,,2007,TAGR,Herbe haute,,,,Operational,AI
+grib2/4/252/2008/DESE,Classes et regroupements de carreaux,,2008,DESE,Désert,,,,Operational,AI
+grib2/4/252/2009/TUND,Classes et regroupements de carreaux,,2009,TUND,Toundra,,,,Operational,AI
+grib2/4/252/2010/IRCR,Classes et regroupements de carreaux,,2010,IRCR,Cultures irriguées,,,,Operational,AI
+grib2/4/252/2011/SEDE,Classes et regroupements de carreaux,,2011,SEDE,Semi-désert,,,,Operational,AI
+grib2/4/252/2012/ICGL,Classes et regroupements de carreaux,,2012,ICGL,Calottes glaciaires et glaciers,,,,Operational,AI
+grib2/4/252/2013/BOMA,Classes et regroupements de carreaux,,2013,BOMA,Tourbières et marécages,,,,Operational,AI
+grib2/4/252/2014/INWA,Classes et regroupements de carreaux,,2014,INWA,Eaux continentales,,,,Operational,AI
+grib2/4/252/2015/OCEA,Classes et regroupements de carreaux,,2015,OCEA,Océan,,,,Operational,AI
+grib2/4/252/2016/EVSH,Classes et regroupements de carreaux,,2016,EVSH,Arbustes à feuillage persistant,,,,Operational,AI
+grib2/4/252/2017/DESH,Classes et regroupements de carreaux,,2017,DESH,Arbustes à feuillage caduc,,,,Operational,AI
+grib2/4/252/2018/MFWO,Classes et regroupements de carreaux,,2018,MFWO,Forêt/bois mixte,,,,Operational,AI
+grib2/4/252/2019/INFO,Classes et regroupements de carreaux,,2019,INFO,Forêt intermittente,,,,Operational,AI
+grib2/4/252/2020/WLMI,Classes et regroupements de carreaux,,2020,WLMI,Zone mixte (terrestre et aquatique),,,,Operational,AI
+grib2/4/252/2021/BASO,Classes et regroupements de carreaux,,2021,BASO,Sol nu,,,,Operational,AI
+grib2/4/252/2022/URBA,Classes et regroupements de carreaux,,2022,URBA,Zones urbaines,,,,Operational,AI
+grib2/4/252/2023/LORI,Classes et regroupements de carreaux,,2023,LORI,Bâtiment de faible hauteur,,,,Operational,AI
+grib2/4/252/2024/HIRI,Classes et regroupements de carreaux,,2024,HIRI,Immeuble de grande hauteur,,,,Operational,AI
+grib2/4/252/2025-2500,Classes et regroupements de carreaux,,2025-2500,,Réservé aux entrées de classe de carreaux pour les modèles de carreaux utilisant l'enquête de classification BATS GLCC v2.0.,"(Le chiffre du code 5 s'applique au moment où un seul sous-intervalle de temps a été utilisé pour effectuer le calcul dans le domaine traité statistiquement. Les heures exactes de début et de fin du sous-intervalle ne sont pas données, mais l'on sait qu'elles sont comprises entre le début et la fin de l'intervalle de temps complet.)",139,,Operational,AI
+grib2/4/252/2501,Classes et regroupements de carreaux,,2501,,Regroupement de végétation basse (CRMF + SHGR + TAGR + TUND + IRCR + SEDE + BOMA + EVSH + DESH + WLMI),,,,Operational,AI
+grib2/4/252/2502,Classes et regroupements de carreaux,,2502,,Regroupement de végétation haute (EVNE + DENE + DEBR + EVBR + MFWO + INFO),,,,Operational,AI
+grib2/4/252/2503-3000,Classes et regroupements de carreaux,,2503-3000,,Réservé aux entrées de regroupement de carreaux pour les modèles de carreaux utilisant l'enquête de classification BATS GLCC v2.0,"(Le chiffre du code 5 s'applique au moment où un seul sous-intervalle de temps a été utilisé pour effectuer le calcul dans le domaine traité statistiquement. Les heures exactes de début et de fin du sous-intervalle ne sont pas données, mais l'on sait qu'elles sont comprises entre le début et la fin de l'intervalle de temps complet.)",139,,Operational,AI
+grib2/4/252/3001/PFIC,Classes et regroupements de carreaux,,3001,PFIC,Terres agricoles post-inondation ou irriguées,,,,Operational,AI
+grib2/4/252/3002/RACR,Classes et regroupements de carreaux,,3002,RACR,Terres cultivées non irriguées,,,,Operational,AI
+grib2/4/252/3003/MCVE,Classes et regroupements de carreaux,,3003,MCVE,"Terres agricoles en mosaïque (50%-70%)/végétation (prairie, broussailles, forêt) (20-50%)",,,,Operational,AI
+grib2/4/252/3004/MVCR,Classes et regroupements de carreaux,,3004,MVCR,"Végétation en mosaïque (prairie, broussailles, forêt) (50%-70%)/terres cultivées (20%-50%)",,,,Operational,AI
+grib2/4/252/3005/COBS,Classes et regroupements de carreaux,,3005,COBS,Forêt fermée à ouverte (>15 %) à feuilles larges sempervirentes et/ou semi-décidues (>5 m),,,,Operational,AI
+grib2/4/252/3006/CLBD,Classes et regroupements de carreaux,,3006,CLBD,Forêt fermée (>40%) de feuillus caducs (>5m),,,,Operational,AI
+grib2/4/252/3007/OPBD,Classes et regroupements de carreaux,,3007,OPBD,Forêt ouverte (15-40%) de feuillus caducifoliés (>5m),,,,Operational,AI
+grib2/4/252/3008/CLNE,Classes et regroupements de carreaux,,3008,CLNE,Forêt fermée (>40%) de conifères persistants (>5m),,,,Operational,AI
+grib2/4/252/3009/ONDE,Classes et regroupements de carreaux,,3009,ONDE,Forêt ouverte (15-40%) de conifères feuillus ou persistants (>5m),,,,Operational,AI
+grib2/4/252/3010/COBN,Classes et regroupements de carreaux,,3010,COBN,"Forêt mixte de feuillus et de conifères, fermée à ouverte (>15%) (>5m)",,,,Operational,AI
+grib2/4/252/3011/MFSG,Classes et regroupements de carreaux,,3011,MFSG,Forêt/mosaïque de broussailles (50%-70%)/prairie (20%-50%),,,,Operational,AI
+grib2/4/252/3012/MGFS,Classes et regroupements de carreaux,,3012,MGFS,Mosaïque de prairies (50%-70%)/forêts/arbustes (20%-50%),,,,Operational,AI
+grib2/4/252/3013/COSH,Classes et regroupements de carreaux,,3013,COSH,De fermé à ouvert (>15%) de broussailles (<5m),,,,Operational,AI
+grib2/4/252/3014/COHV,Classes et regroupements de carreaux,,3014,COHV,Fermé à ouvert (>15 %) de végétation herbacée,,,,Operational,AI
+grib2/4/252/3015/SPVE,Classes et regroupements de carreaux,,3015,SPVE,"Végétation clairsemée (<15%) (végétation ligneuse, arbustes, prairies)",,,,Operational,AI
+grib2/4/252/3016/COBFF,Classes et regroupements de carreaux,,3016,COBFF,Forêt de feuillus fermée à ouverte (>15 %) régulièrement inondée (semi-permanente ou temporaire) - eau douce ou saumâtre,,,,Operational,AI
+grib2/4/252/3017/CLBFF,Classes et regroupements de carreaux,,3017,CLBFF,Forêt fermée (>40%) de feuillus ou broussailles inondées en permanence - eau salée ou saumâtre,,,,Operational,AI
+grib2/4/252/3018/COVEF,Classes et regroupements de carreaux,,3018,COVEF,"Végétation fermée à ouverte (>15 %) (prairie, broussailles, végétation ligneuse) sur sol régulièrement inondé ou engorgé - eau douce, saumâtre ou salée",,,,Operational,AI
+grib2/4/252/3019/ASAA,Classes et regroupements de carreaux,,3019,ASAA,Surfaces artificielles et zones associées (zones urbaines >50%),,,,Operational,AI
+grib2/4/252/3020/BAAR,Classes et regroupements de carreaux,,3020,BAAR,Surfaces dénudées,,,,Operational,AI
+grib2/4/252/3021/WABO,Classes et regroupements de carreaux,,3021,WABO,Étendues d'eau,,,,Operational,AI
+grib2/4/252/3022/PESI,Classes et regroupements de carreaux,,3022,PESI,Neige et glace permanentes,,,,Operational,AI
+grib2/4/252/3023-3500,Classes et regroupements de carreaux,,3023-3500,,Réservé aux entrées de classe de carreaux pour les modèles de carreaux utilisant l'enquête ESA-GlobCover GCV2009.,"(Le chiffre du code 5 s'applique au moment où un seul sous-intervalle de temps a été utilisé pour effectuer le calcul dans le domaine traité statistiquement. Les heures exactes de début et de fin du sous-intervalle ne sont pas données, mais l'on sait qu'elles sont comprises entre le début et la fin de l'intervalle de temps complet.)",139,,Operational,AI
+grib2/4/252/3501,Classes et regroupements de carreaux,,3501,,Regroupement en utilisant l'approche des tuiles dominantes (la tuile dominante varie par boîte de grille),,,,Operational,AI
+grib2/4/252/3502-4000,Classes et regroupements de carreaux,,3502-4000,,Réservé aux entrées de regroupement de carreaux pour les modèles de carreaux utilisant l'enquête ESA-GlobCover GCV2009.,"(Le chiffre du code 5 s'applique au moment où un seul sous-intervalle de temps a été utilisé pour effectuer le calcul dans le domaine traité statistiquement. Les heures exactes de début et de fin du sous-intervalle ne sont pas données, mais l'on sait qu'elles sont comprises entre le début et la fin de l'intervalle de temps complet.)",139,,Operational,AI
+grib2/4/252/4001/TBECO,Classes et regroupements de carreaux,,4001,TBECO,"Couverture arborée, feuillus persistants, fermée à ouverte (>15%).",,,,Operational,AI
+grib2/4/252/4002/TBDC,Classes et regroupements de carreaux,,4002,TBDC,"Couverture arborée, feuillus caducs, fermée (>40%)",,,,Operational,AI
+grib2/4/252/4003/TBDO,Classes et regroupements de carreaux,,4003,TBDO,"Couverture arborée, feuillus caducs, ouverte (15-40%)",,,,Operational,AI
+grib2/4/252/4004/TNECO,Classes et regroupements de carreaux,,4004,TNECO,"Couverture arborée, à feuilles persistantes en aiguilles, fermée à ouverte (>15%).",,,,Operational,AI
+grib2/4/252/4005/TNDCO,Classes et regroupements de carreaux,,4005,TNDCO,"Couvert arboré, à feuilles en aiguilles et caduques, fermé à ouvert (>15%).",,,,Operational,AI
+grib2/4/252/4006/TMLCO,Classes et regroupements de carreaux,,4006,TMLCO,"Couverture arborée, type de feuillage mixte, fermé à ouvert (>15 %)",,,,Operational,AI
+grib2/4/252/4007/TCOFF,Classes et regroupements de carreaux,,4007,TCOFF,"Couverture arborée, fermée à ouverte (>15 %), régulièrement inondée, eau douce ou saumâtre : forêts marécageuses",,,,Operational,AI
+grib2/4/252/4008/TCOFS,Classes et regroupements de carreaux,,4008,TCOFS,"Couverture arborée, fermée à ouverte (>15 %), régulièrement inondée, eau salée : forêts de mangroves",,,,Operational,AI
+grib2/4/252/4009/MTVG,Classes et regroupements de carreaux,,4009,MTVG,Mosaïque de couvert arboré et d'autres végétations naturelles (composante agricole possible),,,,Operational,AI
+grib2/4/252/4010/TBURN,Classes et regroupements de carreaux,,4010,TBURN,"Couverture arborée, brûlée (principalement les forêts boréales)",,,,Operational,AI
+grib2/4/252/4011/SCOE,Classes et regroupements de carreaux,,4011,SCOE,"Couverture arbustive, fermée à ouverte (>15 %), persistante (à feuilles larges ou à aiguilles).",,,,Operational,AI
+grib2/4/252/4012/SCOD,Classes et regroupements de carreaux,,4012,SCOD,"Couverture arbustive, fermée à ouverte (>15 %), feuillue (à larges feuilles)",,,,Operational,AI
+grib2/4/252/4013/HCCO,Classes et regroupements de carreaux,,4013,HCCO,"Couverture herbacée, fermée à ouverte (>15%)",,,,Operational,AI
+grib2/4/252/4014/SHSC,Classes et regroupements de carreaux,,4014,SHSC,Couverture clairsemée herbacée ou arbustive clairsemée,,,,Operational,AI
+grib2/4/252/4015/FSHCO,Classes et regroupements de carreaux,,4015,FSHCO,"Couvert arbustif ou herbacé régulièrement inondé (>2 mois), fermé à ouvert",,,,Operational,AI
+grib2/4/252/4016/CROP,Classes et regroupements de carreaux,,4016,CROP,Terres cultivées (cultures de haute terre ou cultures inondées/ submergées),,,,Operational,AI
+grib2/4/252/4017/MCTNV,Classes et regroupements de carreaux,,4017,MCTNV,Mosaïque de terres cultivées / couvert arboré / autre végétation naturelle,,,,Operational,AI
+grib2/4/252/4018/MCSH,Classes et regroupements de carreaux,,4018,MCSH,Mosaïque de terres cultivées / couverture arbustive ou herbacée,,,,Operational,AI
+grib2/4/252/4019/BAARE,Classes et regroupements de carreaux,,4019,BAARE,Surfaces dénudées,,,,Operational,AI
+grib2/4/252/4020/WBNA,Classes et regroupements de carreaux,,4020,WBNA,Corps d'eau (naturels ou artificiels),,,,Operational,AI
+grib2/4/252/4021/SINA,Classes et regroupements de carreaux,,4021,SINA,Neige ou glace (naturelle ou artificielle),,,,Operational,AI
+grib2/4/252/4022/URAR,Classes et regroupements de carreaux,,4022,URAR,Zones urbaines,,,,Operational,AI
+grib2/4/252/4023-4500,Classes et regroupements de carreaux,,4023-4500,,Réservé aux entrées de classe de tuiles pour les modèles de tuiles utilisant l'enquête GLC2000 du projet de couverture terrestre mondiale de la Commission européenne.,"(Le chiffre du code 5 s'applique au moment où un seul sous-intervalle de temps a été utilisé pour effectuer le calcul dans le domaine traité statistiquement. Les heures exactes de début et de fin du sous-intervalle ne sont pas données, mais l'on sait qu'elles sont comprises entre le début et la fin de l'intervalle de temps complet.)",139,,Operational,AI
+grib2/4/252/4501-5000,Classes et regroupements de carreaux,,4501-5000,,Réservé aux entrées de regroupement de tuiles pour les modèles de tuiles utilisant l'enquête GLC2000 du projet de couverture terrestre globale de la Commission européenne.,"(Le chiffre du code 5 s'applique au moment où un seul sous-intervalle de temps a été utilisé pour effectuer le calcul dans le domaine traité statistiquement. Les heures exactes de début et de fin du sous-intervalle ne sont pas données, mais l'on sait qu'elles sont comprises entre le début et la fin de l'intervalle de temps complet.)",139,,Operational,AI
+grib2/4/252/5001-32767,Classes et regroupements de carreaux,,5001-32767,,Réservé pour des enquêtes supplémentaires sur la couverture terrestre,,,,Operational,AI
+grib2/4/252/32768-65534,Classes et regroupements de carreaux,,32768-65534,,En réserve pour un usage local,,,,Operational,AI
+grib2/4/252/65535,Classes et regroupements de carreaux,,65535,,Valeur manquante,,,,Operational,AI

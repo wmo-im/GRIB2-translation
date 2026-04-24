@@ -1,4 +1,4 @@
-﻿ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translation_source
+ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/3/63/15,Modèle de définition de la grille 3.63 — Représentation spectrale en projection conforme de Lambert avec définition des sous-domaines de modélisation,15,1,Type de représentation des données spectrales,(voir la table de code 3.6),,3.6,,Operational,PDF
 grib2/3/63/16-19,Modèle de définition de la grille 3.63 — Représentation spectrale en projection conforme de Lambert avec définition des sous-domaines de modélisation,16-19,4,N - paramètre de résolution avec transformée de Fourier 2D,,,,,Operational,PDF
 grib2/3/63/20-23,Modèle de définition de la grille 3.63 — Représentation spectrale en projection conforme de Lambert avec définition des sous-domaines de modélisation,20-23,4,M - paramètre de résolution avec transformée de Fourier 2D,,,,,Operational,PDF

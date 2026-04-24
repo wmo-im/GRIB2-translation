@@ -1,4 +1,4 @@
-﻿ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translation_source
+ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/3/90/15,Modèle de définition de la grille 3.90 — Perspective vue de l'espace ou projection orthographique,15,1,Forme de la Terre,(voir la table de code 3.2),,3.2,,Operational,PDF
 grib2/3/90/16,Modèle de définition de la grille 3.90 — Perspective vue de l'espace ou projection orthographique,16,1,Facteur d'échelle du rayon de la Terre sphérique,,,,,Operational,PDF
 grib2/3/90/17-20,Modèle de définition de la grille 3.90 — Perspective vue de l'espace ou projection orthographique,17-20,4,Valeur ajustée du rayon de la Terre sphérique,,,,,Operational,PDF

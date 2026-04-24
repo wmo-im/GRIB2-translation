@@ -1,0 +1,17 @@
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
+grib2/4/106/0,Indicatifs de qualité des données radar,,0,,Données de fonctionnement normales,,,,Operational,AI
+grib2/4/106/1,Drapeaux de qualité des données radar,,1,,Aucune donnée,(Les chiffres du code 12 et 13 sont à utiliser dans les cas où les résultats d'une analyse ou d'une prévision initiale ont reçu un post-traitement substantiel et que les chiffres du code 0 et 2 ne sont alors pas suffisamment précis.),176,,Operational,AI
+grib2/4/106/2,Indicatifs de qualité des données radar,,2,,Non détecté,((voir la note 2)),177,,Operational,AI
+grib2/4/106/3,Drapeaux de qualité des données radar,,3,,Données implausibles / valeurs aberrantes,((voir la note 3)),178,,Operational,AI
+grib2/4/106/4,Indicateurs de qualité des données radar,,4,,Dépassement du faisceau,,,,Operational,AI
+grib2/4/106/5,Drapeaux de qualité des données radar,,5,,Blocage du faisceau,,,,Operational,AI
+grib2/4/106/6,Drapeaux de qualité des données radar,,6,,Encombrement au sol,,,,Operational,AI
+grib2/4/106/7,Drapeaux de qualité des données radar,,7,,Bruits de mer,,,,Operational,AI
+grib2/4/106/8,Drapeaux de qualité des données radar,,8,,Atténuation du faisceau,,,,Operational,AI
+grib2/4/106/9,Drapeaux de qualité des données radar,,9,,Atténuation du radôme mouillé,,,,Operational,AI
+grib2/4/106/10,Drapeaux de qualité des données radar,,10,,Éoliennes,,,,Operational,AI
+grib2/4/106/11,Drapeaux de qualité des données radar,,11,,Insectes/oiseaux,,,,Operational,AI
+grib2/4/106/12,Drapeaux de qualité des données radar,,12,,Navires/aéronefs,,,,Operational,AI
+grib2/4/106/13-189,Drapeaux de qualité des données radar,,13-189,,En réserve,,,,Operational,AI
+grib2/4/106/192-254,Drapeaux de qualité des données radar,,192-254,,En réserve pour un usage local,,,,Operational,AI
+grib2/4/106/255,Drapeaux de qualité des données radar,,255,,Valeur manquante,,,,Operational,AI

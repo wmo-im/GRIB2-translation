@@ -1,4 +1,4 @@
-﻿ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translation_source
+ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/4/81/10,"Modèle de définition du produit 4.81 – Prévision d'ensemble prise séparément, de contrôle ou «perturbée», pour une surface ou une couche horizontale, à un moment donné, relative aux propriétés optiques des aérosols",10,1,Catégorie du paramètre,(voir la table de code 4.1),,4.1,,Operational,PDF
 grib2/4/81/11,"Modèle de définition du produit 4.81 – Prévision d'ensemble prise séparément, de contrôle ou «perturbée», pour une surface ou une couche horizontale, à un moment donné, relative aux propriétés optiques des aérosols",11,1,Numéro du paramètre,(voir la table de code 4.2),,4.2,,Operational,PDF
 grib2/4/81/12-13,"Modèle de définition du produit 4.81 – Prévision d'ensemble prise séparément, de contrôle ou «perturbée», pour une surface ou une couche horizontale, à un moment donné, relative aux propriétés optiques des aérosols",12-13,2,Type d'aérosol,(voir la table de code commune C-14),,CCT-14,,Operational,PDF

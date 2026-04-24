@@ -1,4 +1,4 @@
-﻿ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translation_source
+ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/5/1/12-21,Modèle de représentation des données 5.1 — Matrices aux points de grille — compression simple,12-21,10,Voir le modèle de représentation des données 5.0,,,,,Experimental,PDF
 grib2/5/1/22,Modèle de représentation des données 5.1 — Matrices aux points de grille — compression simple,22,1,0 - présence de tables binaires matricielles; 1 - absence de table binaire matricielle,,,,,Experimental,PDF
 grib2/5/1/23-26,Modèle de représentation des données 5.1 — Matrices aux points de grille — compression simple,23-26,4,Nombre de valeurs de données codées dans la section 7,,,,,Experimental,PDF

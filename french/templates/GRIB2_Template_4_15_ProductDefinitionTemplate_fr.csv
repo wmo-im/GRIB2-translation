@@ -1,4 +1,4 @@
-﻿ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translation_source
+ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/4/15/10,"Modèle de définition du produit 4.15 — Valeurs moyennes, cumulées et/ou extrêmes, ou autres valeurs ayant fait l'objet d'un traitement statistique pour une surface ou une couche horizontale, sur une zone et à un moment donnés",10,1,Catégorie du paramètre,(voir la table de code 4.1),,4.1,,Operational,PDF
 grib2/4/15/11,"Modèle de définition du produit 4.15 — Valeurs moyennes, cumulées et/ou extrêmes, ou autres valeurs ayant fait l'objet d'un traitement statistique pour une surface ou une couche horizontale, sur une zone et à un moment donnés",11,1,Numéro du paramètre,(voir la table de code 4.2),,4.2,,Operational,PDF
 grib2/4/15/12,"Modèle de définition du produit 4.15 — Valeurs moyennes, cumulées et/ou extrêmes, ou autres valeurs ayant fait l'objet d'un traitement statistique pour une surface ou une couche horizontale, sur une zone et à un moment donnés",12,1,Type du processus de production,(voir la table de code 4.3),,4.3,,Operational,PDF

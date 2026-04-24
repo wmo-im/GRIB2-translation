@@ -1,0 +1,6 @@
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
+grib2/4/105/0,Proximité spatiale et temporelle des données manquantes,,0,,Ignorez les données manquantes,,,,Operational,AI
+grib2/4/105/1,Proximité spatiale et temporelle des données manquantes,,1,,Aucune donnée,,,,Operational,AI
+grib2/4/105/2-189,Proximité spatiale et temporelle des données manquantes,,2-189,,En réserve,,,,Operational,AI
+grib2/4/105/192-254,Proximité spatiale et temporelle des données manquantes,,192-254,,En réserve pour un usage local,,,,Operational,AI
+grib2/4/105/255,Proximité spatiale et temporelle des données manquantes,,255,,Valeur manquante,,,,Operational,AI

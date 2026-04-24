@@ -1,0 +1,27 @@
+ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translation_source
+grib2/4/113/10,Carreaux généralisés à un niveau horizontal ou une couche horizontale à un moment donné,10,1,Catégorie du paramètre,((voir la table de code 4.1)),,4.1,,Operational,AI
+grib2/4/113/11,Tuiles généralisées à un niveau horizontal ou une couche horizontale à un moment donné,11,1,Numéro du paramètre,((voir la table de code 4.2)),,4.2,,Operational,AI
+grib2/4/113/12,Tuiles généralisées à un niveau horizontal ou une couche horizontale à un moment donné.,12,1,Classification des dalles,((voir la table de code 4.242)),,4.242,,Operational,AI
+grib2/4/113/13-14,Carreaux généralisés à un niveau horizontal ou une couche horizontale à un moment donné,13-14,2,Type de carreau,(voir la table de codes 4.252),,4.252,,Operational,AI
+grib2/4/113/15,Carreaux généralisés à un niveau horizontal ou une couche horizontale à un moment donné,15,1,Nombre de tuiles spatiales utilisées,,,,,Operational,AI
+grib2/4/113/16,Carreaux généralisés à un niveau horizontal ou une couche horizontale à un moment donné,16,1,Nombre de combinaisons d'attributs de carreaux utilisées pour le type de carreau,,,,,Operational,AI
+grib2/4/113/17,Carreaux généralisés à un niveau horizontal ou une couche horizontale à un moment donné,17,1,Nombre d'attributs de carreaux utilisés pour la combinaison d'attributs de carreaux (NUTAFTAC),,,,,Operational,AI
+grib2/4/113//1,Carreaux généralisés à un niveau horizontal ou une couche horizontale à un moment donné,,,"Répétez l'octet suivant pour chaque attribut de tuile (n=1,NUTAFTAC).",,,,,Operational,AI
+grib2/4/113/18+(n-1),Carreaux généralisés à un niveau horizontal ou une couche horizontale à un moment donné,18+(n-1),,Attribut de tuile,(voir le tableau de codes 4.241),,2.241,,Operational,AI
+grib2/4/113//2,Carreaux généralisés à un niveau horizontal ou une couche horizontale à un moment donné,,,Fin de répétition,,,,,Operational,AI
+grib2/4/113/19+(NUTAFTAC-1),Carreaux généralisés à un niveau horizontal ou une couche horizontale à un moment donné,19+(NUTAFTAC-1),,Nombre total de combinaisons d'attributs de tuiles,,,,,Operational,AI
+grib2/4/113/20+(NUTAFTAC-1),Carreaux généralisés à un niveau horizontal ou une couche horizontale à un moment donné,20+(NUTAFTAC-1),,Index des tuiles,,,,,Operational,AI
+grib2/4/113/(21+(NUTAFTAC-1))-(36+(NUTAFTAC-1)),Carreaux généralisés à un niveau horizontal ou une couche horizontale à un moment donné,(21+(NUTAFTAC-1))-(36+(NUTAFTAC-1)),,UUID du groupe de données,,,,,Operational,AI
+grib2/4/113/37+(NUTAFTAC-1),Carreaux généralisés à un niveau horizontal ou une couche horizontale à un moment donné,37+(NUTAFTAC-1),,Type du processus de production,,,,,Operational,AI
+grib2/4/113/38+(NUTAFTAC-1),Carreaux généralisés à un niveau horizontal ou une couche horizontale à un moment donné,38+(NUTAFTAC-1),,Processus en arrière-plan,,,,,Operational,AI
+grib2/4/113/39+(NUTAFTAC-1),Carreaux généralisés à un niveau horizontal ou une couche horizontale à un moment donné,39+(NUTAFTAC-1),,Génération d'identifiant de processus,,,,,Operational,AI
+grib2/4/113/(40+(NUTAFTAC-1))-(41+(NUTAFTAC-1)),Carreaux généralisés à un niveau horizontal ou une couche horizontale à un moment donné,(40+(NUTAFTAC-1))-(41+(NUTAFTAC-1)),,Heures après la coupure des données,,,,,Operational,AI
+grib2/4/113/42+(NUTAFTAC-1),Carreaux généralisés à un niveau horizontal ou une couche horizontale à un moment donné,42+(NUTAFTAC-1),,Minutes après la coupure des données,,,,,operational,AI
+grib2/4/113/43+(NUTAFTAC-1),Carreaux généralisés à un niveau horizontal ou une couche horizontale à un moment donné,43+(NUTAFTAC-1),,Indicateur d'unité de l'intervalle de temps,((voir la table de code 4.4)),,4.4,,Operational,AI
+grib2/4/113/(44+(NUTAFTAC-1))-(47+(NUTAFTAC-1)),Carreaux généralisés à un niveau horizontal ou une couche horizontale à un moment donné,(44+(NUTAFTAC-1))-(47+(NUTAFTAC-1)),,Temps de prévision,,,,,Operational,AI
+grib2/4/113/48+(NUTAFTAC-1),Carreaux généralisés à un niveau horizontal ou une couche horizontale à un moment donné,48+(NUTAFTAC-1),,Type de la première surface spécifiée,((voir la table de code 4.5)),,4.5,,Operational,AI
+grib2/4/113/49+(NUTAFTAC-1),Carreaux généralisés à un niveau horizontal ou une couche horizontale à un moment donné,49+(NUTAFTAC-1),,Facteur d'échelle - première surface spécifiée,,,,,Operational,AI
+grib2/4/113/(50+(NUTAFTAC-1))-(53+(NUTAFTAC-1)),Carreaux généralisés à un niveau horizontal ou une couche horizontale à un moment donné,(50+(NUTAFTAC-1))-(53+(NUTAFTAC-1)),,Valeur ajustée - première surface spécifiée,,,,,Operational,AI
+grib2/4/113/54+(NUTAFTAC-1),Carreaux généralisés à un niveau horizontal ou une couche horizontale à un moment donné,54+(NUTAFTAC-1),,Type de la deuxième surface spécifiée,((voir la table de code 4.5)),,4.5,,Operational,AI
+grib2/4/113/55+(NUTAFTAC-1),Carreaux généralisés à un niveau horizontal ou une couche horizontale à un moment donné,55+(NUTAFTAC-1),,Facteur d'échelle - deuxième surface spécifiée,,,,,Operational,AI
+grib2/4/113/(56+(NUTAFTAC-1))-(59+(NUTAFTAC-1)),Carreaux généralisés à un niveau horizontal ou une couche horizontale à un moment donné,(56+(NUTAFTAC-1))-(59+(NUTAFTAC-1)),,Valeur ajustée - deuxième surface spécifiée,,,,,Operational,AI

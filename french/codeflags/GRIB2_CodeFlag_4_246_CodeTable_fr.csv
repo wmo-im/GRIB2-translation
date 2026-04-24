@@ -1,0 +1,7 @@
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
+grib2/4/246/0,Intensité de l'orage,,0,,Aucune occurrence d'orage,,,,Operational,AI
+grib2/4/246/1,Intensité de l'orage,,1,,Orage faible,,,,Operational,AI
+grib2/4/246/2,Intensité de l'orage,,2,,Orage modéré,,,,Operational,AI
+grib2/4/246/3,Intensité de l'orage,,3,,Orage violent,,,,Operational,AI
+grib2/4/246/4-254,Intensité de l'orage,,4-254,,En réserve,,,,Operational,AI
+grib2/4/246/255,Intensité de l'orage,,255,,Valeur manquante,,,,Operational,AI

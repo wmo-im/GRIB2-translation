@@ -1,2 +1,2 @@
-﻿ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translation_source
+ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/1/0/24,Modèle d'identification 1.0 Définition du calendrier,24,1,Type de calendrier,(voir la table de code 1.6),,1.6,,Operational,PDF

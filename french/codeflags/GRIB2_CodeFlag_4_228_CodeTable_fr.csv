@@ -1,0 +1,8 @@
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
+grib2/4/228/0,Gravité du givrage,,0,,Aucun,,,,Operational,AI
+grib2/4/228/1,Gravité du givrage,,1,,Trace,,,,Operational,AI
+grib2/4/228/2,Gravité du givrage,,2,,Turbulence faible,,,,Operational,AI
+grib2/4/228/3,Gravité du givrage,,3,,Turbulence modérée,,,,Operational,AI
+grib2/4/228/4,Gravité du givrage,,4,,Turbulence forte,,,,Operational,AI
+grib2/4/228/5-254,Gravité du givrage,,5-254,,En réserve,,,,Operational,AI
+grib2/4/228/255,Gravité du givrage,,255,,Valeur manquante,,,,Operational,AI

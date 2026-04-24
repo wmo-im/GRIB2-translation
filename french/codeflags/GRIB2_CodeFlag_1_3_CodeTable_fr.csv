@@ -9,6 +9,14 @@ grib2/1/3/6,Table de code 1.3 – État des données,,6,,Produits opérationnels
 grib2/1/3/7,Table de code 1.3 – État des données,,7,,Produits d'essai S2S,,,,Operational,PDF
 grib2/1/3/8,Table de code 1.3 – État des données,,8,,Incertitudes dans les ensembles utilisés dans le cadre du projet de réanalyses à l'échelle régionale (UERRA),,,,Operational,PDF
 grib2/1/3/9,Table de code 1.3 – État des données,,9,,Vérification des incertitudes dans les ensembles utilisés dans le cadre du projet de réanalyses à l'échelle régionale (UERRA),,,,Operational,PDF
-grib2/1/3/10-191,Table de code 1.3 – État des données,,10-191,,En réserve,,,,Operational,PDF
+grib2/1/3/10,Table de code 1.3 – État des données,,10,,Réanalyse régionale de Copernicus,,,,Operational,AI
+grib2/1/3/11,Table de code 1.3 – État des données,,11,,Test de réanalyse régionale Copernicus,,,,Operational,AI
+grib2/1/3/12,Table de code 1.3 – État des données,,12,,Destination Terre,,,,Operational,AI
+grib2/1/3/13,Table de code 1.3 – État des données,,13,,Test de Destination Earth,,,,Operational,AI
+grib2/1/3/14,Table de code 1.3 – État des données,,14,,Centre principal pour les réanalyses climatiques mondiales (LC-GCR),,,,Operational,AI
+grib2/1/3/15,Table de code 1.3 – État des données,,15,,Centre principal pour les réanalyses climatiques mondiales (LC-GCR) test,,,,Operational,AI
+grib2/1/3/16,Table de code 1.3 – État des données,,16,,Projet d'intercomparaison des modèles d'apprentissage automatique (MLMIP),,,,Operational,AI
+grib2/1/3/17,Table de code 1.3 – État des données,,17,,Test du projet d'intercomparaison des modèles d'apprentissage automatique (MLMIP),,,,Operational,AI
+grib2/1/3/18-191,Table de code 1.3 – État des données,,18-191,,En réserve,,,,Operational,AI
 grib2/1/3/192-254,Table de code 1.3 – État des données,,192-254,,En réserve pour un usage local,,,,Operational,PDF
 grib2/1/3/255,Table de code 1.3 – État des données,,255,,Valeur manquante,,,,Operational,PDF

@@ -1,4 +1,4 @@
-﻿ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
 grib2/3/1/0,Table de code 3.1 — Numéro du modèle de définition de la grille,,0,,Grille latitude/longitude,Projection appelée aussi équidistante cylindrique ou Plate Carrée,,,Operational,PDF
 grib2/3/1/1,Table de code 3.1 — Numéro du modèle de définition de la grille,,1,,Grille latitude/longitude après rotation,,,,Operational,PDF
 grib2/3/1/2,Table de code 3.1 — Numéro du modèle de définition de la grille,,2,,Grille latitude/longitude après dilatation,,,,Operational,PDF
@@ -7,7 +7,8 @@ grib2/3/1/4,Table de code 3.1 — Numéro du modèle de définition de la grille
 grib2/3/1/5,Table de code 3.1 — Numéro du modèle de définition de la grille,,5,,Grille latitude/longitude de résolution variable après rotation,,,,Operational,PDF
 grib2/3/1/6-9,Table de code 3.1 — Numéro du modèle de définition de la grille,,6-9,,En réserve,,,,Operational,PDF
 grib2/3/1/10,Table de code 3.1 — Numéro du modèle de définition de la grille,,10,,Projection de Mercator,,,,Operational,PDF
-grib2/3/1/11-12,Table de code 3.1 — Numéro du modèle de définition de la grille,,11-12,,En réserve,,,,Operational,PDF
+grib2/3/1/11,Table de code 3.1 — Numéro du modèle de définition de la grille,,11,,En réserve,,,,Operational,AI
+grib2/3/1/12,Table de code 3.1 — Numéro du modèle de définition de la grille,,12,,Mercator transverse,,,,Operational,AI
 grib2/3/1/13,Table de code 3.1 — Numéro du modèle de définition de la grille,,13,,Projection de Mercator avec définition des sous-domaines de modélisation,,,,Operational,PDF
 grib2/3/1/14-19,Table de code 3.1 — Numéro du modèle de définition de la grille,,14-19,,En réserve,,,,Operational,PDF
 grib2/3/1/20,Table de code 3.1 — Numéro du modèle de définition de la grille,,20,,Projection stéréographique polaire,Sud ou nord,,,Operational,PDF
@@ -43,7 +44,9 @@ grib2/3/1/111-119,Table de code 3.1 — Numéro du modèle de définition de la 
 grib2/3/1/120,Table de code 3.1 — Numéro du modèle de définition de la grille,,120,,Projection azimut-distance,,,,Operational,PDF
 grib2/3/1/121-139,Table de code 3.1 — Numéro du modèle de définition de la grille,,121-139,,En réserve,,,,Operational,PDF
 grib2/3/1/140,Table de code 3.1 — Numéro du modèle de définition de la grille,,140,,Projection azimutale équivalente de Lambert,,,,Operational,PDF
-grib2/3/1/141-999,Table de code 3.1 — Numéro du modèle de définition de la grille,,141-999,,En réserve,,,,Operational,PDF
+grib2/3/1/141-149,Table de code 3.1 — Numéro du modèle de définition de la grille,,141-149,,En réserve,,,,Operational,AI
+grib2/3/1/150,Table de code 3.1 — Numéro du modèle de définition de la grille,,150,,Grille de pixelisation isoLatitude à aire égale hiérarchique (HEALPix),,,,Operational,AI
+grib2/3/1/151-999,Table de code 3.1 — Numéro du modèle de définition de la grille,,151-999,,En réserve,,,,Operational,AI
 grib2/3/1/1000,Table de code 3.1 — Numéro du modèle de définition de la grille,,1000,,"Grille de coupe verticale, dont les points sur l'horizontale sont équidistants",,,,Experimental,PDF
 grib2/3/1/1001-1099,Table de code 3.1 — Numéro du modèle de définition de la grille,,1001-1099,,En réserve,,,,Operational,PDF
 grib2/3/1/1100,Table de code 3.1 — Numéro du modèle de définition de la grille,,1100,,"Grille du diagramme de Hovmöller, dont les points sur l'horizontale sont équidistants",,,,Experimental,PDF

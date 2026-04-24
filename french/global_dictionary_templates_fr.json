@@ -1,0 +1,2690 @@
+{
+  "analysis or forecast at a horizontal level or in a horizontal layer at a point in time for atmospheric chemical constituents with source or sink|||en|||fr": {
+    "translation": "Modèle de définition du produit 4.76 — Analyse ou prévision pour une surface ou une couche horizontale, à un moment donné, relative aux constituants chimiques de l'atmosphère",
+    "count": 17
+  },
+  "parameter category|||en|||fr": {
+    "translation": "Catégorie du paramètre",
+    "count": 65
+  },
+  "(see code table 4.1)|||en|||fr": {
+    "translation": "(voir la table de code 4.1)",
+    "count": 66
+  },
+  "parameter number|||en|||fr": {
+    "translation": "Numéro du paramètre",
+    "count": 65
+  },
+  "(see code table 4.2)|||en|||fr": {
+    "translation": "(voir la table de code 4.2)",
+    "count": 63
+  },
+  "atmospheric chemical constituent type|||en|||fr": {
+    "translation": "Type de constituants chimiques de l'atmosphère",
+    "count": 12
+  },
+  "(see code table 4.230)|||en|||fr": {
+    "translation": "(voir la table de code 4.230)",
+    "count": 12
+  },
+  "source or sink|||en|||fr": {
+    "translation": "Source ou puits",
+    "count": 8
+  },
+  "(see code table 4.238)|||en|||fr": {
+    "translation": "(voir la table de code 4.238)",
+    "count": 7
+  },
+  "type of generating process|||en|||fr": {
+    "translation": "Type du processus de production",
+    "count": 63
+  },
+  "(see code table 4.3)|||en|||fr": {
+    "translation": "(voir la table de code 4.3)",
+    "count": 64
+  },
+  "background generating process identifier (defined by originating centre)|||en|||fr": {
+    "translation": "Indicateur du processus de production de base (défini par le centre d'origine)",
+    "count": 61
+  },
+  "analysis or forecast generating process identifier (defined by originating centre)|||en|||fr": {
+    "translation": "Indicateur du processus de production de l'analyse ou de la prévision (défini par le centre d'origine)",
+    "count": 34
+  },
+  "hours of observational data cut-off after reference time|||en|||fr": {
+    "translation": "Limite (heures) de tombée des données d'observation après l'heure de référence",
+    "count": 29
+  },
+  "(see note)|||en|||fr": {
+    "translation": "(voir la note)",
+    "count": 20
+  },
+  "minutes of observational data cut-off after reference time|||en|||fr": {
+    "translation": "Limite (minutes) de tombée des données d'observation après l'heure de référence",
+    "count": 29
+  },
+  "indicator of unit of time range|||en|||fr": {
+    "translation": "Indicateur d'unité de l'intervalle de temps",
+    "count": 62
+  },
+  "(see code table 4.4)|||en|||fr": {
+    "translation": "(voir la table de code 4.4)",
+    "count": 116
+  },
+  "forecast time in units defined by octet 21|||en|||fr": {
+    "translation": "Heure de la prévision exprimée dans l'unité précisée par l'octet 20",
+    "count": 4
+  },
+  "type of first fixed surface|||en|||fr": {
+    "translation": "Type de la première surface spécifiée",
+    "count": 55
+  },
+  "(see code table 4.5)|||en|||fr": {
+    "translation": "(voir la table de code 4.5)",
+    "count": 110
+  },
+  "scale factor of first fixed surface|||en|||fr": {
+    "translation": "Facteur d'échelle - première surface spécifiée",
+    "count": 54
+  },
+  "scaled value of first fixed surface|||en|||fr": {
+    "translation": "Valeur ajustée - première surface spécifiée",
+    "count": 54
+  },
+  "type of second fixed surface|||en|||fr": {
+    "translation": "Type de la deuxième surface spécifiée",
+    "count": 55
+  },
+  "scale factor of second fixed surface|||en|||fr": {
+    "translation": "Facteur d'échelle - deuxième surface spécifiée",
+    "count": 54
+  },
+  "scaled value of second fixed surface|||en|||fr": {
+    "translation": "Valeur ajustée - deuxième surface spécifiée",
+    "count": 50
+  },
+  "matrix values at grid point - simple packing|||en|||fr": {
+    "translation": "Modèle de représentation des données 5.1 — Matrices aux points de grille — compression simple",
+    "count": 13
+  },
+  "same as data representation template 5.0|||en|||fr": {
+    "translation": "Voir le modèle de représentation des données 5.0",
+    "count": 2
+  },
+  "0, no matrix bit maps present; 1-matrix bit maps present|||en|||fr": {
+    "translation": "0 - présence de tables binaires matricielles; 1 - absence de table binaire matricielle",
+    "count": 1
+  },
+  "number of data values encoded in section 7|||en|||fr": {
+    "translation": "Nombre de valeurs de données codées dans la section 7",
+    "count": 1
+  },
+  "nr - first dimension (rows) of each matrix|||en|||fr": {
+    "translation": "NR - première dimension (lignes) de chaque matrice",
+    "count": 1
+  },
+  "nc - second dimension (columns) of each matrix|||en|||fr": {
+    "translation": "NC - deuxième dimension (colonnes) de chaque matrice",
+    "count": 1
+  },
+  "first dimension coordinate value definition|||en|||fr": {
+    "translation": "Définition de la coordonnée en première dimension",
+    "count": 1
+  },
+  "(code table 5.2)|||en|||fr": {
+    "translation": "(table de code 5.2)",
+    "count": 2
+  },
+  "nc1 - number of coefficients or values used to specify first dimension coordinate function|||en|||fr": {
+    "translation": "NC1 - nombre de coefficients ou de valeurs utilisés pour préciser la fonction correspondant à la coordonnée en première dimension",
+    "count": 1
+  },
+  "second dimension coordinate value definition|||en|||fr": {
+    "translation": "Définition de la coordonnée en deuxième dimension",
+    "count": 1
+  },
+  "nc2 - number of coefficients or values used to specify second dimension coordinate function|||en|||fr": {
+    "translation": "NC2 - nombre de coefficients ou de valeurs utilisés pour préciser la fonction correspondant à la coordonnée en deuxième",
+    "count": 1
+  },
+  "first dimension physical significance|||en|||fr": {
+    "translation": "Caractéristique physique en première dimension",
+    "count": 1
+  },
+  "(code table 5.3)|||en|||fr": {
+    "translation": "(table de code 5.3)",
+    "count": 2
+  },
+  "second dimension physical significance|||en|||fr": {
+    "translation": "Caractéristique physique en deuxième dimension",
+    "count": 1
+  },
+  "coefficients to define first dimension coordinate values in functional form, or the explicit coordinate values (ieee 32-bit floating-point value)|||en|||fr": {
+    "translation": "Coefficients définissant sous forme de fonctions les valeurs des coordonnées en première dimension, ou valeurs explicites des coordonnées (valeur en virgule flottante IEEE 32 bits)",
+    "count": 1
+  },
+  "coefficients to define second dimension coordinate values in functional form, or the explicit coordinate values (ieee 32-bit floating-point value)|||en|||fr": {
+    "translation": "Coefficients définissant sous forme de fonctions les valeurs des coordonnées en deuxième dimension, ou valeurs explicites des coordonnées (valeur en virgule flottante IEEE 32 bits)",
+    "count": 1
+  },
+  "grid point data - complex packing|||en|||fr": {
+    "translation": "Modèle des données 7.2 — Données aux points de grille — compression complexe",
+    "count": 4
+  },
+  "ng group reference values (x1 in the decoding formula), each of which is encoded using the number of bits specified in octet 20 of data representation template 5.0. bits set to zero shall be appended as necessary to ensure this sequence of numbers ends on|||en|||fr": {
+    "translation": "Valeurs de référence des NG groupes (X1 dans la formule de décodage), chacune de ces valeurs étant codée sur le nombre de bits spécifié à l'octet 20 du modèle de représentation des données 5.0. Il convient d'ajouter le nombre nécessaire de bits mis à 0 pour que la suite de nombres se termine à la fin d'un octet.",
+    "count": 1
+  },
+  "ng group widths, each of which is encoded using the number of bits specified in octet 37 of data representation template 5.2. bits set to zero shall be appended as necessary to ensure this sequence of numbers ends on an octet boundary|||en|||fr": {
+    "translation": "Largeurs des NG groupes, chacune de ces largeurs étant codée sur le nombre de bits spéci- fié à l'octet 37 du modèle de représentation des données 5.2. II convient d'ajouter le nombre nécessaire de bits mis à 0 pour que la suite de nombres se termine à la fin d'un octet.",
+    "count": 1
+  },
+  "ng scaled group lengths, each of which is encoded using the number of bits specified in octet 47 of data representation template 5.2. bits set to zero shall be appended as necessary to ensure this sequence of numbers ends on an octet boundary|||en|||fr": {
+    "translation": "Longueurs ajustées des NG groupes, chacune de ces longueurs étant codée sur le nombre de bits spécifié à l'octet 47 du modèle de représentation des données 5.2. Il convient d'ajouter le nombre nécessaire de bits mis à 0 pour que la suite de nombres se termine à la fin d'un octet.",
+    "count": 1
+  },
+  "(see note 5)|||en|||fr": {
+    "translation": "(voir la note 5)",
+    "count": 2
+  },
+  "packed values (x2 in the decoding formula), where each value is a deviation from its respective group reference value|||en|||fr": {
+    "translation": "Valeurs comprimées (X2 dans la formule de décodage), chaque valeur correspondant à un écart par rapport à la valeur de référence de son groupe.",
+    "count": 1
+  },
+  "grid point data - ieee floating point data|||en|||fr": {
+    "translation": "Modèle de représentation des données 5.4 — Données aux points de grille — données en virgule flottantte IEEE",
+    "count": 1
+  },
+  "binary data values|||en|||fr": {
+    "translation": "Données binaires",
+    "count": 1
+  },
+  "spherical harmonics data - complex packing|||en|||fr": {
+    "translation": "Modèle de représentation des données 5.51 — Harmoniques sphériques — compression complexe",
+    "count": 7
+  },
+  "same as data representation template 5.50|||en|||fr": {
+    "translation": "Voir le modèle de représentation des données 5.50",
+    "count": 1
+  },
+  "p - laplacian scaling factor (expressed in 10-6 units)|||en|||fr": {
+    "translation": "P - facteur d'échelle laplacien (exprimé en 10-6)",
+    "count": 2
+  },
+  "js - pentagonal resolution parameter of the unpacked subset|||en|||fr": {
+    "translation": "Js - paramètre de résolution pentagonale de la sous-série décomprimée",
+    "count": 1
+  },
+  "(see note 1)|||en|||fr": {
+    "translation": "(voir la note 1)",
+    "count": 88
+  },
+  "ks - pentagonal resolution parameter of the unpacked subset|||en|||fr": {
+    "translation": "Ks - paramètre de résolution pentagonale de la sous-série décomprimée",
+    "count": 1
+  },
+  "ms - pentagonal resolution parameter of the unpacked subset|||en|||fr": {
+    "translation": "Ms - paramètre de résolution pentagonale de la sous-série décomprimée",
+    "count": 1
+  },
+  "ts - total number of values in the unpacked subset|||en|||fr": {
+    "translation": "TS - nombre total de valeurs figurant dans la sous-série décompressée",
+    "count": 1
+  },
+  "precision of the unpacked subset|||en|||fr": {
+    "translation": "Précision de la sous-série décompressée",
+    "count": 1
+  },
+  "(see code table 5.7)|||en|||fr": {
+    "translation": "(voir la table de code 5.7)",
+    "count": 3
+  },
+  "average, accumulation and/or extreme values or other statistically processed values at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval|||en|||fr": {
+    "translation": "Modèle de définition du produit 4.8 — Valeurs moyennes, cumulées et/ou extrêmes, ou autres valeurs statistiques, pour une surface ou une couche horizontale, durant un intervalle de temps continu ou non",
+    "count": 33
+  },
+  "hours after reference time of data cut-off|||en|||fr": {
+    "translation": "Limite (heures) de tombée des données d'observation après l'heure de référence",
+    "count": 22
+  },
+  "minutes after reference time of data cut-off|||en|||fr": {
+    "translation": "Limite (minutes) de tombée des données d'observation après l'heure de référence",
+    "count": 21
+  },
+  "forecast time in units defined by octet 18|||en|||fr": {
+    "translation": "Heure de la prévision exprimée dans l'unité précisée par l'octet 18",
+    "count": 26
+  },
+  "(see note 2)|||en|||fr": {
+    "translation": "(voir la note 2)",
+    "count": 28
+  },
+  "year - time of end of overall time interval|||en|||fr": {
+    "translation": "Année - Fin de l’intervalle de temps complet",
+    "count": 6
+  },
+  "month - time of end of overall time interval|||en|||fr": {
+    "translation": "Mois- Fin de l’intervalle de temps complet",
+    "count": 6
+  },
+  "day - time of end of overall time interval|||en|||fr": {
+    "translation": "Jour - Fin de l’intervalle de temps complet",
+    "count": 6
+  },
+  "hour - time of end of overall time interval|||en|||fr": {
+    "translation": "Heure - Fin de l’intervalle de temps complet",
+    "count": 6
+  },
+  "minute - time of end of overall time interval|||en|||fr": {
+    "translation": "Minute - Fin de l’intervalle de temps complet",
+    "count": 6
+  },
+  "second - time of end of overall time interval|||en|||fr": {
+    "translation": "Seconde - Fin de l’intervalle de temps complet",
+    "count": 6
+  },
+  "n - number of time range specifications describing the time intervals used to calculate the statistically processed field|||en|||fr": {
+    "translation": "n - nombre des spécifications décrivant les intervalles de temps sur lesquels porte le calcul statistique du champ",
+    "count": 12
+  },
+  "total number of data values missing in statistical process|||en|||fr": {
+    "translation": "Nombre total de valeurs manquantes dans le calcul statistique",
+    "count": 22
+  },
+  "47-58   specification of the outermost (or only) time range over which statistical processing is done|||en|||fr": {
+    "translation": "47-58   Spécification de l'intervalle de temps le plus éloigné (ou intervalle de temps unique) sur lequel porte le calcul statistique",
+    "count": 1
+  },
+  "statistical process used to calculate the processed field from the field at each time increment during the time range|||en|||fr": {
+    "translation": "Calcul statistique ayant permis d'obtenir le champ élaboré à partir du champ à chaque incrément de temps durant l'intervalle de temps",
+    "count": 24
+  },
+  "(see code table 4.10)|||en|||fr": {
+    "translation": "(voir la table de code 4.10)",
+    "count": 28
+  },
+  "type of time increment between successive fields used in the statistical processing|||en|||fr": {
+    "translation": "Type d'incrément de temps entre les champs successifs employé pour le calcul statistique",
+    "count": 24
+  },
+  "(see code table 4.11)|||en|||fr": {
+    "translation": "(voir la table de code 4.11)",
+    "count": 28
+  },
+  "indicator of unit of time for time range over which statistical processing is done|||en|||fr": {
+    "translation": "Indicateur de l'unité de temps employée pour l'intervalle de temps sur lequel porte le calcul statistique",
+    "count": 26
+  },
+  "length of the time range over which statistical processing is done, in units defined by the previous octet|||en|||fr": {
+    "translation": "Durée de l'intervalle de temps sur lequel porte le calcul statistique, exprimée dans l'unité indiquée par l'octet précédent",
+    "count": 26
+  },
+  "indicator of unit of time for the increment between the successive fields used|||en|||fr": {
+    "translation": "Indicateur de l'unité de temps employée pour l'incrément de temps entre les champs successifs",
+    "count": 25
+  },
+  "time increment between successive fields, in units defined by the previous octet|||en|||fr": {
+    "translation": "Incrément de temps entre les champs successifs, exprimé dans l'unité indiquée par l'octet précédent",
+    "count": 26
+  },
+  "(see notes 3 and 4)|||en|||fr": {
+    "translation": "(voir les notes 3 et 4)",
+    "count": 14
+  },
+  "59-nn   these octets are included only if n > 1, where nn = 46 + 12 x n|||en|||fr": {
+    "translation": "59-nn   Ces octets figurent dans le message uniquement si n>1, nn = 46 + 12 x n",
+    "count": 1
+  },
+  "as octets 47 to 58, next innermost step of processing|||en|||fr": {
+    "translation": "Même contenu que les octets 47 à 58, pour l'étape suivante du calcul",
+    "count": 1
+  },
+  "additional time range specifications, included in accordance with the value of n. contents as octets 47 to 58, repeated as necessary|||en|||fr": {
+    "translation": "Spécifications des intervalles de temps supplémentaires, incluses en fonction de la valeur de n. Le contenu est le même que celui des octets 47à 58, répétés au besoin",
+    "count": 1
+  },
+  "derived forecasts based on a cluster of ensemble members over a circular area at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval|||en|||fr": {
+    "translation": "Modèle de définition du produit 4.14 — Prévision dérivée, établie à partir d'un groupe de membres de l'ensemble, appliquée à une zone circulaire, pour une surface ou une couche horizontale, durant un intervalle de temps continu ou non",
+    "count": 49
+  },
+  "forecast generating process identifier (defined by originating centre)|||en|||fr": {
+    "translation": "Indicateur du processus de production de la prévision (défini par le centre d'origine)",
+    "count": 23
+  },
+  "derived forecast|||en|||fr": {
+    "translation": "Prévision dérivée",
+    "count": 6
+  },
+  "(see code table 4.7)|||en|||fr": {
+    "translation": "(voir la table de code 4.7)",
+    "count": 6
+  },
+  "number of forecasts in the ensemble (n)|||en|||fr": {
+    "translation": "Nombre de prévisions dans l'ensemble (N)",
+    "count": 5
+  },
+  "cluster identifier|||en|||fr": {
+    "translation": "Indicateur de groupe",
+    "count": 4
+  },
+  "number of cluster to which the high-resolution control belongs|||en|||fr": {
+    "translation": "Numéro du groupe auquel appartient la commande de haute résolution",
+    "count": 4
+  },
+  "number of cluster to which the low-resolution control belongs|||en|||fr": {
+    "translation": "Numéro du groupe auquel appartient la commande de basse résolution",
+    "count": 4
+  },
+  "total number of clusters|||en|||fr": {
+    "translation": "Nombre total de groupes",
+    "count": 4
+  },
+  "clustering method|||en|||fr": {
+    "translation": "Méthode de groupement",
+    "count": 4
+  },
+  "(see code table 4.8)|||en|||fr": {
+    "translation": "(voir la table de code 4.8)",
+    "count": 4
+  },
+  "latitude of central point in cluster domain|||en|||fr": {
+    "translation": "Latitude du point central dans le domaine du groupe",
+    "count": 2
+  },
+  "longitude of central point in cluster domain|||en|||fr": {
+    "translation": "Longitude du point central dans le domaine du groupe",
+    "count": 2
+  },
+  "radius of cluster domain|||en|||fr": {
+    "translation": "Rayon du domaine du groupe",
+    "count": 2
+  },
+  "nc - number of forecasts in the cluster|||en|||fr": {
+    "translation": "Nc - Nombre de prévisions dans le groupe",
+    "count": 3
+  },
+  "scale factor of standard deviation in the cluster|||en|||fr": {
+    "translation": "Facteur d'échelle - écart type dans le groupe",
+    "count": 4
+  },
+  "scaled value of standard deviation in the cluster|||en|||fr": {
+    "translation": "Valeur ajustée - écart type dans le groupe",
+    "count": 4
+  },
+  "scale factor of distance of the cluster from ensemble mean|||en|||fr": {
+    "translation": "Facteur d'échelle - écart entre le groupe et la moyenne de l'ensemble",
+    "count": 4
+  },
+  "scaled value of distance of the cluster from ensemble mean|||en|||fr": {
+    "translation": "Valeur ajustée - écart entre le groupe et la moyenne de l'ensemble",
+    "count": 4
+  },
+  "year of end of overall time interval|||en|||fr": {
+    "translation": "Année",
+    "count": 4
+  },
+  "month of end of overall time interval|||en|||fr": {
+    "translation": "Mois",
+    "count": 4
+  },
+  "day of end of overall time interval|||en|||fr": {
+    "translation": "Jour",
+    "count": 4
+  },
+  "hour of end of overall time interval|||en|||fr": {
+    "translation": "Heure",
+    "count": 4
+  },
+  "minute of end of overall time interval|||en|||fr": {
+    "translation": "Minute",
+    "count": 4
+  },
+  "second of end of overall time interval|||en|||fr": {
+    "translation": "Seconde",
+    "count": 4
+  },
+  "77-88   specification of the outermost (or only) time range over which statistical processing is done|||en|||fr": {
+    "translation": "77-88   Spécification de l'intervalle de temps le plus éloigné (ou intervalle de temps unique) sur lequel porte le calcul statistique",
+    "count": 1
+  },
+  "89-nn   these octets are included only if n > 1, where nn = 76 + 12 x n|||en|||fr": {
+    "translation": "89-nn  Ces octets figurent dans le message uniquement si n>1, nn = 76 + 12 x n",
+    "count": 1
+  },
+  "as octets 77 to 88, next innermost step of processing|||en|||fr": {
+    "translation": "Même contenu que les octets 77 à 88, pour l'étape suivante du calcul",
+    "count": 1
+  },
+  "additional time range specifications, included in accordance with the value of n. contents as octets 77 to 88, repeated as necessary|||en|||fr": {
+    "translation": "Spécifications des intervalles de temps supplémentaires, incluses en fonction de la valeur de n. Le contenu est le même que celui des octets 77 à 88, répétés au besoin.",
+    "count": 1
+  },
+  "list of nc ensemble forecast numbers (nc is given in octet 54)|||en|||fr": {
+    "translation": "Liste des Nc prévisions d'ensemble (la valeur de Nc est donnée à l'octet 54)",
+    "count": 2
+  },
+  "categorical forecasts at a horizontal level or in a horizontal layer at a point in time|||en|||fr": {
+    "translation": "Modèle de définition du produit 4.51 — Prévision catégorielle pour une surface ou une couche horizontale, à un moment donné",
+    "count": 23
+  },
+  "nc - number of categories|||en|||fr": {
+    "translation": "NC - nombre de catégories",
+    "count": 2
+  },
+  "36-   repeat the following 12 octets for each category (i = 1,nc)|||en|||fr": {
+    "translation": "36-   Répéter les douze octets qui suivent pour chaque catégorie (i = 1, NC)",
+    "count": 1
+  },
+  "code figure|||en|||fr": {
+    "translation": "Chiffre du code",
+    "count": 2
+  },
+  "type of interval for first and second limits|||en|||fr": {
+    "translation": "Type d'intervalle pour la première et la deuxième limite",
+    "count": 2
+  },
+  "(see code table 4.91)|||en|||fr": {
+    "translation": "(voir la table de code 4.91)",
+    "count": 16
+  },
+  "scale factor of first limit|||en|||fr": {
+    "translation": "Facteur d'échelle - première limite",
+    "count": 2
+  },
+  "scaled value of first limit|||en|||fr": {
+    "translation": "Valeur ajustée - première limite",
+    "count": 1
+  },
+  "scale factor of second limit|||en|||fr": {
+    "translation": "Facteur d'échelle - deuxième limite",
+    "count": 2
+  },
+  "scaled value of second limit|||en|||fr": {
+    "translation": "Valeur ajustée - deuxième limite",
+    "count": 1
+  },
+  "group splitting method used|||en|||fr": {
+    "translation": "Méthode de séparation en groupes",
+    "count": 1
+  },
+  "(see code table 5.4)|||en|||fr": {
+    "translation": "(voir la table de code 5.4)",
+    "count": 1
+  },
+  "missing value management used|||en|||fr": {
+    "translation": "Traitement des valeurs manquantes",
+    "count": 1
+  },
+  "(see code table 5.5)|||en|||fr": {
+    "translation": "(voir la table de code 5.5)",
+    "count": 1
+  },
+  "primary missing value substitute|||en|||fr": {
+    "translation": "Remplacement des valeurs manquantes primaires",
+    "count": 1
+  },
+  "secondary missing value substitute|||en|||fr": {
+    "translation": "Remplacement des valeurs manquantes secondaires",
+    "count": 1
+  },
+  "ng - number of groups of data values into which field is split|||en|||fr": {
+    "translation": "NG - nombre de groupes dans lesquels se répartissent les valeurs du champ subdivisé",
+    "count": 1
+  },
+  "reference for group widths|||en|||fr": {
+    "translation": "Référence pour les largeurs des groupes",
+    "count": 1
+  },
+  "(see note 12)|||en|||fr": {
+    "translation": "(voir la note 12)",
+    "count": 1
+  },
+  "number of bits used for the group widths (after the reference value in octet 36 has been removed)|||en|||fr": {
+    "translation": "Nombre de bits utilisés pour les largeurs des groupes (lorsque la valeur de référence de l'octet 36 a été supprimée)",
+    "count": 1
+  },
+  "reference for group lengths|||en|||fr": {
+    "translation": "Référence pour les longueurs des groupes",
+    "count": 1
+  },
+  "(see note 13)|||en|||fr": {
+    "translation": "(voir la note 13)",
+    "count": 1
+  },
+  "length increment for the group lengths|||en|||fr": {
+    "translation": "Incrément utilisé pour les longueurs des groupes",
+    "count": 1
+  },
+  "(see note 14)|||en|||fr": {
+    "translation": "(voir la note 14)",
+    "count": 1
+  },
+  "true length of last group|||en|||fr": {
+    "translation": "Longueur vraie du dernier groupe",
+    "count": 1
+  },
+  "number of bits used for the scaled group lengths (after subtraction of the reference value given in octets 38-41 and division by the length increment given in octet 42)|||en|||fr": {
+    "translation": "Nombre de bits utilisés pour indiquer les longueurs ajustées des groupes (après soustraction de la valeur de référence indiquée par les octets 38-41 et division par l'incrément de longueur indiqué par l'octet 42)",
+    "count": 1
+  },
+  "post-processing individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer, in a continuous or non-continuous time interval|||en|||fr": {
+    "translation": "Modèle de définition du produit 4.73 Prévision d'ensemble post-traitement prise séparément, de contrôle ou «perturbée», pour une surface ou une couche horizontale, durant un intervalle de temps continu ou non",
+    "count": 38
+  },
+  "input process identifier|||en|||fr": {
+    "translation": "Indicateur pour le traitement des données d'entrée",
+    "count": 4
+  },
+  "input originating centre|||en|||fr": {
+    "translation": "Centre d'origine des données d'entrée",
+    "count": 4
+  },
+  "(see common code table c-11 and note 2)|||en|||fr": {
+    "translation": "(voir la table de code commune C-11 et la note 2)",
+    "count": 4
+  },
+  "type of post-processing|||en|||fr": {
+    "translation": "Type de post-traitement",
+    "count": 4
+  },
+  "(see note 3)|||en|||fr": {
+    "translation": "(voir la note 3)",
+    "count": 18
+  },
+  "(see note 4)|||en|||fr": {
+    "translation": "(voir la note 4)",
+    "count": 11
+  },
+  "forecast time in units defined by octet 23|||en|||fr": {
+    "translation": "Heure de la prévision exprimée dans l'unité précisée par l'octet 23",
+    "count": 4
+  },
+  "type of ensemble forecast|||en|||fr": {
+    "translation": "Type de la prévision d'ensemble",
+    "count": 17
+  },
+  "(see code table 4.6)|||en|||fr": {
+    "translation": "(voir la table de code 4.6)",
+    "count": 22
+  },
+  "perturbation number|||en|||fr": {
+    "translation": "Numéro de la perturbation",
+    "count": 23
+  },
+  "number of forecasts in ensemble|||en|||fr": {
+    "translation": "Nombre de prévisions dans l'ensemble",
+    "count": 24
+  },
+  "55-66   specification of the outermost (or only) time range over which statistical processing is done|||en|||fr": {
+    "translation": "55-66   Spécification de l'intervalle de temps le plus éloigné (ou intervalle de temps unique) sur lequel porte le calcul statistique",
+    "count": 1
+  },
+  "(see notes 6 and 7)|||en|||fr": {
+    "translation": "(voir les notes 6 et 7)",
+    "count": 2
+  },
+  "67-nn   these octets are included only if n > 1, where nn = 54 + 12 x n|||en|||fr": {
+    "translation": "67-nn   Ces octets figurent dans le message uniquement si n>1, nn = 54 + 12 x n",
+    "count": 1
+  },
+  "as octets 55 to 66, next innermost step of processing|||en|||fr": {
+    "translation": "Même contenu que les octets 55 à 66, pour l'étape suivante du calcul",
+    "count": 1
+  },
+  "additional time range specifications, included in accordance with the value of n. contents as octets 55 to 66, repeated as necessary|||en|||fr": {
+    "translation": "Spécifications des intervalles de temps supplémentaires, incluses en fonction de la valeur de n. Le contenu est le même que celui des octets 55 à 66, répétés au besoin",
+    "count": 1
+  },
+  "mercator|||en|||fr": {
+    "translation": "Modèle de définition de la grille 3.10 — Projection de Mercator",
+    "count": 20
+  },
+  "shape of the earth|||en|||fr": {
+    "translation": "Forme de la Terre",
+    "count": 17
+  },
+  "(see code table 3.2)|||en|||fr": {
+    "translation": "(voir la table de code 3.2)",
+    "count": 17
+  },
+  "scale factor of radius of spherical earth|||en|||fr": {
+    "translation": "Facteur d'échelle du rayon de la Terre sphérique",
+    "count": 16
+  },
+  "scaled value of radius of spherical earth|||en|||fr": {
+    "translation": "Valeur ajustée du rayon de la Terre sphérique",
+    "count": 16
+  },
+  "scale factor of major axis of oblate spheroid earth|||en|||fr": {
+    "translation": "Facteur d'échelle du grand axe de la Terre ellipsoïdale aplatie",
+    "count": 16
+  },
+  "scaled value of major axis of oblate spheroid earth|||en|||fr": {
+    "translation": "Valeur ajustée du grand axe de la Terre ellipsoïdale aplatie",
+    "count": 16
+  },
+  "scale factor of minor axis of oblate spheroid earth|||en|||fr": {
+    "translation": "Facteur d'échelle du petit axe de la Terre ellipsoïdale aplatie",
+    "count": 16
+  },
+  "scaled value of minor axis of oblate spheroid earth|||en|||fr": {
+    "translation": "Valeur ajustée du petit axe de la Terre ellipsoïdale aplatie",
+    "count": 16
+  },
+  "ni - number of points along a parallel|||en|||fr": {
+    "translation": "Ni - nombre de points le long d'un parallèle",
+    "count": 4
+  },
+  "nj - number of points along a meridian|||en|||fr": {
+    "translation": "Nj - nombre de points le long d'un méridien",
+    "count": 4
+  },
+  "la1 - latitude of first grid point|||en|||fr": {
+    "translation": "La1 - latitude du premier point de la grille",
+    "count": 10
+  },
+  "lo1 - longitude of first grid point|||en|||fr": {
+    "translation": "Lo1 - longitude du premier point de la grille",
+    "count": 12
+  },
+  "resolution and component flags|||en|||fr": {
+    "translation": "Indicateurs de résolution et de composantes",
+    "count": 12
+  },
+  "(see flag table 3.3)|||en|||fr": {
+    "translation": "(voir la table d'indicateurs 3.3)",
+    "count": 8
+  },
+  "lad - latitude(s) at which the mercator projection intersects the earth (latitude(s) where di and dj are specified)|||en|||fr": {
+    "translation": "LaD latitude(s) d'intersection du cylindre de projection de Mercator avec la Terre (latitude(s) pour laquelle (lesquelles) Di et Dj sont précisées)",
+    "count": 2
+  },
+  "la2 - latitude of last grid point|||en|||fr": {
+    "translation": "La2 - latitude du dernier point de la grille",
+    "count": 6
+  },
+  "lo2 - longitude of last grid point|||en|||fr": {
+    "translation": "Lo2 - longitude du dernier point de la grille",
+    "count": 6
+  },
+  "scanning mode|||en|||fr": {
+    "translation": "Mode d'exploration",
+    "count": 14
+  },
+  "(see flag table 3.4)|||en|||fr": {
+    "translation": "(voir la table d'indicateurs 3.4)",
+    "count": 13
+  },
+  "orientation of the grid, angle between i direction on the map and the equator|||en|||fr": {
+    "translation": "Orientation de la grille, angle entre la direction i sur la carte et l'équateur",
+    "count": 1
+  },
+  "di - longitudinal direction grid length|||en|||fr": {
+    "translation": "Di - longueur de grille dans le sens de la longitude",
+    "count": 1
+  },
+  "dj - latitudinal direction grid length|||en|||fr": {
+    "translation": "Dj - longueur de grille dans le sens de la latitude",
+    "count": 1
+  },
+  "list of number of points along each meridian or parallel|||en|||fr": {
+    "translation": "Liste de nombre de points le long de chaque méridien ou parallèle",
+    "count": 8
+  },
+  "(see notes 4, 5 and 6)|||en|||fr": {
+    "translation": "(ces octets ne s'appliquent qu'aux grilles quasi régulières dont il est question dans les notes 2 et 3 du modèle de définition de la grille 3.1)",
+    "count": 1
+  },
+  "spherical harmonics - complex packing|||en|||fr": {
+    "translation": "Modèle des données 7.51 — Harmoniques sphériques — compression complexe",
+    "count": 2
+  },
+  "data values from the unpacked subset (ieee floating-point values on i octets)|||en|||fr": {
+    "translation": "Données tirées de la sous-série non compressée (valeurs en virgule flottante IEEE sur I octets)",
+    "count": 2
+  },
+  "binary data values - binary string, with each (scaled) data value out of the unpacked subset|||en|||fr": {
+    "translation": "Données binaires — chaîne binaire, pour chaque valeur (ajustée) en dehors de la sous-série non compressée",
+    "count": 2
+  },
+  "polar stereographic projection|||en|||fr": {
+    "translation": "Modèle de définition de la grille 3.20 — Projection stéréographique polaire",
+    "count": 18
+  },
+  "nx - number of points along the x-axis|||en|||fr": {
+    "translation": "Nx - nombre de points le long de l'axe des x",
+    "count": 4
+  },
+  "ny - number of points along the y-axis|||en|||fr": {
+    "translation": "Ny - nombre de points le long de l'axe des y",
+    "count": 4
+  },
+  "(see flag table 3.3 and note 1)|||en|||fr": {
+    "translation": "(voir la table d'indicateurs 3.3 et la note 1)",
+    "count": 1
+  },
+  "lad - latitude where dx and dy are specified|||en|||fr": {
+    "translation": "LaD - latitude pour laquelle Dx et Dy sont précisées",
+    "count": 5
+  },
+  "lov - orientation of the grid|||en|||fr": {
+    "translation": "LoV - orientation de la grille",
+    "count": 2
+  },
+  "dx - x-direction grid length|||en|||fr": {
+    "translation": "Dx - longueur de grille dans la direction x",
+    "count": 4
+  },
+  "dy - y-direction grid length|||en|||fr": {
+    "translation": "Dy - longueur de grille dans la direction y",
+    "count": 4
+  },
+  "projection centre flag|||en|||fr": {
+    "translation": "Centre de la projection",
+    "count": 6
+  },
+  "(see flag table 3.5)|||en|||fr": {
+    "translation": "(voir la table d'indicateurs 3.5)",
+    "count": 5
+  },
+  "rotated spherical harmonic coefficients|||en|||fr": {
+    "translation": "Modèle de définition de la grille 3.51 — Coefficients harmoniques sphériques après rotation",
+    "count": 4
+  },
+  "same as grid definition template 3.50|||en|||fr": {
+    "translation": "Voir le modèle de définition de la grille 3.50",
+    "count": 3
+  },
+  "latitude of the southern pole of projection|||en|||fr": {
+    "translation": "Latitude du pôle Sud de la projection",
+    "count": 10
+  },
+  "longitude of the southern pole of projection|||en|||fr": {
+    "translation": "Longitude du pôle Sud de la projection",
+    "count": 10
+  },
+  "angle of rotation of projection|||en|||fr": {
+    "translation": "Angle de rotation de la projection",
+    "count": 7
+  },
+  "stretched spherical harmonic coefficients|||en|||fr": {
+    "translation": "Modèle de définition de la grille 3.52 — Coefficients harmoniques sphériques après dilatation",
+    "count": 4
+  },
+  "latitude of the pole of stretching|||en|||fr": {
+    "translation": "Latitude du pôle de dilatation",
+    "count": 5
+  },
+  "longitude of the pole of stretching|||en|||fr": {
+    "translation": "Longitude du pôle de dilatation",
+    "count": 5
+  },
+  "stretching factor|||en|||fr": {
+    "translation": "Facteur de dilatation",
+    "count": 6
+  },
+  "transverse mercator|||en|||fr": {
+    "translation": "Modèle de définition de la grille 3.12 — Transverse de Mercator",
+    "count": 22
+  },
+  "ni - number of points along i-axis|||en|||fr": {
+    "translation": "Ni - nombre de points le long de l'axe des i",
+    "count": 1
+  },
+  "nj - number of points along j-axis|||en|||fr": {
+    "translation": "Nj - nombre de points le long de l'axe des j",
+    "count": 1
+  },
+  "lar - geographic latitude of reference point|||en|||fr": {
+    "translation": "LaR - latitude géographique du point de référence",
+    "count": 1
+  },
+  "lor - geographic longitude of reference point|||en|||fr": {
+    "translation": "LoR - longitude géographique du point de référence",
+    "count": 1
+  },
+  "m - scale factor at reference point ratio of distance on map to distance on spheroid (ieee 32-bit floating-point values)|||en|||fr": {
+    "translation": "m facteur d'échelle au point de référence, soit le rapport de la distance sur la carte à la distance sur l'ellipsoïde (valeur en virgule flottante IEEE 32 bits)",
+    "count": 1
+  },
+  "xr - false easting, i-direction coordinate of reference point in units of 10-2 m|||en|||fr": {
+    "translation": "XR - abscisse fictive, coordonnée de direction i du point de référence, exprimée en 10-2 m",
+    "count": 1
+  },
+  "yr - false northing, j-direction coordinate of reference point in units of 10-2 m|||en|||fr": {
+    "translation": "YR - ordonnée fictive, coordonnée de direction j du point de référence, exprimée en 10-2 m",
+    "count": 1
+  },
+  "di - i-direction increment length in units of  10-2 m|||en|||fr": {
+    "translation": "Di i - longueur de l'incrément de direction, exprimée en 10-2 m",
+    "count": 1
+  },
+  "dj - j-direction increment length in units of 10-2 m|||en|||fr": {
+    "translation": "Dj j - longueur de l'incrément de direction, exprimée en 10-2 m",
+    "count": 1
+  },
+  "x1 - i-direction coordinate of the first grid point in units of 10-2 m|||en|||fr": {
+    "translation": "x1 - coordonnée de direction i du premier point de grille, exprimée en 10-2 m",
+    "count": 1
+  },
+  "y1 - j-direction coordinate of the first grid point in units of 10-2 m|||en|||fr": {
+    "translation": "y1 - coordonnée de direction j du premier point de grille, exprimée en 10-2 m",
+    "count": 1
+  },
+  "x2 - i-direction coordinate of the last grid point in units of 10-2 m|||en|||fr": {
+    "translation": "x2 - coordonnée de direction i du dernier point de grille, exprimée en 10-2 m",
+    "count": 1
+  },
+  "y2 - j-direction coordinate of the last grid point in units of 10-2 m|||en|||fr": {
+    "translation": "y2 - coordonnée de direction j du dernier point de grille, exprimée en 10-2 m",
+    "count": 1
+  },
+  "stretched latitude/longitude (or equidistant cylindrical, or plate carrée)|||en|||fr": {
+    "translation": "Modèle de définition de la grille 3.2 — Grille latitude/longitude (ou équidistante cylindrique, ou Plate Carrée) après dilatation",
+    "count": 5
+  },
+  "same as grid definition template 3.0|||en|||fr": {
+    "translation": "Voir modèle de définition de la grille 3.0",
+    "count": 3
+  },
+  "analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink|||en|||fr": {
+    "translation": "Modèle de définition du produit 4.80 – Analyse ou prévision pour une surface ou une couche horizontale, à un moment donné, relative aux propriétés optiques des aérosols",
+    "count": 22
+  },
+  "aerosol type|||en|||fr": {
+    "translation": "Type d'aérosol",
+    "count": 10
+  },
+  "(see common code table c-14)|||en|||fr": {
+    "translation": "(voir la table de code commune C-14)",
+    "count": 4
+  },
+  "type of interval for first and second size|||en|||fr": {
+    "translation": "Type d'intervalle pour la première et la deuxième taille",
+    "count": 2
+  },
+  "scale factor of first size|||en|||fr": {
+    "translation": "Facteur d'échelle de la première taille",
+    "count": 10
+  },
+  "scaled value of first size in metres|||en|||fr": {
+    "translation": "Valeur ajustée de la première taille en mètres",
+    "count": 10
+  },
+  "scale factor of second size|||en|||fr": {
+    "translation": "Facteur d'échelle de la deuxième taille",
+    "count": 10
+  },
+  "scaled value of second size in metres|||en|||fr": {
+    "translation": "Valeur ajustée de la deuxième taille en mètres",
+    "count": 10
+  },
+  "type of interval for first and second wavelength|||en|||fr": {
+    "translation": "Type d'intervalle pour la première et la deuxième longueur d'onde indiquée",
+    "count": 4
+  },
+  "scale factor of first wavelength|||en|||fr": {
+    "translation": "Facteur d'échelle de la première longueur d'onde",
+    "count": 4
+  },
+  "scaled value of first wavelength in metres|||en|||fr": {
+    "translation": "Valeur ajustée de la première longueur d'onde en mètres",
+    "count": 4
+  },
+  "scale factor of second wavelength|||en|||fr": {
+    "translation": "Facteur d'échelle de la deuxième longueur d'onde",
+    "count": 4
+  },
+  "scaled value of second wavelength in metres|||en|||fr": {
+    "translation": "Valeur ajustée de la deuxième longueur d'onde en mètres",
+    "count": 4
+  },
+  "forecast time in units defined by octet 43|||en|||fr": {
+    "translation": "Heure de la prévision exprimée dans l'unité précisée par l'octet 42",
+    "count": 2
+  },
+  "radar product|||en|||fr": {
+    "translation": "Modèle de définition du produit 4.20 — Produit radar",
+    "count": 19
+  },
+  "number of radar sites used|||en|||fr": {
+    "translation": "Nombre de stations radar",
+    "count": 1
+  },
+  "site latitude (in 10-6 degree)|||en|||fr": {
+    "translation": "Latitude de la station (10-6 degrés)",
+    "count": 1
+  },
+  "site longitude (in 10-6 degree)|||en|||fr": {
+    "translation": "Longitude de la station (10-6 degrés)",
+    "count": 1
+  },
+  "site elevation (metres)|||en|||fr": {
+    "translation": "Altitude de la station (mètres)",
+    "count": 1
+  },
+  "site id (alphanumeric)|||en|||fr": {
+    "translation": "Identification de la station (alphanumérique)",
+    "count": 1
+  },
+  "site id (numeric)|||en|||fr": {
+    "translation": "Indicatif de la station (numérique)",
+    "count": 1
+  },
+  "operating mode|||en|||fr": {
+    "translation": "Mode de fonctionnement",
+    "count": 1
+  },
+  "(see code table 4.12)|||en|||fr": {
+    "translation": "(voir la table de code 4.12)",
+    "count": 1
+  },
+  "reflectivity calibration constant (tenths of db)|||en|||fr": {
+    "translation": "Constante d'étalonnage de la réflectivité (dixièmes de dB)",
+    "count": 1
+  },
+  "quality control indicator|||en|||fr": {
+    "translation": "Indicateur de contrôle de qualité",
+    "count": 1
+  },
+  "(see code table 4.13)|||en|||fr": {
+    "translation": "(voir la table de code 4.13)",
+    "count": 1
+  },
+  "clutter filter indicator|||en|||fr": {
+    "translation": "Indicateur de filtre de fouillis",
+    "count": 1
+  },
+  "(see code table 4.14)|||en|||fr": {
+    "translation": "(voir la table de code 4.14)",
+    "count": 1
+  },
+  "constant antenna elevation angle (tenths of degree true)|||en|||fr": {
+    "translation": "Angle constant de site de l'antenne (dixièmes de degré vrai)",
+    "count": 1
+  },
+  "accumulation interval (minutes)|||en|||fr": {
+    "translation": "Intervalle de totalisation (minutes)",
+    "count": 1
+  },
+  "reference reflectivity for echo top (db)|||en|||fr": {
+    "translation": "Réflectivité de référence pour les plafonds d'échos (dB)",
+    "count": 1
+  },
+  "range bin spacing (metres)|||en|||fr": {
+    "translation": "Espacement des cellules de distance (m)",
+    "count": 1
+  },
+  "radial angular spacing (tenths of degree true)|||en|||fr": {
+    "translation": "Écartement radial (dixièmes de degré vrai)",
+    "count": 1
+  },
+  "individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data|||en|||fr": {
+    "translation": "Modèle de définition du produit 4.33 — Prévision d'ensemble prise séparément, de contrôle ou «perturbée», pour une surface ou une couche horizontale, à un moment donné, relative aux données satellite simulées (de synthèse)",
+    "count": 19
+  },
+  "analysis or forecast generating process identifier|||en|||fr": {
+    "translation": "Indicateur du processus de production de l'analyse ou de la prévision",
+    "count": 3
+  },
+  "number of contributing spectral bands (nb)|||en|||fr": {
+    "translation": "Nombre de bandes spectrales prises en compte (NB)",
+    "count": 6
+  },
+  "24-   repeat the following 11 octets for each contributing band (nb = 1, nb)|||en|||fr": {
+    "translation": "24-   Répéter les 11 octets qui suivent pour chaque bande prise en compte (nb = 1, NB)",
+    "count": 3
+  },
+  "satellite series of band nb (code table defined by originating/generating centre)|||en|||fr": {
+    "translation": "Séries des satellites - bande nb (table de code établie par le centre d'origine/ de production)",
+    "count": 4
+  },
+  "satellite number of band nb (code table defined by originating/generating centre)|||en|||fr": {
+    "translation": "Numéros des satellites - bande nb (table de code établie par le centre d'origine/ de production)",
+    "count": 1
+  },
+  "instrument types of band nb (code table defined by originating/generating centre)|||en|||fr": {
+    "translation": "Types d'instruments - bande nb (table de code établie par le centre d'origine/ de production)",
+    "count": 2
+  },
+  "scale factor of central wave number of band nb|||en|||fr": {
+    "translation": "Facteur d'échelle du nombre d'ondes central - bande nb",
+    "count": 6
+  },
+  "scaled value of central wave number of band nb (units: m-1)|||en|||fr": {
+    "translation": "Valeur ajustée du nombre d'ondes central – bande nb (unité: m¯¹)",
+    "count": 2
+  },
+  "probability forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval|||en|||fr": {
+    "translation": "Modèle de définition du produit 4.9 — Prévision de probabilité pour une surface ou une couche horizontale, durant un intervalle de temps continu ou non",
+    "count": 40
+  },
+  "forecast probability number|||en|||fr": {
+    "translation": "Numéro de la probabilité prévue",
+    "count": 2
+  },
+  "total number of forecast probabilities|||en|||fr": {
+    "translation": "Nombre total de probabilités prévues",
+    "count": 2
+  },
+  "probability type|||en|||fr": {
+    "translation": "Type de probabilité",
+    "count": 2
+  },
+  "(see code table 4.9)|||en|||fr": {
+    "translation": "(voir la table de code 4.9)",
+    "count": 2
+  },
+  "scale factor of lower limit|||en|||fr": {
+    "translation": "Facteur d'échelle - limite inférieure",
+    "count": 2
+  },
+  "scaled value of lower limit|||en|||fr": {
+    "translation": "Valeur ajustée - limite inférieure",
+    "count": 2
+  },
+  "scale factor of upper limit|||en|||fr": {
+    "translation": "Facteur d'échelle - limite supérieure",
+    "count": 2
+  },
+  "scaled value of upper limit|||en|||fr": {
+    "translation": "Valeur ajustée - limite supérieure",
+    "count": 2
+  },
+  "total number of data values missing in the statistical process|||en|||fr": {
+    "translation": "Nombre total de valeurs manquantes dans le calcul statistique",
+    "count": 4
+  },
+  "60-71   specification of the outermost (or only) time range over which statistical processing is done|||en|||fr": {
+    "translation": "60-71   Spécification de l'intervalle de temps le plus éloigné (ou intervalle de temps unique) sur lequel porte le calcul statistique",
+    "count": 3
+  },
+  "72-nn   these octets are included only if n > 1, where nn = 59 + 12 x n|||en|||fr": {
+    "translation": "72-nn   Ces octets figurent dans le message uniquement si n > 1, nn = 59 + 12 x n",
+    "count": 1
+  },
+  "as octets 60 to 71, next innermost step of processing|||en|||fr": {
+    "translation": "Même contenu que les octets 60 à 71, pour l'étape suivante du calcul",
+    "count": 2
+  },
+  "additional time range specifications, included in accordance with the value of n. contents as octets 60 to 71, repeated as necessary|||en|||fr": {
+    "translation": "Spécifications des intervalles de temps supplémentaires, incluses en fonction de la valeur de n. Le contenu est le même que celui des octets 60 à 71, répétés au besoin",
+    "count": 1
+  },
+  "calendar definition|||en|||fr": {
+    "translation": "Modèle d'identification 1.0 Définition du calendrier",
+    "count": 1
+  },
+  "type of calendar|||en|||fr": {
+    "translation": "Type de calendrier",
+    "count": 2
+  },
+  "(see code table 1.6)|||en|||fr": {
+    "translation": "(voir la table de code 1.6)",
+    "count": 2
+  },
+  "hovmöller-type grid with averaging or other statistical processing|||en|||fr": {
+    "translation": "Modèle de définition du produit 4.1101 – Grille de type Hovmöller avec moyenne ou autre traitement statistique",
+    "count": 2
+  },
+  "indicator of unit of time for increment between the successive fields used|||en|||fr": {
+    "translation": "Indicateur de l'unité de temps employée pour l'incrément de temps entre les champs successifs",
+    "count": 1
+  },
+  "rotated gaussian latitude/longitude|||en|||fr": {
+    "translation": "Modèle de définition de la grille 3.41 — Grille gaussienne latitude/longitude après rotation",
+    "count": 5
+  },
+  "same as grid definition template 3.40|||en|||fr": {
+    "translation": "Voir le modèle de définition de la grille 3.40",
+    "count": 1
+  },
+  "(see notes 4 and 5)|||en|||fr": {
+    "translation": "(ces octets ne s'appliquent qu'aux grilles quasi régulières dont il est question dans la note 4)",
+    "count": 2
+  },
+  "percentile forecasts at a horizontal level or in a horizontal layer at a point in time|||en|||fr": {
+    "translation": "Modèle de définition du produit 4.6 — Prévision en percentiles pour une surface ou une couche horizontale, à un moment donné",
+    "count": 16
+  },
+  "percentile value (from 100% to 0%)|||en|||fr": {
+    "translation": "Valeur du percentile (de 100 % à 0 %)",
+    "count": 2
+  },
+  "individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for aerosol with source or sink|||en|||fr": {
+    "translation": "Modèle de définition du produit 4.83 – Prévision d'ensemble prise séparément, de contrôle ou «perturbée», pour une surface ou une couche horizontale, durant un intervalle de temps continu ou non, relative aux aérosols",
+    "count": 42
+  },
+  "(see code table 4.233)|||en|||fr": {
+    "translation": "(voir la table de code 4.233)",
+    "count": 6
+  },
+  "type of interval for first and second sizes|||en|||fr": {
+    "translation": "Type d'intervalle pour la première et la deuxième taille",
+    "count": 6
+  },
+  "forecast time in units defined by octet 32|||en|||fr": {
+    "translation": "Heure de la prévision exprimée dans l'unité précisée par l'octet 31",
+    "count": 2
+  },
+  "63-74   specification of the outermost (or only) time range over which statistical processing is done|||en|||fr": {
+    "translation": "63-74   Spécification de l'intervalle de temps le plus éloigné (ou intervalle de temps unique) sur lequel porte le calcul statistique",
+    "count": 1
+  },
+  "75-nn   these octets are included only if n > 1, where nn = 62 + 12 x n|||en|||fr": {
+    "translation": "75-nn   Ces octets figurent dans le message uniquement si n>1, nn = 62 + 12 n",
+    "count": 1
+  },
+  "as octets 64 to 75, next innermost step of processing|||en|||fr": {
+    "translation": "Même contenu que les octets 63 à 74, pour l'étape suivante du calcul",
+    "count": 1
+  },
+  "additional time range specifications, included in accordance with the value of n. contents as octets 63 to 74, repeated as necessary|||en|||fr": {
+    "translation": "Spécifications des intervalles de temps supplémentaires, incluses en fonction de la valeur de n. Le contenu est le même que celui des octets 63 à 74, répétés au besoin.",
+    "count": 1
+  },
+  "percentile forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval|||en|||fr": {
+    "translation": "Modèle de définition du produit 4.10 — Prévision en percentiles pour une surface ou une couche horizontale, durant un intervalle de temps continu ou non",
+    "count": 34
+  },
+  "minutes after reference time for data cut-off|||en|||fr": {
+    "translation": "Limite (minutes) de tombée des données d'observation après l'heure de référence",
+    "count": 1
+  },
+  "forecast time in units defined by previous octet|||en|||fr": {
+    "translation": "Heure de la prévision exprimée dans l'unité précisée par l'octet précédent",
+    "count": 2
+  },
+  "48-59   specification of the outermost (or only) time range over which statistical processing is done|||en|||fr": {
+    "translation": "48-59   Spécification de l'intervalle de temps le plus éloigné (ou intervalle de temps unique) sur lequel porte le calcul statistique",
+    "count": 1
+  },
+  "60-nn   these octets are included only if n > 1, where nn = 47 + 12 x n|||en|||fr": {
+    "translation": "60-nn   Ces octets figurent dans le message uniquement si n>1, nn = 45 + 12 x n",
+    "count": 1
+  },
+  "as octets 48-59, next innermost step of processing|||en|||fr": {
+    "translation": "Même contenu que les octets 48 à 59, pour l'étape suivante du calcul",
+    "count": 1
+  },
+  "additional time range specifications, included in accordance with the value of n. contents as octets 48 to 59, repeated as necessary|||en|||fr": {
+    "translation": "Spécifications des intervalles de temps supplémentaires, incluses en fonction de la valeur de n. Le contenu est le même que celui des octets 48 à 59, répétés au besoin.",
+    "count": 1
+  },
+  "average, accumulation and/or extreme values or other statistically processed values at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for atmospheric chemical constituents based on a distribution function|||en|||fr": {
+    "translation": "Modèle de définition du produit 4.67 Valeurs moyennes, cumulées et/ou extrêmes, ou autres valeurs statistiques, pour une surface ou une couche horizontale, durant un intervalle de temps continu ou non, relatives aux constituants chimiques de l'atmosphère découlant d'une fonction de distribution",
+    "count": 41
+  },
+  "number of modes (n) of distribution|||en|||fr": {
+    "translation": "Nombre (N) de modes de la distribution",
+    "count": 4
+  },
+  "mode number (l)|||en|||fr": {
+    "translation": "Numéro du mode (I)",
+    "count": 2
+  },
+  "type of distribution function|||en|||fr": {
+    "translation": "Type de fonction de distribution",
+    "count": 4
+  },
+  "(see code table 4.240 and note 2)|||en|||fr": {
+    "translation": "(voir la table de code 4.240 et la note 2)",
+    "count": 2
+  },
+  "number of following function parameters (np), defined by type given in octets 18-19 (type of distribution function)|||en|||fr": {
+    "translation": "Nombre de paramètres de fonction qui suivent (Np), définis par le type indiqué aux octets 18-19 (Type de fonction de distribution)",
+    "count": 3
+  },
+  "repeat the following 5 octets for the number of function parameters (n = 1, np), if np > 0|||en|||fr": {
+    "translation": "Répéter les 5 octets qui suivent pour le nombre de paramètres de fonction (n = 1, Np), si Np > 0",
+    "count": 3
+  },
+  "list of scale factor of fixed distribution function parameter (p1-pnp), defined by type of distribution in octets 18-19|||en|||fr": {
+    "translation": "Liste des facteurs d'échelle du paramètre fixe de la distribution (p1-pNp), défini par le type de distribution aux octets 18-19",
+    "count": 4
+  },
+  "list of scaled value of fixed distribution function parameter (p1-pnp), defined by type of distribution in octets 18-19|||en|||fr": {
+    "translation": "Liste des valeurs ajustées du paramètre fixe de la distribution (p1-pNp), défini par le type de distribution aux octets 18-19",
+    "count": 4
+  },
+  "forecast time in units defined by the previous octet|||en|||fr": {
+    "translation": "Heure de la prévision exprimée dans l'unité précisée par l'octet précédent",
+    "count": 4
+  },
+  "(56+5np)-(67+5np)   specification of the outermost (or only) time range over which statistical processing is done|||en|||fr": {
+    "translation": "(56+5Np)-(67+5Np)    Spécification de l'intervalle de temps le plus éloigné (ou intervalle de temps unique) sur lequel porte le calcul statistique",
+    "count": 1
+  },
+  "(see notes 5 and 6)|||en|||fr": {
+    "translation": "(voir les notes 5 et 6)",
+    "count": 3
+  },
+  "(68+5np)-nn   these octets are included only if n > 1, where nn = (55+5np) + 12 x n|||en|||fr": {
+    "translation": "(68+5Np)-nn    Ces octets figurent dans le message uniquement si n>1, nn = (55+5Np) + 12 x n",
+    "count": 1
+  },
+  "as octets (56+5np) to (67+5np), next innermost step of processing|||en|||fr": {
+    "translation": "Même contenu que les octets (56+5Np) à (67+5Np), pour l'étape suivante du calcul",
+    "count": 1
+  },
+  "additional time range specifications, included in accordance with the value of n. contents as octets (56+5np) to (67+5np), repeated as necessary|||en|||fr": {
+    "translation": "Spécifications des intervalles de temps supplémentaires, incluses en fonction de la valeur de n. Le contenu est le même que celui des octets (56+5Np) à (67+5Np), répétés au besoin",
+    "count": 1
+  },
+  "lambert azimuthal equal area projection|||en|||fr": {
+    "translation": "Modèle de définition de la grille 3.140 — Projection azimutale équivalente de Lambert",
+    "count": 17
+  },
+  "standard parallel|||en|||fr": {
+    "translation": "Parallèle standard",
+    "count": 1
+  },
+  "central longitude|||en|||fr": {
+    "translation": "Longitude centrale",
+    "count": 1
+  },
+  "stretched and rotated gaussian latitude/longitude|||en|||fr": {
+    "translation": "Modèle de définition de la grille 3.43 — Grille gaussienne latitude/longitude après dilatation et rotation",
+    "count": 8
+  },
+  "binary data values - binary string, with each (scaled) data value|||en|||fr": {
+    "translation": "Données binaires — chaîne binaire, pour chaque valeur (ajustée)",
+    "count": 3
+  },
+  "lambert conformal with modelling subdomains definition|||en|||fr": {
+    "translation": "Modèle de définition de la grille 3.33 — Projection conforme de Lambert avec définition des sous-domaines de modélisation",
+    "count": 5
+  },
+  "same as grid definition template 3.30|||en|||fr": {
+    "translation": "Voir modèle de définition de la grille 3.30",
+    "count": 1
+  },
+  "nux - size of model forecast subdomain in x-direction (number of grid points)|||en|||fr": {
+    "translation": "Nux - taille du sous-domaine de prévision numérique dans la direction x (nombre de points de grille)",
+    "count": 3
+  },
+  "ncx - width of coupling area within forecast domain in x-direction (number of grid points)|||en|||fr": {
+    "translation": "Ncx - largeur de la zone de couplage au sein du domaine de prévision dans la direction x (nombre de points de grille)",
+    "count": 3
+  },
+  "nuy - size of model forecast subdomain in y-direction (number of grid points)|||en|||fr": {
+    "translation": "Nuy - taille du sous-domaine de prévision numérique dans la direction y (nombre de points de grille)",
+    "count": 3
+  },
+  "ncy - width of coupling area within forecast domain in y-direction (number of grid points)|||en|||fr": {
+    "translation": "Ncy - largeur de la zone de couplage au sein du domaine de prévision dans la direction y (nombre de points de grille)",
+    "count": 1
+  },
+  "individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for atmospheric chemical constituents|||en|||fr": {
+    "translation": "Modèle de définition du produit 4.43 — Prévision d'ensemble prise séparément, de contrôle ou «perturbée», pour une surface ou une couche horizontale, durant un intervalle de temps continu ou non, relative aux constituants chimiques de l'atmosphère",
+    "count": 37
+  },
+  "forecast time in units defined by octet 20|||en|||fr": {
+    "translation": "Heure de la prévision exprimée dans l'unité précisée par l'octet 20",
+    "count": 4
+  },
+  "52-63   specification of the outermost (or only) time range over which statistical processing is done|||en|||fr": {
+    "translation": "52-63   Spécification de l'intervalle de temps le plus éloigné (ou intervalle de temps unique) sur lequel porte le calcul statistique",
+    "count": 2
+  },
+  "64-nn   these octets are included only if n > 1, where nn = 51 + 12 x n|||en|||fr": {
+    "translation": "64-nn   Ces octets figurent dans le message uniquement si n>1, nn = 51 + 12 x n",
+    "count": 2
+  },
+  "as octets 52 to 63, next innermost step of processing|||en|||fr": {
+    "translation": "Même contenu que les octets 52 à 63, pour l'étape suivante du calcul",
+    "count": 2
+  },
+  "additional time range specifications, included in accordance with the value of n. contents as octets 52 to 63, repeated as necessary|||en|||fr": {
+    "translation": "Spécifications des intervalles de temps supplémentaires, incluses en fonction de la valeur de n. Le contenu est le même que celui des octets 52 à 63, répétés au besoin",
+    "count": 2
+  },
+  "grid point data - portable network graphics (png) format|||en|||fr": {
+    "translation": "Modèle de représentation des données 5.41 — Données aux points de grille — format PNG (Portable Network Graphics – graphique réseau portable)",
+    "count": 5
+  },
+  "png encoded image|||en|||fr": {
+    "translation": "Image au format PNG",
+    "count": 1
+  },
+  "paleontological offset|||en|||fr": {
+    "translation": "Modèle d'identification 1.1 Décalage paléontologique",
+    "count": 1
+  },
+  "number of tens of thousands of years of offset|||en|||fr": {
+    "translation": "Nombre de dizaines de milliers d'années",
+    "count": 2
+  },
+  "cross-section grid with points equally spaced on the horizontal|||en|||fr": {
+    "translation": "Modèle de définition de la grille 3.1000 — Grille de coupe verticale, dont les points sur l'horizontale sont équidistants",
+    "count": 21
+  },
+  "number of horizontal points|||en|||fr": {
+    "translation": "Nombre de points horizontaux",
+    "count": 2
+  },
+  "basic angle of the initial production domain|||en|||fr": {
+    "translation": "Angle de base du domaine de production initial",
+    "count": 5
+  },
+  "subdivisions of basic angle used to define extreme longitudes and latitudes|||en|||fr": {
+    "translation": "Subdivisions de l'angle de base utilisées pour indiquer les longitudes et latitudes extrêmes",
+    "count": 2
+  },
+  "(flags - see flag table 3.4)|||en|||fr": {
+    "translation": "(voir la table d'indicateurs 3.4)",
+    "count": 1
+  },
+  "type of horizontal line|||en|||fr": {
+    "translation": "Type de ligne horizontale",
+    "count": 2
+  },
+  "(see code table 3.20)|||en|||fr": {
+    "translation": "(voir la table de code 3.20)",
+    "count": 2
+  },
+  "number of vertical points|||en|||fr": {
+    "translation": "Nombre de points verticaux",
+    "count": 2
+  },
+  "physical meaning of vertical coordinate|||en|||fr": {
+    "translation": "Caractéristique physique de la coordonnée verticale",
+    "count": 2
+  },
+  "(see code table 3.15)|||en|||fr": {
+    "translation": "(voir la table de code 3.15)",
+    "count": 2
+  },
+  "vertical dimension coordinate values definition|||en|||fr": {
+    "translation": "Définition des coordonnées dans la dimension verticale",
+    "count": 2
+  },
+  "(see code table 3.21)|||en|||fr": {
+    "translation": "(voir la table de code 3.21)",
+    "count": 2
+  },
+  "nc - number of coefficients or values used to specify vertical coordinates|||en|||fr": {
+    "translation": "NC - Nombre de coefficients ou de valeurs utilisés pour préciser les coordonnées verticales",
+    "count": 2
+  },
+  "coefficients to define vertical dimension coordinate values in functional form, or the explicit coordinate values (ieee 32-bit floating-point values)|||en|||fr": {
+    "translation": "Coefficients définissant sous forme de fonctions les valeurs des coordonnées dans la dimension verticale, ou valeurs explicites des coordonnées (valeur en virgule flottante IEEE 32 bits)",
+    "count": 2
+  },
+  "post-processing analysis or forecast at a horizontal level or in a horizontal layer at a point in time|||en|||fr": {
+    "translation": "Modèle de définition du produit 4.70 Analyse ou prévision post-traitement pour une surface ou une couche horizontale, à un moment donné",
+    "count": 18
+  },
+  "equatorial azimuthal equidistant projection|||en|||fr": {
+    "translation": "Modèle de définition de la grille 3.110 — Projection équatoriale azimutale équidistante",
+    "count": 16
+  },
+  "nx - number of points along x-axis|||en|||fr": {
+    "translation": "Nx - nombre de points le long de l'axe des x",
+    "count": 1
+  },
+  "ny - number of points along y-axis|||en|||fr": {
+    "translation": "Ny - nombre de points le long de l'axe des y",
+    "count": 1
+  },
+  "la1 - latitude of tangency point (centre of grid)|||en|||fr": {
+    "translation": "La1 - latitude du point de tangence (centre de la grille)",
+    "count": 1
+  },
+  "lo1 - longitude of tangency point|||en|||fr": {
+    "translation": "Lo1 - longitude du point de tangence",
+    "count": 1
+  },
+  "dx - x-direction grid length in units of 10-3 m as measured at the point of the axis|||en|||fr": {
+    "translation": "Dx - longueur de la grille dans la direction x, exprimée en 10-3 m, mesurée à l'origine de l'axe",
+    "count": 1
+  },
+  "dy - y-direction grid length in units of 10-3 m as measured at the point of the axis|||en|||fr": {
+    "translation": "Dy - longueur de la grille dans la direction y, exprimée en 10-3 m, mesurée à l'origine de l'axe",
+    "count": 1
+  },
+  "hovmöller-type grid with no averaging or other statistical processing|||en|||fr": {
+    "translation": "Modèle de définition du produit 4.1100 – Grille de type Hovmöller sans moyenne ou autre traitement statistique",
+    "count": 15
+  },
+  "individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for partitioned parameters|||en|||fr": {
+    "translation": "Modèle de définition du produit 4.54 — Prévision d'ensemble prise séparément, de contrôle ou «perturbée», pour une surface ou une couche horizontale, à un moment donné, relative aux paramètres partitionnés",
+    "count": 22
+  },
+  "(see code table 4.2 and notes 2 and 3)|||en|||fr": {
+    "translation": "(voir la table de code 4.2 et les notes 2 et 3)",
+    "count": 2
+  },
+  "partition table number (ptn)|||en|||fr": {
+    "translation": "Numéro de table de partition (PTN)",
+    "count": 2
+  },
+  "(see notes 1 and 3)|||en|||fr": {
+    "translation": "(voir les notes 1 et 3)",
+    "count": 6
+  },
+  "number of partitions (np)|||en|||fr": {
+    "translation": "Nombre de partitions (NP)",
+    "count": 2
+  },
+  "partition set (list all partition numbers in the partition)|||en|||fr": {
+    "translation": "Ensemble de partitions (énumérer tous les numéros de partition de cet ensemble)",
+    "count": 2
+  },
+  "(see code table 4.ptn and note 1)|||en|||fr": {
+    "translation": "(voir la table de code 4.PTN et la note 1)",
+    "count": 2
+  },
+  "partition number (pn)|||en|||fr": {
+    "translation": "Numéro de partition (PN)",
+    "count": 2
+  },
+  "(see code table 4.ptn and note 3)|||en|||fr": {
+    "translation": "(voir la table de code 4.PTN et la note 3)",
+    "count": 2
+  },
+  "forecast time in units defined by octet (22+2np)|||en|||fr": {
+    "translation": "Heure de la prévision exprimée dans l'unité précisée par l'octet (22+2NP)",
+    "count": 1
+  },
+  "derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer at a point in time|||en|||fr": {
+    "translation": "Modèle de définition du produit 4.2 — Prévision dérivée, établie à partir de tous les membres de l'ensemble, pour une surface ou une couche horizontale, à un moment donné",
+    "count": 17
+  },
+  "grid point data - simple packing|||en|||fr": {
+    "translation": "Modèle de représentation des données 5.0 — Données aux points de grille — compression simple",
+    "count": 5
+  },
+  "triangular grid based on an icosahedron (see part b, grib attachment i)|||en|||fr": {
+    "translation": "Modèle de définition de la grille 3.100 — Grille triangulaire basée sur un icosaèdre (voir partie B, supplément I du code GRIB)",
+    "count": 11
+  },
+  "n2 - exponent of 2 for the number of intervals on main triangle sides|||en|||fr": {
+    "translation": "n2 - exposant de 2 indiquant le nombre d'intervalles sur les côtés du triangle",
+    "count": 1
+  },
+  "n3 - exponent of 3 for the number of intervals on main triangle sides|||en|||fr": {
+    "translation": "n3 - exposant de 3 indiquant le nombre d'intervalles sur les côtés du triangle",
+    "count": 1
+  },
+  "ni - number of intervals on main triangle sides of the icosahedron|||en|||fr": {
+    "translation": "ni - nombre d'intervalles sur les côtés des triangles de l'icosaèdre",
+    "count": 1
+  },
+  "nd - number of diamonds|||en|||fr": {
+    "translation": "nd - nombre de losanges",
+    "count": 1
+  },
+  "latitude of the pole point of the icosahedron on the sphere|||en|||fr": {
+    "translation": "Latitude du pôle de l'icosaèdre reporté sur la sphère",
+    "count": 1
+  },
+  "longitude of the pole point of the icosahedron on the sphere|||en|||fr": {
+    "translation": "Longitude du pôle de l'icosaèdre reporté sur la sphère",
+    "count": 1
+  },
+  "longitude of the centre line of the first diamond of the icosahedron on the sphere|||en|||fr": {
+    "translation": "Longitude de la ligne centrale du premier losange de l'icosaèdre reportée sur la sphère",
+    "count": 1
+  },
+  "grid point position|||en|||fr": {
+    "translation": "Position des points de grille",
+    "count": 1
+  },
+  "(see code table 3.8)|||en|||fr": {
+    "translation": "(voir la table de code 3.8)",
+    "count": 1
+  },
+  "numbering order of diamonds|||en|||fr": {
+    "translation": "Ordre de la numérotation des losanges",
+    "count": 1
+  },
+  "(see flag table 3.9)|||en|||fr": {
+    "translation": "(indicateur - voir la table d'indicateurs 3.9)",
+    "count": 1
+  },
+  "scanning mode for one diamond|||en|||fr": {
+    "translation": "Mode d'exploration d'un losange",
+    "count": 1
+  },
+  "(see flag table 3.10)|||en|||fr": {
+    "translation": "(voir la table d'indicateurs 3.10)",
+    "count": 1
+  },
+  "nt - total number of grid points|||en|||fr": {
+    "translation": "nt - nombre total de points de grille",
+    "count": 1
+  },
+  "general unstructured grid|||en|||fr": {
+    "translation": "Modèle de définition de la grille 3.101 — Grille générale non structurée",
+    "count": 4
+  },
+  "number of grid used (defined by originating centre)|||en|||fr": {
+    "translation": "Numéro de la grille utilisée (défini par le centre d'origine)",
+    "count": 1
+  },
+  "number of grid in reference (to allow annotating for arakawa c-grid on arbitrary grid)|||en|||fr": {
+    "translation": "Numéro de la grille de référence (permettant de porter des annotations correspondant à une grille de type Arakawa C sur la grille établie arbitrairement)",
+    "count": 1
+  },
+  "universally unique identifier of horizontal grid|||en|||fr": {
+    "translation": "Identifiant universel unique de la grille horizontale",
+    "count": 1
+  },
+  "analysis or forecast at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol|||en|||fr": {
+    "translation": "Modèle de définition du produit 4.48 — Analyse ou prévision pour une surface ou une couche horizontale, à un moment donné, relative aux propriétés optiques des aérosols",
+    "count": 26
+  },
+  "forecast time in units defined by octet 42|||en|||fr": {
+    "translation": "Heure de la prévision exprimée dans l'unité précisée par l'octet 42",
+    "count": 2
+  },
+  "grid point data - run length packing with level values|||en|||fr": {
+    "translation": "Modèle de représentation des données 5.200 — Données aux points de grille — compression en longueur de ligne avec des valeurs de niveau",
+    "count": 5
+  },
+  "number of bits used for each packed value in the run length packing with level value|||en|||fr": {
+    "translation": "Nombre de bits utilisés pour chaque valeur comprimée dans la compression en longueur de ligne avec la valeur de niveau",
+    "count": 1
+  },
+  "mv - maximum value within the levels that are used in the packing|||en|||fr": {
+    "translation": "MV - Valeur maximale dans les limites des niveaux utilisés pour la compression",
+    "count": 1
+  },
+  "mvl - maximum value of level (predefined)|||en|||fr": {
+    "translation": "MVL - Valeur maximale du niveau (prédéfinie)",
+    "count": 1
+  },
+  "decimal scale factor of representative value of each level|||en|||fr": {
+    "translation": "Facteur d'échelle décimale de la valeur représentative de chaque niveau",
+    "count": 1
+  },
+  "list of mvl scaled representative values of each level from lv=1 to mvl|||en|||fr": {
+    "translation": "Liste des valeurs ajustées représentatives des MVL de chaque niveau de lv=1 à MVL",
+    "count": 1
+  },
+  "cross-section of analysis and forecast at a point in time|||en|||fr": {
+    "translation": "Modèle de définition du produit 4.1000 – Coupe d'une analyse et d'une prévision, à un moment donné",
+    "count": 9
+  },
+  "grid point data - jpeg 2000 code stream format|||en|||fr": {
+    "translation": "Modèle de représentation des données 5.40 — Données aux points de grille — flux de données en format JPEG 2000",
+    "count": 7
+  },
+  "reference value (r) (ieee 32-bit floating-point value)|||en|||fr": {
+    "translation": "Valeur de référence (R) (valeur en virgule flottante IEEE 32 bits)",
+    "count": 7
+  },
+  "binary scale factor (e)|||en|||fr": {
+    "translation": "Facteur d'échelle binaire (E)",
+    "count": 7
+  },
+  "decimal scale factor (d)|||en|||fr": {
+    "translation": "Facteur d'échelle décimale (D)",
+    "count": 7
+  },
+  "number of bits required to hold the resulting scaled and referenced data values (i.e. depth of the greyscale image)|||en|||fr": {
+    "translation": "Nombre de bits requis pour les valeurs des données découlant des étapes précédentes (facteur d'échelle et valeur de référence)",
+    "count": 1
+  },
+  "type of original field values|||en|||fr": {
+    "translation": "Type des valeurs du champ d'origine",
+    "count": 4
+  },
+  "(see code table 5.1)|||en|||fr": {
+    "translation": "(voir la table de code 5.1)",
+    "count": 4
+  },
+  "type of compression used|||en|||fr": {
+    "translation": "Type de compression utilisée",
+    "count": 1
+  },
+  "(see code table 5.40)|||en|||fr": {
+    "translation": "(voir la table de code 5.40)",
+    "count": 1
+  },
+  "target compression ratio, m:1 (with respect to the bit-depth specified in octet 20), when octet 22 indicates lossy compression. otherwise, set to missing|||en|||fr": {
+    "translation": "Facteur de compression cible, M:1 (correspondant à la profondeur de bits précisée par l'octet 20), quand l'octet 22 indique une compression de données avec perte; sinon indiqué comme manquant )",
+    "count": 1
+  },
+  "derived forecasts based on all ensemble members at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval|||en|||fr": {
+    "translation": "Modèle de définition du produit 4.12 — Prévision dérivée, établie à partir de tous les membres de l'ensemble, pour une surface ou une couche horizontale, durant un intervalle de temps continu ou non",
+    "count": 35
+  },
+  "49-60   specification of the outermost (or only) time range over which statistical processing is done|||en|||fr": {
+    "translation": "49-60   Spécification de l'intervalle de temps le plus éloigné (ou intervalle de temps unique) sur lequel porte le calcul statistique",
+    "count": 2
+  },
+  "61-nn   these octets are included only if n > 1, where nn = 48 + 12 x n|||en|||fr": {
+    "translation": "61-nn   Ces octets figurent dans le message uniquement si n>1, nn = 48 + 12 x n",
+    "count": 2
+  },
+  "as octets 49 to 60, next innermost step of processing|||en|||fr": {
+    "translation": "Même contenu que les octets 49 à 60, pour l'étape suivante du calcul",
+    "count": 2
+  },
+  "additional time range specifications, included in accordance with the value of n. contents as octets 49 to 60, repeated as necessary|||en|||fr": {
+    "translation": "Spécifications des intervalles de temps supplémentaires, incluses en fonction de la valeur de n. Le contenu est le même que celui des octets 49 à 60, répétés au besoin",
+    "count": 1
+  },
+  "azimuth-range projection|||en|||fr": {
+    "translation": "Modèle de définition de la grille 3.120 — Projection azimut-distance",
+    "count": 10
+  },
+  "nb - number of data bins along radials|||en|||fr": {
+    "translation": "Nb - nombre de cellules de données le long des lignes radiales",
+    "count": 1
+  },
+  "nr - number of radials|||en|||fr": {
+    "translation": "Nr - nombre de lignes radiales",
+    "count": 1
+  },
+  "la1 - latitude of centre point|||en|||fr": {
+    "translation": "La1 - latitude du point central",
+    "count": 1
+  },
+  "lo1 - longitude of centre point|||en|||fr": {
+    "translation": "Lo1 - longitude du point central",
+    "count": 1
+  },
+  "dx - spacing of bins along radials|||en|||fr": {
+    "translation": "Dx - écartement des cellules le long des lignes radiales",
+    "count": 1
+  },
+  "dstart - offset from origin to inner bound|||en|||fr": {
+    "translation": "Dstart - décalage de l'origine vers la limite intérieure",
+    "count": 1
+  },
+  "40-(39+4nr)   for each of nr radials|||en|||fr": {
+    "translation": "40-(39+4Nr)   Pour chacune des Nr lignes radiales",
+    "count": 1
+  },
+  "azi - starting azimuth, degrees x 10 (degrees as north)|||en|||fr": {
+    "translation": "Azi – azimut de départ, degrés x 10 (degrés Nord)",
+    "count": 1
+  },
+  "adelta - azimuthal width, degrees x 100 (+ clockwise, - counterclockwise), with x = 1 to nr|||en|||fr": {
+    "translation": "Adelta - largeur azimutale, degrés x 100, (+ dans le sens horaire - dans le sens inverse), avec X = 1 à Nr",
+    "count": 1
+  },
+  "satellite product with or without associated quality values|||en|||fr": {
+    "translation": "Modèle de définition du produit 4.35 — Produit de satellite avec ou sans valeurs associées relatives à la qualité",
+    "count": 12
+  },
+  "observation generating process identifier (defined by originating centres)|||en|||fr": {
+    "translation": "Indicateur du processus d'observation (défini par les centres d'origine)",
+    "count": 3
+  },
+  "quality value associated with parameter|||en|||fr": {
+    "translation": "Valeur relative à la qualité associée au paramètre",
+    "count": 1
+  },
+  "(see code table 4.16)|||en|||fr": {
+    "translation": "(voir la table de code 4.16)",
+    "count": 1
+  },
+  "16-   repeat the following 11 octets for each contributing band (nb = 1,nb)|||en|||fr": {
+    "translation": "16-Répéter les 11 octets qui suivent pour chaque bande prise en compte (nb = 1, NB)",
+    "count": 1
+  },
+  "satellite numbers of band nb (code table defined by originating/generating centre)|||en|||fr": {
+    "translation": "Numéros des satellites bande nb (table de code établie par le centre d'origine/de production)",
+    "count": 2
+  },
+  "spatio-temporal changing tiles at a horizontal level or horizontal layer at a point in time|||en|||fr": {
+    "translation": "Modèle de définition du produit 4.55 Dynamique spatio-temporelle de mosaïques pour une surface ou une couche horizontale, à un moment donné",
+    "count": 19
+  },
+  "tile classification|||en|||fr": {
+    "translation": "Classification des dalles",
+    "count": 5
+  },
+  "(see code table 4.242)|||en|||fr": {
+    "translation": "(voir la table de code 4.242)",
+    "count": 5
+  },
+  "total number (nt) of tile/attribute pairs|||en|||fr": {
+    "translation": "Nombre total (NT) de paires de dalles ou de caractéristiques",
+    "count": 5
+  },
+  "(see notes 1 and 2)|||en|||fr": {
+    "translation": "(voir les notes 1 et 2)",
+    "count": 10
+  },
+  "number of used spatial tiles (nut)|||en|||fr": {
+    "translation": "Nombre de dalles spatiales utilisées (NUT)",
+    "count": 5
+  },
+  "tile index (itn = {1,…, nut})|||en|||fr": {
+    "translation": "Indice de dalle (ITN = {1,..., NUT})",
+    "count": 4
+  },
+  "number of used tile attributes (nat) for tile itn|||en|||fr": {
+    "translation": "Nombre de caractéristiques de dalle utilisées (NAT) pour ITN",
+    "count": 5
+  },
+  "attribute of tile (a = {a(1),…, a(nat(itn))})|||en|||fr": {
+    "translation": "Caractéristique de la dalle (A = {A(1),..., A(NAT(ITN))})",
+    "count": 4
+  },
+  "(see code table 4.241 and note 1)|||en|||fr": {
+    "translation": "(voir la table de code 4.241)  (voir la note 1)",
+    "count": 4
+  },
+  "forecast time in units defined by octet 24|||en|||fr": {
+    "translation": "Heure de la prévision exprimée dans l'unité précisée par l'octet 24",
+    "count": 5
+  },
+  "time section grid|||en|||fr": {
+    "translation": "Modèle de définition de la grille 3.1200 — Grille de coupe dans le temps",
+    "count": 18
+  },
+  "nt - number of time steps|||en|||fr": {
+    "translation": "NT - Nombre de pas de temps",
+    "count": 2
+  },
+  "unit of offset from reference time|||en|||fr": {
+    "translation": "Unité de décalage par rapport à l'heure de référence",
+    "count": 2
+  },
+  "offset from reference of first time (negative value when first bit set)|||en|||fr": {
+    "translation": "Décalage de la première heure par rapport l'heure de référence (valeur négative lorsque le premier bit est mis à 1)",
+    "count": 1
+  },
+  "type of time increment|||en|||fr": {
+    "translation": "Type d'incrément de temps",
+    "count": 2
+  },
+  "unit of time increment|||en|||fr": {
+    "translation": "Unité d'incrément de temps",
+    "count": 2
+  },
+  "time increment (negative value when first bit set)|||en|||fr": {
+    "translation": "Incrément de temps (valeur négative lorsque le premier bit est mis à 1)",
+    "count": 2
+  },
+  "30-36   last date/time|||en|||fr": {
+    "translation": "30-36  Dernière date/heure",
+    "count": 1
+  },
+  "year|||en|||fr": {
+    "translation": "Année",
+    "count": 5
+  },
+  "month|||en|||fr": {
+    "translation": "Mois",
+    "count": 5
+  },
+  "day|||en|||fr": {
+    "translation": "Jour",
+    "count": 5
+  },
+  "hour|||en|||fr": {
+    "translation": "Heure",
+    "count": 5
+  },
+  "minute|||en|||fr": {
+    "translation": "Minute",
+    "count": 5
+  },
+  "second|||en|||fr": {
+    "translation": "Seconde",
+    "count": 5
+  },
+  "individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for atmospheric chemical constituents with source or sink|||en|||fr": {
+    "translation": "Modèle de définition du produit 4.79 Prévision d'ensemble prise séparément, de contrôle ou «perturbée», pour une surface ou une couche horizontale, durant un intervalle de temps continu ou non, relative aux constituants chimiques de l'atmosphère",
+    "count": 38
+  },
+  "53-64   specification of the outermost (or only) time range over which statistical processing is done|||en|||fr": {
+    "translation": "53-64   Spécification de l'intervalle de temps le plus éloigné (ou intervalle de temps unique) sur lequel porte le calcul statistique",
+    "count": 1
+  },
+  "(see \t\tcode table 4.4)|||en|||fr": {
+    "translation": "(voir la table de code 4.4)",
+    "count": 1
+  },
+  "65-nn   these octets are included only if n > 1, where nn = 52 + 12 x n|||en|||fr": {
+    "translation": "65-nn   Ces octets figurent dans le message uniquement si n>1, nn = 52 + 12 x n",
+    "count": 1
+  },
+  "as octets 53 to 64, next innermost step of processing|||en|||fr": {
+    "translation": "Même contenu que les octets 53 à 64, pour l'étape suivante du calcul",
+    "count": 2
+  },
+  "additional time range specifications, included in accordance with the value of n. contents as octets 53 to 64, repeated as necessary|||en|||fr": {
+    "translation": "Spécifications des intervalles de temps supplémentaires, incluses en fonction de la valeur de n. Le contenu est le même que celui des octets 53 à 64, répétés au besoin",
+    "count": 2
+  },
+  "cross-section of averaged or otherwise statistically processed analysis or forecast over a range of time|||en|||fr": {
+    "translation": "Modèle de définition du produit 4.1001 – Coupe d'une analyse ou d'une prévision, moyennée ou ayant fait l'objet d'un autre traitement statistique pour un intervalle de temps donné",
+    "count": 16
+  },
+  "lambert conformal|||en|||fr": {
+    "translation": "Modèle de définition de la grille 3.30 — Projection conforme de Lambert",
+    "count": 22
+  },
+  "(see note 3 and flag table 3.3)|||en|||fr": {
+    "translation": "(voir la table d'indicateurs 3.3 et la note 1)",
+    "count": 1
+  },
+  "lov - longitude of meridian parallel to y-axis along which latitude increases as the y-coordinate increases|||en|||fr": {
+    "translation": "LoV - Longitude du méridien parallèle à l'axe des y le long duquel la valeur des y augmente avec la latitude",
+    "count": 2
+  },
+  "latin 1 - first latitude from the pole at which the secant cone cuts the sphere|||en|||fr": {
+    "translation": "Carré latin 1 - première latitude à partir du pôle à laquelle le cône sécant coupe la sphère",
+    "count": 2
+  },
+  "latin 2 - second latitude from the pole at which the secant cone cuts the sphere|||en|||fr": {
+    "translation": "Carré latin 2 - deuxième latitude à partir du pôle à laquelle le cône sécant coupe la sphère",
+    "count": 2
+  },
+  "individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for atmospheric chemical constituents based on a distribution function|||en|||fr": {
+    "translation": "Modèle de définition du produit 4.68 Prévision d'ensemble prise séparément, de contrôle ou «perturbée», pour une surface ou une couche horizontale, durant un intervalle de temps continu ou non, relative aux constituants chimiques de l'atmosphère découlant d'une fonction de distribution",
+    "count": 44
+  },
+  "(59+5np)-(70+5np)   specification of the outermost (or only) time range over which statistical processing is done|||en|||fr": {
+    "translation": "(59+5Np)-(70+5Np)   Spécification de l'intervalle de temps le plus éloigné (ou intervalle de temps unique) sur lequel porte le calcul statistique",
+    "count": 1
+  },
+  "(71+5np)-nn   these octets are included only if n > 1, where nn = (58+5np) + 12 x n|||en|||fr": {
+    "translation": "(71+5Np)-nn    Ces octets figurent dans le message uniquement si n>1, nn = (58+5Np) + 12 x n",
+    "count": 1
+  },
+  "as octets (59+5np) to (70+5np), next innermost step of processing|||en|||fr": {
+    "translation": "Même contenu que les octets (59+5Np) à (70+5Np), pour l'étape suivante du calcul",
+    "count": 1
+  },
+  "additional time range specifications, included in accordance with the value of n.  contents as octets (59+5np) to (70+5np), repeated as necessary|||en|||fr": {
+    "translation": "Spécifications des intervalles de temps supplémentaires, incluses en fonction de la valeur de n. Le contenu est le même que celui des octets (59+5Np) à (70+5Np), répétés au besoin",
+    "count": 1
+  },
+  "derived forecasts based on a cluster of ensemble members over a circular area at a horizontal level or in a horizontal layer at a point in time|||en|||fr": {
+    "translation": "Modèle de définition du produit 4.4 — Prévision dérivée, établie à partir d'un groupe de membres de l'ensemble, appliquée à une zone circulaire, pour une surface ou une couche horizontale, à un moment donné",
+    "count": 31
+  },
+  "individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for spatio-temporal changing tile parameters|||en|||fr": {
+    "translation": "Modèle de définition du produit 4.59 Prévision d'ensemble prise séparément, de contrôle ou «perturbée», pour une surface ou une couche horizontale, à un moment donné, relative aux paramètres de la dynamique spatio-temporelle des mosaïques",
+    "count": 21
+  },
+  "attribute of tile (see code table 4.241)) (a = {a(1),…, a(nat(itn))})|||en|||fr": {
+    "translation": "Caractéristique de la dalle (A = {A(1),..., A(NAT(ITN))})",
+    "count": 1
+  },
+  "analysis or forecast at a horizontal level or in a horizontal layer at a point in time for atmospheric chemical constituents|||en|||fr": {
+    "translation": "Modèle de définition du produit 4.40 — Analyse ou prévision pour une surface ou une couche horizontale, à un moment donné, relative aux constituants chimiques de l'atmosphère",
+    "count": 16
+  },
+  "analysis or forecast error at a horizontal level or in a horizontal layer at a point in time|||en|||fr": {
+    "translation": "Modèle de définition du produit 4.7 — Erreur d'analyse ou de prévision pour une surface ou une couche horizontale, à un moment donné",
+    "count": 15
+  },
+  "satellite product|||en|||fr": {
+    "translation": "Modèle de définition du produit 4.31 — Produit de satellite",
+    "count": 11
+  },
+  "15-   repeat the following 11 octets for each contributing band (nb = 1, nb)|||en|||fr": {
+    "translation": "15-   Répéter les 11 octets qui suivent pour chaque bande prise en compte (nb = 1, NB)",
+    "count": 1
+  },
+  "individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time|||en|||fr": {
+    "translation": "Modèle de définition du produit 4.1 — Prévision d'ensemble prise séparément, de contrôle ou «perturbée», pour une surface ou une couche horizontale, à un moment donné",
+    "count": 18
+  },
+  "individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol|||en|||fr": {
+    "translation": "Modèle de définition du produit 4.49 — Prévision d'ensemble prise séparément, de contrôle ou «perturbée», pour une surface ou une couche horizontale, à un moment donné, relative aux propriétés optiques des aérosols",
+    "count": 29
+  },
+  "individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for aerosol|||en|||fr": {
+    "translation": "Modèle de définition du produit 4.45 — Prévision d'ensemble prise séparément, de contrôle ou «perturbée», pour une surface ou une couche horizontale, à un moment donné, relative aux aérosols",
+    "count": 24
+  },
+  "forecast time in units defined by octet 31|||en|||fr": {
+    "translation": "Heure de la prévision exprimée dans l'unité précisée par l'octet 31",
+    "count": 4
+  },
+  "individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval|||en|||fr": {
+    "translation": "Modèle de définition du produit 4.11 — Prévision d'ensemble prise séparément, de contrôle ou «perturbée», pour une surface ou une couche horizontale, durant un intervalle de temps continu ou non",
+    "count": 36
+  },
+  "50-61   specification of the outermost (or only) time range over which statistical processing is done|||en|||fr": {
+    "translation": "50-61   Spécification de l'intervalle de temps le plus éloigné (ou intervalle de temps unique) sur lequel porte le calcul statistique",
+    "count": 2
+  },
+  "62-nn   these octets are included only if n > 1, where nn = 49 + 12 x n|||en|||fr": {
+    "translation": "62-nn  Ces octets figurent dans le message uniquement si n>1, nn = 49 + 12 x n",
+    "count": 1
+  },
+  "as octets 50 to 61, next innermost step of processing|||en|||fr": {
+    "translation": "Même contenu que les octets 50 à 61, pour l'étape suivante du calcul",
+    "count": 2
+  },
+  "additional time range specifications, included in accordance with the value of n. contents as octets 50 to 61, repeated as necessary|||en|||fr": {
+    "translation": "Spécifications des intervalles de temps supplémentaires, incluses en fonction de la valeur de n. Le contenu est le même que celui des octets 50 à 61, répétés au besoin",
+    "count": 1
+  },
+  "individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for atmospheric chemical constituents|||en|||fr": {
+    "translation": "Modèle de définition du produit 4.41 — Prévision d'ensemble prise séparément, de contrôle ou «perturbée», pour une surface ou une couche horizontale, à un moment donné, relative aux constituants chimiques de l'atmosphère",
+    "count": 19
+  },
+  "analysis or forecast at a horizontal level or in a horizontal layer at a point in time|||en|||fr": {
+    "translation": "Modèle de définition du produit 4.0 — Analyse ou prévision pour une surface ou une couche horizontale, à un moment donné",
+    "count": 15
+  },
+  "spherical harmonic coefficients|||en|||fr": {
+    "translation": "Modèle de définition de la grille 3.50 — Coefficients harmoniques sphériques",
+    "count": 5
+  },
+  "j - pentagonal resolution parameter|||en|||fr": {
+    "translation": "J - paramètre de résolution pentagonale",
+    "count": 1
+  },
+  "k - pentagonal resolution parameter|||en|||fr": {
+    "translation": "K - paramètre de résolution pentagonale",
+    "count": 1
+  },
+  "m - pentagonal resolution parameter|||en|||fr": {
+    "translation": "M - paramètre de résolution pentagonale",
+    "count": 1
+  },
+  "representation type indicating the method used to define the norm|||en|||fr": {
+    "translation": "Type de représentation indiquant la méthode utilisée pour définir la norme",
+    "count": 1
+  },
+  "(see code table 3.6)|||en|||fr": {
+    "translation": "(voir la table de code 3.6)",
+    "count": 4
+  },
+  "representation mode indicating the order of the coefficients|||en|||fr": {
+    "translation": "Mode de représentation indiquant l'ordre des coefficients",
+    "count": 1
+  },
+  "(see code table 3.7)|||en|||fr": {
+    "translation": "(voir la table de code 3.7)",
+    "count": 1
+  },
+  "individual ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time|||en|||fr": {
+    "translation": "Modèle de définition du produit 4.60 Reprévision d'ensemble prise séparément, de contrôle ou «perturbée», pour une surface ou une couche horizontale, à un moment donné",
+    "count": 24
+  },
+  "year of model version date|||en|||fr": {
+    "translation": "Année",
+    "count": 2
+  },
+  "month of model version date|||en|||fr": {
+    "translation": "Mois",
+    "count": 2
+  },
+  "day of model version date|||en|||fr": {
+    "translation": "Jour",
+    "count": 2
+  },
+  "hour of model version date|||en|||fr": {
+    "translation": "Heure",
+    "count": 2
+  },
+  "minute of model version date|||en|||fr": {
+    "translation": "Minute",
+    "count": 2
+  },
+  "second of model version date|||en|||fr": {
+    "translation": "Seconde",
+    "count": 2
+  },
+  "mercator with modelling subdomains definition|||en|||fr": {
+    "translation": "Modèle de définition de la grille 3.13 – Projection de Mercator avec définition des sous-domaines de modélisation",
+    "count": 5
+  },
+  "same as grid definition template 3.10|||en|||fr": {
+    "translation": "Voir modèle de définition de la grille 3.10",
+    "count": 1
+  },
+  "analysis or forecast at a horizontal level or in a horizontal layer at a point in time for simulated (synthetic) satellite data|||en|||fr": {
+    "translation": "Modèle de définition du produit 4.32 — Analyse ou prévision pour une surface ou une couche horizontale, à un moment donné, relative aux données simulées (synthétiques) de satellite",
+    "count": 16
+  },
+  "probability forecasts at a horizontal level or in a horizontal layer at a point in time|||en|||fr": {
+    "translation": "Modèle de définition du produit 4.5 — Prévision de probabilité pour une surface ou une couche horizontale, à un moment donné",
+    "count": 22
+  },
+  "stretched gaussian latitude/longitude|||en|||fr": {
+    "translation": "Modèle de définition de la grille 3.42 — Grille gaussienne latitude/longitude après dilatation",
+    "count": 5
+  },
+  "average, accumulation, and/or extreme values or other statistically processed values at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for aerosol with source or sink|||en|||fr": {
+    "translation": "Modèle de définition du produit 4.82 – Valeurs moyennes, cumulées et/ou extrêmes ou autres valeurs statistiques, pour une surface ou une couche horizontale, durant un intervalle de temps continu ou non, relatives aux aérosols",
+    "count": 40
+  },
+  "(see code table 2.238)|||en|||fr": {
+    "translation": "(voir la table de code 4.238)",
+    "count": 1
+  },
+  "61-72   specification of the outermost (or only) time range over which statistical processing is done|||en|||fr": {
+    "translation": "61-72   Spécification de l'intervalle de temps le plus éloigné (ou intervalle de temps unique) sur lequel porte le calcul statistique",
+    "count": 1
+  },
+  "73-nn   these octets are included only if n > 1, where nn = 60 + 12 x n|||en|||fr": {
+    "translation": "73-nn  Ces octets figurent dans le message uniquement si n>1, nn = 60 + 12 x n",
+    "count": 1
+  },
+  "as octets 61 to 72, next innermost step of processing|||en|||fr": {
+    "translation": "Même contenu que les octets 61 à 72, pour l'étape suivante du calcul",
+    "count": 1
+  },
+  "additional time range specifications, included in accordance with the value of n. contents as octets 61 to 72, repeated as necessary|||en|||fr": {
+    "translation": "Spécifications des intervalles de temps supplémentaires, incluses en fonction de la valeur de n. Le contenu est le même que celui des octets 61 à 72, répétés au besoin",
+    "count": 1
+  },
+  "latitude/longitude (or equidistant cylindrical, or plate carrée)|||en|||fr": {
+    "translation": "Modèle de définition de la grille 3.0 — Grille latitude/longitude (ou équidistante cylindrique, ou Plate Carrée)",
+    "count": 20
+  },
+  "subdivisions of basic angle used to define extreme longitudes and latitudes, and direction increments|||en|||fr": {
+    "translation": "Subdivisions de l'angle de base utilisées pour indiquer les longitudes et latitudes extrêmes et les incréments de direction",
+    "count": 3
+  },
+  "di - i direction increment|||en|||fr": {
+    "translation": "Di - incrément de la direction i",
+    "count": 2
+  },
+  "(see notes 1 and 5)|||en|||fr": {
+    "translation": "(voir les notes 1 et 5)",
+    "count": 3
+  },
+  "dj - j direction increment|||en|||fr": {
+    "translation": "Dj - incrément de la direction j",
+    "count": 1
+  },
+  "spectral data for limited area models - complex packing|||en|||fr": {
+    "translation": "Modèle de représentation des données 5.53 — Données spectrales pour les modèles à domaine limité - compression complexe",
+    "count": 11
+  },
+  "number of bits used for each packed value (field width)|||en|||fr": {
+    "translation": "Nombre de bits utilisés pour chaque valeur comprimée (largeur du champ)",
+    "count": 1
+  },
+  "bi-fourier sub-truncation type|||en|||fr": {
+    "translation": "Type de sous-troncature avec transformée de Fourier 2D",
+    "count": 1
+  },
+  "(see code table 5.25)|||en|||fr": {
+    "translation": "(voir la table de code 5.25)",
+    "count": 1
+  },
+  "packing mode for axes|||en|||fr": {
+    "translation": "Méthode de compression pour les axes",
+    "count": 1
+  },
+  "(see code table 5.26)|||en|||fr": {
+    "translation": "(voir la table de code 5.26)",
+    "count": 1
+  },
+  "ns - bi-fourier resolution parameter of the unpacked subset|||en|||fr": {
+    "translation": "NS - paramètre de résolution avec transformée de Fourier 2D de la sous-série décompressée",
+    "count": 1
+  },
+  "ms - bi-fourier resolution parameter of the unpacked subset|||en|||fr": {
+    "translation": "MS - paramètre de résolution avec transformée de Fourier 2D de la sous-série décompressée",
+    "count": 1
+  },
+  "hovmöller diagram grid with points equally spaced on the horizontal|||en|||fr": {
+    "translation": "Modèle de définition de la grille 3.1100 — Grille du diagramme de Hovmöller, dont les points sur l'horizontale sont équidistants",
+    "count": 29
+  },
+  "76-82   last date/time|||en|||fr": {
+    "translation": "76-82 Dernière date/heure",
+    "count": 1
+  },
+  "albers equal area|||en|||fr": {
+    "translation": "Modèle de définition de la grille 3.31 — Projection d'Albers conservant le rapport des aires",
+    "count": 22
+  },
+  "ccitt ia5 character string|||en|||fr": {
+    "translation": "Modèle de définition du produit 4.254 – Chaîne de caractères CCITT IA5",
+    "count": 3
+  },
+  "number of characters|||en|||fr": {
+    "translation": "Nombre de caractères",
+    "count": 1
+  },
+  "spectral lambert conformal with modelling subdomains definition|||en|||fr": {
+    "translation": "Modèle de définition de la grille 3.63 — Représentation spectrale en projection conforme de Lambert avec définition des sous-domaines de modélisation",
+    "count": 26
+  },
+  "spectral representation type|||en|||fr": {
+    "translation": "Type de représentation des données spectrales",
+    "count": 3
+  },
+  "n - bi-fourier resolution parameter|||en|||fr": {
+    "translation": "N - paramètre de résolution avec transformée de Fourier 2D",
+    "count": 3
+  },
+  "m - bi-fourier resolution parameter|||en|||fr": {
+    "translation": "M - paramètre de résolution avec transformée de Fourier 2D",
+    "count": 3
+  },
+  "bi-fourier truncation type|||en|||fr": {
+    "translation": "Type de troncature avec transformée de Fourier 2D",
+    "count": 3
+  },
+  "(see code table 3.25)|||en|||fr": {
+    "translation": "(voir la table de code 3.25)",
+    "count": 3
+  },
+  "lx - size in metres of the domain along x-axis|||en|||fr": {
+    "translation": "Lx - taille en mètres du domaine le long de l'axe des x",
+    "count": 3
+  },
+  "lux - size in metres of model forecast subdomain along x-axis|||en|||fr": {
+    "translation": "Lux - taille en mètres du sous-domaine de prévision numérique le long de l'axe des x",
+    "count": 3
+  },
+  "lcx - width in metres of coupling area within forecast domain along x-axis|||en|||fr": {
+    "translation": "Lcx - largeur en mètres de la zone de couplage au sein du domaine de prévision le long de l'axe des x",
+    "count": 2
+  },
+  "ly - size in metres of the domain along y-axis|||en|||fr": {
+    "translation": "Ly - taille en mètres du domaine le long de l'axe des y",
+    "count": 3
+  },
+  "luy - size in metres of model forecast subdomain along y-axis|||en|||fr": {
+    "translation": "Luy - taille en mètres du sous-domaine de prévision numérique le long de l'axe des y",
+    "count": 3
+  },
+  "lcy - width in metres of coupling area within forecast domain along y-axis|||en|||fr": {
+    "translation": "Lcy - largeur en mètres de la zone de couplage au sein du domaine de prévision le long de l'axe des y",
+    "count": 3
+  },
+  "average, accumulation, and/or extreme values or other statistically processed values at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for aerosol|||en|||fr": {
+    "translation": "Modèle de définition du produit 4.46 — Valeurs moyennes, cumulées et/ou extrêmes, ou autres valeurs statistiques, pour une surface ou une couche horizontale, durant un intervalle de temps continu ou non, relatives aux aérosols",
+    "count": 39
+  },
+  "derived forecasts based on a cluster of ensemble members over a rectangular area at a horizontal level or in a horizontal layer at a point in time|||en|||fr": {
+    "translation": "Modèle de définition du produit 4.3 — Prévision dérivée, établie à partir d'un groupe de membres de l'ensemble, appliquée à une zone rectangulaire, pour une surface ou une couche horizontale, à un moment donné",
+    "count": 32
+  },
+  "northern latitude of cluster domain|||en|||fr": {
+    "translation": "Latitude Nord du domaine du groupe",
+    "count": 2
+  },
+  "southern latitude of cluster domain|||en|||fr": {
+    "translation": "Latitude Sud du domaine du groupe",
+    "count": 2
+  },
+  "eastern longitude of cluster domain|||en|||fr": {
+    "translation": "Longitude Est du domaine du groupe",
+    "count": 2
+  },
+  "western longitude of cluster domain|||en|||fr": {
+    "translation": "Longitude Ouest du domaine du groupe",
+    "count": 2
+  },
+  "list of nc ensemble forecast numbers (nc is given in octet 58)|||en|||fr": {
+    "translation": "Liste des Nc prévisions d'ensemble (la valeur de Nc est donnée à l'octet 58)",
+    "count": 1
+  },
+  "cross-section of analysis and forecast, averaged or otherwise statistically processed over latitude or longitude|||en|||fr": {
+    "translation": "Modèle de définition du produit 4.1002 – Coupe d'une analyse ou d'une prévision, moyennée ou ayant fait l'objet d'un autre traitement statistique le long d'une latitude ou d'une longitude donnée",
+    "count": 15
+  },
+  "horizontal dimension processed|||en|||fr": {
+    "translation": "Dimension horizontale calculée",
+    "count": 1
+  },
+  "(see code table 4.220)|||en|||fr": {
+    "translation": "(voir la table de code 4.220)",
+    "count": 1
+  },
+  "treatment of missing data (e.g. below ground)|||en|||fr": {
+    "translation": "Traitement pour les données manquantes (par exemple sous la surface)",
+    "count": 1
+  },
+  "(see code table 4.221)|||en|||fr": {
+    "translation": "(voir la table de code 4.221)",
+    "count": 1
+  },
+  "type of statistical processing|||en|||fr": {
+    "translation": "Type de calcul statistique",
+    "count": 1
+  },
+  "start of range|||en|||fr": {
+    "translation": "Début de l'intervalle",
+    "count": 1
+  },
+  "end of range|||en|||fr": {
+    "translation": "Fin de l'intervalle",
+    "count": 1
+  },
+  "number of values|||en|||fr": {
+    "translation": "Nombre de valeurs",
+    "count": 1
+  },
+  "grid point data - simple packing with logarithm pre-processing|||en|||fr": {
+    "translation": "Modèle de représentation des données 5.61 — Données aux points de grille — compression simple après traitement logarithmique",
+    "count": 5
+  },
+  "number of bits used for each packed value|||en|||fr": {
+    "translation": "Nombre de bits utilisés pour chaque valeur compressée",
+    "count": 1
+  },
+  "pre-processing parameter (b) (ieee 32-bit floating-point value)|||en|||fr": {
+    "translation": "Paramètre de traitement préalable (B) (valeur en virgule flottante IEEE 32 bits)",
+    "count": 1
+  },
+  "spectral data - simple packing|||en|||fr": {
+    "translation": "Modèle de représentation des données 5.50 — Données spectrales - compression simple",
+    "count": 5
+  },
+  "average, accumulation and/or extreme values or other statistically processed values at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for spatio-temporal changing tiles at a horizontal level or horizontal layer at a point in time|||en|||fr": {
+    "translation": "Modèle de définition du produit 4.62 Valeurs moyennes, cumulées et/ou extrêmes, ou autres valeurs statistiques, pour une surface ou une couche horizontale, durant un intervalle de temps continu ou non, relatives à la dynamique spatio temporelle de mosaïques pour une surface ou une couche horizontale, à un moment donné",
+    "count": 39
+  },
+  "year - \ttime of end of overall time interval|||en|||fr": {
+    "translation": "Année - Fin de l’intervalle de temps complet",
+    "count": 1
+  },
+  "month - \ttime of end of overall time interval|||en|||fr": {
+    "translation": "Mois - Fin de l’intervalle de temps complet",
+    "count": 1
+  },
+  "day - \ttime of end of overall time interval|||en|||fr": {
+    "translation": "Jour - Fin de l’intervalle de temps complet",
+    "count": 1
+  },
+  "hour - \ttime of end of overall time interval|||en|||fr": {
+    "translation": "Heure - Fin de l’intervalle de temps complet",
+    "count": 1
+  },
+  "minute - \ttime of end of overall time interval|||en|||fr": {
+    "translation": "Minute - Fin de l’intervalle de temps complet",
+    "count": 1
+  },
+  "second - \ttime of end of overall time interval|||en|||fr": {
+    "translation": "Seconde - Fin de l’intervalle de temps complet",
+    "count": 1
+  },
+  "53-64   \tspecification of the outermost (or only) time range over which statistical processing is done|||en|||fr": {
+    "translation": "53-64  Spécification de l'intervalle de temps le plus éloigné (ou intervalle de temps unique) sur lequel porte le calcul statistique",
+    "count": 1
+  },
+  "65-nn   \tthese octets are included only if n > 1, where nn = 52 + 12 x n|||en|||fr": {
+    "translation": "65-nn  Ces octets figurent dans le message uniquement si n>1, nn = 52 + 12 x n",
+    "count": 1
+  },
+  "precision|||en|||fr": {
+    "translation": "Précision",
+    "count": 1
+  },
+  "individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer, in a continuous or non-continuous interval for simulated (synthetic) satellite data|||en|||fr": {
+    "translation": "Modèle de définition du produit 4.34 — Prévision d'ensemble prise séparément, de contrôle ou «perturbée», pour une surface ou une couche horizontale, durant un intervalle de temps continu ou non, relative aux données satellite simulées (de synthèse)",
+    "count": 34
+  },
+  "(39+11nb)-   repeat the following 12 octets for each time range spec (i = 1, n)|||en|||fr": {
+    "translation": "(39+11NB)- Répéter les 12 octets qui suivent pour chaque spécification d'intervalle de temps (i = 1, n)",
+    "count": 1
+  },
+  "analysis or forecast at a horizontal level or in a horizontal layer at a point in time for aerosol|||en|||fr": {
+    "translation": "Modèle de définition du produit 4.44 — Analyse ou prévision pour une surface ou une couche horizontale, à un moment donné, relative aux aérosols",
+    "count": 21
+  },
+  "average, accumulation, and/or extreme values or other statistically processed values at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for atmospheric chemical constituents with source or sink|||en|||fr": {
+    "translation": "Modèle de définition du produit 4.78 Valeurs moyennes, cumulées et/ou extrêmes, ou autres valeurs statistiques, pour une surface ou une couche horizontale, durant un intervalle de temps continu ou non, relatives aux constituants chimiques de l'atmosphère",
+    "count": 35
+  },
+  "individual ensemble reforecast, control and perturbed, at a horizontal level or in a horizontal layer, in a continuous or non-continuous time interval|||en|||fr": {
+    "translation": "Modèle de définition du produit 4.61 Reprévision d'ensemble prise séparément, de contrôle ou «perturbée», pour une surface ou une couche horizontale, durant un intervalle de temps continu ou non",
+    "count": 42
+  },
+  "57-68   specification of the outermost (or only) time range over which statistical processing is done|||en|||fr": {
+    "translation": "57-68   Spécification de l'intervalle de temps le plus éloigné (ou intervalle de temps unique) sur lequel porte le calcul statistique",
+    "count": 1
+  },
+  "69-nn   these octets are included only if n > 1, where nn = 56 + 12 x n|||en|||fr": {
+    "translation": "69-nn   Ces octets figurent dans le message uniquement si n>1, nn = 56 + 12 x n",
+    "count": 1
+  },
+  "as octets 57 to 68, next innermost step of processing|||en|||fr": {
+    "translation": "Même contenu que les octets 57 à 68, pour l'étape suivante du calcul",
+    "count": 1
+  },
+  "additional time range specifications, included in accordance with the value of n. contents as octets 57 to 68, repeated as necessary|||en|||fr": {
+    "translation": "Spécifications des intervalles de temps supplémentaires, incluses en fonction de la valeur de n. Le contenu est le même que celui des octets 57 à 68, répétés au besoin.",
+    "count": 1
+  },
+  "average, accumulation, extreme values, or other statistically processed values over a spatial area at a horizontal level or in a horizontal layer at a point in time|||en|||fr": {
+    "translation": "Modèle de définition du produit 4.15 — Valeurs moyennes, cumulées et/ou extrêmes, ou autres valeurs ayant fait l'objet d'un traitement statistique pour une surface ou une couche horizontale, sur une zone et à un moment donnés",
+    "count": 18
+  },
+  "statistical process used within the spatial area defined by octet 36|||en|||fr": {
+    "translation": "Calcul statistique utilisé dans la zone définie par l'octet 36",
+    "count": 1
+  },
+  "type of spatial processing used to arrive at given data value from the source data|||en|||fr": {
+    "translation": "Type de traitement spatial utilisé pour obtenir une certaine valeur à partir des données de base",
+    "count": 1
+  },
+  "(see code table 4.15)|||en|||fr": {
+    "translation": "(voir la table de code 4.15)",
+    "count": 1
+  },
+  "number of data points used in spatial processing defined in octet 36|||en|||fr": {
+    "translation": "Nombre de points de données utilisés pour le traitement spatial défini dans l'octet 36",
+    "count": 1
+  },
+  "jpeg 2000 code stream as described in part 1 of the jpeg 2000 standard (iso/iec 15444-1:2000)|||en|||fr": {
+    "translation": "Flux de données en format JPEG 2000 tel qu'il est décrit dans la partie 1 de la norme JPEG 2000 (ISO/IEC 15444-1:2000)",
+    "count": 1
+  },
+  "partitioned parameters at a horizontal level or in a horizontal layer at a point in time|||en|||fr": {
+    "translation": "Modèle de définition du produit 4.53 — Paramètres partitionnés pour une surface ou une couche horizontale, à un moment donné",
+    "count": 19
+  },
+  "derived forecasts based on a cluster of ensemble members over a rectangular area at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval|||en|||fr": {
+    "translation": "Modèle de définition du produit 4.13 – Prévision dérivée, établie à partir d'un groupe de membres de l'ensemble, appliquée à une zone rectangulaire, pour une surface ou une couche horizontale, durant un intervalle de temps continu ou non",
+    "count": 50
+  },
+  "81-92   specification of the outermost (or only) time range over which statistical processing is done|||en|||fr": {
+    "translation": "81-92   Spécification de l'intervalle de temps le plus éloigné (ou intervalle de temps unique) sur lequel porte le calcul statistique",
+    "count": 1
+  },
+  "93-nn   these octets are included only if n > 1, where nn = 80 + 12 x n|||en|||fr": {
+    "translation": "93-nn   Ces octets figurent dans le message uniquement si n>1, nn = 80 + 12 x n",
+    "count": 1
+  },
+  "as octets 81 to 92, next innermost step of processing|||en|||fr": {
+    "translation": "Même contenu que les octets 81 à 92, pour l'étape suivante du calcul",
+    "count": 1
+  },
+  "additional time range specifications, included in accordance with the value of n. contents as octets 81 to 92, repeated as necessary|||en|||fr": {
+    "translation": "Spécifications des intervalles de temps supplémentaires, incluses en fonction de la valeur de n. Le contenu est le même que celui des octets 81 à 92, répétés au besoin.",
+    "count": 1
+  },
+  "grid point data - ccsds recommended lossless compression|||en|||fr": {
+    "translation": "Modèle de représentation des données 5.42 — Données aux points de grille et données spectrales - Compression sans perte de données recommandée par le CCSDS",
+    "count": 8
+  },
+  "ccsds recommended standard for lossless data compression code stream|||en|||fr": {
+    "translation": "Norme recommandée par le CCSDS pour le code de compression sans perte de données",
+    "count": 1
+  },
+  "number of bits used for each packed value for simple packing, or for each group reference value for complex packing or spatial differencing|||en|||fr": {
+    "translation": "Nombre de bits utilisés pour chaque valeur comprimée (compression simple) ou pour chaque valeur de référence de groupe (compression complexe ou différenciation spatiale)",
+    "count": 1
+  },
+  "variable resolution latitude/longitude|||en|||fr": {
+    "translation": "Modèle de définition de la grille 3.4 — Grille latitude/longitude de résolution variable",
+    "count": 15
+  },
+  "(see flag table 3.3 and note 2)|||en|||fr": {
+    "translation": "(voir la table d'indicateurs 3.3 et la note 2)",
+    "count": 1
+  },
+  "list of longitudes|||en|||fr": {
+    "translation": "Liste des longitudes",
+    "count": 2
+  },
+  "list of latitudes|||en|||fr": {
+    "translation": "Liste des latitudes",
+    "count": 2
+  },
+  "average, accumulation, and/or extreme values or other statistically processed values at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for atmospheric chemical constituents|||en|||fr": {
+    "translation": "Modèle de définition du produit 4.42 — Valeurs moyennes, cumulées et/ou extrêmes, ou autres valeurs statistiques, pour une surface ou une couche horizontale, durant un intervalle de temps continu ou non, relatives aux constituants chimiques de l'atmosphère",
+    "count": 34
+  },
+  "rotated latitude/longitude (or equidistant cylindrical, or plate carrée)|||en|||fr": {
+    "translation": "Modèle de définition de la grille 3.1 — Grille latitude/longitude (ou équidistante cylindrique, ou Plate Carrée) après rotation",
+    "count": 5
+  },
+  "space view perspective or orthographic|||en|||fr": {
+    "translation": "Modèle de définition de la grille 3.90 — Perspective vue de l'espace ou projection orthographique",
+    "count": 21
+  },
+  "nx - number of points along x-axis (columns)|||en|||fr": {
+    "translation": "Nx - nombre de points le long de l'axe des x (colonnes)",
+    "count": 1
+  },
+  "ny - number of points along y-axis (rows or lines)|||en|||fr": {
+    "translation": "Ny - nombre de points le long de l'axe des y (rangées ou lignes)",
+    "count": 1
+  },
+  "lap - latitude of sub-satellite point|||en|||fr": {
+    "translation": "Lap - latitude du point à la verticale du satellite",
+    "count": 1
+  },
+  "lop - longitude of sub-satellite point|||en|||fr": {
+    "translation": "Lop - longitude du point à la verticale du satellite",
+    "count": 1
+  },
+  "dx - apparent diameter of earth in grid lengths, in x-direction|||en|||fr": {
+    "translation": "dx - diamètre apparent de la Terre en longueurs de grille, dans la direction x",
+    "count": 1
+  },
+  "dy - apparent diameter of earth in grid lengths, in y-direction|||en|||fr": {
+    "translation": "dy - diamètre apparent de la Terre en longueurs de grille, dans la direction y",
+    "count": 1
+  },
+  "xp - x-coordinate of sub-satellite point (in units of 10-3 grid length expressed as an integer)|||en|||fr": {
+    "translation": "Xp - coordonnée x du point à la verticale du satellite (en 10-3 longueurs de grille, exprimée sous forme d'entier)",
+    "count": 1
+  },
+  "yp - y-coordinate of sub-satellite point (in units of 10-3 grid length expressed as an integer)|||en|||fr": {
+    "translation": "Yp - coordonnée y du point à la verticale du satellite (en 10-3 longueurs de grille, exprimée sous forme d'entier)",
+    "count": 1
+  },
+  "orientation of the grid; i.e. the angle between the increasing y-axis and the meridian of the sub-satellite point in the direction of increasing latitude|||en|||fr": {
+    "translation": "Orientation de la grille; soit l'angle entre l'axe des y dans le sens ascendant et le méridien du point à la verticale du satellite dans le sens ascendant de la latitude",
+    "count": 1
+  },
+  "nr - altitude of the camera from the earth's centre, measured in units of the earth's (equatorial) radius multiplied by a scale factor of 106|||en|||fr": {
+    "translation": "Nr - altitude de la caméra par rapport au centre de la Terre, mesurée en unités du rayon terrestre équatorial et multipliée par un facteur d'échelle de 106",
+    "count": 1
+  },
+  "(see notes 2, 4 and 5)|||en|||fr": {
+    "translation": "(voir les notes 4 et 5)",
+    "count": 1
+  },
+  "xo - x-coordinate of origin of sector image|||en|||fr": {
+    "translation": "Xo - coordonnée x d'origine de l'image sectorielle",
+    "count": 1
+  },
+  "yo - y-coordinate of origin of sector image|||en|||fr": {
+    "translation": "Yo - coordonnée y d'origine de l'image sectorielle",
+    "count": 1
+  },
+  "variable resolution rotated latitude/longitude|||en|||fr": {
+    "translation": "Modèle de définition de la grille 3.5 — Grille latitude/longitude de résolution variable après rotation",
+    "count": 6
+  },
+  "same as grid definition template 3.4|||en|||fr": {
+    "translation": "Voir le modèle de définition de la grille 3.4",
+    "count": 1
+  },
+  "grid point data - complex packing and spatial differencing|||en|||fr": {
+    "translation": "Modèle de représentation des données 5.3 — Données aux points de grille - compression complexe et différenciation spatiale",
+    "count": 3
+  },
+  "same as data representation template 5.2|||en|||fr": {
+    "translation": "Voir le modèle de représentation des données 5.2",
+    "count": 1
+  },
+  "order of spatial differencing|||en|||fr": {
+    "translation": "Ordre de la différenciation spatiale",
+    "count": 1
+  },
+  "(see code table 5.6)|||en|||fr": {
+    "translation": "(voir la table de code 5.6)",
+    "count": 1
+  },
+  "number of octets required in the data section to specify extra descriptors needed for spatial differencing (octets 6-ww in data template 7.3)|||en|||fr": {
+    "translation": "Nombre d'octets requis dans la Section des données pour préciser les descripteurs supplémentaires que nécessite la différenciation spatiale (octets 6-ww dans le modèle de données 7.3)",
+    "count": 1
+  },
+  "polar stereographic with modelling subdomains definition|||en|||fr": {
+    "translation": "Modèle de définition de la grille 3.23 – Projection stéréographique polaire avec définition des sous-domaines de modélisation",
+    "count": 5
+  },
+  "same as grid definition template 3.20|||en|||fr": {
+    "translation": "Voir modèle de définition de la grille 3.20",
+    "count": 1
+  },
+  "individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for spatio-temporal changing tiles|||en|||fr": {
+    "translation": "Modèle de définition du produit 4.63 Prévision d'ensemble prise séparément, de contrôle ou «perturbée», pour une surface ou une couche horizontale, durant un intervalle de temps continu ou non, relative à la dynamique spatio-temporelle de mosaïques",
+    "count": 42
+  },
+  "56-67   \tspecification of the outermost (or only) time range over which statistical processing is done|||en|||fr": {
+    "translation": "56-67   Spécification de l'intervalle de temps le plus éloigné (ou intervalle de temps unique) sur lequel porte le calcul statistique",
+    "count": 1
+  },
+  "68-nn   \tthese octets are included only if n > 1, where nn = 55 + 12 x n|||en|||fr": {
+    "translation": "68-nn   Ces octets figurent dans le message uniquement si n>1, nn = 55 + 12 x n",
+    "count": 1
+  },
+  "as octets 56 to 67, next innermost step of processing|||en|||fr": {
+    "translation": "Même contenu que les octets 56 à 67, pour l'étape suivante du calcul",
+    "count": 1
+  },
+  "80-nn   \tadditional time range specifications, included in accordance with the value of n. contents as octets 56 to 67, repeated as necessary|||en|||fr": {
+    "translation": "Spécifications des intervalles de temps supplémentaires, incluses en fonction de la valeur de n. Le contenu est le même que celui des octets 56 à 67, répétés au besoin",
+    "count": 1
+  },
+  "categorical forecasts at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval|||en|||fr": {
+    "translation": "Modèle de définition du produit 4.91 – Prévision catégorielle pour une surface ou une couche horizontale, durant un intervalle de temps continu ou non",
+    "count": 41
+  },
+  "72-nn   these octets are included only if n > 1, where nn = 71+12(n-1)+12(nc-1)|||en|||fr": {
+    "translation": "72-nn   Ces octets figurent dans le message uniquement si n>1, nn = 72+12(n-1)+12(NC-1)",
+    "count": 1
+  },
+  "as octets (60+12(nc-1)) to (71+12(nc-1)), next innermost step of processing|||en|||fr": {
+    "translation": "Même contenu que les octets (60+12(NC-1)) à (71+12(NC-1)), pour l'étape suivante du calcul",
+    "count": 1
+  },
+  "additional time range specifications, included in accordance with the value of n. contents as octets (60+12(nc -1)) to (71+12(nc -1)), repeated as necessary|||en|||fr": {
+    "translation": "Spécifications des intervalles de temps supplémentaires, incluses en fonction de la valeur de n. Le contenu est le même que celui des octets (60+12(NC-1)) à (71+12(NC-1)), répétés au besoin",
+    "count": 1
+  },
+  "individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for optical properties of aerosol with source or sink|||en|||fr": {
+    "translation": "Modèle de définition du produit 4.81 – Prévision d'ensemble prise séparément, de contrôle ou «perturbée», pour une surface ou une couche horizontale, à un moment donné, relative aux propriétés optiques des aérosols",
+    "count": 30
+  },
+  "stretched and rotated latitude/longitude (or equidistant cylindrical, or plate carrée)|||en|||fr": {
+    "translation": "Modèle de définition de la grille 3.3 — Projection latitude/longitude (ou équidistante cylindrique, ou Plate Carrée) après dilatation et rotation",
+    "count": 8
+  },
+  "number of bits required to hold the resulting scaled and referenced data values|||en|||fr": {
+    "translation": "Nombre de bits requis pour les valeurs des données découlant des étapes précédentes (facteur d'échelle et valeur de référence)",
+    "count": 1
+  },
+  "ccsds compression options mask|||en|||fr": {
+    "translation": "Masque d'options du CCSDS pour la compression",
+    "count": 1
+  },
+  "block size|||en|||fr": {
+    "translation": "Longueur de bloc",
+    "count": 1
+  },
+  "reference sample interval|||en|||fr": {
+    "translation": "Nombre de blocs",
+    "count": 1
+  },
+  "individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval for aerosol|||en|||fr": {
+    "translation": "Modèle de définition du produit 4.47 — Prévision d'ensemble prise séparément, de contrôle ou «perturbée», pour une surface ou une couche horizontale, durant un intervalle de temps continu ou non, relative aux aérosols",
+    "count": 42
+  },
+  "as octets 63 to 74, next innermost step of processing|||en|||fr": {
+    "translation": "Même contenu que les octets 63 à 74, pour l'étape suivante du calcul",
+    "count": 1
+  },
+  "first value(s) of original (undifferenced) scaled data values, followed by the overall minimum of the differences. the number of values stored is 1 greater than the order of differentiation, and the field width is described at octet 49 of data representation template 5.3|||en|||fr": {
+    "translation": "Première(s) valeur(s) parmi les valeurs ajustées des données (sans différenciation), suivie(s) par le minimum absolu des différences. Le nombre de valeurs enregistrées est égal à l'ordre de différenciation plus 1 et la largeur du champ est indiquée par l'octet 49 du modèle de représentation des données 5.3",
+    "count": 1
+  },
+  "ng group reference values (x1 in the decoding formula), each of which is encoded using the number of bits specified in octet 20 of data representation template 5.0. bits set to zero shall be appended where necessary to ensure this sequence of numbers ends on an octet boundary|||en|||fr": {
+    "translation": "Valeurs de référence des NG groupes (X1 dans la formule de décodage), chacune de ces valeurs étant codée sur le nombre de bits spécifié à l'octet 20 du modèle de représentation des données 5.0. Il convient d'ajouter le nombre nécessaire de bits mis à 0 pour que la suite de nombres se termine à la fin d'un octet.",
+    "count": 1
+  },
+  "same as for data representation template 7.2|||en|||fr": {
+    "translation": "Voir le modèle de représentation des données 7.2.",
+    "count": 1
+  },
+  "calendar definition and paleontological offset|||en|||fr": {
+    "translation": "Modèle d'identification 1.2 Définition du calendrier et décalage paléontologique",
+    "count": 2
+  },
+  "post-processing average, accumulation, extreme values or other statistically processed values at a horizontal level or in a horizontal layer in a continuous or non-continuous time interval|||en|||fr": {
+    "translation": "Modèle de définition du produit 4.72 Valeurs moyennes post-traitement, cumulées et/ou extrêmes, ou autres valeurs statistiques, pour une surface ou une couche horizontale, durant un intervalle de temps continu ou non",
+    "count": 36
+  },
+  "15-   repeat the following 10 octets for each contributing band (nb = 1, nb)|||en|||fr": {
+    "translation": "15-   Répéter les dix octets qui suivent pour chaque bande prise en compte (nb = 1, NB)",
+    "count": 1
+  },
+  "stretched and rotated spherical harmonic coefficients|||en|||fr": {
+    "translation": "Modèle de définition de la grille 3.53 — Coefficients harmoniques sphériques après dilatation et rotation",
+    "count": 7
+  },
+  "latitude of pole of stretching|||en|||fr": {
+    "translation": "Latitude du pôle de dilatation",
+    "count": 1
+  },
+  "longitude of pole of stretching|||en|||fr": {
+    "translation": "Longitude du pôle de dilatation",
+    "count": 1
+  },
+  "gaussian latitude/longitude|||en|||fr": {
+    "translation": "Modèle de définition de la grille 3.40 — Grille gaussienne latitude/longitude",
+    "count": 20
+  },
+  "n - number of parallels between a pole and the equator|||en|||fr": {
+    "translation": "N - nombre de parallèles entre un pôle et l'équateur",
+    "count": 1
+  },
+  "(see notes 4 and 6)|||en|||fr": {
+    "translation": "(ces octets ne s'appliquent qu'aux grilles quasi régulières dont il est question dans la note 4)",
+    "count": 1
+  },
+  "real part of (0.0) coefficient (ieee 32-bit floating-point value)|||en|||fr": {
+    "translation": "Partie réelle du coefficient (0,0) (valeur en virgule flottante IEEE 32 bits)",
+    "count": 1
+  },
+  "spectral polar stereographic with modelling subdomains definition|||en|||fr": {
+    "translation": "Modèle de définition de la grille 3.62 — Représentation spectrale en projection stéréographique polaire avec définition des sous-domaines de modélisation",
+    "count": 23
+  },
+  "individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for atmospheric chemical constituents based on a distribution function|||en|||fr": {
+    "translation": "Modèle de définition du produit 4.58 Prévision d'ensemble prise séparément, de contrôle ou «perturbée», pour une surface ou une couche horizontale, à un moment donné, relative aux constituants chimiques de l'atmosphère et fondée sur une fonction de distribution",
+    "count": 26
+  },
+  "(see code table 4.240)|||en|||fr": {
+    "translation": "(voir la table de code 4.240)",
+    "count": 2
+  },
+  "number of bits required to hold the resulting scaled and referenced data values (i.e. depth of the image)|||en|||fr": {
+    "translation": "Nombre de bits requis pour les valeurs des données découlant des étapes précédentes (facteur d'échelle et valeur de référence). )",
+    "count": 1
+  },
+  "spectral mercator with modelling subdomains definition|||en|||fr": {
+    "translation": "Modèle de définition de la grille 3.61 — Représentation spectrale en projection de Mercator avec définition des sous-domaines de modélisation",
+    "count": 23
+  },
+  "orientation of the grid, angle between i-direction on the map and the equator|||en|||fr": {
+    "translation": "Orientation de la grille, angle entre la direction i sur la carte et l'équateur",
+    "count": 1
+  },
+  "post-processing individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time|||en|||fr": {
+    "translation": "Modèle de définition du produit 4.71 Prévision d'ensemble post-traitement prise séparément, de contrôle ou «perturbée», pour une surface ou une couche horizontale, à un moment donné",
+    "count": 21
+  },
+  "analysis or forecast at a horizontal level or in a horizontal layer at a point in time for atmospheric chemical constituents based on a distribution function|||en|||fr": {
+    "translation": "Modèle de définition du produit 4.57 – Analyse ou prévision pour une surface ou une couche horizontale, à un moment donné, relative aux constituants chimiques de l'atmosphère, fondée sur une fonction de distribution",
+    "count": 23
+  },
+  "repeat the following 5 octets for the number of function parameters (n = 1,np), if np > 0|||en|||fr": {
+    "translation": "Répéter les 5 octets qui suivent pour le nombre de paramètres de fonction (n = 1, Np), si Np > 0",
+    "count": 1
+  },
+  "individual ensemble forecast, control and perturbed, at a horizontal level or in a horizontal layer at a point in time for atmospheric chemical constituents with source or sink|||en|||fr": {
+    "translation": "Modèle de définition du produit 4.77 Prévision d'ensemble prise séparément, de contrôle ou «perturbée», pour une surface ou une couche horizontale, à un moment donné, relative aux constituants chimiques de l'atmosphère",
+    "count": 20
+  }
+}
