@@ -1,13 +1,13 @@
 ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
-grib2/4/336/1,modèle NWP,,1,,"AROME (modèle de prévision numérique à méso-échelle, Météo-France)",,,,Operational,AI Engine
-grib2/4/336/2,modèle NWP,,2,,"ARPEGE (Prévision numérique du temps à l'échelle mondiale, Météo-France)",,,,Operational,AI Engine
-grib2/4/336/3,modèle NWP,,3,,"Système de prévision global (GFS, NCEP)",,,,Operational,AI Engine
-grib2/4/336/4,modèle NWP,,4,,HARMONIE (Recherche HIRLAM-ALADIN sur la prévision numérique opérationnelle à méso-échelle),,,,Operational,AI Engine
-grib2/4/336/5,modèle NWP,,5,,HIRLAM (Modèle à aire limitée haute résolution),,,,Operational,AI Engine
-grib2/4/336/6,modèle NWP,,6,,IFS (Système de Prévision Intégré),,,,Operational,AI Engine
-grib2/4/336/7,modèle NWP,,7,,GEM GDPS (Système canadien de prévision déterministe globale),,,,Operational,AI Engine
-grib2/4/336/8,modèle NWP,,8,,Système de Prévision Déterministe Régional Canadien (GEM RDPS),,,,Operational,AI Engine
-grib2/4/336/9,modèle NWP,,9,,Système de Prévision Déterministe à Haute Résolution GEM HRDPS (Canada),,,,Operational,AI Engine
-grib2/4/336/10,modèle NWP,,10,,WRF (Recherche et Prévision Météorologique),,,,Operational,AI Engine
-grib2/4/336/11-254,modèle NWP,,11-254,,En réserve,,,,Operational,AI Engine
-grib2/4/336/255,modèle NWP,,255,,Valeur manquante,,,,Operational,AI Engine
+grib2/4/336/1,modèle NWP,,1,,"AROME (modèle de prévision numérique à méso-échelle, Météo-France)",,,,Operational,AI
+grib2/4/336/2,modèle NWP,,2,,"ARPEGE (Prévision numérique du temps à l'échelle mondiale, Météo-France)",,,,Operational,AI
+grib2/4/336/3,modèle NWP,,3,,"Système de prévision global (GFS, NCEP)",,,,Operational,AI
+grib2/4/336/4,modèle NWP,,4,,HARMONIE (Recherche HIRLAM-ALADIN sur la prévision numérique opérationnelle à méso-échelle),,,,Operational,AI
+grib2/4/336/5,modèle NWP,,5,,HIRLAM (Modèle à aire limitée haute résolution),,,,Operational,AI
+grib2/4/336/6,modèle NWP,,6,,IFS (Système de Prévision Intégré),,,,Operational,AI
+grib2/4/336/7,modèle NWP,,7,,GEM GDPS (Système canadien de prévision déterministe globale),,,,Operational,AI
+grib2/4/336/8,modèle NWP,,8,,Système de Prévision Déterministe Régional Canadien (GEM RDPS),,,,Operational,AI
+grib2/4/336/9,modèle NWP,,9,,Système de Prévision Déterministe à Haute Résolution GEM HRDPS (Canada),,,,Operational,AI
+grib2/4/336/10,modèle NWP,,10,,WRF (Recherche et Prévision Météorologique),,,,Operational,AI
+grib2/4/336/11-254,modèle NWP,,11-254,,En réserve,,,,Operational,AI
+grib2/4/336/255,modèle NWP,,255,,Valeur manquante,,,,Operational,AI

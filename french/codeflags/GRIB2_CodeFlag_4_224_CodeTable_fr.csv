@@ -1,18 +1,18 @@
 ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
-grib2/4/224/0,Table de code 4.224 – Perspective catégorielle,,0,,Zone présentant un risque nul,,,,Operational,Original
-grib2/4/224/1,Table de code 4.224 – Perspective catégorielle,,1,,En réserve,,,,Operational,Original
-grib2/4/224/2,Table de code 4.224 – Perspective catégorielle,,2,,Zone présentant un risque d'orage ordinaire,,,,Operational,Original
-grib2/4/224/3,Table de code 4.224 – Perspective catégorielle,,3,,En réserve,,,,Operational,Original
-grib2/4/224/4,Table de code 4.224 – Perspective catégorielle,,4,,Zone présentant un risque faible,,,,Operational,Original
-grib2/4/224/5,Table de code 4.224 – Perspective catégorielle,,5,,En réserve,,,,Operational,Original
-grib2/4/224/6,Table de code 4.224 – Perspective catégorielle,,6,,Zone présentant un risque modéré,,,,Operational,Original
-grib2/4/224/7,Table de code 4.224 – Perspective catégorielle,,7,,En réserve,,,,Operational,Original
-grib2/4/224/8,Table de code 4.224 – Perspective catégorielle,,8,,Zone présentant un risque élevé,,,,Operational,Original
-grib2/4/224/9-10,Table de code 4.224 – Perspective catégorielle,,9-10,,En réserve,,,,Operational,Original
-grib2/4/224/11,Table de code 4.224 – Perspective catégorielle,,11,,Zone présentant un risque d'orage (éclairs) sans précipitations,,,,Operational,Original
-grib2/4/224/12-13,Table de code 4.224 – Perspective catégorielle,,12-13,,En réserve,,,,Operational,Original
-grib2/4/224/14,Table de code 4.224 – Perspective catégorielle,,14,,Zone présentant un risque très important,,,,Operational,Original
-grib2/4/224/15-17,Table de code 4.224 – Perspective catégorielle,,15-17,,En réserve,,,,Operational,Original
-grib2/4/224/18,Table de code 4.224 – Perspective catégorielle,,18,,Zone présentant un risque extrêmement important,,,,Operational,Original
-grib2/4/224/19-254,Table de code 4.224 – Perspective catégorielle,,19-254,,En réserve,,,,Operational,Original
-grib2/4/224/255,Table de code 4.224 – Perspective catégorielle,,255,,Valeur manquante,,,,Operational,Original
+grib2/4/224/0,Table de code 4.224 – Perspective catégorielle,,0,,Zone présentant un risque nul,,,,Operational,PDF
+grib2/4/224/1,Table de code 4.224 – Perspective catégorielle,,1,,En réserve,,,,Operational,PDF
+grib2/4/224/2,Table de code 4.224 – Perspective catégorielle,,2,,Zone présentant un risque d'orage ordinaire,,,,Operational,PDF
+grib2/4/224/3,Table de code 4.224 – Perspective catégorielle,,3,,En réserve,,,,Operational,PDF
+grib2/4/224/4,Table de code 4.224 – Perspective catégorielle,,4,,Zone présentant un risque faible,,,,Operational,PDF
+grib2/4/224/5,Table de code 4.224 – Perspective catégorielle,,5,,En réserve,,,,Operational,PDF
+grib2/4/224/6,Table de code 4.224 – Perspective catégorielle,,6,,Zone présentant un risque modéré,,,,Operational,PDF
+grib2/4/224/7,Table de code 4.224 – Perspective catégorielle,,7,,En réserve,,,,Operational,PDF
+grib2/4/224/8,Table de code 4.224 – Perspective catégorielle,,8,,Zone présentant un risque élevé,,,,Operational,PDF
+grib2/4/224/9-10,Table de code 4.224 – Perspective catégorielle,,9-10,,En réserve,,,,Operational,PDF
+grib2/4/224/11,Table de code 4.224 – Perspective catégorielle,,11,,Zone présentant un risque d'orage (éclairs) sans précipitations,,,,Operational,PDF
+grib2/4/224/12-13,Table de code 4.224 – Perspective catégorielle,,12-13,,En réserve,,,,Operational,PDF
+grib2/4/224/14,Table de code 4.224 – Perspective catégorielle,,14,,Zone présentant un risque très important,,,,Operational,PDF
+grib2/4/224/15-17,Table de code 4.224 – Perspective catégorielle,,15-17,,En réserve,,,,Operational,PDF
+grib2/4/224/18,Table de code 4.224 – Perspective catégorielle,,18,,Zone présentant un risque extrêmement important,,,,Operational,PDF
+grib2/4/224/19-254,Table de code 4.224 – Perspective catégorielle,,19-254,,En réserve,,,,Operational,PDF
+grib2/4/224/255,Table de code 4.224 – Perspective catégorielle,,255,,Valeur manquante,,,,Operational,PDF

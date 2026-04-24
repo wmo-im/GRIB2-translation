@@ -1,7 +1,7 @@
 ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
-grib2/4/122/0,Type d'arguments supplémentaires pour le score de vérification,,0,,Valeur seuil fixe,,,,Operational,AI Engine
-grib2/4/122/1,Type d'arguments supplémentaires pour le score de vérification,,1,,Seuil spécifié comme un quantile de la climatologie,,,,Operational,AI Engine
-grib2/4/122/2,Type d'arguments supplémentaires pour le score de vérification,,2,,Seuil spécifié comme un multiple de l'écart type,,,,Operational,AI Engine
-grib2/4/122/3-191,Type d'arguments supplémentaires pour le score de vérification,,3-191,,En réserve,,,,Operational,AI Engine
-grib2/4/122/192-254,Type d'arguments supplémentaires pour le score de vérification,,192-254,,En réserve pour un usage local,,,,Operational,AI Engine
-grib2/4/122/255,Type d'arguments supplémentaires pour le score de vérification,,255,,Valeur manquante,,,,Operational,AI Engine
+grib2/4/122/0,Type d'arguments supplémentaires pour le score de vérification,,0,,Valeur seuil fixe,,,,Operational,AI
+grib2/4/122/1,Type d'arguments supplémentaires pour le score de vérification,,1,,Seuil spécifié comme un quantile de la climatologie,,,,Operational,AI
+grib2/4/122/2,Type d'arguments supplémentaires pour le score de vérification,,2,,Seuil spécifié comme un multiple de l'écart type,,,,Operational,AI
+grib2/4/122/3-191,Type d'arguments supplémentaires pour le score de vérification,,3-191,,En réserve,,,,Operational,AI
+grib2/4/122/192-254,Type d'arguments supplémentaires pour le score de vérification,,192-254,,En réserve pour un usage local,,,,Operational,AI
+grib2/4/122/255,Type d'arguments supplémentaires pour le score de vérification,,255,,Valeur manquante,,,,Operational,AI

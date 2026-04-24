@@ -1,15 +1,15 @@
 ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
-grib2/4/104/0,Traitement de la proximité spatiale et temporelle,,0,,Moyenne,,,,Operational,AI Engine
-grib2/4/104/1,Traitement de proximité spatiale et temporelle,,1,,En réserve,,,,Operational,AI Engine
-grib2/4/104/2,Traitement de proximité spatiale et temporelle,,2,,Maximum,,,,Operational,AI Engine
-grib2/4/104/3,Traitement de la proximité spatiale et temporelle,,3,,Minimum,,,,Operational,AI Engine
-grib2/4/104/4,Traitement de la proximité spatiale et temporelle,,4,,Plage,,,,Operational,AI Engine
-grib2/4/104/5,Traitement de la proximité spatiale et temporelle,,5,,En réserve,,,,Operational,AI Engine
-grib2/4/104/6,Traitement de la proximité spatiale et temporelle,,6,,Écart type,,,,Operational,AI Engine
-grib2/4/104/7-10,Traitement de la proximité spatiale et temporelle,,7-10,,En réserve,,,,Operational,AI Engine
-grib2/4/104/11,Traitement de la proximité spatiale et temporelle,,11,,Somme,,,,Operational,AI Engine
-grib2/4/104/12-189,Traitement de la proximité spatiale et temporelle,,12-189,,En réserve,,,,Operational,AI Engine
-grib2/4/104/190,Traitement de la proximité spatiale et temporelle,,190,,Quantile,"(Le chiffre du code 5 s'applique au moment où un seul sous-intervalle de temps a été utilisé pour effectuer le calcul dans le domaine traité statistiquement. Les heures exactes de début et de fin du sous-intervalle ne sont pas données, mais l'on sait qu'elles sont comprises entre le début et la fin de l'intervalle de temps complet.)",153,,Opertional,AI Engine
-grib2/4/104/191,Traitement de la proximité spatiale et temporelle,,191,,Catégorique (booléen),,,,Operational,AI Engine
-grib2/4/104/192-254,Traitement de la proximité spatiale et temporelle,,192-254,,En réserve pour un usage local,,,,Operational,AI Engine
-grib2/4/104/255,Traitement de la proximité spatiale et temporelle,,255,,Valeur manquante,,,,Operational,AI Engine
+grib2/4/104/0,Traitement de la proximité spatiale et temporelle,,0,,Moyenne,,,,Operational,AI
+grib2/4/104/1,Traitement de proximité spatiale et temporelle,,1,,En réserve,,,,Operational,AI
+grib2/4/104/2,Traitement de proximité spatiale et temporelle,,2,,Maximum,,,,Operational,AI
+grib2/4/104/3,Traitement de la proximité spatiale et temporelle,,3,,Minimum,,,,Operational,AI
+grib2/4/104/4,Traitement de la proximité spatiale et temporelle,,4,,Plage,,,,Operational,AI
+grib2/4/104/5,Traitement de la proximité spatiale et temporelle,,5,,En réserve,,,,Operational,AI
+grib2/4/104/6,Traitement de la proximité spatiale et temporelle,,6,,Écart type,,,,Operational,AI
+grib2/4/104/7-10,Traitement de la proximité spatiale et temporelle,,7-10,,En réserve,,,,Operational,AI
+grib2/4/104/11,Traitement de la proximité spatiale et temporelle,,11,,Somme,,,,Operational,AI
+grib2/4/104/12-189,Traitement de la proximité spatiale et temporelle,,12-189,,En réserve,,,,Operational,AI
+grib2/4/104/190,Traitement de la proximité spatiale et temporelle,,190,,Quantile,"(Le chiffre du code 5 s'applique au moment où un seul sous-intervalle de temps a été utilisé pour effectuer le calcul dans le domaine traité statistiquement. Les heures exactes de début et de fin du sous-intervalle ne sont pas données, mais l'on sait qu'elles sont comprises entre le début et la fin de l'intervalle de temps complet.)",153,,Opertional,AI
+grib2/4/104/191,Traitement de la proximité spatiale et temporelle,,191,,Catégorique (booléen),,,,Operational,AI
+grib2/4/104/192-254,Traitement de la proximité spatiale et temporelle,,192-254,,En réserve pour un usage local,,,,Operational,AI
+grib2/4/104/255,Traitement de la proximité spatiale et temporelle,,255,,Valeur manquante,,,,Operational,AI

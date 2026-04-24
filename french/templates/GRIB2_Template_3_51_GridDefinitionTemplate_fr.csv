@@ -1,5 +1,5 @@
 ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translation_source
-grib2/3/51/15-28,Modèle de définition de la grille 3.51 — Coefficients harmoniques sphériques après rotation,15-28,14,Voir le modèle de définition de la grille 3.50,,,,,Operational,Original
-grib2/3/51/29-32,Modèle de définition de la grille 3.51 — Coefficients harmoniques sphériques après rotation,29-32,4,Latitude du pôle Sud de la projection,,,,,Operational,Original
-grib2/3/51/33-36,Modèle de définition de la grille 3.51 — Coefficients harmoniques sphériques après rotation,33-36,4,Longitude du pôle Sud de la projection,,,,,Operational,Original
-grib2/3/51/37-40,Modèle de définition de la grille 3.51 — Coefficients harmoniques sphériques après rotation,37-40,4,Angle de rotation de la projection,,,,,Operational,Original
+grib2/3/51/15-28,Modèle de définition de la grille 3.51 — Coefficients harmoniques sphériques après rotation,15-28,14,Voir le modèle de définition de la grille 3.50,,,,,Operational,PDF
+grib2/3/51/29-32,Modèle de définition de la grille 3.51 — Coefficients harmoniques sphériques après rotation,29-32,4,Latitude du pôle Sud de la projection,,,,,Operational,PDF
+grib2/3/51/33-36,Modèle de définition de la grille 3.51 — Coefficients harmoniques sphériques après rotation,33-36,4,Longitude du pôle Sud de la projection,,,,,Operational,PDF
+grib2/3/51/37-40,Modèle de définition de la grille 3.51 — Coefficients harmoniques sphériques après rotation,37-40,4,Angle de rotation de la projection,,,,,Operational,PDF

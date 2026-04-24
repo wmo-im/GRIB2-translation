@@ -1,14 +1,14 @@
 ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
-grib2/4/6/0,Table de code 4.6 – Type de la prévision d'ensemble,,0,,Prévision de contrôle à haute résolution sans «perturbation»,,,,Operational,Original
-grib2/4/6/1,Table de code 4.6 – Type de la prévision d'ensemble,,1,,Prévision de contrôle à basse résolution sans «perturbation»,,,,Operational,Original
-grib2/4/6/2,Table de code 4.6 – Type de la prévision d'ensemble,,2,,Prévision avec «perturbation» négative,,,,Operational,Original
-grib2/4/6/3,Table de code 4.6 – Type de la prévision d'ensemble,,3,,Prévision avec «perturbation» positive,,,,Operational,Original
-grib2/4/6/4,Table de code 4.6 – Type de la prévision d'ensemble,,4,,Prévision multimodèle,,,,Operational,Original
-grib2/4/6/5,Table de code 4.6 – Type de la prévision d'ensemble,,5,,Prévision non perturbée,,,,Operational,AI Engine
-grib2/4/6/6,Table de code 4.6 – Type de la prévision d'ensemble,,6,,Prévision perturbée,,,,Operationaal,AI Engine
-grib2/4/6/7,Table de code 4.6 – Type de la prévision d'ensemble,,7,,Perturbations des conditions initiales,(Les chiffres du code 12 et 13 sont à utiliser dans les cas où les résultats d'une analyse ou d'une prévision initiale ont reçu un post-traitement substantiel et que les chiffres du code 0 et 2 ne sont alors pas suffisamment précis.),160,,Operational,AI Engine
-grib2/4/6/8,Table de code 4.6 – Type de la prévision d'ensemble,,8,,Perturbations de la physique du modèle,((voir la note 2)),165,,Operational,AI Engine
-grib2/4/6/9,Table de code 4.6 – Type de la prévision d'ensemble,,9,,Conditions initiales et perturbations de la physique du modèle,((voir la note 3)),161,,Operational,AI Engine
-grib2/4/6/10-191,Table de code 4.6 – Type de la prévision d'ensemble,,10-191,,En réserve,,,,Operational,AI Engine
-grib2/4/6/192-254,Table de code 4.6 – Type de la prévision d'ensemble,,192-254,,En réserve pour un usage local,,,,Operational,Original
-grib2/4/6/255,Table de code 4.6 – Type de la prévision d'ensemble,,255,,Valeur manquante,,,,Operational,Original
+grib2/4/6/0,Table de code 4.6 – Type de la prévision d'ensemble,,0,,Prévision de contrôle à haute résolution sans «perturbation»,,,,Operational,PDF
+grib2/4/6/1,Table de code 4.6 – Type de la prévision d'ensemble,,1,,Prévision de contrôle à basse résolution sans «perturbation»,,,,Operational,PDF
+grib2/4/6/2,Table de code 4.6 – Type de la prévision d'ensemble,,2,,Prévision avec «perturbation» négative,,,,Operational,PDF
+grib2/4/6/3,Table de code 4.6 – Type de la prévision d'ensemble,,3,,Prévision avec «perturbation» positive,,,,Operational,PDF
+grib2/4/6/4,Table de code 4.6 – Type de la prévision d'ensemble,,4,,Prévision multimodèle,,,,Operational,PDF
+grib2/4/6/5,Table de code 4.6 – Type de la prévision d'ensemble,,5,,Prévision non perturbée,,,,Operational,AI
+grib2/4/6/6,Table de code 4.6 – Type de la prévision d'ensemble,,6,,Prévision perturbée,,,,Operationaal,AI
+grib2/4/6/7,Table de code 4.6 – Type de la prévision d'ensemble,,7,,Perturbations des conditions initiales,(Les chiffres du code 12 et 13 sont à utiliser dans les cas où les résultats d'une analyse ou d'une prévision initiale ont reçu un post-traitement substantiel et que les chiffres du code 0 et 2 ne sont alors pas suffisamment précis.),160,,Operational,AI
+grib2/4/6/8,Table de code 4.6 – Type de la prévision d'ensemble,,8,,Perturbations de la physique du modèle,((voir la note 2)),165,,Operational,AI
+grib2/4/6/9,Table de code 4.6 – Type de la prévision d'ensemble,,9,,Conditions initiales et perturbations de la physique du modèle,((voir la note 3)),161,,Operational,AI
+grib2/4/6/10-191,Table de code 4.6 – Type de la prévision d'ensemble,,10-191,,En réserve,,,,Operational,AI
+grib2/4/6/192-254,Table de code 4.6 – Type de la prévision d'ensemble,,192-254,,En réserve pour un usage local,,,,Operational,PDF
+grib2/4/6/255,Table de code 4.6 – Type de la prévision d'ensemble,,255,,Valeur manquante,,,,Operational,PDF

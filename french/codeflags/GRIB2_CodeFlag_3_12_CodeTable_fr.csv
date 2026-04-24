@@ -1,6 +1,6 @@
 ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
-grib2/3/12/0,Classement des rhomboïdes ou des points HEALPix,,0,,Ordonnancement des anneaux,,,,Operational,AI Engine
-grib2/3/12/1,Ordonnancement des rhomboïdes ou des points HEALPix,,1,,Ordonnancement imbriqué,,,,Operational,AI Engine
-grib2/3/12/2-191,Le classement des rhomboïdes ou des points HEALPix,,2-191,,En réserve,,,,Operational,AI Engine
-grib2/3/12/192-254,Ordonnancement des rhomboïdes ou des points HEALPix,,192-254,,En réserve pour un usage local,,,,Operational,AI Engine
-grib2/3/12/255,Ordonnancement des rhomboïdes ou des points HEALPix,,255,,Valeur manquante,,,,Operational,AI Engine
+grib2/3/12/0,Classement des rhomboïdes ou des points HEALPix,,0,,Ordonnancement des anneaux,,,,Operational,AI
+grib2/3/12/1,Ordonnancement des rhomboïdes ou des points HEALPix,,1,,Ordonnancement imbriqué,,,,Operational,AI
+grib2/3/12/2-191,Le classement des rhomboïdes ou des points HEALPix,,2-191,,En réserve,,,,Operational,AI
+grib2/3/12/192-254,Ordonnancement des rhomboïdes ou des points HEALPix,,192-254,,En réserve pour un usage local,,,,Operational,AI
+grib2/3/12/255,Ordonnancement des rhomboïdes ou des points HEALPix,,255,,Valeur manquante,,,,Operational,AI

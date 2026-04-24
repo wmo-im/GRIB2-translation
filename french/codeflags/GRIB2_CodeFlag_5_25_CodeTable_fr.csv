@@ -1,9 +1,9 @@
 ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
-grib2/5/25/0-76,Table de code 5.25 – Type de sous-troncature avec transformée de Fourier 2D,,0-76,,En réserve,,,,Operational,Original
-grib2/5/25/77,Table de code 5.25 – Type de sous-troncature avec transformée de Fourier 2D,,77,,Rectangulaire,,,,Operational,Original
-grib2/5/25/78-87,Table de code 5.25 – Type de sous-troncature avec transformée de Fourier 2D,,78-87,,En réserve,,,,Operational,Original
-grib2/5/25/88,Table de code 5.25 – Type de sous-troncature avec transformée de Fourier 2D,,88,,Elliptique,,,,Operational,Original
-grib2/5/25/89-98,Table de code 5.25 – Type de sous-troncature avec transformée de Fourier 2D,,89-98,,En réserve,,,,Operational,Original
-grib2/5/25/99,Table de code 5.25 – Type de sous-troncature avec transformée de Fourier 2D,,99,,En losange,,,,Operational,Original
-grib2/5/25/100-254,Table de code 5.25 – Type de sous-troncature avec transformée de Fourier 2D,,100-254,,En réserve,,,,Operational,Original
-grib2/5/25/255,Table de code 5.25 – Type de sous-troncature avec transformée de Fourier 2D,,255,,Valeur manquante,,,,Operational,Original
+grib2/5/25/0-76,Table de code 5.25 – Type de sous-troncature avec transformée de Fourier 2D,,0-76,,En réserve,,,,Operational,PDF
+grib2/5/25/77,Table de code 5.25 – Type de sous-troncature avec transformée de Fourier 2D,,77,,Rectangulaire,,,,Operational,PDF
+grib2/5/25/78-87,Table de code 5.25 – Type de sous-troncature avec transformée de Fourier 2D,,78-87,,En réserve,,,,Operational,PDF
+grib2/5/25/88,Table de code 5.25 – Type de sous-troncature avec transformée de Fourier 2D,,88,,Elliptique,,,,Operational,PDF
+grib2/5/25/89-98,Table de code 5.25 – Type de sous-troncature avec transformée de Fourier 2D,,89-98,,En réserve,,,,Operational,PDF
+grib2/5/25/99,Table de code 5.25 – Type de sous-troncature avec transformée de Fourier 2D,,99,,En losange,,,,Operational,PDF
+grib2/5/25/100-254,Table de code 5.25 – Type de sous-troncature avec transformée de Fourier 2D,,100-254,,En réserve,,,,Operational,PDF
+grib2/5/25/255,Table de code 5.25 – Type de sous-troncature avec transformée de Fourier 2D,,255,,Valeur manquante,,,,Operational,PDF

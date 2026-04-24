@@ -1,17 +1,17 @@
 ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
-grib2/4/239/0,Type de zone humide,,0,,En réserve,,,,Operational,AI Engine
-grib2/4/239/1,Type de zone humide,,1,,Bog,,,,Operational,AI Engine
-grib2/4/239/2,Type de zone humide,,2,,Épuisé,,,,Operational,AI Engine
-grib2/4/239/3,Type de zone humide,,3,,Fen,,,,Operational,AI Engine
-grib2/4/239/4,Type de zone humide,,4,,Plaine inondable,,,,Operational,AI Engine
-grib2/4/239/5,Type de zone humide,,5,,Mangrove,,,,Operational,AI Engine
-grib2/4/239/6,Type de zone humide,,6,,Marsh,,,,Operational,AI Engine
-grib2/4/239/7,Type de zone humide,,7,,Riz,,,,Operational,AI Engine
-grib2/4/239/8,Type de zone humide,,8,,Fluvial,,,,Operational,AI Engine
-grib2/4/239/9,Type de zone humide,,9,,Marais salé,,,,Operational,AI Engine
-grib2/4/239/10,Type de zone humide,,10,,Marais,,,,Operational,AI Engine
-grib2/4/239/11,Type de zone humide,,11,,Upland,,,,Operational,AI Engine
-grib2/4/239/12,Type de zone humide,,12,,Toundra humide,,,,Operational,AI Engine
-grib2/4/239/13-191,Type de zone humide,,13-191,,En réserve,,,,Operational,AI Engine
-grib2/4/239/192-254,Type de zone humide,,192-254,,En réserve pour un usage local,,,,Operational,AI Engine
-grib2/4/239/255,Type de zone humide,,255,,Valeur manquante,,,,Operational,AI Engine
+grib2/4/239/0,Type de zone humide,,0,,En réserve,,,,Operational,AI
+grib2/4/239/1,Type de zone humide,,1,,Bog,,,,Operational,AI
+grib2/4/239/2,Type de zone humide,,2,,Épuisé,,,,Operational,AI
+grib2/4/239/3,Type de zone humide,,3,,Fen,,,,Operational,AI
+grib2/4/239/4,Type de zone humide,,4,,Plaine inondable,,,,Operational,AI
+grib2/4/239/5,Type de zone humide,,5,,Mangrove,,,,Operational,AI
+grib2/4/239/6,Type de zone humide,,6,,Marsh,,,,Operational,AI
+grib2/4/239/7,Type de zone humide,,7,,Riz,,,,Operational,AI
+grib2/4/239/8,Type de zone humide,,8,,Fluvial,,,,Operational,AI
+grib2/4/239/9,Type de zone humide,,9,,Marais salé,,,,Operational,AI
+grib2/4/239/10,Type de zone humide,,10,,Marais,,,,Operational,AI
+grib2/4/239/11,Type de zone humide,,11,,Upland,,,,Operational,AI
+grib2/4/239/12,Type de zone humide,,12,,Toundra humide,,,,Operational,AI
+grib2/4/239/13-191,Type de zone humide,,13-191,,En réserve,,,,Operational,AI
+grib2/4/239/192-254,Type de zone humide,,192-254,,En réserve pour un usage local,,,,Operational,AI
+grib2/4/239/255,Type de zone humide,,255,,Valeur manquante,,,,Operational,AI

@@ -1,8 +1,8 @@
 ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
-grib2/3/13/1/0,Mode de balayage HEALPix,,1,0,Le balayage des points s'effectue dans la direction +i (+x).,,,,Operational,AI Engine
-grib2/3/13/1/1,Mode de balayage HEALPix,,1,1,Les points balayent dans la direction -i (-x).,,,,Operational,AI Engine
-grib2/3/13/2/0,Mode de balayage HEALPix,,2,0,Le balayage des points dans la direction -j (-y),,,,Operational,AI Engine
-grib2/3/13/2/1,Mode de balayage HEALPix,,2,1,Les points balayent dans la direction +j (+y).,,,,Operational,AI Engine
-grib2/3/13/3/0,Mode de balayage HEALPix,,3,0,Les points adjacents dans la direction i (x) sont consécutifs,,,,Operational,AI Engine
-grib2/3/13/3/1,Mode de balayage HEALPix,,3,1,Les points adjacents dans la direction j (y) sont consécutifs,,,,Operational,AI Engine
-grib2/3/13/4-8,Mode de balayage HEALPix,,4-8,,En réserve,,,,Operational,AI Engine
+grib2/3/13/1/0,Mode de balayage HEALPix,,1,0,Le balayage des points s'effectue dans la direction +i (+x).,,,,Operational,AI
+grib2/3/13/1/1,Mode de balayage HEALPix,,1,1,Les points balayent dans la direction -i (-x).,,,,Operational,AI
+grib2/3/13/2/0,Mode de balayage HEALPix,,2,0,Le balayage des points dans la direction -j (-y),,,,Operational,AI
+grib2/3/13/2/1,Mode de balayage HEALPix,,2,1,Les points balayent dans la direction +j (+y).,,,,Operational,AI
+grib2/3/13/3/0,Mode de balayage HEALPix,,3,0,Les points adjacents dans la direction i (x) sont consécutifs,,,,Operational,AI
+grib2/3/13/3/1,Mode de balayage HEALPix,,3,1,Les points adjacents dans la direction j (y) sont consécutifs,,,,Operational,AI
+grib2/3/13/4-8,Mode de balayage HEALPix,,4-8,,En réserve,,,,Operational,AI

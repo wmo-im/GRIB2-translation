@@ -1,4 +1,4 @@
 ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
-grib2/4/202/0-191,Table de code 4.202 – Catégorie de l'eau précipitable,,0-191,,En réserve,,,,Operational,Original
-grib2/4/202/192-254,Table de code 4.202 – Catégorie de l'eau précipitable,,192-254,,En réserve pour un usage local,,,,Operational,Original
-grib2/4/202/255,Table de code 4.202 – Catégorie de l'eau précipitable,,255,,Valeur manquante,,,,Operational,Original
+grib2/4/202/0-191,Table de code 4.202 – Catégorie de l'eau précipitable,,0-191,,En réserve,,,,Operational,PDF
+grib2/4/202/192-254,Table de code 4.202 – Catégorie de l'eau précipitable,,192-254,,En réserve pour un usage local,,,,Operational,PDF
+grib2/4/202/255,Table de code 4.202 – Catégorie de l'eau précipitable,,255,,Valeur manquante,,,,Operational,PDF

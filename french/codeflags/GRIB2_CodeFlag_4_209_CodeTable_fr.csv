@@ -1,9 +1,9 @@
 ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
-grib2/4/209/0,Table de code 4.209 – Régime de la couche limite planétaire,,0,,En réserve,,,,Operational,Original
-grib2/4/209/1,Table de code 4.209 – Régime de la couche limite planétaire,,1,,Stable,,,,Operational,Original
-grib2/4/209/2,Table de code 4.209 – Régime de la couche limite planétaire,,2,,Turbulence d'origine mécanique,,,,Operational,Original
-grib2/4/209/3,Table de code 4.209 – Régime de la couche limite planétaire,,3,,Convection forcée,,,,Operational,Original
-grib2/4/209/4,Table de code 4.209 – Régime de la couche limite planétaire,,4,,Convection libre,,,,Operational,Original
-grib2/4/209/5-191,Table de code 4.209 – Régime de la couche limite planétaire,,5-191,,En réserve,,,,Operational,Original
-grib2/4/209/192-254,Table de code 4.209 – Régime de la couche limite planétaire,,192-254,,En réserve pour un usage local,,,,Operational,Original
-grib2/4/209/255,Table de code 4.209 – Régime de la couche limite planétaire,,255,,Valeur manquante,,,,Operational,Original
+grib2/4/209/0,Table de code 4.209 – Régime de la couche limite planétaire,,0,,En réserve,,,,Operational,PDF
+grib2/4/209/1,Table de code 4.209 – Régime de la couche limite planétaire,,1,,Stable,,,,Operational,PDF
+grib2/4/209/2,Table de code 4.209 – Régime de la couche limite planétaire,,2,,Turbulence d'origine mécanique,,,,Operational,PDF
+grib2/4/209/3,Table de code 4.209 – Régime de la couche limite planétaire,,3,,Convection forcée,,,,Operational,PDF
+grib2/4/209/4,Table de code 4.209 – Régime de la couche limite planétaire,,4,,Convection libre,,,,Operational,PDF
+grib2/4/209/5-191,Table de code 4.209 – Régime de la couche limite planétaire,,5-191,,En réserve,,,,Operational,PDF
+grib2/4/209/192-254,Table de code 4.209 – Régime de la couche limite planétaire,,192-254,,En réserve pour un usage local,,,,Operational,PDF
+grib2/4/209/255,Table de code 4.209 – Régime de la couche limite planétaire,,255,,Valeur manquante,,,,Operational,PDF
