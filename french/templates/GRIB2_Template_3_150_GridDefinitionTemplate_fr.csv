@@ -1,0 +1,14 @@
+ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translation_source
+grib2/3/150/15,Grille de pixelisation isoLatitude à aire égale hiérarchique (HEALPix),15,1,Forme de la Terre,((voir la table de code 3.2)),,3.2,,Operational,AI Engine
+grib2/3/150/16,Grille de pixelisation isoLatitude à aire égale hiérarchique (HEALPix),16,1,Facteur d'échelle du rayon de la Terre sphérique,,,,,Operational,AI Engine
+grib2/3/150/17-20,Grille de pixelisation isoLatitude à aire égale hiérarchique (HEALPix),17-20,4,Valeur ajustée du rayon de la Terre sphérique,,,,,Operational,AI Engine
+grib2/3/150/21,Grille de pixelisation isoLatitude à aire égale hiérarchique (HEALPix),21,1,Facteur d'échelle du grand axe de la Terre ellipsoïdale aplatie,,,,,Operational,AI Engine
+grib2/3/150/22-25,Grille de pixelisation isoLatitude à aire égale hiérarchique (HEALPix),22-25,4,Valeur ajustée du grand axe de la Terre ellipsoïdale aplatie,,,,,Operational,AI Engine
+grib2/3/150/26,Grille de pixelisation isoLatitude à aire égale hiérarchique (HEALPix),26,1,Facteur d'échelle du petit axe de la Terre ellipsoïdale aplatie,,,,,Operational,AI Engine
+grib2/3/150/27-30,Grille de pixelisation isoLatitude à aire égale hiérarchique (HEALPix),27-30,4,Valeur ajustée du petit axe de la Terre ellipsoïdale aplatie,,,,,Operational,AI Engine
+grib2/3/150/31,Grille de pixelisation isoLatitude à aire égale hiérarchique (HEALPix),31,1,Indicateurs de résolution et de composantes,((voir la table d'indicateurs 3.3)),,,3.3,Operational,AI Engine
+grib2/3/150/32-35,Grille de pixelisation isoLatitude à aire égale hiérarchique (HEALPix),32-35,4,nsides - nombre de côtés dans une forme de rhomboïde,((voir la note 1)),197a,,,Operational,AI Engine
+grib2/3/150/36-39,Grille de pixelisation isoLatitude à aire égale hiérarchique (HEALPix),36-39,4,Lo - Longitude de la ligne centrale du premier rhomboïde,((voir la note 2)),197b,,,Operational,AI Engine
+grib2/3/150/40,Grille de pixelisation isoLatitude à aire égale hiérarchique (HEALPix),40,1,Position des points de grille,((voir la table de code 3.8)),,,3.8,Operational,AI Engine
+grib2/3/150/41,Grille de pixelisation isoLatitude à aire égale hiérarchique (HEALPix),41,1,Ordre de numérotation,(Voir la table de codes 3.12),,,3.12,Operational,AI Engine
+grib2/3/150/42,Grille de pixelisation isoLatitude à aire égale hiérarchique (HEALPix),42,1,Mode d'exploration,(Voir le tableau des drapeaux 3.13),,,3.13,Operational,AI Engine

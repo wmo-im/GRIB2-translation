@@ -1,0 +1,22 @@
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
+grib2/4/102/0,Traitement statistique de la période de référence,,0,,Moyenne,,,,Operational,AI Engine
+grib2/4/102/1,Traitement statistique de la période de référence,,1,,Total,,,,Operational,AI Engine
+grib2/4/102/2,Traitement statistique de la période de référence,,2,,Maximum,,,,Operational,AI Engine
+grib2/4/102/3,Traitement statistique de la période de référence,,3,,Minimum,,,,Operational,AI Engine
+grib2/4/102/4,Traitement statistique de la période de référence,,4,,Médiane,,,,Operational,AI Engine
+grib2/4/102/5-19,Traitement statistique de la période de référence,,5-19,,En réserve,,,,Operational,AI Engine
+grib2/4/102/20,Traitement statistique de la période de référence,,20,,Modèle climatique,,,,Operational,AI Engine
+grib2/4/102/21,Traitement statistique de la période de référence,,21,,Indice basé sur la distribution normale,,,,Operational,AI Engine
+grib2/4/102/22,Traitement statistique de la période de référence,,22,,Indice basé sur la distribution log-normale,,,,Operational,AI Engine
+grib2/4/102/23,Traitement statistique de la période de référence,,23,,Indice basé sur la distribution log-normale généralisée,,,,Operational,AI Engine
+grib2/4/102/24,Traitement statistique de la période de référence,,24,,Indice basé sur la distribution gamma,,,,Operational,AI Engine
+grib2/4/102/25,Traitement statistique de la période de référence,,25,,Indice basé sur la distribution logistique,,,,Operational,AI Engine
+grib2/4/102/26,Traitement statistique de la période de référence,,26,,Indice basé sur la distribution log-logistique,,,,Operational,AI Engine
+grib2/4/102/27,Traitement statistique de la période de référence,,27,,Indice basé sur la distribution logistique généralisée,,,,Operational,AI Engine
+grib2/4/102/28,Traitement statistique de la période de référence,,28,,Indice basé sur la distribution de Weibull,,,,Operational,AI Engine
+grib2/4/102/29,Traitement statistique de la période de référence,,29,,Indice basé sur la distribution des valeurs extrêmes généralisée,,,,Operational,AI Engine
+grib2/4/102/30,Traitement statistique de la période de référence,,30,,Indice basé sur la distribution Pearson III,,,,Operational,AI Engine
+grib2/4/102/31,Traitement statistique de la période de référence,,31,,Indice basé sur la distribution empirique,,,,Operational,AI Engine
+grib2/4/102/32-191,Traitement statistique de la période de référence,,32-191,,En réserve,,,,Operational,AI Engine
+grib2/4/102/192-254,Traitement statistique de la période de référence,,192-254,,En réserve pour un usage local,,,,Operational,AI Engine
+grib2/4/102/255,Traitement statistique de la période de référence,,255,,Valeur manquante,,,,Operational,AI Engine

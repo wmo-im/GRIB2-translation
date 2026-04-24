@@ -1,6 +1,6 @@
 ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
-grib2/4/222/0,Table de code 4.222 – Résultat catégoriel,,0,,Non,,,,Operational,PDF
-grib2/4/222/1,Table de code 4.222 – Résultat catégoriel,,1,,Oui,,,,Operational,PDF
-grib2/4/222/2-191,Table de code 4.222 – Résultat catégoriel,,2-191,,En réserve,,,,Operational,PDF
-grib2/4/222/192-254,Table de code 4.222 – Résultat catégoriel,,192-254,,En réserve pour un usage local,,,,Operational,PDF
-grib2/4/222/255,Table de code 4.222 – Résultat catégoriel,,255,,Valeur manquante,,,,Operational,PDF
+grib2/4/222/0,Table de code 4.222 – Résultat catégoriel,,0,,Non,,,,Operational,Original
+grib2/4/222/1,Table de code 4.222 – Résultat catégoriel,,1,,Oui,,,,Operational,Original
+grib2/4/222/2-191,Table de code 4.222 – Résultat catégoriel,,2-191,,En réserve,,,,Operational,Original
+grib2/4/222/192-254,Table de code 4.222 – Résultat catégoriel,,192-254,,En réserve pour un usage local,,,,Operational,Original
+grib2/4/222/255,Table de code 4.222 – Résultat catégoriel,,255,,Valeur manquante,,,,Operational,Original

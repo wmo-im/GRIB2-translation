@@ -1,0 +1,9 @@
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
+grib2/4/121/0,Type de jeu de données de référence pour la vérification,,0,,Analyse interpolée sur la grille de prévision,,,,Operational,AI Engine
+grib2/4/121/1,Type de jeu de données de référence pour la vérification,,1,,Analyse avec prévision interpolée sur la grille d'analyse,,,,Operational,AI Engine
+grib2/4/121/2,Type de jeu de données de référence pour vérification,,2,,Analyse interpolée sur une grille commune avec la prévision mais différente de la grille originale,,,,Operational,AI Engine
+grib2/4/121/3,Type de jeu de données de référence pour la vérification,,3,,Observation maillée sur grille de prévision,,,,Operational,AI Engine
+grib2/4/121/4,Type de jeu de données de référence pour la vérification,,4,,Observation maillée avec prévision interpolée sur le maillage d'observation.,,,,Operational,AI Engine
+grib2/4/121/5-191,Type de jeu de données de référence pour la vérification,,5-191,,En réserve,,,,Operational,AI Engine
+grib2/4/121/192-254,Type de jeu de données de référence pour la vérification,,192-254,,En réserve pour un usage local,,,,Operational,AI Engine
+grib2/4/121/255,Type de jeu de données de référence pour la vérification,,255,,Valeur manquante,,,,Operational,AI Engine

@@ -1,9 +1,9 @@
 ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
-grib2/4/227/0,Table de code 4.227 – Scénario de givrage (classification temps/nuages),,0,,Aucun,,,,Operational,PDF
-grib2/4/227/1,Table de code 4.227 – Scénario de givrage (classification temps/nuages),,1,,Général,,,,Operational,PDF
-grib2/4/227/2,Table de code 4.227 – Scénario de givrage (classification temps/nuages),,2,,Convectif,,,,Operational,PDF
-grib2/4/227/3,Table de code 4.227 – Scénario de givrage (classification temps/nuages),,3,,Stratiforme,,,,Operational,PDF
-grib2/4/227/4,Table de code 4.227 – Scénario de givrage (classification temps/nuages),,4,,Givrant,,,,Operational,PDF
-grib2/4/227/5-191,Table de code 4.227 – Scénario de givrage (classification temps/nuages),,5-191,,En réserve,,,,Operational,PDF
-grib2/4/227/192-254,Table de code 4.227 – Scénario de givrage (classification temps/nuages),,192-254,,En réserve pour un usage local,,,,Operational,PDF
-grib2/4/227/255,Table de code 4.227 – Scénario de givrage (classification temps/nuages),,255,,Valeur manquante,,,,Operational,PDF
+grib2/4/227/0,Table de code 4.227 – Scénario de givrage (classification temps/nuages),,0,,Aucun,,,,Operational,Original
+grib2/4/227/1,Table de code 4.227 – Scénario de givrage (classification temps/nuages),,1,,Général,,,,Operational,Original
+grib2/4/227/2,Table de code 4.227 – Scénario de givrage (classification temps/nuages),,2,,Convectif,,,,Operational,Original
+grib2/4/227/3,Table de code 4.227 – Scénario de givrage (classification temps/nuages),,3,,Stratiforme,,,,Operational,Original
+grib2/4/227/4,Table de code 4.227 – Scénario de givrage (classification temps/nuages),,4,,Givrant,,,,Operational,Original
+grib2/4/227/5-191,Table de code 4.227 – Scénario de givrage (classification temps/nuages),,5-191,,En réserve,,,,Operational,Original
+grib2/4/227/192-254,Table de code 4.227 – Scénario de givrage (classification temps/nuages),,192-254,,En réserve pour un usage local,,,,Operational,Original
+grib2/4/227/255,Table de code 4.227 – Scénario de givrage (classification temps/nuages),,255,,Valeur manquante,,,,Operational,Original

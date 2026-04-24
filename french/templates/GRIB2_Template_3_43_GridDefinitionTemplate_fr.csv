@@ -1,9 +1,9 @@
-﻿ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translation_source
-grib2/3/43/15-72,Modèle de définition de la grille 3.43 — Grille gaussienne latitude/longitude après dilatation et rotation,15-72,58,Voir modèle de définition de la grille 3.0,(voir la note 1),,,,Operational,PDF
-grib2/3/43/73-76,Modèle de définition de la grille 3.43 — Grille gaussienne latitude/longitude après dilatation et rotation,73-76,4,Latitude du pôle Sud de la projection,,,,,Operational,PDF
-grib2/3/43/77-80,Modèle de définition de la grille 3.43 — Grille gaussienne latitude/longitude après dilatation et rotation,77-80,4,Longitude du pôle Sud de la projection,,,,,Operational,PDF
-grib2/3/43/81-84,Modèle de définition de la grille 3.43 — Grille gaussienne latitude/longitude après dilatation et rotation,81-84,4,Angle de rotation de la projection,,,,,Operational,PDF
-grib2/3/43/85-88,Modèle de définition de la grille 3.43 — Grille gaussienne latitude/longitude après dilatation et rotation,85-88,4,Latitude du pôle de dilatation,,,,,Operational,PDF
-grib2/3/43/89-92,Modèle de définition de la grille 3.43 — Grille gaussienne latitude/longitude après dilatation et rotation,89-92,4,Longitude du pôle de dilatation,,,,,Operational,PDF
-grib2/3/43/93-96,Modèle de définition de la grille 3.43 — Grille gaussienne latitude/longitude après dilatation et rotation,93-96,4,Facteur de dilatation,,,,,Operational,PDF
-grib2/3/43/97-nn,Modèle de définition de la grille 3.43 — Grille gaussienne latitude/longitude après dilatation et rotation,97-nn,,Liste de nombre de points le long de chaque méridien ou parallèle,(ces octets ne s'appliquent qu'aux grilles quasi régulières dont il est question dans la note 5),,,,Operational,PDF
+ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translation_source
+grib2/3/43/15-72,Modèle de définition de la grille 3.43 — Grille gaussienne latitude/longitude après dilatation et rotation,15-72,58,Voir modèle de définition de la grille 3.0,(voir la note 1),,,,Operational,Original
+grib2/3/43/73-76,Modèle de définition de la grille 3.43 — Grille gaussienne latitude/longitude après dilatation et rotation,73-76,4,Latitude du pôle Sud de la projection,,,,,Operational,Original
+grib2/3/43/77-80,Modèle de définition de la grille 3.43 — Grille gaussienne latitude/longitude après dilatation et rotation,77-80,4,Longitude du pôle Sud de la projection,,,,,Operational,Original
+grib2/3/43/81-84,Modèle de définition de la grille 3.43 — Grille gaussienne latitude/longitude après dilatation et rotation,81-84,4,Angle de rotation de la projection,,,,,Operational,Original
+grib2/3/43/85-88,Modèle de définition de la grille 3.43 — Grille gaussienne latitude/longitude après dilatation et rotation,85-88,4,Latitude du pôle de dilatation,,,,,Operational,Original
+grib2/3/43/89-92,Modèle de définition de la grille 3.43 — Grille gaussienne latitude/longitude après dilatation et rotation,89-92,4,Longitude du pôle de dilatation,,,,,Operational,Original
+grib2/3/43/93-96,Modèle de définition de la grille 3.43 — Grille gaussienne latitude/longitude après dilatation et rotation,93-96,4,Facteur de dilatation,,,,,Operational,Original
+grib2/3/43/97-nn,Modèle de définition de la grille 3.43 — Grille gaussienne latitude/longitude après dilatation et rotation,97-nn,,Liste de nombre de points le long de chaque méridien ou parallèle,(ces octets ne s'appliquent qu'aux grilles quasi régulières dont il est question dans la note 5),,,,Operational,Original

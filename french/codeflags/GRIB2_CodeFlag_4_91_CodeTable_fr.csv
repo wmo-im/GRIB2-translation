@@ -1,16 +1,16 @@
 ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
-grib2/4/91/0,Table de code 4.91 – Type d'intervalle,,0,,Inférieur à la première limite,,,,Operational,PDF
-grib2/4/91/1,Table de code 4.91 – Type d'intervalle,,1,,Supérieur à la deuxième limite,,,,Operational,PDF
-grib2/4/91/2,Table de code 4.91 – Type d'intervalle,,2,,Entre la première et la deuxième limite. L'intervalle comprend la première limite mais pas la deuxième,,,,Operational,PDF
-grib2/4/91/3,Table de code 4.91 – Type d'intervalle,,3,,Supérieur à la première limite,,,,Operational,PDF
-grib2/4/91/4,Table de code 4.91 – Type d'intervalle,,4,,Inférieur à la deuxième limite,,,,Operational,PDF
-grib2/4/91/5,Table de code 4.91 – Type d'intervalle,,5,,Inférieur ou égal à la première limite,,,,Operational,PDF
-grib2/4/91/6,Table de code 4.91 – Type d'intervalle,,6,,Supérieur ou égal à la deuxième limite,,,,Operational,PDF
-grib2/4/91/7,Table de code 4.91 – Type d'intervalle,,7,,Entre la première et la deuxième limite. L'intervalle comprend la première et la deuxième limite,,,,Operational,PDF
-grib2/4/91/8,Table de code 4.91 – Type d'intervalle,,8,,Supérieur ou égal à la première limite,,,,Operational,PDF
-grib2/4/91/9,Table de code 4.91 – Type d'intervalle,,9,,Inférieur ou égal à la deuxième limite,,,,Operational,PDF
-grib2/4/91/10,Table de code 4.91 – Type d'intervalle,,10,,Entre la première et la deuxième limite. L'intervalle comprend la deuxième limite mais pas la première,,,,Operational,PDF
-grib2/4/91/11,Table de code 4.91 – Type d'intervalle,,11,,Égal à la première limite,,,,Operational,PDF
-grib2/4/91/12-191,Table de code 4.91 – Type d'intervalle,,12-191,,En réserve,,,,Operational,PDF
-grib2/4/91/192-254,Table de code 4.91 – Type d'intervalle,,192-254,,En réserve pour un usage local,,,,Operational,PDF
-grib2/4/91/255,Table de code 4.91 – Type d'intervalle,,255,,Valeur manquante,,,,Operational,PDF
+grib2/4/91/0,Table de code 4.91 – Type d'intervalle,,0,,Inférieur à la première limite,,,,Operational,Original
+grib2/4/91/1,Table de code 4.91 – Type d'intervalle,,1,,Supérieur à la deuxième limite,,,,Operational,Original
+grib2/4/91/2,Table de code 4.91 – Type d'intervalle,,2,,Entre la première et la deuxième limite. L'intervalle comprend la première limite mais pas la deuxième,,,,Operational,Original
+grib2/4/91/3,Table de code 4.91 – Type d'intervalle,,3,,Supérieur à la première limite,,,,Operational,Original
+grib2/4/91/4,Table de code 4.91 – Type d'intervalle,,4,,Inférieur à la deuxième limite,,,,Operational,Original
+grib2/4/91/5,Table de code 4.91 – Type d'intervalle,,5,,Inférieur ou égal à la première limite,,,,Operational,Original
+grib2/4/91/6,Table de code 4.91 – Type d'intervalle,,6,,Supérieur ou égal à la deuxième limite,,,,Operational,Original
+grib2/4/91/7,Table de code 4.91 – Type d'intervalle,,7,,Entre la première et la deuxième limite. L'intervalle comprend la première et la deuxième limite,,,,Operational,Original
+grib2/4/91/8,Table de code 4.91 – Type d'intervalle,,8,,Supérieur ou égal à la première limite,,,,Operational,Original
+grib2/4/91/9,Table de code 4.91 – Type d'intervalle,,9,,Inférieur ou égal à la deuxième limite,,,,Operational,Original
+grib2/4/91/10,Table de code 4.91 – Type d'intervalle,,10,,Entre la première et la deuxième limite. L'intervalle comprend la deuxième limite mais pas la première,,,,Operational,Original
+grib2/4/91/11,Table de code 4.91 – Type d'intervalle,,11,,Égal à la première limite,,,,Operational,Original
+grib2/4/91/12-191,Table de code 4.91 – Type d'intervalle,,12-191,,En réserve,,,,Operational,Original
+grib2/4/91/192-254,Table de code 4.91 – Type d'intervalle,,192-254,,En réserve pour un usage local,,,,Operational,Original
+grib2/4/91/255,Table de code 4.91 – Type d'intervalle,,255,,Valeur manquante,,,,Operational,Original

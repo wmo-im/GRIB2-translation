@@ -1,0 +1,18 @@
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
+grib2/4/120/0,Scores de vérification,,0,,Erreur moyenne,,,,Operational,AI Engine
+grib2/4/120/1,Scores de vérification,,1,,Erreur quadratique moyenne,,,,Operational,AI Engine
+grib2/4/120/2,Scores de vérification,,2,,Score de probabilité classé en continu (CRPS),,,,Operational,AI Engine
+grib2/4/120/3,Scores de vérification,,3,,Score de probabilité classé continu équitable,,,,Operational,AI Engine
+grib2/4/120/4,Scores de vérification,,4,,Score d'ignorance logarithmique continu,,,,Operational,AI Engine
+grib2/4/120/5,Scores de vérification,,5,,Score d'ignorance logarithmique continu équitable,,,,Operational,AI Engine
+grib2/4/120/6,Scores de vérification,,6,,Score de probabilité classé,,,,Operational,AI Engine
+grib2/4/120/7-99,Scores de vérification,,7-99,,Réservé pour un usage futur,,,,Operational,AI Engine
+grib2/4/120/100,Scores de vérification,,100,,Table de contingence (déterministe) - succès,,,,Operational,AI Engine
+grib2/4/120/101,Scores de vérification,,101,,Table de contingence (déterministe) - fausses alertes,,,,Operational,AI Engine
+grib2/4/120/102,Scores de vérification,,102,,Table de contingence (déterministe) - erreurs,,,,Operational,AI Engine
+grib2/4/120/103,Scores de vérification,,103,,Table de contingence (déterministe) - négatifs corrects,,,,Operational,AI Engine
+grib2/4/120/104,Scores de vérification,,104,,Table de contingence (probabiliste) - Prévisions par n-membres et observées,,,,Operational,AI Engine
+grib2/4/120/105,Scores de vérification,,105,,Table de contingence (probabiliste) - Prévision par n membres et non observée,,,,Operational,AI Engine
+grib2/4/120/106-62999,Scores de vérification,,106-62999,,En réserve,,,,Operational,AI Engine
+grib2/4/120/63000-65534,Scores de vérification,,63000-65534,,En réserve pour un usage local,,,,Operational,AI Engine
+grib2/4/120/65535,Scores de vérification,,65535,,Valeur manquante,,,,Operational,AI Engine

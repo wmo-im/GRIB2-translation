@@ -1,7 +1,7 @@
 ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
-grib2/1/5/0,Table de code 1.5 – Numéro de modèle d'identification,,0,,Définition du calendrier,,,,Operational,PDF
-grib2/1/5/1,Table de code 1.5 – Numéro de modèle d'identification,,1,,Décalage paléontologique,,,,Operational,PDF
-grib2/1/5/2,Table de code 1.5 – Numéro de modèle d'identification,,2,,Définition du calendrier et décalage paléontologique,,,,Operational,PDF
-grib2/1/5/3-32767,Table de code 1.5 – Numéro de modèle d'identification,,3-32767,,En réserve,,,,Operational,PDF
-grib2/1/5/32768-65534,Table de code 1.5 – Numéro de modèle d'identification,,32768-65534,,En réserve pour un usage local,,,,Operational,PDF
-grib2/1/5/65535,Table de code 1.5 – Numéro de modèle d'identification,,65535,,Valeur manquante,,,,Operational,PDF
+grib2/1/5/0,Table de code 1.5 – Numéro de modèle d'identification,,0,,Définition du calendrier,,,,Operational,Original
+grib2/1/5/1,Table de code 1.5 – Numéro de modèle d'identification,,1,,Décalage paléontologique,,,,Operational,Original
+grib2/1/5/2,Table de code 1.5 – Numéro de modèle d'identification,,2,,Définition du calendrier et décalage paléontologique,,,,Operational,Original
+grib2/1/5/3-32767,Table de code 1.5 – Numéro de modèle d'identification,,3-32767,,En réserve,,,,Operational,Original
+grib2/1/5/32768-65534,Table de code 1.5 – Numéro de modèle d'identification,,32768-65534,,En réserve pour un usage local,,,,Operational,Original
+grib2/1/5/65535,Table de code 1.5 – Numéro de modèle d'identification,,65535,,Valeur manquante,,,,Operational,Original

@@ -1,5 +1,5 @@
 ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
-grib2/5/40/0,Table de code 5.40 – Type de compression,,0,,Sans perte,,,,Operational,PDF
-grib2/5/40/1,Table de code 5.40 – Type de compression,,1,,Avec perte,,,,Operational,PDF
-grib2/5/40/2-254,Table de code 5.40 – Type de compression,,2-254,,En réserve,,,,Operational,PDF
-grib2/5/40/255,Table de code 5.40 – Type de compression,,255,,Valeur manquante,,,,Operational,PDF
+grib2/5/40/0,Table de code 5.40 – Type de compression,,0,,Sans perte,,,,Operational,Original
+grib2/5/40/1,Table de code 5.40 – Type de compression,,1,,Avec perte,,,,Operational,Original
+grib2/5/40/2-254,Table de code 5.40 – Type de compression,,2-254,,En réserve,,,,Operational,Original
+grib2/5/40/255,Table de code 5.40 – Type de compression,,255,,Valeur manquante,,,,Operational,Original
