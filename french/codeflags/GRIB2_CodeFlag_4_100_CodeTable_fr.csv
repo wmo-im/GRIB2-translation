@@ -1,0 +1,10 @@
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
+grib2/4/100/0,Type de jeu de données de référence,,0,,Analyse,,,,Operational,AI Engine
+grib2/4/100/1,Type de jeu de données de référence,,1,,Prévision,,,,Operational,AI Engine
+grib2/4/100/2,Type de jeu de données de référence,,2,,Reforecast (Hindcast),,,,Operational,AI Engine
+grib2/4/100/3,Type de jeu de données de référence,,3,,Réanalyse,,,,Operational,AI Engine
+grib2/4/100/4,Type de jeu de données de référence,,4,,Projection climatique,,,,Operational,AI Engine
+grib2/4/100/5,Type de jeu de données de référence,,5,,Observations maillées,,,,Operational,AI Engine
+grib2/4/100/6-191,Type de jeu de données de référence,,6-191,,En réserve,,,,Operational,AI Engine
+grib2/4/100/192-254,Type de jeu de données de référence,,192-254,,En réserve pour un usage local,,,,Operational,AI Engine
+grib2/4/100/255,Type de jeu de données de référence,,255,,Valeur manquante,,,,Operational,AI Engine

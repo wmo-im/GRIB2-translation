@@ -1,0 +1,14 @@
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
+grib2/4/250/0,Direction de drainage,,0,,En réserve,,,,Operational,AI Engine
+grib2/4/250/1,Direction de drainage,,1,,Sud-ouest,,,,Operational,AI Engine
+grib2/4/250/2,Direction du drainage,,2,,Sud,,,,Operational,AI Engine
+grib2/4/250/3,Direction de drainage,,3,,Sud-est,,,,Operational,AI Engine
+grib2/4/250/4,Direction du drainage,,4,,Ouest,,,,Operational,AI Engine
+grib2/4/250/5,Direction du drainage,,5,,Aucune direction,,,,Operational,AI Engine
+grib2/4/250/6,Direction du drainage,,6,,Est,,,,Operational,AI Engine
+grib2/4/250/7,Direction du drainage,,7,,Nord-ouest,,,,Operational,AI Engine
+grib2/4/250/8,Direction du drainage,,8,,Nord,,,,Operational,AI Engine
+grib2/4/250/9,Direction du drainage,,9,,Nord-est,,,,Operational,AI Engine
+grib2/4/250/10-191,Direction du drainage,,10-191,,En réserve,,,,Operational,AI Engine
+grib2/4/250/192-254,Direction du drainage,,192-254,,En réserve pour un usage local,,,,Operational,AI Engine
+grib2/4/250/255,Direction du drainage,,255,,Valeur manquante,,,,Operational,AI Engine

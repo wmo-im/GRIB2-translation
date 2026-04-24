@@ -1,6 +1,6 @@
-﻿ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translation_source
-grib2/5/61/12-15,Modèle de représentation des données 5.61 — Données aux points de grille — compression simple après traitement logarithmique,12-15,4,Valeur de référence (R) (valeur en virgule flottante IEEE 32 bits),,,,,Experimental,PDF
-grib2/5/61/16-17,Modèle de représentation des données 5.61 — Données aux points de grille — compression simple après traitement logarithmique,16-17,2,Facteur d'échelle binaire (E),,,,,Experimental,PDF
-grib2/5/61/18-19,Modèle de représentation des données 5.61 — Données aux points de grille — compression simple après traitement logarithmique,18-19,2,Facteur d'échelle décimale (D),,,,,Experimental,PDF
-grib2/5/61/20,Modèle de représentation des données 5.61 — Données aux points de grille — compression simple après traitement logarithmique,20,1,Nombre de bits utilisés pour chaque valeur compressée,,,,,Experimental,PDF
-grib2/5/61/21-24,Modèle de représentation des données 5.61 — Données aux points de grille — compression simple après traitement logarithmique,21-24,4,Paramètre de traitement préalable (B) (valeur en virgule flottante IEEE 32 bits),,,,,Experimental,PDF
+ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translation_source
+grib2/5/61/12-15,Modèle de représentation des données 5.61 — Données aux points de grille — compression simple après traitement logarithmique,12-15,4,Valeur de référence (R) (valeur en virgule flottante IEEE 32 bits),,,,,Experimental,Original
+grib2/5/61/16-17,Modèle de représentation des données 5.61 — Données aux points de grille — compression simple après traitement logarithmique,16-17,2,Facteur d'échelle binaire (E),,,,,Experimental,Original
+grib2/5/61/18-19,Modèle de représentation des données 5.61 — Données aux points de grille — compression simple après traitement logarithmique,18-19,2,Facteur d'échelle décimale (D),,,,,Experimental,Original
+grib2/5/61/20,Modèle de représentation des données 5.61 — Données aux points de grille — compression simple après traitement logarithmique,20,1,Nombre de bits utilisés pour chaque valeur compressée,,,,,Experimental,Original
+grib2/5/61/21-24,Modèle de représentation des données 5.61 — Données aux points de grille — compression simple après traitement logarithmique,21-24,4,Paramètre de traitement préalable (B) (valeur en virgule flottante IEEE 32 bits),,,,,Experimental,Original

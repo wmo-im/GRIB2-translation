@@ -1,43 +1,43 @@
 ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
-grib2/4/243/0,Table de code 4.243 - Classe de dalle,,0,,En réserve,,,,Operational,PDF
-grib2/4/243/1,Table de code 4.243 - Classe de dalle,,1,,Forêt: arbres à larges feuilles persistantes,,,,Operational,PDF
-grib2/4/243/2,Table de code 4.243 - Classe de dalle,,2,,Forêt fermée: arbres à larges feuilles caduques,,,,Operational,PDF
-grib2/4/243/3,Table de code 4.243 - Classe de dalle,,3,,Forêt ouverte: arbres à larges feuilles caduques,,,,Operational,PDF
-grib2/4/243/4,Table de code 4.243 - Classe de dalle,,4,,Forêt: conifères à feuillage persistant,,,,Operational,PDF
-grib2/4/243/5,Table de code 4.243 - Classe de dalle,,5,,Forêt: conifères à feuillage caduc,,,,Operational,PDF
-grib2/4/243/6,Table de code 4.243 - Classe de dalle,,6,,Forêt mixte,,,,Operational,PDF
-grib2/4/243/7,Table de code 4.243 - Classe de dalle,,7,,Zone humide arborée (eau douce),,,,Operational,PDF
-grib2/4/243/8,Table de code 4.243 - Classe de dalle,,8,,Zone humide arborée (eau salée),,,,Operational,PDF
-grib2/4/243/9,Table de code 4.243 - Classe de dalle,,9,,Mosaïque: couverture forestière et autres végétations naturelles,,,,Operational,PDF
-grib2/4/243/10,Table de code 4.243 - Classe de dalle,,10,,Couverture forestière brûlée,,,,Operational,PDF
-grib2/4/243/11,Table de code 4.243 - Classe de dalle,,11,,"Arbustes à feuillage persistant, couverture fermée à ouverte",,,,Operational,PDF
-grib2/4/243/12,Table de code 4.243 - Classe de dalle,,12,,"Arbustes à feuillage caduc, couverture fermée à ouverte",,,,Operational,PDF
-grib2/4/243/13,Table de code 4.243 - Classe de dalle,,13,,"Couverture herbacée, fermée à ouverte",,,,Operational,PDF
-grib2/4/243/14,Table de code 4.243 - Classe de dalle,,14,,Couverture herbacée clairsemée,,,,Operational,PDF
-grib2/4/243/15,Table de code 4.243 - Classe de dalle,,15,,Couverture arbustive ou herbacée inondée,,,,Operational,PDF
-grib2/4/243/16,Table de code 4.243 - Classe de dalle,,16,,Surfaces cultivées et gérées,,,,Operational,PDF
-grib2/4/243/17,Table de code 4.243 - Classe de dalle,,17,,Mosaïque: terres cultivées/couverture forestière/autres végétations naturelles,,,,Operational,PDF
-grib2/4/243/18,Table de code 4.243 - Classe de dalle,,18,,Mosaïque: terres cultivées/couverture arbustive/couverture herbacée,,,,Operational,PDF
-grib2/4/243/19,Table de code 4.243 - Classe de dalle,,19,,Surfaces dénudées,,,,Operational,PDF
-grib2/4/243/20,Table de code 4.243 - Classe de dalle,,20,,Eau,,,,Operational,PDF
-grib2/4/243/21,Table de code 4.243 - Classe de dalle,,21,,Neige et glace,,,,Operational,PDF
-grib2/4/243/22,Table de code 4.243 - Classe de dalle,,22,,Surface artificielle,,,,Operational,PDF
-grib2/4/243/23,Table de code 4.243 - Classe de dalle,,23,,Océan,,,,Operational,PDF
-grib2/4/243/24,Table de code 4.243 - Classe de dalle,,24,,Terres cultivées irriguées,,,,Operational,PDF
-grib2/4/243/25,Table de code 4.243 - Classe de dalle,,25,,Terres cultivées non irriguées,,,,Operational,PDF
-grib2/4/243/26,Table de code 4.243 - Classe de dalle,,26,,Mosaïque: terres cultivées (de 50 à 70 %) – végétation naturelle (de 20 à 50 %),,,,Operational,PDF
-grib2/4/243/27,Table de code 4.243 - Classe de dalle,,27,,Mosaïque: végétation naturelle (de 50 à 70 %) – terres cultivées (de 20 à 50 %),,,,Operational,PDF
-grib2/4/243/28,Table de code 4.243 - Classe de dalle,,28,,Forêt sempervirente fermée de feuillus,,,,Operational,PDF
-grib2/4/243/29,Table de code 4.243 - Classe de dalle,,29,,Forêt sempervirente fermée de conifères,,,,Operational,PDF
-grib2/4/243/30,Table de code 4.243 - Classe de dalle,,30,,Forêt décidue ouverte de conifères,,,,Operational,PDF
-grib2/4/243/31,Table de code 4.243 - Classe de dalle,,31,,Forêt mixte de feuillus et de conifères,,,,Operational,PDF
-grib2/4/243/32,Table de code 4.243 - Classe de dalle,,32,,Mosaïque: couverture arbustive (de 50 à 70 %) – couverture herbacée (de 20 à 50 %),,,,Operational,PDF
-grib2/4/243/33,Table de code 4.243 - Classe de dalle,,33,,Mosaïque: couverture herbacée (de 50 à 70 %) – couverture arbustive (de 20 à 50 %),,,,Operational,PDF
-grib2/4/243/34,Table de code 4.243 - Classe de dalle,,34,,Couverture arbustive fermée à ouverte,,,,Operational,PDF
-grib2/4/243/35,Table de code 4.243 - Classe de dalle,,35,,Végétation clairsemée,,,,Operational,PDF
-grib2/4/243/36,Table de code 4.243 - Classe de dalle,,36,,"Forêt fermée à ouverte, régulièrement inondée",,,,Operational,PDF
-grib2/4/243/37,Table de code 4.243 - Classe de dalle,,37,,"Forêt ou couverture arbustive fermée, inondée en permanence",,,,Operational,PDF
-grib2/4/243/38,Table de code 4.243 - Classe de dalle,,38,,"Couverture herbacée fermée à ouverte, régulièrement inondée",,,,Operational,PDF
-grib2/4/243/39,Table de code 4.243 - Classe de dalle,,39,,Valeur indéfinie,,,,Operational,PDF
-grib2/4/243/40-32767,Table de code 4.243 - Classe de dalle,,40-32767,,En réserve,,,,Operational,PDF
-grib2/4/243/32768-,Table de code 4.243 - Classe de dalle,,32768-,,En réserve pour un usage local,,,,Operational,PDF
+grib2/4/243/0,Table de code 4.243 - Classe de dalle,,0,,En réserve,,,,Operational,Original
+grib2/4/243/1,Table de code 4.243 - Classe de dalle,,1,,Forêt: arbres à larges feuilles persistantes,,,,Operational,Original
+grib2/4/243/2,Table de code 4.243 - Classe de dalle,,2,,Forêt fermée: arbres à larges feuilles caduques,,,,Operational,Original
+grib2/4/243/3,Table de code 4.243 - Classe de dalle,,3,,Forêt ouverte: arbres à larges feuilles caduques,,,,Operational,Original
+grib2/4/243/4,Table de code 4.243 - Classe de dalle,,4,,Forêt: conifères à feuillage persistant,,,,Operational,Original
+grib2/4/243/5,Table de code 4.243 - Classe de dalle,,5,,Forêt: conifères à feuillage caduc,,,,Operational,Original
+grib2/4/243/6,Table de code 4.243 - Classe de dalle,,6,,Forêt mixte,,,,Operational,Original
+grib2/4/243/7,Table de code 4.243 - Classe de dalle,,7,,Zone humide arborée (eau douce),,,,Operational,Original
+grib2/4/243/8,Table de code 4.243 - Classe de dalle,,8,,Zone humide arborée (eau salée),,,,Operational,Original
+grib2/4/243/9,Table de code 4.243 - Classe de dalle,,9,,Mosaïque: couverture forestière et autres végétations naturelles,,,,Operational,Original
+grib2/4/243/10,Table de code 4.243 - Classe de dalle,,10,,Couverture forestière brûlée,,,,Operational,Original
+grib2/4/243/11,Table de code 4.243 - Classe de dalle,,11,,"Arbustes à feuillage persistant, couverture fermée à ouverte",,,,Operational,Original
+grib2/4/243/12,Table de code 4.243 - Classe de dalle,,12,,"Arbustes à feuillage caduc, couverture fermée à ouverte",,,,Operational,Original
+grib2/4/243/13,Table de code 4.243 - Classe de dalle,,13,,"Couverture herbacée, fermée à ouverte",,,,Operational,Original
+grib2/4/243/14,Table de code 4.243 - Classe de dalle,,14,,Couverture herbacée clairsemée,,,,Operational,Original
+grib2/4/243/15,Table de code 4.243 - Classe de dalle,,15,,Couverture arbustive ou herbacée inondée,,,,Operational,Original
+grib2/4/243/16,Table de code 4.243 - Classe de dalle,,16,,Surfaces cultivées et gérées,,,,Operational,Original
+grib2/4/243/17,Table de code 4.243 - Classe de dalle,,17,,Mosaïque: terres cultivées/couverture forestière/autres végétations naturelles,,,,Operational,Original
+grib2/4/243/18,Table de code 4.243 - Classe de dalle,,18,,Mosaïque: terres cultivées/couverture arbustive/couverture herbacée,,,,Operational,Original
+grib2/4/243/19,Table de code 4.243 - Classe de dalle,,19,,Surfaces dénudées,,,,Operational,Original
+grib2/4/243/20,Table de code 4.243 - Classe de dalle,,20,,Eau,,,,Operational,Original
+grib2/4/243/21,Table de code 4.243 - Classe de dalle,,21,,Neige et glace,,,,Operational,Original
+grib2/4/243/22,Table de code 4.243 - Classe de dalle,,22,,Surface artificielle,,,,Operational,Original
+grib2/4/243/23,Table de code 4.243 - Classe de dalle,,23,,Océan,,,,Operational,Original
+grib2/4/243/24,Table de code 4.243 - Classe de dalle,,24,,Terres cultivées irriguées,,,,Operational,Original
+grib2/4/243/25,Table de code 4.243 - Classe de dalle,,25,,Terres cultivées non irriguées,,,,Operational,Original
+grib2/4/243/26,Table de code 4.243 - Classe de dalle,,26,,Mosaïque: terres cultivées (de 50 à 70 %) – végétation naturelle (de 20 à 50 %),,,,Operational,Original
+grib2/4/243/27,Table de code 4.243 - Classe de dalle,,27,,Mosaïque: végétation naturelle (de 50 à 70 %) – terres cultivées (de 20 à 50 %),,,,Operational,Original
+grib2/4/243/28,Table de code 4.243 - Classe de dalle,,28,,Forêt sempervirente fermée de feuillus,,,,Operational,Original
+grib2/4/243/29,Table de code 4.243 - Classe de dalle,,29,,Forêt sempervirente fermée de conifères,,,,Operational,Original
+grib2/4/243/30,Table de code 4.243 - Classe de dalle,,30,,Forêt décidue ouverte de conifères,,,,Operational,Original
+grib2/4/243/31,Table de code 4.243 - Classe de dalle,,31,,Forêt mixte de feuillus et de conifères,,,,Operational,Original
+grib2/4/243/32,Table de code 4.243 - Classe de dalle,,32,,Mosaïque: couverture arbustive (de 50 à 70 %) – couverture herbacée (de 20 à 50 %),,,,Operational,Original
+grib2/4/243/33,Table de code 4.243 - Classe de dalle,,33,,Mosaïque: couverture herbacée (de 50 à 70 %) – couverture arbustive (de 20 à 50 %),,,,Operational,Original
+grib2/4/243/34,Table de code 4.243 - Classe de dalle,,34,,Couverture arbustive fermée à ouverte,,,,Operational,Original
+grib2/4/243/35,Table de code 4.243 - Classe de dalle,,35,,Végétation clairsemée,,,,Operational,Original
+grib2/4/243/36,Table de code 4.243 - Classe de dalle,,36,,"Forêt fermée à ouverte, régulièrement inondée",,,,Operational,Original
+grib2/4/243/37,Table de code 4.243 - Classe de dalle,,37,,"Forêt ou couverture arbustive fermée, inondée en permanence",,,,Operational,Original
+grib2/4/243/38,Table de code 4.243 - Classe de dalle,,38,,"Couverture herbacée fermée à ouverte, régulièrement inondée",,,,Operational,Original
+grib2/4/243/39,Table de code 4.243 - Classe de dalle,,39,,Valeur indéfinie,,,,Operational,Original
+grib2/4/243/40-32767,Table de code 4.243 - Classe de dalle,,40-32767,,En réserve,,,,Operational,Original
+grib2/4/243/32768-,Table de code 4.243 - Classe de dalle,,32768-,,En réserve pour un usage local,,,,Operational,Original

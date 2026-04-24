@@ -1,8 +1,8 @@
 ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
-grib2/3/10/1/0,Table d'indicateurs 3.10 - Mode d'exploration appliqué à un losange,,1,0,Exploration des points dans la direction +i – du pôle à l'équateur,,,,Operational,PDF
-grib2/3/10/1/1,Table d'indicateurs 3.10 - Mode d'exploration appliqué à un losange,,1,1,Exploration des points dans la direction -i - de l'équateur au pôle,,,,Operational,PDF
-grib2/3/10/2/0,Table d'indicateurs 3.10 - Mode d'exploration appliqué à un losange,,2,0,Exploration des points dans la direction +j – d'ouest en est,,,,Operational,PDF
-grib2/3/10/2/1,Table d'indicateurs 3.10 - Mode d'exploration appliqué à un losange,,2,1,Exploration des points dans la direction -j - d'est en ouest,,,,Operational,PDF
-grib2/3/10/3/0,Table d'indicateurs 3.10 - Mode d'exploration appliqué à un losange,,3,0,Les points adjacents dans la direction i sont consécutifs,,,,Operational,PDF
-grib2/3/10/3/1,Table d'indicateurs 3.10 - Mode d'exploration appliqué à un losange,,3,1,Les points adjacents dans la direction j sont consécutifs,,,,Operational,PDF
-grib2/3/10/4-8,Table d'indicateurs 3.10 - Mode d'exploration appliqué à un losange,,4-8,,En réserve,,,,Operational,PDF
+grib2/3/10/1/0,Table d'indicateurs 3.10 - Mode d'exploration appliqué à un losange,,1,0,Exploration des points dans la direction +i – du pôle à l'équateur,,,,Operational,Original
+grib2/3/10/1/1,Table d'indicateurs 3.10 - Mode d'exploration appliqué à un losange,,1,1,Exploration des points dans la direction -i - de l'équateur au pôle,,,,Operational,Original
+grib2/3/10/2/0,Table d'indicateurs 3.10 - Mode d'exploration appliqué à un losange,,2,0,Exploration des points dans la direction +j – d'ouest en est,,,,Operational,Original
+grib2/3/10/2/1,Table d'indicateurs 3.10 - Mode d'exploration appliqué à un losange,,2,1,Exploration des points dans la direction -j - d'est en ouest,,,,Operational,Original
+grib2/3/10/3/0,Table d'indicateurs 3.10 - Mode d'exploration appliqué à un losange,,3,0,Les points adjacents dans la direction i sont consécutifs,,,,Operational,Original
+grib2/3/10/3/1,Table d'indicateurs 3.10 - Mode d'exploration appliqué à un losange,,3,1,Les points adjacents dans la direction j sont consécutifs,,,,Operational,Original
+grib2/3/10/4-8,Table d'indicateurs 3.10 - Mode d'exploration appliqué à un losange,,4-8,,En réserve,,,,Operational,Original

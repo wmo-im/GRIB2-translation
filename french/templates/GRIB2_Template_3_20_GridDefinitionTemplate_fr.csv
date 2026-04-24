@@ -1,19 +1,19 @@
-﻿ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translation_source
-grib2/3/20/15,Modèle de définition de la grille 3.20 — Projection stéréographique polaire,15,1,Forme de la Terre,(voir la table de code 3.2),,3.2,,Operational,PDF
-grib2/3/20/16,Modèle de définition de la grille 3.20 — Projection stéréographique polaire,16,1,Facteur d'échelle du rayon de la Terre sphérique,,,,,Operational,PDF
-grib2/3/20/17-20,Modèle de définition de la grille 3.20 — Projection stéréographique polaire,17-20,4,Valeur ajustée du rayon de la Terre sphérique,,,,,Operational,PDF
-grib2/3/20/21,Modèle de définition de la grille 3.20 — Projection stéréographique polaire,21,1,Facteur d'échelle du grand axe de la Terre ellipsoïdale aplatie,,,,,Operational,PDF
-grib2/3/20/22-25,Modèle de définition de la grille 3.20 — Projection stéréographique polaire,22-25,4,Valeur ajustée du grand axe de la Terre ellipsoïdale aplatie,,,,,Operational,PDF
-grib2/3/20/26,Modèle de définition de la grille 3.20 — Projection stéréographique polaire,26,1,Facteur d'échelle du petit axe de la Terre ellipsoïdale aplatie,,,,,Operational,PDF
-grib2/3/20/27-30,Modèle de définition de la grille 3.20 — Projection stéréographique polaire,27-30,4,Valeur ajustée du petit axe de la Terre ellipsoïdale aplatie,,,,,Operational,PDF
-grib2/3/20/31-34,Modèle de définition de la grille 3.20 — Projection stéréographique polaire,31-34,4,Nx - nombre de points le long de l'axe des x,,,,,Operational,PDF
-grib2/3/20/35-38,Modèle de définition de la grille 3.20 — Projection stéréographique polaire,35-38,4,Ny - nombre de points le long de l'axe des y,,,,,Operational,PDF
-grib2/3/20/39-42,Modèle de définition de la grille 3.20 — Projection stéréographique polaire,39-42,4,La1 - latitude du premier point de la grille,,,,,Operational,PDF
-grib2/3/20/43-46,Modèle de définition de la grille 3.20 — Projection stéréographique polaire,43-46,4,Lo1 - longitude du premier point de la grille,,,,,Operational,PDF
-grib2/3/20/47,Modèle de définition de la grille 3.20 — Projection stéréographique polaire,47,1,Indicateurs de résolution et de composantes,(voir la table d'indicateurs 3.3 et la note 1),,,3.3,Operational,PDF
-grib2/3/20/48-51,Modèle de définition de la grille 3.20 — Projection stéréographique polaire,48-51,4,LaD - latitude pour laquelle Dx et Dy sont précisées,,,,,Operational,PDF
-grib2/3/20/52-55,Modèle de définition de la grille 3.20 — Projection stéréographique polaire,52-55,4,LoV - orientation de la grille,(voir la note 2),,,,Operational,PDF
-grib2/3/20/56-59,Modèle de définition de la grille 3.20 — Projection stéréographique polaire,56-59,4,Dx - longueur de grille dans la direction x,(voir la note 3),,,,Operational,PDF
-grib2/3/20/60-63,Modèle de définition de la grille 3.20 — Projection stéréographique polaire,60-63,4,Dy - longueur de grille dans la direction y,(voir la note 3),,,,Operational,PDF
-grib2/3/20/64,Modèle de définition de la grille 3.20 — Projection stéréographique polaire,64,1,Centre de la projection,(voir la table d'indicateurs 3.5),,,3.5,Operational,PDF
-grib2/3/20/65,Modèle de définition de la grille 3.20 — Projection stéréographique polaire,65,1,Mode d'exploration,(voir la table d'indicateurs 3.4),,,3.4,Operational,PDF
+ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translation_source
+grib2/3/20/15,Modèle de définition de la grille 3.20 — Projection stéréographique polaire,15,1,Forme de la Terre,(voir la table de code 3.2),,3.2,,Operational,Original
+grib2/3/20/16,Modèle de définition de la grille 3.20 — Projection stéréographique polaire,16,1,Facteur d'échelle du rayon de la Terre sphérique,,,,,Operational,Original
+grib2/3/20/17-20,Modèle de définition de la grille 3.20 — Projection stéréographique polaire,17-20,4,Valeur ajustée du rayon de la Terre sphérique,,,,,Operational,Original
+grib2/3/20/21,Modèle de définition de la grille 3.20 — Projection stéréographique polaire,21,1,Facteur d'échelle du grand axe de la Terre ellipsoïdale aplatie,,,,,Operational,Original
+grib2/3/20/22-25,Modèle de définition de la grille 3.20 — Projection stéréographique polaire,22-25,4,Valeur ajustée du grand axe de la Terre ellipsoïdale aplatie,,,,,Operational,Original
+grib2/3/20/26,Modèle de définition de la grille 3.20 — Projection stéréographique polaire,26,1,Facteur d'échelle du petit axe de la Terre ellipsoïdale aplatie,,,,,Operational,Original
+grib2/3/20/27-30,Modèle de définition de la grille 3.20 — Projection stéréographique polaire,27-30,4,Valeur ajustée du petit axe de la Terre ellipsoïdale aplatie,,,,,Operational,Original
+grib2/3/20/31-34,Modèle de définition de la grille 3.20 — Projection stéréographique polaire,31-34,4,Nx - nombre de points le long de l'axe des x,,,,,Operational,Original
+grib2/3/20/35-38,Modèle de définition de la grille 3.20 — Projection stéréographique polaire,35-38,4,Ny - nombre de points le long de l'axe des y,,,,,Operational,Original
+grib2/3/20/39-42,Modèle de définition de la grille 3.20 — Projection stéréographique polaire,39-42,4,La1 - latitude du premier point de la grille,,,,,Operational,Original
+grib2/3/20/43-46,Modèle de définition de la grille 3.20 — Projection stéréographique polaire,43-46,4,Lo1 - longitude du premier point de la grille,,,,,Operational,Original
+grib2/3/20/47,Modèle de définition de la grille 3.20 — Projection stéréographique polaire,47,1,Indicateurs de résolution et de composantes,(voir la table d'indicateurs 3.3 et la note 1),,,3.3,Operational,Original
+grib2/3/20/48-51,Modèle de définition de la grille 3.20 — Projection stéréographique polaire,48-51,4,LaD - latitude pour laquelle Dx et Dy sont précisées,,,,,Operational,Original
+grib2/3/20/52-55,Modèle de définition de la grille 3.20 — Projection stéréographique polaire,52-55,4,LoV - orientation de la grille,(voir la note 2),,,,Operational,Original
+grib2/3/20/56-59,Modèle de définition de la grille 3.20 — Projection stéréographique polaire,56-59,4,Dx - longueur de grille dans la direction x,(voir la note 3),,,,Operational,Original
+grib2/3/20/60-63,Modèle de définition de la grille 3.20 — Projection stéréographique polaire,60-63,4,Dy - longueur de grille dans la direction y,(voir la note 3),,,,Operational,Original
+grib2/3/20/64,Modèle de définition de la grille 3.20 — Projection stéréographique polaire,64,1,Centre de la projection,(voir la table d'indicateurs 3.5),,,3.5,Operational,Original
+grib2/3/20/65,Modèle de définition de la grille 3.20 — Projection stéréographique polaire,65,1,Mode d'exploration,(voir la table d'indicateurs 3.4),,,3.4,Operational,Original

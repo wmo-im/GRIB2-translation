@@ -1,7 +1,10 @@
 ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
-grib2/4/242/0,Table de code 4.242 - Classification des dalles,,0,,En réserve,,,,Operational,PDF
-grib2/4/242/1,Table de code 4.242 - Classification des dalles,,1,,Classes d'occupation des sols selon le programme GlobCover GCV2009 de l'ESA,,,,Operational,PDF
-grib2/4/242/2,Table de code 4.242 - Classification des dalles,,2,,Classes d'occupation des sols selon le programme GLC2000 de la Commission européenne sur l'occupation des sols à l'échelle mondiale,,,,Operational,PDF
-grib2/4/242/3-191,Table de code 4.242 - Classification des dalles,,3-191,,En réserve,,,,Operational,PDF
-grib2/4/242/192-254,Table de code 4.242 - Classification des dalles,,192-254,,En réserve pour un usage local,,,,Operational,PDF
-grib2/4/242/255,Table de code 4.242 - Classification des dalles,,255,,Valeur manquante,,,,Operational,PDF
+grib2/4/242/0,Table de code 4.242 - Classification des dalles,,0,,En réserve,,,,Operational,Original
+grib2/4/242/1,Table de code 4.242 - Classification des dalles,,1,,Classes d'occupation des sols selon le programme GlobCover GCV2009 de l'ESA,,,,Operational,Original
+grib2/4/242/2,Table de code 4.242 - Classification des dalles,,2,,Classes d'occupation des sols selon le programme GLC2000 de la Commission européenne sur l'occupation des sols à l'échelle mondiale,,,,Operational,Original
+grib2/4/242/3,Table de code 4.242 - Classification des dalles,,3,,Classes d'utilisation des terres selon ECOCLIMAP,,,,Operational,AI Engine
+grib2/4/242/4,Classification des dalles,,4,,Classes d'utilisation des terres selon ECOCLIMAP-SG,,,,Operational,AI Engine
+grib2/4/242/5,Classification des dalles,,5,,"Classes d'utilisation des terres selon la caractérisation globale de la couverture terrestre (GLCC) v2.0 de l'USGS EROS, classification BATS.",,,,Operational,AI Engine
+grib2/4/242/6-191,Classification des dalles,,6-191,,En réserve,,,,Operational,AI Engine
+grib2/4/242/192-254,Table de code 4.242 - Classification des dalles,,192-254,,En réserve pour un usage local,,,,Operational,Original
+grib2/4/242/255,Table de code 4.242 - Classification des dalles,,255,,Valeur manquante,,,,Operational,Original

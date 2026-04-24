@@ -1,0 +1,14 @@
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
+grib2/4/101/0,Type de relation avec le jeu de données de référence,,0,,Anomalie,(Les chiffres du code 12 et 13 sont à utiliser dans les cas où les résultats d'une analyse ou d'une prévision initiale ont reçu un post-traitement substantiel et que les chiffres du code 0 et 2 ne sont alors pas suffisamment précis.),135,,Operational,AI Engine
+grib2/4/101/1,Type de relation avec le jeu de données de référence,,1,,Anomalie normalisée,(Les chiffres du code 12 et 13 sont à utiliser dans les cas où les résultats d'une analyse ou d'une prévision initiale ont reçu un post-traitement substantiel et que les chiffres du code 0 et 2 ne sont alors pas suffisamment précis.),135,,Operational,AI Engine
+grib2/4/101/2,Type de relation avec le jeu de données de référence,,2,,Signification (Wilcoxon-Mann-Whitney),((voir la note 2)),136,,Operational,AI Engine
+grib2/4/101/3,Type de relation avec le jeu de données de référence,,3,,climatologie,,,,Operational,AI Engine
+grib2/4/101/4-19,Type de relation avec le jeu de données de référence,,4-19,,En réserve,,,,Operational,AI Engine
+grib2/4/101/20,Type de relation avec le jeu de données de référence,,20,,Indice Extrême de Prévision (EFI),((voir la note 3)),137,,Operational,AI Engine
+grib2/4/101/21,Type de relation avec le jeu de données de référence,,21,,Translation not found in dictionaries or glossary. Please provide context or additional details for accurate translation.,((voir la note 4)),138,,Operational,AI Engine
+grib2/4/101/22,Type de relation avec le jeu de données de référence,,22,,Anomalie des probabilités,((voir la note 5)),148,,Operational,AI Engine
+grib2/4/101/23,Type de relation avec le jeu de données de référence,,23,,Indice de sécheresse standardisé,((voir la note 6)),147,,Operational,AI Engine
+grib2/4/101/24,Type de relation avec le jeu de données de référence,,24,,Prévision du point de croisement (CPF),((voir la note 7)),162,,Operational,AI Engine
+grib2/4/101/25-191,Type de relation avec le jeu de données de référence,,25-191,,En réserve,,,,Operational,AI Engine
+grib2/4/101/192-254,Type de relation avec le jeu de données de référence,,192-254,,En réserve pour un usage local,,,,Operational,AI Engine
+grib2/4/101/255,Type de relation avec le jeu de données de référence,,255,,Valeur manquante,,,,Operational,AI Engine

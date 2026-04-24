@@ -1,19 +1,19 @@
-﻿ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translation_source
-grib2/3/1200/15-18,Modèle de définition de la grille 3.1200 — Grille de coupe dans le temps,15-18,4,NT - Nombre de pas de temps,,,,,Experimental,PDF
-grib2/3/1200/19,Modèle de définition de la grille 3.1200 — Grille de coupe dans le temps,19,1,Unité de décalage par rapport à l'heure de référence,(voir la table de code 4.4),,4.4,,Experimental,PDF
-grib2/3/1200/20-23,Modèle de définition de la grille 3.1200 — Grille de coupe dans le temps,20-23,4,Décalage de la première heure par rapport à l'heure de référence (valeur négative lorsque le premier bit est mis à 1),,,,,Experimental,PDF
-grib2/3/1200/24,Modèle de définition de la grille 3.1200 — Grille de coupe dans le temps,24,1,Type d'incrément de temps,(voir la table de code 4.11),,4.11,,Experimental,PDF
-grib2/3/1200/25,Modèle de définition de la grille 3.1200 — Grille de coupe dans le temps,25,1,Unité d'incrément de temps,(voir la table de code 4.4),,4.4,,Experimental,PDF
-grib2/3/1200/26-29,Modèle de définition de la grille 3.1200 — Grille de coupe dans le temps,26-29,4,Incrément de temps (valeur négative lorsque le premier bit est mis à 1),,,,,Experimental,PDF
-grib2/3/1200//1,Modèle de définition de la grille 3.1200 — Grille de coupe dans le temps,,,30-36  Dernière date/heure,,,,,Experimental,PDF
-grib2/3/1200/30-31,Modèle de définition de la grille 3.1200 — Grille de coupe dans le temps,30-31,2,Année,,,,,Experimental,PDF
-grib2/3/1200/32,Modèle de définition de la grille 3.1200 — Grille de coupe dans le temps,32,1,Mois,,,,,Experimental,PDF
-grib2/3/1200/33,Modèle de définition de la grille 3.1200 — Grille de coupe dans le temps,33,1,Jour,,,,,Experimental,PDF
-grib2/3/1200/34,Modèle de définition de la grille 3.1200 — Grille de coupe dans le temps,34,1,Heure,,,,,Experimental,PDF
-grib2/3/1200/35,Modèle de définition de la grille 3.1200 — Grille de coupe dans le temps,35,1,Minute,,,,,Experimental,PDF
-grib2/3/1200/36,Modèle de définition de la grille 3.1200 — Grille de coupe dans le temps,36,1,Seconde,,,,,Experimental,PDF
-grib2/3/1200/37-38,Modèle de définition de la grille 3.1200 — Grille de coupe dans le temps,37-38,2,Nombre de points verticaux,,,,,Experimental,PDF
-grib2/3/1200/39,Modèle de définition de la grille 3.1200 — Grille de coupe dans le temps,39,1,Caractéristique physique de la coordonnée verticale,(voir la table de code 3.15),,3.15,,Experimental,PDF
-grib2/3/1200/40,Modèle de définition de la grille 3.1200 — Grille de coupe dans le temps,40,1,Définition des coordonnées dans la dimension verticale,(voir la table de code 3.21),,3.21,,Experimental,PDF
-grib2/3/1200/41-42,Modèle de définition de la grille 3.1200 — Grille de coupe dans le temps,41-42,2,NC - Nombre de coefficients ou de valeurs utilisés pour préciser les coordonnées verticales,,,,,Experimental,PDF
-grib2/3/1200/43-(42+NCx4),Modèle de définition de la grille 3.1200 — Grille de coupe dans le temps,43-(42+NCx4),,"Coefficients définissant sous forme de fonctions les valeurs des coordonnées dans la dimension verticale, ou valeurs explicites des coordonnées (valeur en virgule flottante IEEE 32 bits)",,,,,Experimental,PDF
+ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translation_source
+grib2/3/1200/15-18,Modèle de définition de la grille 3.1200 — Grille de coupe dans le temps,15-18,4,NT - Nombre de pas de temps,,,,,Experimental,Original
+grib2/3/1200/19,Modèle de définition de la grille 3.1200 — Grille de coupe dans le temps,19,1,Unité de décalage par rapport à l'heure de référence,(voir la table de code 4.4),,4.4,,Experimental,Original
+grib2/3/1200/20-23,Modèle de définition de la grille 3.1200 — Grille de coupe dans le temps,20-23,4,Décalage de la première heure par rapport à l'heure de référence (valeur négative lorsque le premier bit est mis à 1),,,,,Experimental,Original
+grib2/3/1200/24,Modèle de définition de la grille 3.1200 — Grille de coupe dans le temps,24,1,Type d'incrément de temps,(voir la table de code 4.11),,4.11,,Experimental,Original
+grib2/3/1200/25,Modèle de définition de la grille 3.1200 — Grille de coupe dans le temps,25,1,Unité d'incrément de temps,(voir la table de code 4.4),,4.4,,Experimental,Original
+grib2/3/1200/26-29,Modèle de définition de la grille 3.1200 — Grille de coupe dans le temps,26-29,4,Incrément de temps (valeur négative lorsque le premier bit est mis à 1),,,,,Experimental,Original
+grib2/3/1200//1,Modèle de définition de la grille 3.1200 — Grille de coupe dans le temps,,,30-36 Dernière date/heure,,,,,Experimental,Original
+grib2/3/1200/30-31,Modèle de définition de la grille 3.1200 — Grille de coupe dans le temps,30-31,2,Année,,,,,Experimental,Original
+grib2/3/1200/32,Modèle de définition de la grille 3.1200 — Grille de coupe dans le temps,32,1,Mois,,,,,Experimental,Original
+grib2/3/1200/33,Modèle de définition de la grille 3.1200 — Grille de coupe dans le temps,33,1,Jour,,,,,Experimental,Original
+grib2/3/1200/34,Modèle de définition de la grille 3.1200 — Grille de coupe dans le temps,34,1,Heure,,,,,Experimental,Original
+grib2/3/1200/35,Modèle de définition de la grille 3.1200 — Grille de coupe dans le temps,35,1,Minute,,,,,Experimental,Original
+grib2/3/1200/36,Modèle de définition de la grille 3.1200 — Grille de coupe dans le temps,36,1,Seconde,,,,,Experimental,Original
+grib2/3/1200/37-38,Modèle de définition de la grille 3.1200 — Grille de coupe dans le temps,37-38,2,Nombre de points verticaux,,,,,Experimental,Original
+grib2/3/1200/39,Modèle de définition de la grille 3.1200 — Grille de coupe dans le temps,39,1,Caractéristique physique de la coordonnée verticale,(voir la table de code 3.15),,3.15,,Experimental,Original
+grib2/3/1200/40,Modèle de définition de la grille 3.1200 — Grille de coupe dans le temps,40,1,Définition des coordonnées dans la dimension verticale,(voir la table de code 3.21),,3.21,,Experimental,Original
+grib2/3/1200/41-42,Modèle de définition de la grille 3.1200 — Grille de coupe dans le temps,41-42,2,NC - Nombre de coefficients ou de valeurs utilisés pour préciser les coordonnées verticales,,,,,Experimental,Original
+grib2/3/1200/43-(42+NCx4),Modèle de définition de la grille 3.1200 — Grille de coupe dans le temps,43-(42+NCx4),,"Coefficients définissant sous forme de fonctions les valeurs des coordonnées dans la dimension verticale, ou valeurs explicites des coordonnées (valeur en virgule flottante IEEE 32 bits)",,,,,Experimental,Original

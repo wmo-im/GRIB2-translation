@@ -1,7 +1,7 @@
 ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
-grib2/5/5/0,Table de code 5.5 – Traitement des valeurs manquantes en compression complexe,,0,,Absence de valeurs manquantes explicites dans les données,,,,Operational,PDF
-grib2/5/5/1,Table de code 5.5 – Traitement des valeurs manquantes en compression complexe,,1,,Présence de valeurs manquantes primaires dans les données,,,,Operational,PDF
-grib2/5/5/2,Table de code 5.5 – Traitement des valeurs manquantes en compression complexe,,2,,Présence de valeurs manquantes primaires et secondaires dans les données,,,,Operational,PDF
-grib2/5/5/3-191,Table de code 5.5 – Traitement des valeurs manquantes en compression complexe,,3-191,,En réserve,,,,Operational,PDF
-grib2/5/5/192-254,Table de code 5.5 – Traitement des valeurs manquantes en compression complexe,,192-254,,En réserve pour un usage local,,,,Operational,PDF
-grib2/5/5/255,Table de code 5.5 – Traitement des valeurs manquantes en compression complexe,,255,,Valeur manquante,,,,Operational,PDF
+grib2/5/5/0,Table de code 5.5 – Traitement des valeurs manquantes en compression complexe,,0,,Absence de valeurs manquantes explicites dans les données,,,,Operational,Original
+grib2/5/5/1,Table de code 5.5 – Traitement des valeurs manquantes en compression complexe,,1,,Présence de valeurs manquantes primaires dans les données,,,,Operational,Original
+grib2/5/5/2,Table de code 5.5 – Traitement des valeurs manquantes en compression complexe,,2,,Présence de valeurs manquantes primaires et secondaires dans les données,,,,Operational,Original
+grib2/5/5/3-191,Table de code 5.5 – Traitement des valeurs manquantes en compression complexe,,3-191,,En réserve,,,,Operational,Original
+grib2/5/5/192-254,Table de code 5.5 – Traitement des valeurs manquantes en compression complexe,,192-254,,En réserve pour un usage local,,,,Operational,Original
+grib2/5/5/255,Table de code 5.5 – Traitement des valeurs manquantes en compression complexe,,255,,Valeur manquante,,,,Operational,Original

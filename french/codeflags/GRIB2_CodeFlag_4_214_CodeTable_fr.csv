@@ -1,0 +1,11 @@
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
+grib2/4/214/0,Qualificateur de facteur environnemental,,0,,Le pire,,,,Operational,AI Engine
+grib2/4/214/1,Qualificateur de facteur environnemental,,1,,Très mauvais,,,,Operational,AI Engine
+grib2/4/214/2,Qualificateur de facteur environnemental,,2,,Pauvre,,,,Operational,AI Engine
+grib2/4/214/3,Qualificateur de facteur environnemental,,3,,Moyenne,,,,Operational,AI Engine
+grib2/4/214/4,Qualificateur de facteur environnemental,,4,,Bon,,,,Operational,AI Engine
+grib2/4/214/5,Qualificateur de facteur environnemental,,5,,Excellent,,,,Operational,AI Engine
+grib2/4/214/6-190,Qualificateur de facteur environnemental,,6-190,,En réserve,,,,Operational,AI Engine
+grib2/4/214/191,Qualificateur de facteur environnemental,,191,,Inconnu,,,,Operational,AI Engine
+grib2/4/214/192-254,Qualificateur de facteur environnemental,,192-254,,En réserve pour un usage local,,,,Operational,AI Engine
+grib2/4/214/255,Qualificateur de facteur environnemental,,255,,Valeur manquante,,,,Operational,AI Engine

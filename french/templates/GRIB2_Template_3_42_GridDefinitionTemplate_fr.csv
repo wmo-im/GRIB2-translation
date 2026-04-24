@@ -1,6 +1,6 @@
-﻿ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translation_source
-grib2/3/42/15-72,Modèle de définition de la grille 3.42 — Grille gaussienne latitude/longitude après dilatation,15-72,58,Voir le modèle de définition de la grille 3.40,(voir la note 1),,,,Operational,PDF
-grib2/3/42/73-76,Modèle de définition de la grille 3.42 — Grille gaussienne latitude/longitude après dilatation,73-76,4,Latitude du pôle de dilatation,,,,,Operational,PDF
-grib2/3/42/77-80,Modèle de définition de la grille 3.42 — Grille gaussienne latitude/longitude après dilatation,77-80,4,Longitude du pôle de dilatation,,,,,Operational,PDF
-grib2/3/42/81-84,Modèle de définition de la grille 3.42 — Grille gaussienne latitude/longitude après dilatation,81-84,4,Facteur de dilatation,,,,,Operational,PDF
-grib2/3/42/85-nn,Modèle de définition de la grille 3.42 — Grille gaussienne latitude/longitude après dilatation,85-nn,,Liste de nombre de points le long de chaque méridien ou parallèle,(ces octets ne s'appliquent qu'aux grilles quasi régulières dont il est question dans la note 4),,,,Operational,PDF
+ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translation_source
+grib2/3/42/15-72,Modèle de définition de la grille 3.42 — Grille gaussienne latitude/longitude après dilatation,15-72,58,Voir le modèle de définition de la grille 3.40,(voir la note 1),,,,Operational,Original
+grib2/3/42/73-76,Modèle de définition de la grille 3.42 — Grille gaussienne latitude/longitude après dilatation,73-76,4,Latitude du pôle de dilatation,,,,,Operational,Original
+grib2/3/42/77-80,Modèle de définition de la grille 3.42 — Grille gaussienne latitude/longitude après dilatation,77-80,4,Longitude du pôle de dilatation,,,,,Operational,Original
+grib2/3/42/81-84,Modèle de définition de la grille 3.42 — Grille gaussienne latitude/longitude après dilatation,81-84,4,Facteur de dilatation,,,,,Operational,Original
+grib2/3/42/85-nn,Modèle de définition de la grille 3.42 — Grille gaussienne latitude/longitude après dilatation,85-nn,,Liste de nombre de points le long de chaque méridien ou parallèle,(ces octets ne s'appliquent qu'aux grilles quasi régulières dont il est question dans la note 4),,,,Operational,Original

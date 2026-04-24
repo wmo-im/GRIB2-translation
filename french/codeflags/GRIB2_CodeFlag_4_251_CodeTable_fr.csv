@@ -1,0 +1,7 @@
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
+grib2/4/251/0,Formules de direction des vagues et de fréquence,,0,,Séquence indéfinie,,,,Operational,AI Engine
+grib2/4/251/1,Formules de direction des vagues et de fréquence,,1,,Suite géométrique,(Les chiffres du code 12 et 13 sont à utiliser dans les cas où les résultats d'une analyse ou d'une prévision initiale ont reçu un post-traitement substantiel et que les chiffres du code 0 et 2 ne sont alors pas suffisamment précis.),192,,Operational,AI Engine
+grib2/4/251/2,Formules de direction des vagues et de fréquence,,2,,Suite arithmétique,((voir la note 2)),193,,Operational,AI Engine
+grib2/4/251/3-191,Formules de direction des vagues et de fréquence,,3-191,,En réserve,,,,Operational,AI Engine
+grib2/4/251/192-254,Formules de direction des vagues et de fréquence,,192-254,,En réserve pour un usage local,,,,Operational,AI Engine
+grib2/4/251/255,Formules de direction des vagues et de fréquence,,255,,Valeur manquante,,,,Operational,AI Engine
