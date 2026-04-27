@@ -1,43 +1,43 @@
 ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
-grib2/4/243/0,Tabla de cifrado 4.243 – Clase de placa,,0,,Reservada,,,,Operational,PDF
-grib2/4/243/1,Tabla de cifrado 4.243 – Clase de placa,,1,,Bosque de hoja ancha perenne,,,,Operational,PDF
-grib2/4/243/2,Tabla de cifrado 4.243 – Clase de placa,,2,,Bosque cerrado de hoja ancha caducifolio,,,,Operational,PDF
-grib2/4/243/3,Tabla de cifrado 4.243 – Clase de placa,,3,,Bosque abierto de hoja ancha caducifolio,,,,Operational,PDF
-grib2/4/243/4,Tabla de cifrado 4.243 – Clase de placa,,4,,Bosque de hoja aciculada perenne,,,,Operational,PDF
-grib2/4/243/5,Tabla de cifrado 4.243 – Clase de placa,,5,,Bosque de hoja aciculada caducifolio,,,,Operational,PDF
-grib2/4/243/6,Tabla de cifrado 4.243 – Clase de placa,,6,,Árboles de hojas mixtas,,,,Operational,PDF
-grib2/4/243/7,Tabla de cifrado 4.243 – Clase de placa,,7,,Árboles inundados con agua dulce,,,,Operational,PDF
-grib2/4/243/8,Tabla de cifrado 4.243 – Clase de placa,,8,,Árboles inundados con agua salada,,,,Operational,PDF
-grib2/4/243/9,Tabla de cifrado 4.243 – Clase de placa,,9,,Mosaico: vegetación arbórea/natural,,,,Operational,PDF
-grib2/4/243/10,Tabla de cifrado 4.243 – Clase de placa,,10,,Cubierta arbórea carbonizada,,,,Operational,PDF
-grib2/4/243/11,Tabla de cifrado 4.243 – Clase de placa,,11,,Arbustos perennes cerrados a abiertos,,,,Operational,PDF
-grib2/4/243/12,Tabla de cifrado 4.243 – Clase de placa,,12,,Arbustos caducifolios cerrados a abiertos,,,,Operational,PDF
-grib2/4/243/13,Tabla de cifrado 4.243 – Clase de placa,,13,,Vegetación herbácea cerrada a abierta,,,,Operational,PDF
-grib2/4/243/14,Tabla de cifrado 4.243 – Clase de placa,,14,,Cubierta de hierba o herbácea escasa,,,,Operational,PDF
-grib2/4/243/15,Tabla de cifrado 4.243 – Clase de placa,,15,,Vegetación arbustiva o herbácea inundada,,,,Operational,PDF
-grib2/4/243/16,Tabla de cifrado 4.243 – Clase de placa,,16,,Zonas cultivadas y gestionadas,,,,Operational,PDF
-grib2/4/243/17,Tabla de cifrado 4.243 – Clase de placa,,17,,Mosaico: tierras de cultivo/vegetación arbórea/vegetación natural,,,,Operational,PDF
-grib2/4/243/18,Tabla de cifrado 4.243 – Clase de placa,,18,,Mosaico: tierras de cultivo/vegetación arbustiva/vegetación herbácea,,,,Operational,PDF
-grib2/4/243/19,Tabla de cifrado 4.243 – Clase de placa,,19,,Terrenos baldíos,,,,Operational,PDF
-grib2/4/243/20,Tabla de cifrado 4.243 – Clase de placa,,20,,Agua,,,,Operational,PDF
-grib2/4/243/21,Tabla de cifrado 4.243 – Clase de placa,,21,,Nieve y hielo,,,,Operational,PDF
-grib2/4/243/22,Tabla de cifrado 4.243 – Clase de placa,,22,,Zonas artificiales,,,,Operational,PDF
-grib2/4/243/23,Tabla de cifrado 4.243 – Clase de placa,,23,,Océano,,,,Operational,PDF
-grib2/4/243/24,Tabla de cifrado 4.243 – Clase de placa,,24,,Tierras de cultivo de regadío,,,,Operational,PDF
-grib2/4/243/25,Tabla de cifrado 4.243 – Clase de placa,,25,,Tierras de cultivo de secano,,,,Operational,PDF
-grib2/4/243/26,Tabla de cifrado 4.243 – Clase de placa,,26,,Mosaico: tierras de cultivo (50-70%) – vegetación (20-50%),,,,Operational,PDF
-grib2/4/243/27,Tabla de cifrado 4.243 – Clase de placa,,27,,Mosaico: vegetación (50-70%) – tierras de cultivo (20-50%),,,,Operational,PDF
-grib2/4/243/28,Tabla de cifrado 4.243 – Clase de placa,,28,,Bosque cerrado de hoja ancha perenne,,,,Operational,PDF
-grib2/4/243/29,Tabla de cifrado 4.243 – Clase de placa,,29,,Bosque cerrado de hoja aciculada perenne,,,,Operational,PDF
-grib2/4/243/30,Tabla de cifrado 4.243 – Clase de placa,,30,,Bosque abierto de hoja aciculada caducifolio,,,,Operational,PDF
-grib2/4/243/31,Tabla de cifrado 4.243 – Clase de placa,,31,,Bosque mixto de hoja ancha y aciculada,,,,Operational,PDF
-grib2/4/243/32,Tabla de cifrado 4.243 – Clase de placa,,32,,Mosaico: pasto arbustivo (50-70%) – pasto herbáceo (20-50%),,,,Operational,PDF
-grib2/4/243/33,Tabla de cifrado 4.243 – Clase de placa,,33,,Mosaico: pasto herbáceo (50-70%) – pasto arbustivo (20-50%),,,,Operational,PDF
-grib2/4/243/34,Tabla de cifrado 4.243 – Clase de placa,,34,,Pasto arbustivo cerrado a abierto,,,,Operational,PDF
-grib2/4/243/35,Tabla de cifrado 4.243 – Clase de placa,,35,,Vegetación escasa,,,,Operational,PDF
-grib2/4/243/36,Tabla de cifrado 4.243 – Clase de placa,,36,,Bosque cerrado a abierto frecuentemente inundado,,,,Operational,PDF
-grib2/4/243/37,Tabla de cifrado 4.243 – Clase de placa,,37,,Bosque cerrado o pasto arbustivo permanentemente inundado,,,,Operational,PDF
-grib2/4/243/38,Tabla de cifrado 4.243 – Clase de placa,,38,,Pasto herbáceo cerrado a abierto frecuentemente inundado,,,,Operational,PDF
-grib2/4/243/39,Tabla de cifrado 4.243 – Clase de placa,,39,,No definida,,,,Operational,PDF
-grib2/4/243/40-32767,Tabla de cifrado 4.243 – Clase de placa,,40-32767,,Reservadas,,,,Operational,PDF
-grib2/4/243/32768-,Tabla de cifrado 4.243 – Clase de placa,,32768-,,Reservadas para uso local,,,,Operational,PDF
+grib2/4/243/0,Tabla de cifrado 4.243 – Clase de placa,,0,,Reservada,,,,Operational,Original
+grib2/4/243/1,Tabla de cifrado 4.243 – Clase de placa,,1,,Bosque de hoja ancha perenne,,,,Operational,Original
+grib2/4/243/2,Tabla de cifrado 4.243 – Clase de placa,,2,,Bosque cerrado de hoja ancha caducifolio,,,,Operational,Original
+grib2/4/243/3,Tabla de cifrado 4.243 – Clase de placa,,3,,Bosque abierto de hoja ancha caducifolio,,,,Operational,Original
+grib2/4/243/4,Tabla de cifrado 4.243 – Clase de placa,,4,,Bosque de hoja aciculada perenne,,,,Operational,Original
+grib2/4/243/5,Tabla de cifrado 4.243 – Clase de placa,,5,,Bosque de hoja aciculada caducifolio,,,,Operational,Original
+grib2/4/243/6,Tabla de cifrado 4.243 – Clase de placa,,6,,Árboles de hojas mixtas,,,,Operational,Original
+grib2/4/243/7,Tabla de cifrado 4.243 – Clase de placa,,7,,Árboles inundados con agua dulce,,,,Operational,Original
+grib2/4/243/8,Tabla de cifrado 4.243 – Clase de placa,,8,,Árboles inundados con agua salada,,,,Operational,Original
+grib2/4/243/9,Tabla de cifrado 4.243 – Clase de placa,,9,,Mosaico: vegetación arbórea/natural,,,,Operational,Original
+grib2/4/243/10,Tabla de cifrado 4.243 – Clase de placa,,10,,Cubierta arbórea carbonizada,,,,Operational,Original
+grib2/4/243/11,Tabla de cifrado 4.243 – Clase de placa,,11,,Arbustos perennes cerrados a abiertos,,,,Operational,Original
+grib2/4/243/12,Tabla de cifrado 4.243 – Clase de placa,,12,,Arbustos caducifolios cerrados a abiertos,,,,Operational,Original
+grib2/4/243/13,Tabla de cifrado 4.243 – Clase de placa,,13,,Vegetación herbácea cerrada a abierta,,,,Operational,Original
+grib2/4/243/14,Tabla de cifrado 4.243 – Clase de placa,,14,,Cubierta de hierba o herbácea escasa,,,,Operational,Original
+grib2/4/243/15,Tabla de cifrado 4.243 – Clase de placa,,15,,Vegetación arbustiva o herbácea inundada,,,,Operational,Original
+grib2/4/243/16,Tabla de cifrado 4.243 – Clase de placa,,16,,Zonas cultivadas y gestionadas,,,,Operational,Original
+grib2/4/243/17,Tabla de cifrado 4.243 – Clase de placa,,17,,Mosaico: tierras de cultivo/vegetación arbórea/vegetación natural,,,,Operational,Original
+grib2/4/243/18,Tabla de cifrado 4.243 – Clase de placa,,18,,Mosaico: tierras de cultivo/vegetación arbustiva/vegetación herbácea,,,,Operational,Original
+grib2/4/243/19,Tabla de cifrado 4.243 – Clase de placa,,19,,Terrenos baldíos,,,,Operational,Original
+grib2/4/243/20,Tabla de cifrado 4.243 – Clase de placa,,20,,Agua,,,,Operational,Original
+grib2/4/243/21,Tabla de cifrado 4.243 – Clase de placa,,21,,Nieve y hielo,,,,Operational,Original
+grib2/4/243/22,Tabla de cifrado 4.243 – Clase de placa,,22,,Zonas artificiales,,,,Operational,Original
+grib2/4/243/23,Tabla de cifrado 4.243 – Clase de placa,,23,,Océano,,,,Operational,Original
+grib2/4/243/24,Tabla de cifrado 4.243 – Clase de placa,,24,,Tierras de cultivo de regadío,,,,Operational,Original
+grib2/4/243/25,Tabla de cifrado 4.243 – Clase de placa,,25,,Tierras de cultivo de secano,,,,Operational,Original
+grib2/4/243/26,Tabla de cifrado 4.243 – Clase de placa,,26,,Mosaico: tierras de cultivo (50-70%) – vegetación (20-50%),,,,Operational,Original
+grib2/4/243/27,Tabla de cifrado 4.243 – Clase de placa,,27,,Mosaico: vegetación (50-70%) – tierras de cultivo (20-50%),,,,Operational,Original
+grib2/4/243/28,Tabla de cifrado 4.243 – Clase de placa,,28,,Bosque cerrado de hoja ancha perenne,,,,Operational,Original
+grib2/4/243/29,Tabla de cifrado 4.243 – Clase de placa,,29,,Bosque cerrado de hoja aciculada perenne,,,,Operational,Original
+grib2/4/243/30,Tabla de cifrado 4.243 – Clase de placa,,30,,Bosque abierto de hoja aciculada caducifolio,,,,Operational,Original
+grib2/4/243/31,Tabla de cifrado 4.243 – Clase de placa,,31,,Bosque mixto de hoja ancha y aciculada,,,,Operational,Original
+grib2/4/243/32,Tabla de cifrado 4.243 – Clase de placa,,32,,Mosaico: pasto arbustivo (50-70%) – pasto herbáceo (20-50%),,,,Operational,Original
+grib2/4/243/33,Tabla de cifrado 4.243 – Clase de placa,,33,,Mosaico: pasto herbáceo (50-70%) – pasto arbustivo (20-50%),,,,Operational,Original
+grib2/4/243/34,Tabla de cifrado 4.243 – Clase de placa,,34,,Pasto arbustivo cerrado a abierto,,,,Operational,Original
+grib2/4/243/35,Tabla de cifrado 4.243 – Clase de placa,,35,,Vegetación escasa,,,,Operational,Original
+grib2/4/243/36,Tabla de cifrado 4.243 – Clase de placa,,36,,Bosque cerrado a abierto frecuentemente inundado,,,,Operational,Original
+grib2/4/243/37,Tabla de cifrado 4.243 – Clase de placa,,37,,Bosque cerrado o pasto arbustivo permanentemente inundado,,,,Operational,Original
+grib2/4/243/38,Tabla de cifrado 4.243 – Clase de placa,,38,,Pasto herbáceo cerrado a abierto frecuentemente inundado,,,,Operational,Original
+grib2/4/243/39,Tabla de cifrado 4.243 – Clase de placa,,39,,No definida,,,,Operational,Original
+grib2/4/243/40-32767,Tabla de cifrado 4.243 – Clase de placa,,40-32767,,Reservadas,,,,Operational,Original
+grib2/4/243/32768-,Tabla de cifrado 4.243 – Clase de placa,,32768-,,Reservadas para uso local,,,,Operational,Original

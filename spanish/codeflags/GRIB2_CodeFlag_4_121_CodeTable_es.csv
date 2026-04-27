@@ -1,0 +1,9 @@
+ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
+grib2/4/121/0,Tipo de conjunto de datos de referencia para la verificación,,0,,Análisis interpolado en la cuadrícula de pronóstico,,,,Operational,AI Engine
+grib2/4/121/1,Tipo de conjunto de datos de referencia para verificación,,1,,Análisis con pronóstico interpolado en la cuadrícula de análisis,,,,Operational,AI Engine
+grib2/4/121/2,Tipo de conjunto de datos de referencia para verificación,,2,,Análisis interpolado en una cuadrícula común con el pronóstico pero diferente de la cuadrícula original,,,,Operational,AI Engine
+grib2/4/121/3,Tipo de conjunto de datos de referencia para verificación,,3,,Observación cuadriculada en la cuadrícula de pronóstico,,,,Operational,AI Engine
+grib2/4/121/4,Tipo de conjunto de datos de referencia para verificación,,4,,Observación en cuadrícula con pronóstico interpolado en la cuadrícula de observación,,,,Operational,AI Engine
+grib2/4/121/5-191,Tipo de conjunto de datos de referencia para verificación,,5-191,,Reservadas,,,,Operational,AI Engine
+grib2/4/121/192-254,Tipo de conjunto de datos de referencia para verificación,,192-254,,Reservadas para uso local,,,,Operational,AI Engine
+grib2/4/121/255,Tipo de conjunto de datos de referencia para verificación,,255,,Valor faltante,,,,Operational,AI Engine

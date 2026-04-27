@@ -1,4 +1,4 @@
 ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
-grib2/1/1/0,Tabla de cifrado 1.1 – Número de versión de las tablas locales de la clave GRIB,,0,,No se ha utilizado ninguna tabla local. Sólo son válidas las entradas de las tablas y los modelos de la tabla maestra actual,,,,Operational,PDF
-grib2/1/1/1-254,Tabla de cifrado 1.1 – Número de versión de las tablas locales de la clave GRIB,,1–254,,Número de versión de las tablas locales utilizadas,,,,Operational,PDF
-grib2/1/1/255,Tabla de cifrado 1.1 – Número de versión de las tablas locales de la clave GRIB,,255,,Valor faltante,,,,Operational,PDF
+grib2/1/1/0,Tabla de cifrado 1.1 – Número de versión de las tablas locales de la clave GRIB,,0,,No se ha utilizado ninguna tabla local. Sólo son válidas las entradas de las tablas y los modelos de la tabla maestra actual,,,,Operational,Original
+grib2/1/1/1-254,Tabla de cifrado 1.1 – Número de versión de las tablas locales de la clave GRIB,,1-254,,Número de versión de las tablas locales utilizadas,,,,Operational,Original
+grib2/1/1/255,Tabla de cifrado 1.1 – Número de versión de las tablas locales de la clave GRIB,,255,,Valor faltante,,,,Operational,Original

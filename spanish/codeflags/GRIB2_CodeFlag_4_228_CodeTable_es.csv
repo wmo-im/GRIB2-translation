@@ -1,0 +1,8 @@
+ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
+grib2/4/228/0,Severidad del engelamiento,,0,,Ninguno,,,,Operational,AI Engine
+grib2/4/228/1,Severidad del engelamiento,,1,,Traza,,,,Operational,AI Engine
+grib2/4/228/2,Severidad del engelamiento,,2,,Ligera turbulencia,,,,Operational,AI Engine
+grib2/4/228/3,Severidad del engelamiento,,3,,Turbulencia moderada,,,,Operational,AI Engine
+grib2/4/228/4,Severidad del engelamiento,,4,,Turbulencia fuerte,,,,Operational,AI Engine
+grib2/4/228/5-254,Severidad del engelamiento,,5-254,,Reservadas,,,,Operational,AI Engine
+grib2/4/228/255,Severidad del engelamiento,,255,,Valor faltante,,,,Operational,AI Engine

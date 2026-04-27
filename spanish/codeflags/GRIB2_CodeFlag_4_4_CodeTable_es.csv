@@ -1,17 +1,17 @@
 ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
-grib2/4/4/0,Tabla de cifrado 4.4 – Indicador de unidad de lapso de tiempo,,0,,Minuto,,,,Operational,PDF
-grib2/4/4/1,Tabla de cifrado 4.4 – Indicador de unidad de lapso de tiempo,,1,,Hora,,,,Operational,PDF
-grib2/4/4/2,Tabla de cifrado 4.4 – Indicador de unidad de lapso de tiempo,,2,,Día,,,,Operational,PDF
-grib2/4/4/3,Tabla de cifrado 4.4 – Indicador de unidad de lapso de tiempo,,3,,Mes,,,,Operational,PDF
-grib2/4/4/4,Tabla de cifrado 4.4 – Indicador de unidad de lapso de tiempo,,4,,Año,,,,Operational,PDF
-grib2/4/4/5,Tabla de cifrado 4.4 – Indicador de unidad de lapso de tiempo,,5,,Decenio (10 años),,,,Operational,PDF
-grib2/4/4/6,Tabla de cifrado 4.4 – Indicador de unidad de lapso de tiempo,,6,,Normal (30 años),,,,Operational,PDF
-grib2/4/4/7,Tabla de cifrado 4.4 – Indicador de unidad de lapso de tiempo,,7,,Siglo (100 años),,,,Operational,PDF
-grib2/4/4/8-9,Tabla de cifrado 4.4 – Indicador de unidad de lapso de tiempo,,8-9,,Reservadas,,,,Operational,PDF
-grib2/4/4/10,Tabla de cifrado 4.4 – Indicador de unidad de lapso de tiempo,,10,,3 horas,,,,Operational,PDF
-grib2/4/4/11,Tabla de cifrado 4.4 – Indicador de unidad de lapso de tiempo,,11,,6 horas,,,,Operational,PDF
-grib2/4/4/12,Tabla de cifrado 4.4 – Indicador de unidad de lapso de tiempo,,12,,12 horas,,,,Operational,PDF
-grib2/4/4/13,Tabla de cifrado 4.4 – Indicador de unidad de lapso de tiempo,,13,,Segundo,,,,Operational,PDF
-grib2/4/4/14-191,Tabla de cifrado 4.4 – Indicador de unidad de lapso de tiempo,,14-191,,Reservadas,,,,Operational,PDF
-grib2/4/4/192-254,Tabla de cifrado 4.4 – Indicador de unidad de lapso de tiempo,,192-254,,Reservadas para uso local,,,,Operational,PDF
-grib2/4/4/255,Tabla de cifrado 4.4 – Indicador de unidad de lapso de tiempo,,255,,Valor faltante,,,,Operational,PDF
+grib2/4/4/0,Tabla de cifrado 4.4 – Indicador de unidad de lapso de tiempo,,0,,Minuto,,,,Operational,Original
+grib2/4/4/1,Tabla de cifrado 4.4 – Indicador de unidad de lapso de tiempo,,1,,Hora,,,,Operational,Original
+grib2/4/4/2,Tabla de cifrado 4.4 – Indicador de unidad de lapso de tiempo,,2,,Día,,,,Operational,Original
+grib2/4/4/3,Tabla de cifrado 4.4 – Indicador de unidad de lapso de tiempo,,3,,Mes,,,,Operational,Original
+grib2/4/4/4,Tabla de cifrado 4.4 – Indicador de unidad de lapso de tiempo,,4,,Año,,,,Operational,Original
+grib2/4/4/5,Tabla de cifrado 4.4 – Indicador de unidad de lapso de tiempo,,5,,Decenio (10 años),,,,Operational,Original
+grib2/4/4/6,Tabla de cifrado 4.4 – Indicador de unidad de lapso de tiempo,,6,,Normal (30 años),,,,Operational,Original
+grib2/4/4/7,Tabla de cifrado 4.4 – Indicador de unidad de lapso de tiempo,,7,,Siglo (100 años),,,,Operational,Original
+grib2/4/4/8-9,Tabla de cifrado 4.4 – Indicador de unidad de lapso de tiempo,,8-9,,Reservadas,,,,Operational,Original
+grib2/4/4/10,Tabla de cifrado 4.4 – Indicador de unidad de lapso de tiempo,,10,,3 horas,,,,Operational,Original
+grib2/4/4/11,Tabla de cifrado 4.4 – Indicador de unidad de lapso de tiempo,,11,,6 horas,,,,Operational,Original
+grib2/4/4/12,Tabla de cifrado 4.4 – Indicador de unidad de lapso de tiempo,,12,,12 horas,,,,Operational,Original
+grib2/4/4/13,Tabla de cifrado 4.4 – Indicador de unidad de lapso de tiempo,,13,,Segundo,,,,Operational,Original
+grib2/4/4/14-191,Tabla de cifrado 4.4 – Indicador de unidad de lapso de tiempo,,14-191,,Reservadas,,,,Operational,Original
+grib2/4/4/192-254,Tabla de cifrado 4.4 – Indicador de unidad de lapso de tiempo,,192-254,,Reservadas para uso local,,,,Operational,Original
+grib2/4/4/255,Tabla de cifrado 4.4 – Indicador de unidad de lapso de tiempo,,255,,Valor faltante,,,,Operational,Original

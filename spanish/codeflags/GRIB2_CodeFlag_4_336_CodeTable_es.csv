@@ -1,0 +1,13 @@
+ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
+grib2/4/336/1,modelo NWP,,1,,"AROME (NWP de mesoescala, Meteo-France)",,,,Operational,AI Engine
+grib2/4/336/2,modelo NWP,,2,,"ARPEGE (previsión numérica del tiempo a escala global, de Meteo-France)",,,,Operational,AI Engine
+grib2/4/336/3,modelo NWP,,3,,"GFS (Sistema global de predicción, NCEP)",,,,Operational,AI Engine
+grib2/4/336/4,modelo de NWP,,4,,HARMONIE (Investigación de HIRLAM-ALADIN sobre la predicción numérica del tiempo operativa a mesoescala),,,,Operational,AI Engine
+grib2/4/336/5,modelo NWP,,5,,HIRLAM (Modelo de Área Limitada de Alta Resolución),,,,Operational,AI Engine
+grib2/4/336/6,modelo NWP,,6,,Sistema Integrado de Pronósticos (IFS),,,,Operational,AI Engine
+grib2/4/336/7,modelo NWP,,7,,GEM GDPS (Sistema Canadiense Global de Predicción Determinística),,,,Operational,AI Engine
+grib2/4/336/8,modelo NWP,,8,,GEM RDPS (Sistema Canadiense de Predicción Determinista Regional),,,,Operational,AI Engine
+grib2/4/336/9,modelo NWP,,9,,GEM HRDPS (Sistema Canadiense de Predicción Determinista de Alta Resolución),,,,Operational,AI Engine
+grib2/4/336/10,modelo NWP,,10,,WRF (Investigación y Pronóstico del Clima),,,,Operational,AI Engine
+grib2/4/336/11-254,modelo NWP,,11-254,,Reservadas,,,,Operational,AI Engine
+grib2/4/336/255,modelo NWP,,255,,Valor faltante,,,,Operational,AI Engine

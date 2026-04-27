@@ -1,2 +1,2 @@
 ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
-grib2/4/225/,Tabla de cifrado 4.225 – Estado del tiempo,,,,"(Véase FM 94 BUFR/FM95 CREX, Tabla de cifrado 0 20 003 - Tiempo presente)",,,,Operational,PDF
+grib2/4/225/,Tabla de cifrado 4.225 – Estado del tiempo,,,,"(Véase FM 94 BUFR/FM95 CREX, Tabla de cifrado 0 20 003 - Tiempo presente)",,,,Operational,Original

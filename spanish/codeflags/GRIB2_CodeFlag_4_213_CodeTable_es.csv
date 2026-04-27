@@ -1,16 +1,16 @@
 ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
-grib2/4/213/0,Tabla de cifrado 4.213 – Tipo de suelo,,0,,Reservada,,,,Operational,PDF
-grib2/4/213/1,Tabla de cifrado 4.213 – Tipo de suelo,,1,,Arena,,,,Operational,PDF
-grib2/4/213/2,Tabla de cifrado 4.213 – Tipo de suelo,,2,,Arena limosa,,,,Operational,PDF
-grib2/4/213/3,Tabla de cifrado 4.213 – Tipo de suelo,,3,,Limo arenoso,,,,Operational,PDF
-grib2/4/213/4,Tabla de cifrado 4.213 – Tipo de suelo,,4,,Limo lodoso,,,,Operational,PDF
-grib2/4/213/5,Tabla de cifrado 4.213 – Tipo de suelo,,5,,Suelo orgánico (redefinido),,,,Operational,PDF
-grib2/4/213/6,Tabla de cifrado 4.213 – Tipo de suelo,,6,,Limo arcilloso arenoso,,,,Operational,PDF
-grib2/4/213/7,Tabla de cifrado 4.213 – Tipo de suelo,,7,,Limo arenoso-lodoso,,,,Operational,PDF
-grib2/4/213/8,Tabla de cifrado 4.213 – Tipo de suelo,,8,,Limo arcilloso,,,,Operational,PDF
-grib2/4/213/9,Tabla de cifrado 4.213 – Tipo de suelo,,9,,Arcilla arenosa,,,,Operational,PDF
-grib2/4/213/10,Tabla de cifrado 4.213 – Tipo de suelo,,10,,Arcilla limosa,,,,Operational,PDF
-grib2/4/213/11,Tabla de cifrado 4.213 – Tipo de suelo,,11,,Arcilla,,,,Operational,PDF
-grib2/4/213/12-191,Tabla de cifrado 4.213 – Tipo de suelo,,12-191,,Reservadas,,,,Operational,PDF
-grib2/4/213/192-254,Tabla de cifrado 4.213 – Tipo de suelo,,192-254,,Reservadas para uso local,,,,Operational,PDF
-grib2/4/213/255,Tabla de cifrado 4.213 – Tipo de suelo,,255,,Valor faltante,,,,Operational,PDF
+grib2/4/213/0,Tabla de cifrado 4.213 – Tipo de suelo,,0,,Reservada,,,,Operational,Original
+grib2/4/213/1,Tabla de cifrado 4.213 – Tipo de suelo,,1,,Arena,,,,Operational,Original
+grib2/4/213/2,Tabla de cifrado 4.213 – Tipo de suelo,,2,,Arena limosa,,,,Operational,Original
+grib2/4/213/3,Tabla de cifrado 4.213 – Tipo de suelo,,3,,Limo arenoso,,,,Operational,Original
+grib2/4/213/4,Tabla de cifrado 4.213 – Tipo de suelo,,4,,Limo lodoso,,,,Operational,Original
+grib2/4/213/5,Tabla de cifrado 4.213 – Tipo de suelo,,5,,Suelo orgánico (redefinido),,,,Operational,Original
+grib2/4/213/6,Tabla de cifrado 4.213 – Tipo de suelo,,6,,Limo arcilloso arenoso,,,,Operational,Original
+grib2/4/213/7,Tabla de cifrado 4.213 – Tipo de suelo,,7,,Limo arenoso-lodoso,,,,Operational,Original
+grib2/4/213/8,Tabla de cifrado 4.213 – Tipo de suelo,,8,,Limo arcilloso,,,,Operational,Original
+grib2/4/213/9,Tabla de cifrado 4.213 – Tipo de suelo,,9,,Arcilla arenosa,,,,Operational,Original
+grib2/4/213/10,Tabla de cifrado 4.213 – Tipo de suelo,,10,,Arcilla limosa,,,,Operational,Original
+grib2/4/213/11,Tabla de cifrado 4.213 – Tipo de suelo,,11,,Arcilla,,,,Operational,Original
+grib2/4/213/12-191,Tabla de cifrado 4.213 – Tipo de suelo,,12-191,,Reservadas,,,,Operational,Original
+grib2/4/213/192-254,Tabla de cifrado 4.213 – Tipo de suelo,,192-254,,Reservadas para uso local,,,,Operational,Original
+grib2/4/213/255,Tabla de cifrado 4.213 – Tipo de suelo,,255,,Valor faltante,,,,Operational,Original

@@ -1,7 +1,7 @@
 ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
-grib2/5/6/0,Tabla de cifrado 5.6 Orden de la diferenciación espacial,,0,,Reservada,,,,Operational,PDF
-grib2/5/6/1,Tabla de cifrado 5.6 Orden de la diferenciación espacial,,1,,Diferenciación espacial de primer orden,,,,Operational,PDF
-grib2/5/6/2,Tabla de cifrado 5.6 Orden de la diferenciación espacial,,2,,Diferenciación espacial de segundo orden,,,,Operational,PDF
-grib2/5/6/3-191,Tabla de cifrado 5.6 Orden de la diferenciación espacial,,3-191,,Reservadas,,,,Operational,PDF
-grib2/5/6/192-254,Tabla de cifrado 5.6 Orden de la diferenciación espacial,,192-254,,,,,,Operational,PDF
-grib2/5/6/255,Tabla de cifrado 5.6 Orden de la diferenciación espacial,,255,,Valor faltante,,,,Operational,PDF
+grib2/5/6/0,Tabla de cifrado 5.6 Orden de la diferenciación espacial,,0,,Reservada,,,,Operational,Original
+grib2/5/6/1,Tabla de cifrado 5.6 Orden de la diferenciación espacial,,1,,Diferenciación espacial de primer orden,,,,Operational,Original
+grib2/5/6/2,Tabla de cifrado 5.6 Orden de la diferenciación espacial,,2,,Diferenciación espacial de segundo orden,,,,Operational,Original
+grib2/5/6/3-191,Tabla de cifrado 5.6 Orden de la diferenciación espacial,,3-191,,Reservadas,,,,Operational,Original
+grib2/5/6/192-254,Tabla de cifrado 5.6 Orden de la diferenciación espacial,,192-254,,,,,,Operational,Original
+grib2/5/6/255,Tabla de cifrado 5.6 Orden de la diferenciación espacial,,255,,Valor faltante,,,,Operational,Original

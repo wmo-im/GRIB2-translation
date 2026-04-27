@@ -1,26 +1,26 @@
 ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
-grib2/4/203/0,Tabla de cifrado 4.203 – Tipo de nube,,0,,Cielo despejado,,,,Operational,PDF
-grib2/4/203/1,Tabla de cifrado 4.203 – Tipo de nube,,1,,Cumulonimbus,,,,Operational,PDF
-grib2/4/203/2,Tabla de cifrado 4.203 – Tipo de nube,,2,,Estratos,,,,Operational,PDF
-grib2/4/203/3,Tabla de cifrado 4.203 – Tipo de nube,,3,,Estratocúmulus,,,,Operational,PDF
-grib2/4/203/4,Tabla de cifrado 4.203 – Tipo de nube,,4,,Cúmulus,,,,Operational,PDF
-grib2/4/203/5,Tabla de cifrado 4.203 – Tipo de nube,,5,,Altostratus,,,,Operational,PDF
-grib2/4/203/6,Tabla de cifrado 4.203 – Tipo de nube,,6,,Nimbostratus,,,,Operational,PDF
-grib2/4/203/7,Tabla de cifrado 4.203 – Tipo de nube,,7,,Altocúmulus,,,,Operational,PDF
-grib2/4/203/8,Tabla de cifrado 4.203 – Tipo de nube,,8,,Cirrostratus,,,,Operational,PDF
-grib2/4/203/9,Tabla de cifrado 4.203 – Tipo de nube,,9,,Cirrocúmulus,,,,Operational,PDF
-grib2/4/203/10,Tabla de cifrado 4.203 – Tipo de nube,,10,,Cirrus,,,,Operational,PDF
-grib2/4/203/11,Tabla de cifrado 4.203 – Tipo de nube,,11,,Cumulonimbus - niebla en superficie por debajo de la capa más baja,,,,Operational,PDF
-grib2/4/203/12,Tabla de cifrado 4.203 – Tipo de nube,,12,,Estratos - niebla en superficie por debajo de la capa más baja,,,,Operational,PDF
-grib2/4/203/13,Tabla de cifrado 4.203 – Tipo de nube,,13,,Estratocúmulus - niebla en superficie por debajo de la capa más baja,,,,Operational,PDF
-grib2/4/203/14,Tabla de cifrado 4.203 – Tipo de nube,,14,,Cúmulus - niebla en superficie por debajo de la capa más baja,,,,Operational,PDF
-grib2/4/203/15,Tabla de cifrado 4.203 – Tipo de nube,,15,,Altostratus - niebla en superficie por debajo de la capa más baja,,,,Operational,PDF
-grib2/4/203/16,Tabla de cifrado 4.203 – Tipo de nube,,16,,Nimbostratus - niebla en superficie por debajo de la capa más baja,,,,Operational,PDF
-grib2/4/203/17,Tabla de cifrado 4.203 – Tipo de nube,,17,,Altocúmulus - niebla en superficie por debajo de la capa más baja,,,,Operational,PDF
-grib2/4/203/18,Tabla de cifrado 4.203 – Tipo de nube,,18,,Cirrostratus - niebla en superficie por debajo de la capa más baja,,,,Operational,PDF
-grib2/4/203/19,Tabla de cifrado 4.203 – Tipo de nube,,19,,Cirrocúmulus - niebla en superficie por debajo de la capa más baja,,,,Operational,PDF
-grib2/4/203/20,Tabla de cifrado 4.203 – Tipo de nube,,20,,Cirrus - niebla en superficie por debajo de la capa más baja,,,,Operational,PDF
-grib2/4/203/21-190,Tabla de cifrado 4.203 – Tipo de nube,,21-190,,Reservadas,,,,Operational,PDF
-grib2/4/203/191,Tabla de cifrado 4.203 – Tipo de nube,,191,,Se desconoce,,,,Operational,PDF
-grib2/4/203/192-254,Tabla de cifrado 4.203 – Tipo de nube,,192-254,,Reservadas para uso local,,,,Operational,PDF
-grib2/4/203/255,Tabla de cifrado 4.203 – Tipo de nube,,255,,Valor faltante,,,,Operational,PDF
+grib2/4/203/0,Tabla de cifrado 4.203 – Tipo de nube,,0,,Cielo despejado,,,,Operational,Original
+grib2/4/203/1,Tabla de cifrado 4.203 – Tipo de nube,,1,,Cumulonimbus,,,,Operational,Original
+grib2/4/203/2,Tabla de cifrado 4.203 – Tipo de nube,,2,,Estratos,,,,Operational,Original
+grib2/4/203/3,Tabla de cifrado 4.203 – Tipo de nube,,3,,Estratocúmulus,,,,Operational,Original
+grib2/4/203/4,Tabla de cifrado 4.203 – Tipo de nube,,4,,Cúmulus,,,,Operational,Original
+grib2/4/203/5,Tabla de cifrado 4.203 – Tipo de nube,,5,,Altostratus,,,,Operational,Original
+grib2/4/203/6,Tabla de cifrado 4.203 – Tipo de nube,,6,,Nimbostratus,,,,Operational,Original
+grib2/4/203/7,Tabla de cifrado 4.203 – Tipo de nube,,7,,Altocúmulus,,,,Operational,Original
+grib2/4/203/8,Tabla de cifrado 4.203 – Tipo de nube,,8,,Cirrostratus,,,,Operational,Original
+grib2/4/203/9,Tabla de cifrado 4.203 – Tipo de nube,,9,,Cirrocúmulus,,,,Operational,Original
+grib2/4/203/10,Tabla de cifrado 4.203 – Tipo de nube,,10,,Cirrus,,,,Operational,Original
+grib2/4/203/11,Tabla de cifrado 4.203 – Tipo de nube,,11,,Cumulonimbus - niebla en superficie por debajo de la capa más baja,,,,Operational,Original
+grib2/4/203/12,Tabla de cifrado 4.203 – Tipo de nube,,12,,Estratos - niebla en superficie por debajo de la capa más baja,,,,Operational,Original
+grib2/4/203/13,Tabla de cifrado 4.203 – Tipo de nube,,13,,Estratocúmulus - niebla en superficie por debajo de la capa más baja,,,,Operational,Original
+grib2/4/203/14,Tabla de cifrado 4.203 – Tipo de nube,,14,,Cúmulus - niebla en superficie por debajo de la capa más baja,,,,Operational,Original
+grib2/4/203/15,Tabla de cifrado 4.203 – Tipo de nube,,15,,Altostratus - niebla en superficie por debajo de la capa más baja,,,,Operational,Original
+grib2/4/203/16,Tabla de cifrado 4.203 – Tipo de nube,,16,,Nimbostratus - niebla en superficie por debajo de la capa más baja,,,,Operational,Original
+grib2/4/203/17,Tabla de cifrado 4.203 – Tipo de nube,,17,,Altocúmulus - niebla en superficie por debajo de la capa más baja,,,,Operational,Original
+grib2/4/203/18,Tabla de cifrado 4.203 – Tipo de nube,,18,,Cirrostratus - niebla en superficie por debajo de la capa más baja,,,,Operational,Original
+grib2/4/203/19,Tabla de cifrado 4.203 – Tipo de nube,,19,,Cirrocúmulus - niebla en superficie por debajo de la capa más baja,,,,Operational,Original
+grib2/4/203/20,Tabla de cifrado 4.203 – Tipo de nube,,20,,Cirrus - niebla en superficie por debajo de la capa más baja,,,,Operational,Original
+grib2/4/203/21-190,Tabla de cifrado 4.203 – Tipo de nube,,21-190,,Reservadas,,,,Operational,Original
+grib2/4/203/191,Tabla de cifrado 4.203 – Tipo de nube,,191,,Se desconoce,,,,Operational,Original
+grib2/4/203/192-254,Tabla de cifrado 4.203 – Tipo de nube,,192-254,,Reservadas para uso local,,,,Operational,Original
+grib2/4/203/255,Tabla de cifrado 4.203 – Tipo de nube,,255,,Valor faltante,,,,Operational,Original

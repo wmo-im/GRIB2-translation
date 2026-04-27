@@ -1,0 +1,7 @@
+ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
+grib2/4/335/1,Origen de escenario de emisión,,1,,ARGOS (Sistema de Reporte de Accidentes y Guía Operativa),,,,Operational,AI Engine
+grib2/4/335/2,Origen del escenario de emisión,,2,,JRODOS (versión Java del sistema de soporte de decisiones en línea en tiempo real),,,,Operational,AI Engine
+grib2/4/335/3,Origen del escenario de emisión,,3,,Asimilado (escenario recuperado de mediciones),,,,Operational,AI Engine
+grib2/4/335/4,Origen del escenario de emisión,,4,,Centro (escenario por centro de origen),,,,Operational,AI Engine
+grib2/4/335/5-254,Origen del escenario de emisión,,5-254,,Reservadas,,,,Operational,AI Engine
+grib2/4/335/255,Origen del escenario de emisión,,255,,Valor faltante,,,,Operational,AI Engine

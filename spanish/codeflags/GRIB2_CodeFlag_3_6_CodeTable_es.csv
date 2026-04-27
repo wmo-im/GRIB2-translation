@@ -1,3 +1,3 @@
-ID,Title_es,SubTitle_es,CodeFlag,MeaningParameterDescription_es,Value,Note_es,noteIDs,UnitComments_es,Status,translation_source
-grib2/3/6/1,Tabla de cifrado 3.6 — Tipo de representación de los datos espectrales,,1,"(see separate doc or pdf file)",,,,,Operational,PDF
-grib2/3/6/2,Tabla de cifrado 3.6 — Tipo de representación de los datos espectrales,,2,Representación mediante transformada bidimensional de Fourier,,,,,Operational,PDF
+ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
+grib2/3/6/1,Tabla de cifrado 3.6 — Tipo de representación de los datos espectrales,,1,,(see separate doc or pdf file),,,,Operational,Original
+grib2/3/6/2,Tabla de cifrado 3.6 — Tipo de representación de los datos espectrales,,2,,Representación mediante transformada bidimensional de Fourier,,,,Operational,Original

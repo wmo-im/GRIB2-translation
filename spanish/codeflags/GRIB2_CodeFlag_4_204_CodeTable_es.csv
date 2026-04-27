@@ -1,9 +1,9 @@
 ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
-grib2/4/204/0,Tabla de cifrado 4.204 - Extensión de las tormentas,,0,,Ninguna,,,,Operational,PDF
-grib2/4/204/1,Tabla de cifrado 4.204 - Extensión de las tormentas,,1,,Aisladas (1% - 2%),,,,Operational,PDF
-grib2/4/204/2,Tabla de cifrado 4.204 - Extensión de las tormentas,,2,,Poco numerosas (3% - 5%),,,,Operational,PDF
-grib2/4/204/3,Tabla de cifrado 4.204 - Extensión de las tormentas,,3,,Dispersas (6% - 45%),,,,Operational,PDF
-grib2/4/204/4,Tabla de cifrado 4.204 - Extensión de las tormentas,,4,,Numerosas (> 45%),,,,Operational,PDF
-grib2/4/204/5-191,Tabla de cifrado 4.204 - Extensión de las tormentas,,5-191,,Reservadas,,,,Operational,PDF
-grib2/4/204/192-254,Tabla de cifrado 4.204 - Extensión de las tormentas,,192-254,,Reservadas para uso local,,,,Operational,PDF
-grib2/4/204/255,Tabla de cifrado 4.204 - Extensión de las tormentas,,255,,Valor faltante,,,,Operational,PDF
+grib2/4/204/0,Tabla de cifrado 4.204 - Extensión de las tormentas,,0,,Ninguna,,,,Operational,Original
+grib2/4/204/1,Tabla de cifrado 4.204 - Extensión de las tormentas,,1,,Aisladas (1% - 2%),,,,Operational,Original
+grib2/4/204/2,Tabla de cifrado 4.204 - Extensión de las tormentas,,2,,Poco numerosas (3% - 5%),,,,Operational,Original
+grib2/4/204/3,Tabla de cifrado 4.204 - Extensión de las tormentas,,3,,Dispersas (6% - 45%),,,,Operational,Original
+grib2/4/204/4,Tabla de cifrado 4.204 - Extensión de las tormentas,,4,,Numerosas (> 45%),,,,Operational,Original
+grib2/4/204/5-191,Tabla de cifrado 4.204 - Extensión de las tormentas,,5-191,,Reservadas,,,,Operational,Original
+grib2/4/204/192-254,Tabla de cifrado 4.204 - Extensión de las tormentas,,192-254,,Reservadas para uso local,,,,Operational,Original
+grib2/4/204/255,Tabla de cifrado 4.204 - Extensión de las tormentas,,255,,Valor faltante,,,,Operational,Original

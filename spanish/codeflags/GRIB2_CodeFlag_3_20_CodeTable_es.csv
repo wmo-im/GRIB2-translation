@@ -1,6 +1,6 @@
 ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
-grib2/3/20/0,Tabla de cifrado 3.20 — Tipo de línea horizontal,,0,,Loxodromia,,,,Operational,PDF
-grib2/3/20/1,Tabla de cifrado 3.20 — Tipo de línea horizontal,,1,,Gran círculo,,,,Operational,PDF
-grib2/3/20/2-191,Tabla de cifrado 3.20 — Tipo de línea horizontal,,2-191,,Reservadas,,,,Operational,PDF
-grib2/3/20/192-254,Tabla de cifrado 3.20 — Tipo de línea horizontal,,192-254,,Reservadas para uso local,,,,Operational,PDF
-grib2/3/20/255,Tabla de cifrado 3.20 — Tipo de línea horizontal,,255,,Valor faltante,,,,Operational,PDF
+grib2/3/20/0,Tabla de cifrado 3.20 — Tipo de línea horizontal,,0,,Loxodromia,,,,Operational,Original
+grib2/3/20/1,Tabla de cifrado 3.20 — Tipo de línea horizontal,,1,,Gran círculo,,,,Operational,Original
+grib2/3/20/2-191,Tabla de cifrado 3.20 — Tipo de línea horizontal,,2-191,,Reservadas,,,,Operational,Original
+grib2/3/20/192-254,Tabla de cifrado 3.20 — Tipo de línea horizontal,,192-254,,Reservadas para uso local,,,,Operational,Original
+grib2/3/20/255,Tabla de cifrado 3.20 — Tipo de línea horizontal,,255,,Valor faltante,,,,Operational,Original

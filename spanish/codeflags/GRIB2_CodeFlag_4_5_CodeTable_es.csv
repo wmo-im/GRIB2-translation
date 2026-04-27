@@ -1,77 +1,97 @@
 ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
-grib2/4/5/0,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,0,,Reservada,,,,Operational,PDF
-grib2/4/5/1,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,1,,Superficie de la tierra o del agua,,,,Operational,PDF
-grib2/4/5/2,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,2,,Nivel de la base de las nubes,,,,Operational,PDF
-grib2/4/5/3,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,3,,Nivel de las cimas de las nubes,,,,Operational,PDF
-grib2/4/5/4,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,4,,Nivel de la isoterma 0 °C,,,,Operational,PDF
-grib2/4/5/5,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,5,,Nivel de condensación adiabática a partir de la superficie,,,,Operational,PDF
-grib2/4/5/6,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,6,,Nivel máximo de viento,,,,Operational,PDF
-grib2/4/5/7,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,7,,Tropopausa,,,,Operational,PDF
-grib2/4/5/8,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,8,,Cima nominal de la atmósfera,,,,Operational,PDF
-grib2/4/5/9,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,9,,Fondo del mar,,,,Operational,PDF
-grib2/4/5/10,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,10,,Toda la atmósfera,,,,Operational,PDF
-grib2/4/5/11,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,11,,Base de cumulonimbos (CB),,,m,Operational,PDF
-grib2/4/5/12,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,12,,Cima de cumulonimbos (CB),,,m,Operational,PDF
-grib2/4/5/13,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,13,,Nivel más bajo en el que la cubierta de nubes verticalmente integrada supera el porcentaje especificado (base de las nubes para un porcentaje determinado de cubierta de nubes),,,%,Operational,PDF
-grib2/4/5/14,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,14,,Nivel de convección libre,,,,Operational,PDF
-grib2/4/5/15,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,15,,Nivel de condensación convectiva,,,,Operational,PDF
-grib2/4/5/16,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,16,,Nivel de la fuerza ascensional neutra o nivel de equilibrio,,,,Operational,PDF
-grib2/4/5/17,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,17,,Nivel de partida de la partícula más inestable de aire (MUDL),,,,Operational,PDF
-grib2/4/5/18,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,18,,Nivel de partida de una capa mixta de aire con una profundidad de capa especificada,,,Pa,Operational,PDF
-grib2/4/5/19,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,19,,Reservada,,,,Operational,PDF
-grib2/4/5/20,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,20,,Nivel de la isoterma,,,K,Operational,PDF
-grib2/4/5/21,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,21,,Nivel más bajo en el que la densidad másica supera el valor especificado (base para un umbral determinado de densidad másica),,,kg m-3,Operational,PDF
-grib2/4/5/22,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,22,,Nivel máximo en el que la densidad másica supera el valor especificado (tope para un umbral determinado de densidad másica),,,kg m-3,Operational,PDF
-grib2/4/5/23,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,23,,Nivel más bajo en el que la concentración en el aire supera el valor especificado (base para un umbral determinado de concentración en el aire),,,Bq m-3,Operational,PDF
-grib2/4/5/24,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,24,,Nivel máximo en el que la concentración del aire supera el valor especificado (tope para un umbral determinado de concentración del aire),,,Bq m-3,Operational,PDF
-grib2/4/5/25,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,25,,Nivel máximo en el que la reflectividad de radar supera el valor especificado(tope del eco para un umbral determinado de reflectividad),,,dBZ,Operational,PDF
-grib2/4/5/26-99,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,26-99,,Reservadas,,,,Operational,PDF
-grib2/4/5/100,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,100,,Superficie isobárica,,,Pa,Operational,PDF
-grib2/4/5/101,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,101,,Nivel medio del mar,,,,Operational,PDF
-grib2/4/5/102,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,102,,Altitud especificada (por encima del nivel medio del mar),,,m,Operational,PDF
-grib2/4/5/103,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,103,,Altura especificada por encima del suelo,,,m,Operational,PDF
-grib2/4/5/104,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,104,,Nivel sigma,,,"Valor ""sigma""",Operational,PDF
-grib2/4/5/105,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,105,,Nivel híbrido,,,,Operational,PDF
-grib2/4/5/106,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,106,,Profundidad por debajo de la superficie terrestre,,,m,Operational,PDF
-grib2/4/5/107,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,107,,Nivel isentrópico (theta),,,K,Operational,PDF
-grib2/4/5/108,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,108,,Nivel definido por la diferencia de presión con la presión en el suelo,,,Pa,Operational,PDF
-grib2/4/5/109,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,109,,Superficie de la vorticidad potencial,,,K m² kg-1 s-1,Operational,PDF
-grib2/4/5/110,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,110,,Reservada,,,,Operational,PDF
-grib2/4/5/111,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,111,,Nivel Eta,,,,Operational,PDF
-grib2/4/5/112,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,112,,Reservada,,,,Operational,PDF
-grib2/4/5/113,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,113,,Nivel híbrido logarítmico,,,,Operational,PDF
-grib2/4/5/114,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,114,,Nivel de nieve,,,Numérica,Operational,PDF
-grib2/4/5/115,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,115,,Nivel de altura sigma (véase la nota 4),,,,Operational,PDF
-grib2/4/5/116,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,116,,Reservada,,,,Operational,PDF
-grib2/4/5/117,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,117,,Espesor de la capa de mezcla oceánica,,,m,Operational,PDF
-grib2/4/5/118,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,118,,Nivel de de altura híbrido,,,,Operational,PDF
-grib2/4/5/119,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,119,,Nivel de presión híbrido,,,,Operational,PDF
-grib2/4/5/120-149,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,120-149,,Reservadas,,,,Operational,PDF
-grib2/4/5/150,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,150,,Coordenada generalizada de altura vertical (véase la nota 5),,,,Operational,PDF
-grib2/4/5/151,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,151,,Nivel del suelo (véase la nota 6),,,Numérica,Operational,PDF
-grib2/4/5/152-159,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,152-159,,Reservadas,,,,Operational,PDF
-grib2/4/5/160,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,160,,Profundidad bajo el nivel del mar,,,m,Operational,PDF
-grib2/4/5/161,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,161,,Profundidad por debajo de la superficie del agua,,,m,Operational,PDF
-grib2/4/5/162,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,162,,Fondo del lago o río,,,,Operational,PDF
-grib2/4/5/163,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,163,,Fondo de la capa de sedimentos,,,,Operational,PDF
-grib2/4/5/164,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,164,,Fondo de la capa termoactiva de sedimentos,,,,Operational,PDF
-grib2/4/5/165,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,165,,Fondo de la capa de sedimentos penetrada por onda térmica,,,,Operational,PDF
-grib2/4/5/166,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,166,,Capa de mezcla,,,,Operational,PDF
-grib2/4/5/167,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,167,,Parte inferior de la zona radicular,,,,Operational,PDF
-grib2/4/5/168,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,168,,Nivel del modelo oceánico,,,Numérica,Operational,PDF
-grib2/4/5/169,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,169,,Nivel del océano definido por la diferencia de densidad del agua (sigma-theta) entre las proximidades de la superficie y el nivel (véase la nota 7),,,kg m-3,Operational,PDF
-grib2/4/5/170,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,170,,Nivel del océano definido por la diferencia de temperatura potencial del agua entre las proximidades de la superficie y el nivel (véase la nota 7),,,K,Operational,PDF
-grib2/4/5/171-173,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,171-173,,Reservadas,,,,Operational,PDF
-grib2/4/5/174,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,174,,"Superficie superior del hielo en mar, lago o río",,,,Operational,PDF
-grib2/4/5/175,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,175,,"Superficie superior del hielo, cubierto de nieve, en mar, lago o río",,,,Operational,PDF
-grib2/4/5/176,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,176,,"Superficie inferior (parte inferior) del hielo en mar, lago o río",,,,Operational,PDF
-grib2/4/5/177,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,177,,Suelo profundo (de profundidad indefinida),,,,Operational,PDF
-grib2/4/5/178,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,178,,Reservada,,,,Operational,PDF
-grib2/4/5/179,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,179,,Superficie superior de hielo de glaciar y capa de hielo,,,,Operational,PDF
-grib2/4/5/180,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,180,,Hielo de glaciar o capa de hielo profundo (de profundidad indefinida),,,,Operational,PDF
-grib2/4/5/181,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,181,,Fracción de tierras de placa de cuadrícula como superficie modelo,,,,Operational,PDF
-grib2/4/5/182,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,182,,Fracción de agua de placa de cuadrícula como superficie modelo,,,,Operational,PDF
-grib2/4/5/183,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,183,,"Fracción de hielo en mar, lago o río de placa de cuadrícula como superficie modelo",,,,Operational,PDF
-grib2/4/5/184,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,184,,Fracción de hielo de glaciar o capa de hielo de placa de cuadrícula como superficie modelo,,,,Operational,PDF
-grib2/4/5/185-254,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,185-254,,Reservadas para uso local,,,,Operational,PDF
-grib2/4/5/255,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,255,,Valor faltante,,,,Operational,PDF
+grib2/4/5/0,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,0,,Reservada,,,,Operational,Original
+grib2/4/5/1,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,1,,Superficie de la tierra o del agua,,,,Operational,Original
+grib2/4/5/2,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,2,,Nivel de la base de las nubes,,,,Operational,Original
+grib2/4/5/3,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,3,,Nivel de las cimas de las nubes,,,,Operational,Original
+grib2/4/5/4,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,4,,Nivel de la isoterma 0 °C,,,,Operational,Original
+grib2/4/5/5,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,5,,Nivel de condensación adiabática a partir de la superficie,,,,Operational,Original
+grib2/4/5/6,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,6,,Nivel máximo de viento,,,,Operational,Original
+grib2/4/5/7,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,7,,Tropopausa,,,,Operational,Original
+grib2/4/5/8,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,8,,Cima nominal de la atmósfera,,,,Operational,Original
+grib2/4/5/9,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,9,,Fondo del mar,,,,Operational,Original
+grib2/4/5/10,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,10,,Toda la atmósfera,,,,Operational,Original
+grib2/4/5/11,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,11,,Base de cumulonimbos (CB),,,m,Operational,Original
+grib2/4/5/12,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,12,,Cima de cumulonimbos (CB),,,m,Operational,Original
+grib2/4/5/13,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,13,,Nivel más bajo en el que la cubierta de nubes verticalmente integrada supera el porcentaje especificado (base de las nubes para un porcentaje determinado de cubierta de nubes),,,%,Operational,Original
+grib2/4/5/14,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,14,,Nivel de convección libre,,,,Operational,Original
+grib2/4/5/15,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,15,,Nivel de condensación convectiva,,,,Operational,Original
+grib2/4/5/16,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,16,,Nivel de la fuerza ascensional neutra o nivel de equilibrio,,,,Operational,Original
+grib2/4/5/17,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,17,,Nivel de partida de la partícula más inestable de aire (MUDL),,,,Operational,Original
+grib2/4/5/18,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,18,,Nivel de partida de una capa mixta de aire con una profundidad de capa especificada,,,Pa,Operational,Original
+grib2/4/5/19,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,19,,Reservada,,,,Operational,Original
+grib2/4/5/20,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,20,,Nivel de la isoterma,,,K,Operational,Original
+grib2/4/5/21,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,21,,Nivel más bajo en el que la densidad másica supera el valor especificado (base para un umbral determinado de densidad másica),,,kg m-3,Operational,Original
+grib2/4/5/22,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,22,,Nivel máximo en el que la densidad másica supera el valor especificado (tope para un umbral determinado de densidad másica),,,kg m-3,Operational,Original
+grib2/4/5/23,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,23,,Nivel más bajo en el que la concentración en el aire supera el valor especificado (base para un umbral determinado de concentración en el aire),,,Bq m-3,Operational,Original
+grib2/4/5/24,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,24,,Nivel máximo en el que la concentración del aire supera el valor especificado (tope para un umbral determinado de concentración del aire),,,Bq m-3,Operational,Original
+grib2/4/5/25,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,25,,Nivel máximo en el que la reflectividad de radar supera el valor especificado(tope del eco para un umbral determinado de reflectividad),,,dBZ,Operational,Original
+grib2/4/5/26,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,26,,Base de la capa de nubes convectivas,,,m,Operational,AI Engine
+grib2/4/5/27,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,27,,Parte superior de la capa de nubes convectivas,,,m,Operational,AI Engine
+grib2/4/5/28-29,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,28-29,,Reservadas,,,,Operational,AI Engine
+grib2/4/5/30,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,30,,Radio especificado desde el centro del Sol,,,m,Operational,AI Engine
+grib2/4/5/31,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,31,,Fotosfera solar,,,,Operational,AI Engine
+grib2/4/5/32,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,32,,Nivel de la región D ionosférica,,,,Operational,AI Engine
+grib2/4/5/33,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,33,,Nivel de la región E ionosférica,,,,Operational,AI Engine
+grib2/4/5/34,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,34,,Nivel de la región F1 de la ionosfera,,,,Operational,AI Engine
+grib2/4/5/35,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,35,,Nivel de la región F2 de la ionosfera,,,,Operational,AI Engine
+grib2/4/5/36,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,36,,Estratopausa,,,,Operational,AI Engine
+grib2/4/5/37-99,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,37-99,,Reservadas,,,,Operational,AI Engine
+grib2/4/5/100,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,100,,Superficie isobárica,,,Pa,Operational,Original
+grib2/4/5/101,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,101,,Nivel medio del mar,,,,Operational,Original
+grib2/4/5/102,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,102,,Altitud especificada (por encima del nivel medio del mar),,,m,Operational,Original
+grib2/4/5/103,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,103,,Altura especificada por encima del suelo,,,m,Operational,Original
+grib2/4/5/104,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,104,,Nivel sigma,,,"Valor ""sigma""",Operational,Original
+grib2/4/5/105,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,105,,Nivel híbrido,,,,Operational,Original
+grib2/4/5/106,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,106,,Profundidad por debajo de la superficie terrestre,,,m,Operational,Original
+grib2/4/5/107,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,107,,Nivel isentrópico (theta),,,K,Operational,Original
+grib2/4/5/108,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,108,,Nivel definido por la diferencia de presión con la presión en el suelo,,,Pa,Operational,Original
+grib2/4/5/109,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,109,,Superficie de la vorticidad potencial,,,K m² kg-1 s-1,Operational,Original
+grib2/4/5/110,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,110,,Reservada,,,,Operational,Original
+grib2/4/5/111,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,111,,Nivel Eta,,,,Operational,Original
+grib2/4/5/112,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,112,,Reservada,,,,Operational,Original
+grib2/4/5/113,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,113,,Nivel híbrido logarítmico,,,,Operational,Original
+grib2/4/5/114,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,114,,Nivel de nieve,,,Numérica,Operational,Original
+grib2/4/5/115,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,115,,Nivel de altura sigma (véase la nota 4),,,,Operational,Original
+grib2/4/5/116,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,116,,Reservada,,,,Operational,Original
+grib2/4/5/117,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,117,,Espesor de la capa de mezcla oceánica,,,m,Operational,Original
+grib2/4/5/118,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,118,,Nivel de de altura híbrido,,,,Operational,Original
+grib2/4/5/119,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,119,,Nivel de presión híbrido,,,,Operational,Original
+grib2/4/5/120-149,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,120-149,,Reservadas,,,,Operational,Original
+grib2/4/5/150,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,150,,Coordenada generalizada de altura vertical (véase la nota 5),,,,Operational,Original
+grib2/4/5/151,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,151,,Nivel del suelo (véase la nota 6),,,Numérica,Operational,Original
+grib2/4/5/152,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,152,,Nivel de hielo marino,(ver la Nota 8),99,Numérica,Operational,AI Engine
+grib2/4/5/153-159,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,153-159,,Reservadas,,,,Operational,AI Engine
+grib2/4/5/160,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,160,,Profundidad bajo el nivel del mar,,,m,Operational,Original
+grib2/4/5/161,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,161,,Profundidad por debajo de la superficie del agua,,,m,Operational,Original
+grib2/4/5/162,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,162,,Fondo del lago o río,,,,Operational,Original
+grib2/4/5/163,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,163,,Fondo de la capa de sedimentos,,,,Operational,Original
+grib2/4/5/164,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,164,,Fondo de la capa termoactiva de sedimentos,,,,Operational,Original
+grib2/4/5/165,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,165,,Fondo de la capa de sedimentos penetrada por onda térmica,,,,Operational,Original
+grib2/4/5/166,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,166,,Capa de mezcla,,,,Operational,Original
+grib2/4/5/167,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,167,,Parte inferior de la zona radicular,,,,Operational,Original
+grib2/4/5/168,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,168,,Nivel del modelo oceánico,,,Numérica,Operational,Original
+grib2/4/5/169,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,169,,Nivel del océano definido por la diferencia de densidad del agua (sigma-theta) entre las proximidades de la superficie y el nivel (véase la nota 7),,,kg m-3,Operational,Original
+grib2/4/5/170,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,170,,Nivel del océano definido por la diferencia de temperatura potencial del agua entre las proximidades de la superficie y el nivel (véase la nota 7),,,K,Operational,Original
+grib2/4/5/171,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,171,,Nivel del océano definido por la diferencia de difusividad turbulenta vertical desde la superficie cercana hasta el nivel.,(ver Nota 7),18,m² s⁻¹,Operational,AI Engine
+grib2/4/5/172,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,172,,Nivel del océano definido por la diferencia de densidad de agua (rho) desde la superficie cercana hasta el nivel.,,,m,Operational,AI Engine
+grib2/4/5/173,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,173,,"Parte superior de la nieve sobre el hielo marino en el mar, lago o río",,,Please provide the text you would like me to translate.,Operational,AI Engine
+grib2/4/5/174,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,174,,"Superficie superior del hielo en mar, lago o río",,,,Operational,Original
+grib2/4/5/175,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,175,,"Superficie superior del hielo, cubierto de nieve, en mar, lago o río",,,,Operational,Original
+grib2/4/5/176,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,176,,"Superficie inferior (parte inferior) del hielo en mar, lago o río",,,,Operational,Original
+grib2/4/5/177,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,177,,Suelo profundo (de profundidad indefinida),,,,Operational,Original
+grib2/4/5/178,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,178,,Reservada,,,,Operational,Original
+grib2/4/5/179,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,179,,Superficie superior de hielo de glaciar y capa de hielo,,,,Operational,Original
+grib2/4/5/180,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,180,,Hielo de glaciar o capa de hielo profundo (de profundidad indefinida),,,,Operational,Original
+grib2/4/5/181,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,181,,Fracción de tierras de placa de cuadrícula como superficie modelo,,,,Operational,Original
+grib2/4/5/182,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,182,,Fracción de agua de placa de cuadrícula como superficie modelo,,,,Operational,Original
+grib2/4/5/183,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,183,,"Fracción de hielo en mar, lago o río de placa de cuadrícula como superficie modelo",,,,Operational,Original
+grib2/4/5/184,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,184,,Fracción de hielo de glaciar o capa de hielo de placa de cuadrícula como superficie modelo,,,,Operational,Original
+grib2/4/5/185,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,185,,Nivel del techo,,,"Por favor, proporcione el texto que desea traducir.",Operational,AI Engine
+grib2/4/5/186,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,186,,Nivel de pared,,,"Por favor, proporcione el texto que desea traducir.",Operational,AI Engine
+grib2/4/5/187,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,187,,Nivel de carretera,,,"Por favor, proporcione el texto que desea traducir al español.",Operational,AI Engine
+grib2/4/5/188,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,188,,Superficie superior de estanque de deshielo,,,"Por favor, proporcione el texto que desea traducir.",Operational,AI Engine
+grib2/4/5/189,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,189,,Superficie inferior de fondo de estanque de deshielo,,,Please provide the text you want me to translate.,Operational,AI Engine
+grib2/4/5/190,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,190,,Reservadas,,,,Operational,AI Engine
+grib2/4/5/191,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,191,,Nivel abstracto sin localización vertical,(ver Nota 10),168,"Por favor, proporcione el texto que desea traducir.",Operational,AI Engine
+grib2/4/5/192-254,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,192-254,,Reservadas para uso local,,,,Operational,AI Engine
+grib2/4/5/255,Tabla de cifrado 4.5 – Tipos y unidades de las superficies especificadas,,255,,Valor faltante,,,,Operational,Original

@@ -1,6 +1,6 @@
 ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
-grib2/4/220/0,Tabla de cifrado 4.220 – Dimensión horizontal calculada,,0,,Latitud,,,,Operational,PDF
-grib2/4/220/1,Tabla de cifrado 4.220 – Dimensión horizontal calculada,,1,,Longitud,,,,Operational,PDF
-grib2/4/220/2-191,Tabla de cifrado 4.220 – Dimensión horizontal calculada,,2-191,,Reservadas,,,,Operational,PDF
-grib2/4/220/192-254,Tabla de cifrado 4.220 – Dimensión horizontal calculada,,192-254,,Reservadas para uso local,,,,Operational,PDF
-grib2/4/220/255,Tabla de cifrado 4.220 – Dimensión horizontal calculada,,255,,Valor faltante,,,,Operational,PDF
+grib2/4/220/0,Tabla de cifrado 4.220 – Dimensión horizontal calculada,,0,,Latitud,,,,Operational,Original
+grib2/4/220/1,Tabla de cifrado 4.220 – Dimensión horizontal calculada,,1,,Longitud,,,,Operational,Original
+grib2/4/220/2-191,Tabla de cifrado 4.220 – Dimensión horizontal calculada,,2-191,,Reservadas,,,,Operational,Original
+grib2/4/220/192-254,Tabla de cifrado 4.220 – Dimensión horizontal calculada,,192-254,,Reservadas para uso local,,,,Operational,Original
+grib2/4/220/255,Tabla de cifrado 4.220 – Dimensión horizontal calculada,,255,,Valor faltante,,,,Operational,Original

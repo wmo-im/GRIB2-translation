@@ -1,0 +1,12 @@
+ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
+grib2/4/333/1,Modelo de dispersión de transporte,,1,,DERMA (Modelo Danés de Respuesta de Emergencia de la Atmósfera),,,,Operational,AI Engine
+grib2/4/333/2,Modelo de dispersión de transporte,,2,,E-EMEP (modelo de emergencia de EMEP),,,,Operational,AI Engine
+grib2/4/333/3,Modelo de dispersión de transporte,,3,,FLEXPART (modelo de dispersión de partículas),,,,Operational,AI Engine
+grib2/4/333/4,Modelo de dispersión de transporte,,4,,MLDP (Modelo lagrangiano de dispersión de partículas),,,,Operational,AI Engine
+grib2/4/333/5,Modelo de dispersión de transporte,,5,,MODELO DE TRANSPORTE ATMOSFÉRICO MULTIESCALA,,,,Operational,AI Engine
+grib2/4/333/6,Modelo de dispersión de transporte,,6,,SILAM (Sistema para la Modelización Integrada de la Composición Atmosférica),,,,Operational,AI Engine
+grib2/4/333/7,Modelo de dispersión de transporte,,7,,SNAP (Programa de Accidentes Nucleares Graves),,,,Operational,AI Engine
+grib2/4/333/8,Modelo de dispersión de transporte,,8,,WRF-Chem (modelo químico de investigación y previsión meteorológica),,,,Operational,AI Engine
+grib2/4/333/9,Modelo de dispersión de transporte,,9,,Modelo de trayectoria (Trajectory model),,,,Operational,AI Engine
+grib2/4/333/10-254,Modelo de dispersión de transporte,,10-254,,Reservadas,,,,Operational,AI Engine
+grib2/4/333/255,Modelo de dispersión de transporte,,255,,Valor faltante,,,,Operational,AI Engine

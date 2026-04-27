@@ -1,0 +1,162 @@
+ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
+grib2/4/252/0,Clases de baldosas y agrupaciones,,0,,Reservadas,,,,Operational,AI Engine
+grib2/4/252/1/SEOC,Clases de baldosas y agrupaciones,,1,SEOC,Mares y océanos,,,,Operational,AI Engine
+grib2/4/252/2/INWB,Clases y agrupaciones de baldosas,,2,INWB,Cuerpos de agua interiores,,,,Operational,AI Engine
+grib2/4/252/3/BARE,Clases y agrupaciones de baldosas,,3,BARE,Terrenos baldíos,,,,Operational,AI Engine
+grib2/4/252/4/HIV,Clases de baldosas y agrupaciones,,4,HIV,Vegetación alta,,,,Operational,AI Engine
+grib2/4/252/5/LOV,Clases de baldosas y agrupaciones,,5,LOV,Vegetación baja,,,,Operational,AI Engine
+grib2/4/252/6/URBAN,Clases de baldosas y agrupaciones,,6,URBAN,Urbana,,,,Operational,AI Engine
+grib2/4/252/7-1000,Clases de baldosas y agrupaciones,,7-1000,,Reservado para clases/grupos de baldosas de intercomparación,((véase la nota 1)),139,,Operational,AI Engine
+grib2/4/252/1001/SEAO,Clases de baldosas y agrupaciones,,1001,SEAO,Mar y océanos,,,,Operational,AI Engine
+grib2/4/252/1002/LAKE,Clases de baldosas y agrupaciones,,1002,LAKE,Lagos,,,,Operational,AI Engine
+grib2/4/252/1003/RIVE,Clases de baldosas y agrupaciones,,1003,RIVE,Ríos,,,,Operational,AI Engine
+grib2/4/252/1004/NO,Clases de baldosas y agrupaciones,,1004,NO,Tierra desnuda,,,,Operational,AI Engine
+grib2/4/252/1005/ROCK,Clases de baldosas y agrupaciones,,1005,ROCK,Roca desnuda,,,,Operational,AI Engine
+grib2/4/252/1006/SNOW,Clases de baldosas y agrupaciones,,1006,SNOW,Nieve permanente,,,,Operational,AI Engine
+grib2/4/252/1007/BOBD,Clases de baldosas y agrupaciones,,1007,BOBD,Latifoliadas caducifolias boreales,,,,Operational,AI Engine
+grib2/4/252/1008/TEBD,Clases de baldosas y agrupaciones,,1008,TEBD,Caducifolio templado de hoja ancha,,,,Operational,AI Engine
+grib2/4/252/1009/TRBD,Clases de baldosas y agrupaciones,,1009,TRBD,Tropical de hoja ancha caducifolio,,,,Operational,AI Engine
+grib2/4/252/1010/TEBE,Clases de baldosas y agrupaciones,,1010,TEBE,Siempreverde templado de hoja ancha,,,,Operational,AI Engine
+grib2/4/252/1011/TRBE,Clases de baldosas y agrupaciones,,1011,TRBE,Siempreverde de hoja ancha tropical,,,,Operational,AI Engine
+grib2/4/252/1012/BONE,Clases de baldosas y agrupaciones,,1012,BONE,Siempreverde de hojas aciculares boreal,,,,Operational,AI Engine
+grib2/4/252/1013/TENE,Clases de baldosas y agrupaciones,,1013,TENE,Perennifolio de hojas aciculares de clima templado,,,,Operational,AI Engine
+grib2/4/252/1014/BOND,Clases de baldosas y agrupaciones,,1014,BOND,Deciduo de hojas aciculares boreales,,,,Operational,AI Engine
+grib2/4/252/1015/SHRB,Clases de baldosas y agrupaciones,,1015,SHRB,Arbustos,,,,Operational,AI Engine
+grib2/4/252/1016/BOGR,Clases de baldosas y agrupaciones,,1016,BOGR,Pastizal boreal,,,,Operational,AI Engine
+grib2/4/252/1017/GRAS,Clases de baldosas y agrupaciones,,1017,GRAS,Pradera templada,,,,Operational,AI Engine
+grib2/4/252/1018/TROG,Clases de baldosas y agrupaciones,,1018,TROG,Pradera tropical,,,,Operational,AI Engine
+grib2/4/252/1019/C3W,Clases de baldosas y agrupaciones,,1019,C3W,Cultivos C3 de invierno,,,,Operational,AI Engine
+grib2/4/252/1020/C3S,Clases de baldosas y agrupaciones,,1020,C3S,cultivos C3 de verano,,,,Operational,AI Engine
+grib2/4/252/1021/C4,Clases de baldosas y agrupaciones,,1021,C4,cultivos C4,,,,Operational,AI Engine
+grib2/4/252/1022/FLTR,Clases de baldosas y agrupaciones,,1022,FLTR,Árboles inundados,,,,Operational,AI Engine
+grib2/4/252/1023/FLGR,Clases de baldosas y agrupaciones,,1023,FLGR,Pradera inundada,,,,Operational,AI Engine
+grib2/4/252/1024/LCZ1,Clases de baldosas y agrupaciones,,1024,LCZ1,Zona climática local 1: edificios altos compactos,,,,Operational,AI Engine
+grib2/4/252/1025/LCZ2,Clases de baldosas y agrupaciones,,1025,LCZ2,Zona climática local 2: edificios compactos de altura media,,,,Operational,AI Engine
+grib2/4/252/1026/LCZ3,Clases de baldosas y agrupaciones,,1026,LCZ3,Zona climática local 3: edificios compactos de poca altura,,,,Operational,AI Engine
+grib2/4/252/1027/LCZ4,Clases de baldosas y agrupaciones,,1027,LCZ4,Zona climática local 4: rascacielos abiertos (edificios),,,,Operational,AI Engine
+grib2/4/252/1028/LCZ5,Clases de baldosas y agrupaciones,,1028,LCZ5,Zona climática local 5: edificios abiertos de altura media,,,,Operational,AI Engine
+grib2/4/252/1029/LCZ6,Clases de baldosas y agrupaciones,,1029,LCZ6,Zona climática local 6: edificios bajos abiertos,,,,Operational,AI Engine
+grib2/4/252/1030/LCZ7,Clases de baldosas y agrupaciones,,1030,LCZ7,Zona climática local 7: edificios ligeros de poca altura,,,,Operational,AI Engine
+grib2/4/252/1031/LCZ8,Clases de baldosas y agrupaciones,,1031,LCZ8,Zona climática local 8: edificios grandes de poca altura,,,,Operational,AI Engine
+grib2/4/252/1032/LCZ9,Clases de baldosas y agrupaciones,,1032,LCZ9,Zona climática local 9: escasamente construida (edificios),,,,Operational,AI Engine
+grib2/4/252/1033/LCZ10,Clases de baldosas y agrupaciones,,1033,LCZ10,Zona climática local 10: industria pesada (edificios),,,,Operational,AI Engine
+grib2/4/252/1034/TEBDU,Clases de baldosas y agrupaciones,,1034,TEBDU,Urbano templado de hojas anchas caducifolias,,,,Operational,AI Engine
+grib2/4/252/1035/TRBDU,Clases de baldosas y agrupaciones,,1035,TRBDU,Urbano tropical de hoja ancha caducifolio,,,,Operational,AI Engine
+grib2/4/252/1036/TEBEU,Clases de baldosas y agrupaciones,,1036,TEBEU,Evergreen de hoja ancha templado urbano,,,,Operational,AI Engine
+grib2/4/252/1037/TRBEU,Clases de baldosas y agrupaciones,,1037,TRBEU,Urbano tropical de hoja ancha perenne,,,,Operational,AI Engine
+grib2/4/252/1038/BONEU,Clases de baldosas y agrupaciones,,1038,BONEU,Urbano boreal de hoja acicular perenne,,,,Operational,AI Engine
+grib2/4/252/1039/TENEU,Clases de baldosas y agrupaciones,,1039,TENEU,Templado urbano de hoja acicular perenne,,,,Operational,AI Engine
+grib2/4/252/1040/BONDU,Clases de baldosas y agrupaciones,,1040,BONDU,Urbano boreal de hojas aciculares caducas,,,,Operational,AI Engine
+grib2/4/252/1041-1500,Clases de baldosas y agrupaciones,,1041-1500,,Reservado para entradas de clase de mosaico para modelos de mosaico que utilizan la encuesta de cobertura terrestre de ECOCLIMAP-SG,((véase la nota 1)),139,,Operational,AI Engine
+grib2/4/252/1501,Clases de baldosas y agrupaciones,,1501,,Agrupación de naturaleza (NO + ROCK + nieve + BOBD + TEBD + TRBD + TEBE + TRBE + BONE + TENE + BOND + SHRB + BOGR + GRAS + TROG + C3W + C3S + C4 + FLTR + FLGR),,,,Operational,AI Engine
+grib2/4/252/1502,Clases de baldosas y agrupaciones,,1502,,Agrupación no forestal (NO + ROCK + nieve + BOGR + GRAS + TROG + C3W + C3S + C4 + FLTR + FLGR),,,,Operational,AI Engine
+grib2/4/252/1503,Clases de baldosas y agrupaciones,,1503,,Agrupación de bosques (BOBD + TEBD + TRBD + TEBE + TRBE + BONE + TENE + BOND + SHRB),,,,Operational,AI Engine
+grib2/4/252/1504,Clases de baldosas y agrupaciones,,1504,,Agrupación no vegetada (NO + ROCA + NIEVE),,,,Operational,AI Engine
+grib2/4/252/1505,Clases de baldosas y agrupaciones,,1505,,Agrupación de árboles (BOBD + TEBD + TRBD + TEBE + TRBE + BONE + TENE + BOND + SHRB + FLTR),,,,Operational,AI Engine
+grib2/4/252/1506,Clases de baldosas y agrupaciones,,1506,,Agrupación de vegetación baja (BOGR + GRAS + TROG + C3W + C3S + C4 + FLGR),,,,Operational,AI Engine
+grib2/4/252/1507,Clases de baldosas y agrupaciones,,1507,,Agrupación de vegetación baja no inundada (BOGR + GRAS + TROG + C3W + C3S + C4),,,,Operational,AI Engine
+grib2/4/252/1508,Clases de baldosas y agrupaciones,,1508,,Agrupación de cultivos (C3W + C3S + C4),,,,Operational,AI Engine
+grib2/4/252/1509,Clases de baldosas y agrupaciones,,1509,,Agrupación de pastizales (BOGR + GRAS + TROG),,,,Operational,AI Engine
+grib2/4/252/1510,Clases de baldosas y agrupaciones,,1510,,Agrupación de roca y desnudo (NO + ROCK),,,,Operational,AI Engine
+grib2/4/252/1511,Clases de baldosas y agrupaciones,,1511,,Agrupación de cultivos C3 (C3W + C3S),,,,Operational,AI Engine
+grib2/4/252/1512,Clases de baldosas y agrupaciones,,1512,,Agrupación de bosques de hoja ancha (BOBD + TEBD + TRBD + TEBE + TRBE + SHRB),,,,Operational,AI Engine
+grib2/4/252/1513,Clases de baldosas y agrupaciones,,1513,,Agrupación de bosque de hojas aciculares (BONE + TENE + BOND),,,,Operational,AI Engine
+grib2/4/252/1514,Clases de baldosas y agrupaciones,,1514,,Agrupación de bosque caducifolio de hoja ancha (BOBD + TEBD + TRBD + TEBE + SHRB),,,,Operational,AI Engine
+grib2/4/252/1515,Clases de baldosas y agrupaciones,,1515,,Agrupación de pastizales templados (BOGR + GRAS),,,,Operational,AI Engine
+grib2/4/252/1516,Clases de baldosas y agrupaciones,,1516,,Agrupación no forestal (sin FLTR) (NO + ROCK + nieve + BOGR + GRAS + TROG + C3W + C3S + C4 + FLGR),,,,Operational,AI Engine
+grib2/4/252/1517,Clases de baldosas y agrupaciones,,1517,,Bosque de hoja ancha (con FLTR) agrupación (BOBD + TEBD + TRBD + TEBE + TRBE + SHRB + FLTR),,,,Operational,AI Engine
+grib2/4/252/1518,Clases de baldosas y agrupaciones,,1518,,Agrupación de árboles de hoja ancha (BOBD + TEBD + TRBD + TEBE + TRBE + FLTR),,,,Operational,AI Engine
+grib2/4/252/1519,Clases de baldosas y agrupaciones,,1519,,Agrupación de pastizales C3/C4 (BOGR + GRAS + FLGR),,,,Operational,AI Engine
+grib2/4/252/1520,Clases de baldosas y agrupaciones,,1520,,Agrupación de árboles de hoja ancha caducifolios (BOBD + TEBD + TRBD + FLTR),,,,Operational,AI Engine
+grib2/4/252/1521,Clases de baldosas y agrupaciones,,1521,,Agrupación de árboles de hoja perenne de hoja ancha (TEBE + TRBE),,,,Operational,AI Engine
+grib2/4/252/1522,Clases de baldosas y agrupaciones,,1522,,Agrupación de árboles de hoja perenne con forma de aguja (BONE + TENE),,,,Operational,AI Engine
+grib2/4/252/1523,Clases de baldosas y agrupaciones,,1523,,LCZ o agrupación urbana (LCZ1 + LCZ2 + LCZ3 + LCZ4 + LCZ5 + LCZ6 + LCZ7 + LCZ8 + LCZ9 + LCZ10),,,,Operational,AI Engine
+grib2/4/252/1524,Clases de baldosas y agrupaciones,,1524,,Agrupación de aguas interiores (LAGO + RIVE),,,,Operational,AI Engine
+grib2/4/252/1525,Clases de baldosas y agrupaciones,,1525,,Agrupación TEBD de parques urbanos y jardines (NO + GRAS + TEBDU),,,,Operational,AI Engine
+grib2/4/252/1526,Clases de baldosas y agrupaciones,,1526,,Agrupación TRBD de parques urbanos y jardines (NO + GRAS + TRBDU),,,,Operational,AI Engine
+grib2/4/252/1527,Clases de baldosas y agrupaciones,,1527,,Parques urbanos y jardines agrupación TEBE (NO + GRAS + TEBEU),,,,Operational,AI Engine
+grib2/4/252/1528,Clases de baldosas y agrupaciones,,1528,,Agrupación TRBE de parques y jardines urbanos (NO + GRAS + TRBEU),,,,Operational,AI Engine
+grib2/4/252/1529,Clases de baldosas y agrupaciones,,1529,,Parques urbanos y jardines agrupación BONE (NO + GRAS + BONEU),,,,Operational,AI Engine
+grib2/4/252/1530,Clases de baldosas y agrupaciones,,1530,,Parques urbanos y jardines agrupación TENE (NO + GRAS + TENEU),,,,Operational,AI Engine
+grib2/4/252/1531,Clases de baldosas y agrupaciones,,1531,,Agrupación BOND de parques urbanos y jardines (NO + GRAS + BONDU),,,,Operational,AI Engine
+grib2/4/252/1532-2000,Clases de baldosas y agrupaciones,,1532-2000,,Reservado para entradas de agrupación de mosaicos para modelos de mosaicos utilizando la encuesta de cobertura terrestre de ECOCLIMAP-SG,((véase la nota 1)),139,,Operational,AI Engine
+grib2/4/252/2001/CRMF,Clases de baldosas y agrupaciones,,2001,CRMF,"Cultivos, agricultura mixta",,,,Operational,AI Engine
+grib2/4/252/2002/SHGR,Clases de baldosas y agrupaciones,,2002,SHGR,Hierba corta,,,,Operational,AI Engine
+grib2/4/252/2003/EVNE,Clases de baldosas y agrupaciones,,2003,EVNE,Árboles perennes de hoja acicular,,,,Operational,AI Engine
+grib2/4/252/2004/DENE,Clases de baldosas y agrupaciones,,2004,DENE,Árboles caducifolios de hoja acicular,,,,Operational,AI Engine
+grib2/4/252/2005/DEBR,Clases de baldosas y agrupaciones,,2005,DEBR,Árboles caducifolios de hoja ancha,,,,Operational,AI Engine
+grib2/4/252/2006/EVBR,Clases de baldosas y agrupaciones,,2006,EVBR,Árboles perennes de hoja ancha,,,,Operational,AI Engine
+grib2/4/252/2007/TAGR,Clases de baldosas y agrupaciones,,2007,TAGR,Hierba alta,,,,Operational,AI Engine
+grib2/4/252/2008/DESE,Clases de baldosas y agrupaciones,,2008,DESE,Desierto,,,,Operational,AI Engine
+grib2/4/252/2009/TUND,Clases de baldosas y agrupaciones,,2009,TUND,Tundra,,,,Operational,AI Engine
+grib2/4/252/2010/IRCR,Clases de baldosas y agrupaciones,,2010,IRCR,Cultivos de regadío,,,,Operational,AI Engine
+grib2/4/252/2011/SEDE,Clases de baldosas y agrupaciones,,2011,SEDE,Semidesierto,,,,Operational,AI Engine
+grib2/4/252/2012/ICGL,Clases de baldosas y agrupaciones,,2012,ICGL,Casquetes de hielo y glaciares,,,,Operational,AI Engine
+grib2/4/252/2013/BOMA,Clases de baldosas y agrupaciones,,2013,BOMA,Ciénagas y pantanos,,,,Operational,AI Engine
+grib2/4/252/2014/INWA,Clases de baldosas y agrupaciones,,2014,INWA,Aguas interiores,,,,Operational,AI Engine
+grib2/4/252/2015/OCEA,Clases de baldosas y agrupaciones,,2015,OCEA,Océano,,,,Operational,AI Engine
+grib2/4/252/2016/EVSH,Clases de baldosas y agrupaciones,,2016,EVSH,Arbustos perennes,,,,Operational,AI Engine
+grib2/4/252/2017/DESH,Clases de baldosas y agrupaciones,,2017,DESH,Arbustos caducifolios,,,,Operational,AI Engine
+grib2/4/252/2018/MFWO,Clases de baldosas y agrupaciones,,2018,MFWO,Bosque/terreno forestal mixto,,,,Operational,AI Engine
+grib2/4/252/2019/INFO,Clases de baldosas y agrupaciones,,2019,INFO,Bosque interrumpido,,,,Operational,AI Engine
+grib2/4/252/2020/WLMI,Clases de baldosas y agrupaciones,,2020,WLMI,Mezclas de agua y tierra,,,,Operational,AI Engine
+grib2/4/252/2021/BASO,Clases de baldosas y agrupaciones,,2021,BASO,Suelo desnudo,,,,Operational,AI Engine
+grib2/4/252/2022/URBA,Clases de baldosas y agrupaciones,,2022,URBA,Urbana,,,,Operational,AI Engine
+grib2/4/252/2023/LORI,Clases de baldosas y agrupaciones,,2023,LORI,Edificio de poca altura,,,,Operational,AI Engine
+grib2/4/252/2024/HIRI,Clases de baldosas y agrupaciones,,2024,HIRI,Edificio de gran altura,,,,Operational,AI Engine
+grib2/4/252/2025-2500,Clases de baldosas y agrupaciones,,2025-2500,,Reservado para entradas de clase de baldosas para modelos de baldosas que utilizan la encuesta de clasificación BATS de GLCC v2.0,((véase la nota 1)),139,,Operational,AI Engine
+grib2/4/252/2501,Clases de baldosas y agrupaciones,,2501,,Agrupación de vegetación baja (CRMF + SHGR + TAGR + TUND + IRCR + SEDE + BOMA + EVSH + DESH + WLMI),,,,Operational,AI Engine
+grib2/4/252/2502,Clases de baldosas y agrupaciones,,2502,,Agrupación de vegetación alta (EVNE + DENE + DEBR + EVBR + MFWO + INFO),,,,Operational,AI Engine
+grib2/4/252/2503-3000,Clases de baldosas y agrupaciones,,2503-3000,,Reservado para entradas de agrupación de baldosas para modelos de baldosas que utilizan la encuesta de clasificación BATS de GLCC v2.0,((véase la nota 1)),139,,Operational,AI Engine
+grib2/4/252/3001/PFIC,Clases de baldosas y agrupaciones,,3001,PFIC,Tierras de cultivo posteriores a inundaciones o tierras de cultivo irrigadas,,,,Operational,AI Engine
+grib2/4/252/3002/RACR,Clases de baldosas y agrupaciones,,3002,RACR,Tierras de cultivo de secano,,,,Operational,AI Engine
+grib2/4/252/3003/MCVE,Clases de baldosas y agrupaciones,,3003,MCVE,"Mosaico de tierras de cultivo (50%-70%)/vegetación (pastizales, matorrales, bosques) (20-50%)",,,,Operational,AI Engine
+grib2/4/252/3004/MVCR,Clases de baldosas y agrupaciones,,3004,MVCR,"Vegetación en mosaico (pastizales, matorrales, bosques) (50%-70%)/tierras de cultivo (20%-50%)",,,,Operational,AI Engine
+grib2/4/252/3005/COBS,Clases de baldosas y agrupaciones,,3005,COBS,Bosque de hoja ancha perenne y/o semideciduo cerrado a abierto (>15%) (>5m),,,,Operational,AI Engine
+grib2/4/252/3006/CLBD,Clases de baldosas y agrupaciones,,3006,CLBD,Bosque cerrado (>40%) de frondosas caducifolias (>5m),,,,Operational,AI Engine
+grib2/4/252/3007/OPBD,Clases de baldosas y agrupaciones,,3007,OPBD,Bosque abierto (15-40%) de hojas anchas caducifolio (>5m),,,,Operational,AI Engine
+grib2/4/252/3008/CLNE,Clases de baldosas y agrupaciones,,3008,CLNE,Bosque cerrado (>40%) de hoja perenne de acículas (>5m),,,,Operational,AI Engine
+grib2/4/252/3009/ONDE,Clases de baldosas y agrupaciones,,3009,ONDE,Bosque abierto (15-40%) de hojas aciculares caducifolio o perenne (>5m),,,,Operational,AI Engine
+grib2/4/252/3010/COBN,Clases de baldosas y agrupaciones,,3010,COBN,De cerrado a abierto (>15%) bosque mixto de hojas anchas y acículas (>5m),,,,Operational,AI Engine
+grib2/4/252/3011/MFSG,Clases de baldosas y agrupaciones,,3011,MFSG,Bosque/matorral en mosaico (50%-70%)/pastizal (20%-50%),,,,Operational,AI Engine
+grib2/4/252/3012/MGFS,Clases de baldosas y agrupaciones,,3012,MGFS,Pastizal en mosaico (50%-70%)/bosque/matorral (20%-50%),,,,Operational,AI Engine
+grib2/4/252/3013/COSH,Clases de baldosas y agrupaciones,,3013,COSH,Matorral cerrado a abierto (>15%) (<5m),,,,Operational,AI Engine
+grib2/4/252/3014/COHV,Clases de baldosas y agrupaciones,,3014,COHV,Vegetación herbácea de cerrada a abierta (>15%),,,,Operational,AI Engine
+grib2/4/252/3015/SPVE,Clases de baldosas y agrupaciones,,3015,SPVE,"Vegetación escasa (<15%) (vegetación leñosa, arbustos, pastizales)",,,,Operational,AI Engine
+grib2/4/252/3016/COBFF,Clases de baldosas y agrupaciones,,3016,COBFF,Bosque de hoja ancha cerrado a abierto (>15%) regularmente inundado (semi-permanentemente o temporalmente) - agua dulce o salobre,,,,Operational,AI Engine
+grib2/4/252/3017/CLBFF,Clases de baldosas y agrupaciones,,3017,CLBFF,Bosque cerrado (>40%) de hojas anchas o matorral permanentemente inundado - agua salina o salobre,,,,Operational,AI Engine
+grib2/4/252/3018/COVEF,Clases de baldosas y agrupaciones,,3018,COVEF,"Vegetación cerrada a abierta (>15%) (pastizales, matorrales, vegetación leñosa) en suelos regularmente inundados o encharcados - agua dulce, salobre o salina",,,,Operational,AI Engine
+grib2/4/252/3019/ASAA,Clases de baldosas y agrupaciones,,3019,ASAA,Superficies artificiales y áreas asociadas (áreas urbanas >50%),,,,Operational,AI Engine
+grib2/4/252/3020/BAAR,Clases de baldosas y agrupaciones,,3020,BAAR,Terrenos baldíos,,,,Operational,AI Engine
+grib2/4/252/3021/WABO,Clases de baldosas y agrupaciones,,3021,WABO,Masas de agua,,,,Operational,AI Engine
+grib2/4/252/3022/PESI,Clases de baldosas y agrupaciones,,3022,PESI,Nieve y hielo permanentes,,,,Operational,AI Engine
+grib2/4/252/3023-3500,Clases de baldosas y agrupaciones,,3023-3500,,Reservado para entradas de clase de mosaico para modelos de mosaico utilizando la encuesta ESA-GlobCover GCV2009,((véase la nota 1)),139,,Operational,AI Engine
+grib2/4/252/3501,Clases de baldosas y agrupaciones,,3501,,Agrupación utilizando el enfoque de los mosaicos dominantes (el mosaico dominante varía por caja de cuadrícula),,,,Operational,AI Engine
+grib2/4/252/3502-4000,Clases de baldosas y agrupaciones,,3502-4000,,Reservado para entradas de agrupación de mosaicos para modelos de mosaicos utilizando la encuesta ESA-GlobCover GCV2009,((véase la nota 1)),139,,Operational,AI Engine
+grib2/4/252/4001/TBECO,Clases de baldosas y agrupaciones,,4001,TBECO,"Cobertura arbórea, de hoja ancha perenne, cerrada a abierta (>15%)",,,,Operational,AI Engine
+grib2/4/252/4002/TBDC,Clases de baldosas y agrupaciones,,4002,TBDC,"Cobertura de árboles, caducifolias de hojas anchas, cerrada (>40%)",,,,Operational,AI Engine
+grib2/4/252/4003/TBDO,Clases de baldosas y agrupaciones,,4003,TBDO,"Cobertura de árboles, caducifolios de hojas anchas, abierta (15-40%)",,,,Operational,AI Engine
+grib2/4/252/4004/TNECO,Clases de baldosas y agrupaciones,,4004,TNECO,"Cobertura de árboles, de hojas aciculares perennes, de cerrada a abierta (>15%).",,,,Operational,AI Engine
+grib2/4/252/4005/TNDCO,Clases de baldosas y agrupaciones,,4005,TNDCO,"Cobertura arbórea, de hojas aciculares caducas, de cerrada a abierta (>15%)",,,,Operational,AI Engine
+grib2/4/252/4006/TMLCO,Clases de baldosas y agrupaciones,,4006,TMLCO,"Cobertura arbórea, tipo de hoja mixta, cerrada a abierta (>15%)",,,,Operational,AI Engine
+grib2/4/252/4007/TCOFF,Clases de baldosas y agrupaciones,,4007,TCOFF,"Cobertura arbórea, cerrada a abierta (>15%), regularmente inundada, agua dulce o salobre: bosques pantanosos",,,,Operational,AI Engine
+grib2/4/252/4008/TCOFS,Clases de baldosas y agrupaciones,,4008,TCOFS,"Cobertura arbórea, de cerrada a abierta (>15%), regularmente inundada, agua salina: bosques de manglares",,,,Operational,AI Engine
+grib2/4/252/4009/MTVG,Clases de baldosas y agrupaciones,,4009,MTVG,Mosaico de cobertura de árboles y otra vegetación natural (componente de cultivo posible),,,,Operational,AI Engine
+grib2/4/252/4010/TBURN,Clases de baldosas y agrupaciones,,4010,TBURN,"Cobertura arbórea, quemada (principalmente bosques boreales)",,,,Operational,AI Engine
+grib2/4/252/4011/SCOE,Clases de baldosas y agrupaciones,,4011,SCOE,"Cobertura de arbustos, cerrada a abierta (>15%), perenne (de hoja ancha o de hoja acicular)",,,,Operational,AI Engine
+grib2/4/252/4012/SCOD,Clases de baldosas y agrupaciones,,4012,SCOD,"Cobertura arbustiva, cerrada a abierta (>15%), caducifolia (de hoja ancha)",,,,Operational,AI Engine
+grib2/4/252/4013/HCCO,Clases de baldosas y agrupaciones,,4013,HCCO,"Cobertura herbácea, cerrada a abierta (>15%)",,,,Operational,AI Engine
+grib2/4/252/4014/SHSC,Clases de baldosas y agrupaciones,,4014,SHSC,Cobertura herbácea dispersa o cobertura arbustiva dispersa,,,,Operational,AI Engine
+grib2/4/252/4015/FSHCO,Clases de baldosas y agrupaciones,,4015,FSHCO,"Cubierta de arbustos o herbácea regularmente inundada (>2 meses), de cerrada a abierta",,,,Operational,AI Engine
+grib2/4/252/4016/CROP,Clases de baldosas y agrupaciones,,4016,CROP,Tierra de cultivo (cultivos de tierras altas o cultivos inundados/anegados),,,,Operational,AI Engine
+grib2/4/252/4017/MCTNV,Clases de baldosas y agrupaciones,,4017,MCTNV,Mosaico de tierras de cultivo / cobertura arbórea / otra vegetación natural,,,,Operational,AI Engine
+grib2/4/252/4018/MCSH,Clases de baldosas y agrupaciones,,4018,MCSH,Mosaico de tierras de cultivo / cobertura de arbustos o herbácea,,,,Operational,AI Engine
+grib2/4/252/4019/BAARE,Clases de baldosas y agrupaciones,,4019,BAARE,Terrenos baldíos,,,,Operational,AI Engine
+grib2/4/252/4020/WBNA,Clases de baldosas y agrupaciones,,4020,WBNA,Cuerpos de agua (naturales o artificiales),,,,Operational,AI Engine
+grib2/4/252/4021/SINA,Clases de baldosas y agrupaciones,,4021,SINA,Nieve o hielo (natural o artificial),,,,Operational,AI Engine
+grib2/4/252/4022/URAR,Clases de baldosas y agrupaciones,,4022,URAR,Áreas urbanas,,,,Operational,AI Engine
+grib2/4/252/4023-4500,Clases de baldosas y agrupaciones,,4023-4500,,Reservado para entradas de clase de mosaico para modelos de mosaico que utilizan la encuesta del Proyecto de Cobertura Terrestre Global de la Comisión Europea GLC2000.,((véase la nota 1)),139,,Operational,AI Engine
+grib2/4/252/4501-5000,Clases de baldosas y agrupaciones,,4501-5000,,Reservado para entradas de agrupación de mosaicos para modelos de mosaicos que utilizan la encuesta del Proyecto Global de Cobertura Terrestre de la Comisión Europea GLC2000,((véase la nota 1)),139,,Operational,AI Engine
+grib2/4/252/5001-32767,Clases de baldosas y agrupaciones,,5001-32767,,Reservado para encuestas adicionales de cobertura de suelo,,,,Operational,AI Engine
+grib2/4/252/32768-65534,Clases de baldosas y agrupaciones,,32768-65534,,Reservadas para uso local,,,,Operational,AI Engine
+grib2/4/252/65535,Clases de baldosas y agrupaciones,,65535,,Valor faltante,,,,Operational,AI Engine

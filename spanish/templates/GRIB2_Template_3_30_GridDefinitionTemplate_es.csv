@@ -1,23 +1,23 @@
-﻿ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translation_source
-grib2/3/30/15,Modelo de definición de la retícula 3.30 — Proyección conforme de Lambert,15,1,Forma de la Tierra,(véase la Tabla de cifrado 3.2),,3.2,,Operational,PDF
-grib2/3/30/16,Modelo de definición de la retícula 3.30 — Proyección conforme de Lambert,16,1,Factor de escala del radio de la Tierra esférica,,,,,Operational,PDF
-grib2/3/30/17-20,Modelo de definición de la retícula 3.30 — Proyección conforme de Lambert,17-20,4,Valor ajustado del radio de la Tierra esférica,,,,,Operational,PDF
-grib2/3/30/21,Modelo de definición de la retícula 3.30 — Proyección conforme de Lambert,21,1,Factor de escala del eje mayor de la Tierra esferoidal achatada,,,,,Operational,PDF
-grib2/3/30/22-25,Modelo de definición de la retícula 3.30 — Proyección conforme de Lambert,22-25,4,Valor ajustado del eje mayor de la Tierra esferoidal achatada,,,,,Operational,PDF
-grib2/3/30/26,Modelo de definición de la retícula 3.30 — Proyección conforme de Lambert,26,1,Factor de escala del eje menor de la Tierra esferoidal achatada,,,,,Operational,PDF
-grib2/3/30/27-30,Modelo de definición de la retícula 3.30 — Proyección conforme de Lambert,27-30,4,Valor ajustado del eje menor de la Tierra esferoidal achatada,,,,,Operational,PDF
-grib2/3/30/31-34,Modelo de definición de la retícula 3.30 — Proyección conforme de Lambert,31-34,4,Nx - número de puntos a lo largo del eje de las x,,,,,Operational,PDF
-grib2/3/30/35-38,Modelo de definición de la retícula 3.30 — Proyección conforme de Lambert,35-38,4,Ny - número de puntos a lo largo del eje de las y,,,,,Operational,PDF
-grib2/3/30/39-42,Modelo de definición de la retícula 3.30 — Proyección conforme de Lambert,39-42,4,La1 - latitud del primer punto de la retícula,,,,,Operational,PDF
-grib2/3/30/43-46,Modelo de definición de la retícula 3.30 — Proyección conforme de Lambert,43-46,4,Lo1 - longitud del primer punto de la retícula,,,,,Operational,PDF
-grib2/3/30/47,Modelo de definición de la retícula 3.30 — Proyección conforme de Lambert,47,1,Banderines de resolución y de componentes,(véase la Tabla de banderines 3.3),,,3.3,Operational,PDF
-grib2/3/30/48-51,Modelo de definición de la retícula 3.30 — Proyección conforme de Lambert,48-51,4,LaD - latitud en que Dx y Dy están especificados,,,,,Operational,PDF
-grib2/3/30/52-55,Modelo de definición de la retícula 3.30 — Proyección conforme de Lambert,52-55,4,LoV - longitud del meridiano paralelo al eje de las y a lo largo del cual el valor de las y aumenta con la latitud,,,,,Operational,PDF
-grib2/3/30/56-59,Modelo de definición de la retícula 3.30 — Proyección conforme de Lambert,56-59,4,Dx - longitud de la retícula en la dirección x,(véase la nota 1),,,,Operational,PDF
-grib2/3/30/60-63,Modelo de definición de la retícula 3.30 — Proyección conforme de Lambert,60-63,4,Dy - longitud de la retícula en la dirección y,(véase la nota 1),,,,Operational,PDF
-grib2/3/30/64,Modelo de definición de la retícula 3.30 — Proyección conforme de Lambert,64,1,Centro de la proyección,(véase la Tabla de banderines 3.5),,,3.5,Operational,PDF
-grib2/3/30/65,Modelo de definición de la retícula 3.30 — Proyección conforme de Lambert,65,1,Modo de exploración,(véase la Tabla de banderines 3.4),,,3.4,Operational,PDF
-grib2/3/30/66-69,Modelo de definición de la retícula 3.30 — Proyección conforme de Lambert,66-69,4,Cuadrado latino 1 - primera latitud a partir del polo en la cual el cono secante corta la esfera,,,,,Operational,PDF
-grib2/3/30/70-73,Modelo de definición de la retícula 3.30 — Proyección conforme de Lambert,70-73,4,Cuadrado latino 2 - segunda latitud a partir del polo en la cual el cono secante corta la esfera,,,,,Operational,PDF
-grib2/3/30/74-77,Modelo de definición de la retícula 3.30 — Proyección conforme de Lambert,74-77,4,Latitud del polo sur de la proyección,,,,,Operational,PDF
-grib2/3/30/78-81,Modelo de definición de la retícula 3.30 — Proyección conforme de Lambert,78-81,4,Longitud del polo sur de la proyección,,,,,Operational,PDF
+ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translation_source
+grib2/3/30/15,Modelo de definición de la retícula 3.30 — Proyección conforme de Lambert,15,1,Forma de la Tierra,(véase la Tabla de cifrado 3.2),,3.2,,Operational,Original
+grib2/3/30/16,Modelo de definición de la retícula 3.30 — Proyección conforme de Lambert,16,1,Factor de escala del radio de la Tierra esférica,,,,,Operational,Original
+grib2/3/30/17-20,Modelo de definición de la retícula 3.30 — Proyección conforme de Lambert,17-20,4,Valor ajustado del radio de la Tierra esférica,,,,,Operational,Original
+grib2/3/30/21,Modelo de definición de la retícula 3.30 — Proyección conforme de Lambert,21,1,Factor de escala del eje mayor de la Tierra esferoidal achatada,,,,,Operational,Original
+grib2/3/30/22-25,Modelo de definición de la retícula 3.30 — Proyección conforme de Lambert,22-25,4,Valor ajustado del eje mayor de la Tierra esferoidal achatada,,,,,Operational,Original
+grib2/3/30/26,Modelo de definición de la retícula 3.30 — Proyección conforme de Lambert,26,1,Factor de escala del eje menor de la Tierra esferoidal achatada,,,,,Operational,Original
+grib2/3/30/27-30,Modelo de definición de la retícula 3.30 — Proyección conforme de Lambert,27-30,4,Valor ajustado del eje menor de la Tierra esferoidal achatada,,,,,Operational,Original
+grib2/3/30/31-34,Modelo de definición de la retícula 3.30 — Proyección conforme de Lambert,31-34,4,Nx - número de puntos a lo largo del eje de las x,,,,,Operational,Original
+grib2/3/30/35-38,Modelo de definición de la retícula 3.30 — Proyección conforme de Lambert,35-38,4,Ny - número de puntos a lo largo del eje de las y,,,,,Operational,Original
+grib2/3/30/39-42,Modelo de definición de la retícula 3.30 — Proyección conforme de Lambert,39-42,4,La1 - latitud del primer punto de la retícula,,,,,Operational,Original
+grib2/3/30/43-46,Modelo de definición de la retícula 3.30 — Proyección conforme de Lambert,43-46,4,Lo1 - longitud del primer punto de la retícula,,,,,Operational,Original
+grib2/3/30/47,Modelo de definición de la retícula 3.30 — Proyección conforme de Lambert,47,1,Banderines de resolución y de componentes,(véase la Tabla de banderines 3.3),,,3.3,Operational,Original
+grib2/3/30/48-51,Modelo de definición de la retícula 3.30 — Proyección conforme de Lambert,48-51,4,LaD - latitud en que Dx y Dy están especificados,,,,,Operational,Original
+grib2/3/30/52-55,Modelo de definición de la retícula 3.30 — Proyección conforme de Lambert,52-55,4,LoV - longitud del meridiano paralelo al eje de las y a lo largo del cual el valor de las y aumenta con la latitud,,,,,Operational,Original
+grib2/3/30/56-59,Modelo de definición de la retícula 3.30 — Proyección conforme de Lambert,56-59,4,Dx - longitud de la retícula en la dirección x,(véase la nota 1),,,,Operational,Original
+grib2/3/30/60-63,Modelo de definición de la retícula 3.30 — Proyección conforme de Lambert,60-63,4,Dy - longitud de la retícula en la dirección y,(véase la nota 1),,,,Operational,Original
+grib2/3/30/64,Modelo de definición de la retícula 3.30 — Proyección conforme de Lambert,64,1,Centro de la proyección,(véase la Tabla de banderines 3.5),,,3.5,Operational,Original
+grib2/3/30/65,Modelo de definición de la retícula 3.30 — Proyección conforme de Lambert,65,1,Modo de exploración,(véase la Tabla de banderines 3.4),,,3.4,Operational,Original
+grib2/3/30/66-69,Modelo de definición de la retícula 3.30 — Proyección conforme de Lambert,66-69,4,Cuadrado latino 1 - primera latitud a partir del polo en la cual el cono secante corta la esfera,,,,,Operational,Original
+grib2/3/30/70-73,Modelo de definición de la retícula 3.30 — Proyección conforme de Lambert,70-73,4,Cuadrado latino 2 - segunda latitud a partir del polo en la cual el cono secante corta la esfera,,,,,Operational,Original
+grib2/3/30/74-77,Modelo de definición de la retícula 3.30 — Proyección conforme de Lambert,74-77,4,Latitud del polo sur de la proyección,,,,,Operational,Original
+grib2/3/30/78-81,Modelo de definición de la retícula 3.30 — Proyección conforme de Lambert,78-81,4,Longitud del polo sur de la proyección,,,,,Operational,Original

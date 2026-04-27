@@ -1,6 +1,6 @@
 ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
-grib2/4/13/0,Tabla de cifrado 4.13 – Indicador de control de la calidad,,0,,No se aplica control de la calidad,,,,Operational,PDF
-grib2/4/13/1,Tabla de cifrado 4.13 – Indicador de control de la calidad,,1,,Se aplica control de la calidad,,,,Operational,PDF
-grib2/4/13/2-191,Tabla de cifrado 4.13 – Indicador de control de la calidad,,2-191,,Reservadas,,,,Operational,PDF
-grib2/4/13/192-254,Tabla de cifrado 4.13 – Indicador de control de la calidad,,192-254,,Reservadas para uso local,,,,Operational,PDF
-grib2/4/13/255,Tabla de cifrado 4.13 – Indicador de control de la calidad,,255,,Valor faltante,,,,Operational,PDF
+grib2/4/13/0,Tabla de cifrado 4.13 – Indicador de control de la calidad,,0,,No se aplica control de la calidad,,,,Operational,Original
+grib2/4/13/1,Tabla de cifrado 4.13 – Indicador de control de la calidad,,1,,Se aplica control de la calidad,,,,Operational,Original
+grib2/4/13/2-191,Tabla de cifrado 4.13 – Indicador de control de la calidad,,2-191,,Reservadas,,,,Operational,Original
+grib2/4/13/192-254,Tabla de cifrado 4.13 – Indicador de control de la calidad,,192-254,,Reservadas para uso local,,,,Operational,Original
+grib2/4/13/255,Tabla de cifrado 4.13 – Indicador de control de la calidad,,255,,Valor faltante,,,,Operational,Original

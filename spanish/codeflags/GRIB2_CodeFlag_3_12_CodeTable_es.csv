@@ -1,0 +1,6 @@
+ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
+grib2/3/12/0,Ordenamiento de romboides o puntos de HEALPix,,0,,Orden de anillo,,,,Operational,AI Engine
+grib2/3/12/1,Ordenamiento de romboides o puntos de HEALPix,,1,,Ordenación anidada,,,,Operational,AI Engine
+grib2/3/12/2-191,Ordenamiento de romboides o puntos de HEALPix,,2-191,,Reservadas,,,,Operational,AI Engine
+grib2/3/12/192-254,Ordenamiento de romboides o puntos de HEALPix,,192-254,,Reservadas para uso local,,,,Operational,AI Engine
+grib2/3/12/255,Ordenamiento de romboides o puntos de HEALPix,,255,,Valor faltante,,,,Operational,AI Engine

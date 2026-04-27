@@ -1,9 +1,10 @@
 ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
-grib2/3/25/0-76,Tabla de cifrado 3.25 — Tipo de truncamiento del dominio mediante transformada bidimensional de Fourier,,0-76,,Reservadas,,,,Operational,PDF
-grib2/3/25/77,Tabla de cifrado 3.25 — Tipo de truncamiento del dominio mediante transformada bidimensional de Fourier,,77,,Rectangular,,,,Operational,PDF
-grib2/3/25/88,Tabla de cifrado 3.25 — Tipo de truncamiento del dominio mediante transformada bidimensional de Fourier,,88,,Elíptico,,,,Operational,PDF
-grib2/3/25/89-98,Tabla de cifrado 3.25 — Tipo de truncamiento del dominio mediante transformada bidimensional de Fourier,,89-98,,Reservadas,,,,Operational,PDF
-grib2/3/25/99,Tabla de cifrado 3.25 — Tipo de truncamiento del dominio mediante transformada bidimensional de Fourier,,99,,Romboidal,,,,Operational,PDF
-grib2/3/25/100-191,Tabla de cifrado 3.25 — Tipo de truncamiento del dominio mediante transformada bidimensional de Fourier,,100-191,,Reservadas,,,,Operational,PDF
-grib2/3/25/192-254,Tabla de cifrado 3.25 — Tipo de truncamiento del dominio mediante transformada bidimensional de Fourier,,192-254,,Reservadas para uso local,,,,Operational,PDF
-grib2/3/25/255,Tabla de cifrado 3.25 — Tipo de truncamiento del dominio mediante transformada bidimensional de Fourier,,255,,Valor faltante,,,,Operational,PDF
+grib2/3/25/0-76,Tabla de cifrado 3.25 — Tipo de truncamiento del dominio mediante transformada bidimensional de Fourier,,0-76,,Reservadas,,,,Operational,Original
+grib2/3/25/77,Tabla de cifrado 3.25 — Tipo de truncamiento del dominio mediante transformada bidimensional de Fourier,,77,,Rectangular,,,,Operational,Original
+grib2/3/25/78-87,Tipo de truncamiento bidimensional de Fourier,,78-87,,Reservadas,,,,Operational,AI Engine
+grib2/3/25/88,Tabla de cifrado 3.25 — Tipo de truncamiento del dominio mediante transformada bidimensional de Fourier,,88,,Elíptico,,,,Operational,Original
+grib2/3/25/89-98,Tabla de cifrado 3.25 — Tipo de truncamiento del dominio mediante transformada bidimensional de Fourier,,89-98,,Reservadas,,,,Operational,Original
+grib2/3/25/99,Tabla de cifrado 3.25 — Tipo de truncamiento del dominio mediante transformada bidimensional de Fourier,,99,,Romboidal,,,,Operational,Original
+grib2/3/25/100-191,Tabla de cifrado 3.25 — Tipo de truncamiento del dominio mediante transformada bidimensional de Fourier,,100-191,,Reservadas,,,,Operational,Original
+grib2/3/25/192-254,Tabla de cifrado 3.25 — Tipo de truncamiento del dominio mediante transformada bidimensional de Fourier,,192-254,,Reservadas para uso local,,,,Operational,Original
+grib2/3/25/255,Tabla de cifrado 3.25 — Tipo de truncamiento del dominio mediante transformada bidimensional de Fourier,,255,,Valor faltante,,,,Operational,Original
