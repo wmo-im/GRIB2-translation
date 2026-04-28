@@ -1,7 +1,7 @@
 ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
-grib2/4/249/0,Carácter de la precipitación,,0,,Ninguno,,,,Operational,AI Engine
-grib2/4/249/1,Carácter de la precipitación,,1,,Duchas,,,,Operational,AI Engine
-grib2/4/249/2,Carácter de la precipitación,,2,,Intermitente,,,,Operational,AI Engine
-grib2/4/249/3,Carácter de la precipitación,,3,,Continuo,,,,Operational,AI Engine
-grib2/4/249/4-254,Carácter de la precipitación,,4-254,,Reservadas,,,,Operational,AI Engine
-grib2/4/249/255,Carácter de la precipitación,,255,,Valor faltante,,,,Operational,AI Engine
+grib2/4/249/0,Carácter de la precipitación,,0,,Ninguno,,,,Operational,AI
+grib2/4/249/1,Carácter de la precipitación,,1,,Duchas,,,,Operational,AI
+grib2/4/249/2,Carácter de la precipitación,,2,,Intermitente,,,,Operational,AI
+grib2/4/249/3,Carácter de la precipitación,,3,,Continuo,,,,Operational,AI
+grib2/4/249/4-254,Carácter de la precipitación,,4-254,,Reservadas,,,,Operational,AI
+grib2/4/249/255,Carácter de la precipitación,,255,,Valor faltante,,,,Operational,AI

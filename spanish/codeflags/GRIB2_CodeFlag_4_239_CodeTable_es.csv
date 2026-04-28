@@ -1,17 +1,17 @@
 ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
-grib2/4/239/0,Tipo de humedal,,0,,Reservadas,,,,Operational,AI Engine
-grib2/4/239/1,Tipo de humedal,,1,,Pantano,,,,Operational,AI Engine
-grib2/4/239/2,Tipo de humedal,,2,,Drenado,,,,Operational,AI Engine
-grib2/4/239/3,Tipo de humedal,,3,,Fen,,,,Operational,AI Engine
-grib2/4/239/4,Tipo de humedal,,4,,Llanura de inundación,,,,Operational,AI Engine
-grib2/4/239/5,Tipo de humedal,,5,,Manglar,,,,Operational,AI Engine
-grib2/4/239/6,Tipo de humedal,,6,,Marsh,,,,Operational,AI Engine
-grib2/4/239/7,Tipo de humedal,,7,,Arroz,,,,Operational,AI Engine
-grib2/4/239/8,Tipo de humedal,,8,,Fluvial,,,,Operational,AI Engine
-grib2/4/239/9,Tipo de humedal,,9,,Marisma salina,,,,Operational,AI Engine
-grib2/4/239/10,Tipo de humedal,,10,,Pantano,,,,Operational,AI Engine
-grib2/4/239/11,Tipo de humedal,,11,,Upland,,,,Operational,AI Engine
-grib2/4/239/12,Tipo de humedal,,12,,Tundra húmeda,,,,Operational,AI Engine
-grib2/4/239/13-191,Tipo de humedal,,13-191,,Reservadas,,,,Operational,AI Engine
-grib2/4/239/192-254,Tipo de humedal,,192-254,,Reservadas para uso local,,,,Operational,AI Engine
-grib2/4/239/255,Tipo de humedal,,255,,Valor faltante,,,,Operational,AI Engine
+grib2/4/239/0,Tipo de humedal,,0,,Reservadas,,,,Operational,AI
+grib2/4/239/1,Tipo de humedal,,1,,Pantano,,,,Operational,AI
+grib2/4/239/2,Tipo de humedal,,2,,Drenado,,,,Operational,AI
+grib2/4/239/3,Tipo de humedal,,3,,Fen,,,,Operational,AI
+grib2/4/239/4,Tipo de humedal,,4,,Llanura de inundación,,,,Operational,AI
+grib2/4/239/5,Tipo de humedal,,5,,Manglar,,,,Operational,AI
+grib2/4/239/6,Tipo de humedal,,6,,Marsh,,,,Operational,AI
+grib2/4/239/7,Tipo de humedal,,7,,Arroz,,,,Operational,AI
+grib2/4/239/8,Tipo de humedal,,8,,Fluvial,,,,Operational,AI
+grib2/4/239/9,Tipo de humedal,,9,,Marisma salina,,,,Operational,AI
+grib2/4/239/10,Tipo de humedal,,10,,Pantano,,,,Operational,AI
+grib2/4/239/11,Tipo de humedal,,11,,Upland,,,,Operational,AI
+grib2/4/239/12,Tipo de humedal,,12,,Tundra húmeda,,,,Operational,AI
+grib2/4/239/13-191,Tipo de humedal,,13-191,,Reservadas,,,,Operational,AI
+grib2/4/239/192-254,Tipo de humedal,,192-254,,Reservadas para uso local,,,,Operational,AI
+grib2/4/239/255,Tipo de humedal,,255,,Valor faltante,,,,Operational,AI

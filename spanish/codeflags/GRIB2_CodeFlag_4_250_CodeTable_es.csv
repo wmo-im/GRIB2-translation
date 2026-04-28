@@ -1,16 +1,16 @@
 ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
-grib2/4/250/0,Dirección de drenaje,,0,,Reservadas,,,,Operational,AI Engine
-grib2/4/250/1,Dirección de drenaje,,1,,Suroeste,,,,Operational,AI Engine
-grib2/4/250/2,Dirección de drenaje,,2,,Sur,,,,Operational,AI Engine
+grib2/4/250/0,Dirección de drenaje,,0,,Reservadas,,,,Operational,AI
+grib2/4/250/1,Dirección de drenaje,,1,,Suroeste,,,,Operational,AI
+grib2/4/250/2,Dirección de drenaje,,2,,Sur,,,,Operational,AI
 grib2/4/250/3,Dirección de drenaje,,3,,"Sure, the translation for ""South-east"" is:
 
-Sureste",,,,Operational,AI Engine
-grib2/4/250/4,Dirección de drenaje,,4,,Oeste,,,,Operational,AI Engine
-grib2/4/250/5,Dirección de drenaje,,5,,Sin dirección,,,,Operational,AI Engine
-grib2/4/250/6,Dirección de drenaje,,6,,Este,,,,Operational,AI Engine
-grib2/4/250/7,Dirección de drenaje,,7,,Noroeste,,,,Operational,AI Engine
-grib2/4/250/8,Dirección de drenaje,,8,,Norte,,,,Operational,AI Engine
-grib2/4/250/9,Dirección de drenaje,,9,,Noreste,,,,Operational,AI Engine
-grib2/4/250/10-191,Dirección de drenaje,,10-191,,Reservadas,,,,Operational,AI Engine
-grib2/4/250/192-254,Dirección de drenaje,,192-254,,Reservadas para uso local,,,,Operational,AI Engine
-grib2/4/250/255,Dirección de drenaje,,255,,Valor faltante,,,,Operational,AI Engine
+Sureste",,,,Operational,AI
+grib2/4/250/4,Dirección de drenaje,,4,,Oeste,,,,Operational,AI
+grib2/4/250/5,Dirección de drenaje,,5,,Sin dirección,,,,Operational,AI
+grib2/4/250/6,Dirección de drenaje,,6,,Este,,,,Operational,AI
+grib2/4/250/7,Dirección de drenaje,,7,,Noroeste,,,,Operational,AI
+grib2/4/250/8,Dirección de drenaje,,8,,Norte,,,,Operational,AI
+grib2/4/250/9,Dirección de drenaje,,9,,Noreste,,,,Operational,AI
+grib2/4/250/10-191,Dirección de drenaje,,10-191,,Reservadas,,,,Operational,AI
+grib2/4/250/192-254,Dirección de drenaje,,192-254,,Reservadas para uso local,,,,Operational,AI
+grib2/4/250/255,Dirección de drenaje,,255,,Valor faltante,,,,Operational,AI

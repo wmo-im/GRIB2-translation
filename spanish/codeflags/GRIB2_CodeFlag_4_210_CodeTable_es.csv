@@ -1,6 +1,6 @@
 ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
-grib2/4/210/0,Tabla de cifrado 4.210 – Intensidad de la estela de condensación,,0,,Ausencia de estela de condensación,,,,Operational,Original
-grib2/4/210/1,Tabla de cifrado 4.210 – Intensidad de la estela de condensación,,1,,Presencia de estela de condensación,,,,Operational,Original
-grib2/4/210/2-191,Tabla de cifrado 4.210 – Intensidad de la estela de condensación,,2-191,,Reservadas,,,,Operational,Original
-grib2/4/210/192-254,Tabla de cifrado 4.210 – Intensidad de la estela de condensación,,192-254,,Reservadas para uso local,,,,Operational,Original
-grib2/4/210/255,Tabla de cifrado 4.210 – Intensidad de la estela de condensación,,255,,Valor faltante,,,,Operational,Original
+grib2/4/210/0,Tabla de cifrado 4.210 – Intensidad de la estela de condensación,,0,,Ausencia de estela de condensación,,,,Operational,PDF
+grib2/4/210/1,Tabla de cifrado 4.210 – Intensidad de la estela de condensación,,1,,Presencia de estela de condensación,,,,Operational,PDF
+grib2/4/210/2-191,Tabla de cifrado 4.210 – Intensidad de la estela de condensación,,2-191,,Reservadas,,,,Operational,PDF
+grib2/4/210/192-254,Tabla de cifrado 4.210 – Intensidad de la estela de condensación,,192-254,,Reservadas para uso local,,,,Operational,PDF
+grib2/4/210/255,Tabla de cifrado 4.210 – Intensidad de la estela de condensación,,255,,Valor faltante,,,,Operational,PDF

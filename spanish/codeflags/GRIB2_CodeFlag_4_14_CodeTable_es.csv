@@ -1,6 +1,6 @@
 ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
-grib2/4/14/0,Tabla de cifrado 4.14 - Indicador de filtro de ecos parásitos,,0,,No se emplea filtro de ecos parásitos,,,,Operational,Original
-grib2/4/14/1,Tabla de cifrado 4.14 - Indicador de filtro de ecos parásitos,,1,,Se emplea filtro de ecos parásitos,,,,Operational,Original
-grib2/4/14/2-191,Tabla de cifrado 4.14 - Indicador de filtro de ecos parásitos,,2-191,,Reservadas,,,,Operational,Original
-grib2/4/14/192-254,Tabla de cifrado 4.14 - Indicador de filtro de ecos parásitos,,192-254,,Reservadas para uso local,,,,Operational,Original
-grib2/4/14/255,Tabla de cifrado 4.14 - Indicador de filtro de ecos parásitos,,255,,Valor faltante,,,,Operational,Original
+grib2/4/14/0,Tabla de cifrado 4.14 - Indicador de filtro de ecos parásitos,,0,,No se emplea filtro de ecos parásitos,,,,Operational,PDF
+grib2/4/14/1,Tabla de cifrado 4.14 - Indicador de filtro de ecos parásitos,,1,,Se emplea filtro de ecos parásitos,,,,Operational,PDF
+grib2/4/14/2-191,Tabla de cifrado 4.14 - Indicador de filtro de ecos parásitos,,2-191,,Reservadas,,,,Operational,PDF
+grib2/4/14/192-254,Tabla de cifrado 4.14 - Indicador de filtro de ecos parásitos,,192-254,,Reservadas para uso local,,,,Operational,PDF
+grib2/4/14/255,Tabla de cifrado 4.14 - Indicador de filtro de ecos parásitos,,255,,Valor faltante,,,,Operational,PDF

@@ -1,5 +1,5 @@
 ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
-grib2/5/40/0,Tabla de cifrado 5.40 – Tipo de compresión,,0,,Sin pérdidas,,,,Operational,Original
-grib2/5/40/1,Tabla de cifrado 5.40 – Tipo de compresión,,1,,Con pérdidas,,,,Operational,Original
-grib2/5/40/2-254,Tabla de cifrado 5.40 – Tipo de compresión,,2-254,,Reservadas,,,,Operational,Original
-grib2/5/40/255,Tabla de cifrado 5.40 – Tipo de compresión,,255,,Valor faltante,,,,Operational,Original
+grib2/5/40/0,Tabla de cifrado 5.40 – Tipo de compresión,,0,,Sin pérdidas,,,,Operational,PDF
+grib2/5/40/1,Tabla de cifrado 5.40 – Tipo de compresión,,1,,Con pérdidas,,,,Operational,PDF
+grib2/5/40/2-254,Tabla de cifrado 5.40 – Tipo de compresión,,2-254,,Reservadas,,,,Operational,PDF
+grib2/5/40/255,Tabla de cifrado 5.40 – Tipo de compresión,,255,,Valor faltante,,,,Operational,PDF

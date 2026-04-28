@@ -1,18 +1,18 @@
 ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translation_source
-grib2/3/140/15,Modelo de definición de la retícula 3.140 — Proyección acimutal equivalente de Lambert,15,1,Forma de la Tierra,véase la Tabla de cifrado 3.2,,3.2,,Operational,Original
-grib2/3/140/16,Modelo de definición de la retícula 3.140 — Proyección acimutal equivalente de Lambert,16,1,Factor de escala del radio de la Tierra esférica,,,,,Operational,Original
-grib2/3/140/17-20,Modelo de definición de la retícula 3.140 — Proyección acimutal equivalente de Lambert,17-20,4,Valor ajustado del radio de la Tierra esférica,,,,,Operational,Original
-grib2/3/140/21,Modelo de definición de la retícula 3.140 — Proyección acimutal equivalente de Lambert,21,1,Factor de escala del eje mayor de la Tierra esférica achatada,,,,,Operational,Original
-grib2/3/140/22-25,Modelo de definición de la retícula 3.140 — Proyección acimutal equivalente de Lambert,22-25,4,Valor ajustado del eje mayor de la Tierra esférica achatada,,,,,Operational,Original
-grib2/3/140/26,Modelo de definición de la retícula 3.140 — Proyección acimutal equivalente de Lambert,26,1,Factor de escala del eje menor de la Tierra esférica achatada,,,,,Operational,Original
-grib2/3/140/27-30,Modelo de definición de la retícula 3.140 — Proyección acimutal equivalente de Lambert,27-30,4,Valor ajustado del eje menor de la Tierra esférica achatada,,,,,Operational,Original
-grib2/3/140/31-34,Modelo de definición de la retícula 3.140 — Proyección acimutal equivalente de Lambert,31-34,4,Nx - número de puntos a lo largo del eje x,,,,,Operational,Original
-grib2/3/140/35-38,Modelo de definición de la retícula 3.140 — Proyección acimutal equivalente de Lambert,35-38,4,Ny - número de puntos a lo largo del eje y,,,,,Operational,Original
-grib2/3/140/39-42,Modelo de definición de la retícula 3.140 — Proyección acimutal equivalente de Lambert,39-42,4,La1 - latitud del primer punto de la retícula,,,,,Operational,Original
-grib2/3/140/43-46,Modelo de definición de la retícula 3.140 — Proyección acimutal equivalente de Lambert,43-46,4,Lo1 - longitud del primer punto de la retícula,,,,,Operational,Original
-grib2/3/140/47-50,Modelo de definición de la retícula 3.140 — Proyección acimutal equivalente de Lambert,47-50,4,Paralelo estándar,,,,,Operational,Original
-grib2/3/140/51-54,Modelo de definición de la retícula 3.140 — Proyección acimutal equivalente de Lambert,51-54,4,Longitud central,,,,,Operational,Original
-grib2/3/140/55,Modelo de definición de la retícula 3.140 — Proyección acimutal equivalente de Lambert,55,1,Banderines de resolución y de componentes,véase la Tabla de banderines 3.3,,,3.3,Operational,Original
-grib2/3/140/56-59,Modelo de definición de la retícula 3.140 — Proyección acimutal equivalente de Lambert,56-59,4,Dx - longitud de la retícula en la dirección X,véase la nota,,,,Operational,Original
-grib2/3/140/60-63,Modelo de definición de la retícula 3.140 — Proyección acimutal equivalente de Lambert,60-63,4,Dy - longitud de la retícula en la dirección y,véase la nota,,,,Operational,Original
-grib2/3/140/64,Modelo de definición de la retícula 3.140 — Proyección acimutal equivalente de Lambert,64,1,Modo de exploración,véase la Tabla de banderines 3.4,,,,Operational,Original
+grib2/3/140/15,Modelo de definición de la retícula 3.140 — Proyección acimutal equivalente de Lambert,15,1,Forma de la Tierra,véase la Tabla de cifrado 3.2,,3.2,,Operational,PDF
+grib2/3/140/16,Modelo de definición de la retícula 3.140 — Proyección acimutal equivalente de Lambert,16,1,Factor de escala del radio de la Tierra esférica,,,,,Operational,PDF
+grib2/3/140/17-20,Modelo de definición de la retícula 3.140 — Proyección acimutal equivalente de Lambert,17-20,4,Valor ajustado del radio de la Tierra esférica,,,,,Operational,PDF
+grib2/3/140/21,Modelo de definición de la retícula 3.140 — Proyección acimutal equivalente de Lambert,21,1,Factor de escala del eje mayor de la Tierra esférica achatada,,,,,Operational,PDF
+grib2/3/140/22-25,Modelo de definición de la retícula 3.140 — Proyección acimutal equivalente de Lambert,22-25,4,Valor ajustado del eje mayor de la Tierra esférica achatada,,,,,Operational,PDF
+grib2/3/140/26,Modelo de definición de la retícula 3.140 — Proyección acimutal equivalente de Lambert,26,1,Factor de escala del eje menor de la Tierra esférica achatada,,,,,Operational,PDF
+grib2/3/140/27-30,Modelo de definición de la retícula 3.140 — Proyección acimutal equivalente de Lambert,27-30,4,Valor ajustado del eje menor de la Tierra esférica achatada,,,,,Operational,PDF
+grib2/3/140/31-34,Modelo de definición de la retícula 3.140 — Proyección acimutal equivalente de Lambert,31-34,4,Nx - número de puntos a lo largo del eje x,,,,,Operational,PDF
+grib2/3/140/35-38,Modelo de definición de la retícula 3.140 — Proyección acimutal equivalente de Lambert,35-38,4,Ny - número de puntos a lo largo del eje y,,,,,Operational,PDF
+grib2/3/140/39-42,Modelo de definición de la retícula 3.140 — Proyección acimutal equivalente de Lambert,39-42,4,La1 - latitud del primer punto de la retícula,,,,,Operational,PDF
+grib2/3/140/43-46,Modelo de definición de la retícula 3.140 — Proyección acimutal equivalente de Lambert,43-46,4,Lo1 - longitud del primer punto de la retícula,,,,,Operational,PDF
+grib2/3/140/47-50,Modelo de definición de la retícula 3.140 — Proyección acimutal equivalente de Lambert,47-50,4,Paralelo estándar,,,,,Operational,PDF
+grib2/3/140/51-54,Modelo de definición de la retícula 3.140 — Proyección acimutal equivalente de Lambert,51-54,4,Longitud central,,,,,Operational,PDF
+grib2/3/140/55,Modelo de definición de la retícula 3.140 — Proyección acimutal equivalente de Lambert,55,1,Banderines de resolución y de componentes,véase la Tabla de banderines 3.3,,,3.3,Operational,PDF
+grib2/3/140/56-59,Modelo de definición de la retícula 3.140 — Proyección acimutal equivalente de Lambert,56-59,4,Dx - longitud de la retícula en la dirección X,véase la nota,,,,Operational,PDF
+grib2/3/140/60-63,Modelo de definición de la retícula 3.140 — Proyección acimutal equivalente de Lambert,60-63,4,Dy - longitud de la retícula en la dirección y,véase la nota,,,,Operational,PDF
+grib2/3/140/64,Modelo de definición de la retícula 3.140 — Proyección acimutal equivalente de Lambert,64,1,Modo de exploración,véase la Tabla de banderines 3.4,,,,Operational,PDF

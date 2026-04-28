@@ -1,17 +1,17 @@
 ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translation_source
-grib2/4/6/10,Previsión en percentiles para una superficie o una capa horizontal en un momento dado,10,1,Categoría del parámetro,véase la Tabla de cifrado 4.1,,4.1,,Operational,Original
-grib2/4/6/11,Previsión en percentiles para una superficie o una capa horizontal en un momento dado,11,1,Número del parámetro,véase la Tabla de cifrado 4.2,,4.2,,Operational,Original
-grib2/4/6/12,Previsión en percentiles para una superficie o una capa horizontal en un momento dado,12,1,Tipo de proceso de producción,véase la Tabla de cifrado 4.3,,4.3,,Operational,Original
-grib2/4/6/13,Previsión en percentiles para una superficie o una capa horizontal en un momento dado,13,1,Identificador del proceso de producción de base (definido por el centro de origen),,,,,Operational,Original
-grib2/4/6/14,Previsión en percentiles para una superficie o una capa horizontal en un momento dado,14,1,Identificador del proceso de producción de la previsión (definido por el centro de origen),,,,,Operational,Original
-grib2/4/6/15-16,Previsión en percentiles para una superficie o una capa horizontal en un momento dado,15-16,2,Límite (horas) de recogida de datos de observación después de la hora de referencia,véase la nota,,,,Operational,Original
-grib2/4/6/17,Previsión en percentiles para una superficie o una capa horizontal en un momento dado,17,1,Límite (minutos) de recogida de datos de observación después de la hora de referencia,,,,,Operational,Original
-grib2/4/6/18,Previsión en percentiles para una superficie o una capa horizontal en un momento dado,18,1,Indicador de unidad del intervalo de tiempo,véase la Tabla de cifrado 4.4,,4.4,,Operational,Original
-grib2/4/6/19-22,Previsión en percentiles para una superficie o una capa horizontal en un momento dado,19-22,4,Hora de la previsión expresada en la unidad precisada por el octeto 18,,,,,Operational,Original
-grib2/4/6/23,Previsión en percentiles para una superficie o una capa horizontal en un momento dado,23,1,Tipo de la primera superficie especificada,véase la Tabla de cifrado 4.5,,4.5,,Operational,Original
-grib2/4/6/24,Previsión en percentiles para una superficie o una capa horizontal en un momento dado,24,1,Factor de escala de la primera superficie especificada,,,,,Operational,Original
-grib2/4/6/25-28,Previsión en percentiles para una superficie o una capa horizontal en un momento dado,25-28,4,Valor ajustado de la primera superficie especificada,,,,,Operational,Original
-grib2/4/6/29,Previsión en percentiles para una superficie o una capa horizontal en un momento dado,29,1,Tipo de la segunda superficie especificada,(véase la Tabla de cifrado 4.5),,4.5,,Operational,Original
-grib2/4/6/30,Previsión en percentiles para una superficie o una capa horizontal en un momento dado,30,1,Factor de escala de la segunda superficie especificada,,,,,Operational,Original
-grib2/4/6/31-34,Previsión en percentiles para una superficie o una capa horizontal en un momento dado,31-34,4,Valor ajustado de la segunda superficie especificada,,,,,Operational,Original
-grib2/4/6/35,Previsión en percentiles para una superficie o una capa horizontal en un momento dado,35,1,Valor del percentil (de 100 por ciento a 0 por ciento),,,,,Operational,Original
+grib2/4/6/10,Previsión en percentiles para una superficie o una capa horizontal en un momento dado,10,1,Categoría del parámetro,véase la Tabla de cifrado 4.1,,4.1,,Operational,PDF
+grib2/4/6/11,Previsión en percentiles para una superficie o una capa horizontal en un momento dado,11,1,Número del parámetro,véase la Tabla de cifrado 4.2,,4.2,,Operational,PDF
+grib2/4/6/12,Previsión en percentiles para una superficie o una capa horizontal en un momento dado,12,1,Tipo de proceso de producción,véase la Tabla de cifrado 4.3,,4.3,,Operational,PDF
+grib2/4/6/13,Previsión en percentiles para una superficie o una capa horizontal en un momento dado,13,1,Identificador del proceso de producción de base (definido por el centro de origen),,,,,Operational,PDF
+grib2/4/6/14,Previsión en percentiles para una superficie o una capa horizontal en un momento dado,14,1,Identificador del proceso de producción de la previsión (definido por el centro de origen),,,,,Operational,PDF
+grib2/4/6/15-16,Previsión en percentiles para una superficie o una capa horizontal en un momento dado,15-16,2,Límite (horas) de recogida de datos de observación después de la hora de referencia,véase la nota,,,,Operational,PDF
+grib2/4/6/17,Previsión en percentiles para una superficie o una capa horizontal en un momento dado,17,1,Límite (minutos) de recogida de datos de observación después de la hora de referencia,,,,,Operational,PDF
+grib2/4/6/18,Previsión en percentiles para una superficie o una capa horizontal en un momento dado,18,1,Indicador de unidad del intervalo de tiempo,véase la Tabla de cifrado 4.4,,4.4,,Operational,PDF
+grib2/4/6/19-22,Previsión en percentiles para una superficie o una capa horizontal en un momento dado,19-22,4,Hora de la previsión expresada en la unidad precisada por el octeto 18,,,,,Operational,PDF
+grib2/4/6/23,Previsión en percentiles para una superficie o una capa horizontal en un momento dado,23,1,Tipo de la primera superficie especificada,véase la Tabla de cifrado 4.5,,4.5,,Operational,PDF
+grib2/4/6/24,Previsión en percentiles para una superficie o una capa horizontal en un momento dado,24,1,Factor de escala de la primera superficie especificada,,,,,Operational,PDF
+grib2/4/6/25-28,Previsión en percentiles para una superficie o una capa horizontal en un momento dado,25-28,4,Valor ajustado de la primera superficie especificada,,,,,Operational,PDF
+grib2/4/6/29,Previsión en percentiles para una superficie o una capa horizontal en un momento dado,29,1,Tipo de la segunda superficie especificada,(véase la Tabla de cifrado 4.5),,4.5,,Operational,PDF
+grib2/4/6/30,Previsión en percentiles para una superficie o una capa horizontal en un momento dado,30,1,Factor de escala de la segunda superficie especificada,,,,,Operational,PDF
+grib2/4/6/31-34,Previsión en percentiles para una superficie o una capa horizontal en un momento dado,31-34,4,Valor ajustado de la segunda superficie especificada,,,,,Operational,PDF
+grib2/4/6/35,Previsión en percentiles para una superficie o una capa horizontal en un momento dado,35,1,Valor del percentil (de 100 por ciento a 0 por ciento),,,,,Operational,PDF

@@ -1,14 +1,14 @@
 ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translation_source
-grib2/3/150/15,Cuadrícula de pixelización isoLatitudinal de área igual jerárquica (HEALPix),15,1,Forma de la Tierra,(véase la Tabla de cifrado 3.2),,3.2,,Operational,AI Engine
-grib2/3/150/16,Cuadrícula de pixelización isoLatitudinal de área igual jerárquica (HEALPix),16,1,Factor de escala del radio de la Tierra esférica,,,,,Operational,AI Engine
-grib2/3/150/17-20,Cuadrícula de pixelización isoLatitudinal de área igual jerárquica (HEALPix),17-20,4,Valor ajustado del radio de la Tierra esférica,,,,,Operational,AI Engine
-grib2/3/150/21,Cuadrícula de pixelización isoLatitudinal de área igual jerárquica (HEALPix),21,1,Factor de escala del eje mayor de la Tierra esferoidal achatada,,,,,Operational,AI Engine
-grib2/3/150/22-25,Cuadrícula de pixelización isoLatitudinal de área igual jerárquica (HEALPix),22-25,4,Valor ajustado del eje mayor de la Tierra esferoidal achatada,,,,,Operational,AI Engine
-grib2/3/150/26,Cuadrícula de pixelización isoLatitudinal de área igual jerárquica (HEALPix),26,1,Factor de escala del eje menor de la Tierra esferoidal achatada,,,,,Operational,AI Engine
-grib2/3/150/27-30,Cuadrícula de pixelización isoLatitudinal de área igual jerárquica (HEALPix),27-30,4,Valor ajustado del eje menor de la Tierra esferoidal achatada,,,,,Operational,AI Engine
-grib2/3/150/31,Cuadrícula de pixelización isoLatitudinal de área igual jerárquica (HEALPix),31,1,Banderines de resolución y de componentes,(véase la Tabla de banderines 3.3),,,3.3,Operational,AI Engine
-grib2/3/150/32-35,Cuadrícula de pixelización isoLatitudinal de área igual jerárquica (HEALPix),32-35,4,nsides - número de lados dentro de una forma de romboide,((véase la nota 1)),197a,,,Operational,AI Engine
-grib2/3/150/36-39,Cuadrícula de pixelización isoLatitudinal de área igual jerárquica (HEALPix),36-39,4,Longitud de la línea central del primer romboide,((véase la nota 2)),197b,,,Operational,AI Engine
-grib2/3/150/40,Cuadrícula de pixelización isoLatitudinal de área igual jerárquica (HEALPix),40,1,Posición de los puntos de retícula,(véase la Tabla de cifrado 3.8),,,3.8,Operational,AI Engine
-grib2/3/150/41,Cuadrícula de pixelización isoLatitudinal de área igual jerárquica (HEALPix),41,1,Orden de numeración,(consulte la tabla de cifrado 3.12),,,3.12,Operational,AI Engine
-grib2/3/150/42,Cuadrícula de pixelización isoLatitudinal de área igual jerárquica (HEALPix),42,1,Modo de escaneo,(consulte la tabla de banderas 3.13),,,3.13,Operational,AI Engine
+grib2/3/150/15,Cuadrícula de pixelización isoLatitudinal de área igual jerárquica (HEALPix),15,1,Forma de la Tierra,(véase la Tabla de cifrado 3.2),,3.2,,Operational,AI
+grib2/3/150/16,Cuadrícula de pixelización isoLatitudinal de área igual jerárquica (HEALPix),16,1,Factor de escala del radio de la Tierra esférica,,,,,Operational,AI
+grib2/3/150/17-20,Cuadrícula de pixelización isoLatitudinal de área igual jerárquica (HEALPix),17-20,4,Valor ajustado del radio de la Tierra esférica,,,,,Operational,AI
+grib2/3/150/21,Cuadrícula de pixelización isoLatitudinal de área igual jerárquica (HEALPix),21,1,Factor de escala del eje mayor de la Tierra esferoidal achatada,,,,,Operational,AI
+grib2/3/150/22-25,Cuadrícula de pixelización isoLatitudinal de área igual jerárquica (HEALPix),22-25,4,Valor ajustado del eje mayor de la Tierra esferoidal achatada,,,,,Operational,AI
+grib2/3/150/26,Cuadrícula de pixelización isoLatitudinal de área igual jerárquica (HEALPix),26,1,Factor de escala del eje menor de la Tierra esferoidal achatada,,,,,Operational,AI
+grib2/3/150/27-30,Cuadrícula de pixelización isoLatitudinal de área igual jerárquica (HEALPix),27-30,4,Valor ajustado del eje menor de la Tierra esferoidal achatada,,,,,Operational,AI
+grib2/3/150/31,Cuadrícula de pixelización isoLatitudinal de área igual jerárquica (HEALPix),31,1,Banderines de resolución y de componentes,(véase la Tabla de banderines 3.3),,,3.3,Operational,AI
+grib2/3/150/32-35,Cuadrícula de pixelización isoLatitudinal de área igual jerárquica (HEALPix),32-35,4,nsides - número de lados dentro de una forma de romboide,((véase la nota 1)),197a,,,Operational,AI
+grib2/3/150/36-39,Cuadrícula de pixelización isoLatitudinal de área igual jerárquica (HEALPix),36-39,4,Longitud de la línea central del primer romboide,((véase la nota 2)),197b,,,Operational,AI
+grib2/3/150/40,Cuadrícula de pixelización isoLatitudinal de área igual jerárquica (HEALPix),40,1,Posición de los puntos de retícula,(véase la Tabla de cifrado 3.8),,,3.8,Operational,AI
+grib2/3/150/41,Cuadrícula de pixelización isoLatitudinal de área igual jerárquica (HEALPix),41,1,Orden de numeración,(consulte la tabla de cifrado 3.12),,,3.12,Operational,AI
+grib2/3/150/42,Cuadrícula de pixelización isoLatitudinal de área igual jerárquica (HEALPix),42,1,Modo de escaneo,(consulte la tabla de banderas 3.13),,,3.13,Operational,AI

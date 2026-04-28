@@ -1,14 +1,14 @@
 ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
-grib2/4/101/0,Tipo de relación con el conjunto de datos de referencia,,0,,Anomalía,(Consulte la Nota 1.),135,,Operational,AI Engine
-grib2/4/101/1,Tipo de relación con el conjunto de datos de referencia,,1,,Anomalía normalizada,(Consulte la Nota 1.),135,,Operational,AI Engine
-grib2/4/101/2,Tipo de relación con el conjunto de datos de referencia,,2,,Significación (Wilcoxon-Mann-Whitney),((véase la nota 2)),136,,Operational,AI Engine
-grib2/4/101/3,Tipo de relación con el conjunto de datos de referencia,,3,,Climatología,,,,Operational,AI Engine
-grib2/4/101/4-19,Tipo de relación con el conjunto de datos de referencia,,4-19,,Reservadas,,,,Operational,AI Engine
-grib2/4/101/20,Tipo de relación con el conjunto de datos de referencia,,20,,Índice de Pronóstico Extremo (EFI),((véase la nota 3)),137,,Operational,AI Engine
-grib2/4/101/21,Tipo de relación con el conjunto de datos de referencia,,21,,Cambio de colas (SOT),((véase la nota 4)),138,,Operational,AI Engine
-grib2/4/101/22,Tipo de relación con el conjunto de datos de referencia,,22,,Anomalía de probabilidades,((véase la nota 5)),148,,Operational,AI Engine
-grib2/4/101/23,Tipo de relación con el conjunto de datos de referencia,,23,,Índice estandarizado de sequía,((véase la nota 6)),147,,Operational,AI Engine
-grib2/4/101/24,Tipo de relación con el conjunto de datos de referencia,,24,,Pronóstico del Punto de Cruce (CPF),(Ver la Nota 7),162,,Operational,AI Engine
-grib2/4/101/25-191,Tipo de relación con el conjunto de datos de referencia,,25-191,,Reservadas,,,,Operational,AI Engine
-grib2/4/101/192-254,Tipo de relación con el conjunto de datos de referencia,,192-254,,Reservadas para uso local,,,,Operational,AI Engine
-grib2/4/101/255,Tipo de relación con el conjunto de datos de referencia,,255,,Valor faltante,,,,Operational,AI Engine
+grib2/4/101/0,Tipo de relación con el conjunto de datos de referencia,,0,,Anomalía,(Consulte la Nota 1.),135,,Operational,AI
+grib2/4/101/1,Tipo de relación con el conjunto de datos de referencia,,1,,Anomalía normalizada,(Consulte la Nota 1.),135,,Operational,AI
+grib2/4/101/2,Tipo de relación con el conjunto de datos de referencia,,2,,Significación (Wilcoxon-Mann-Whitney),((véase la nota 2)),136,,Operational,AI
+grib2/4/101/3,Tipo de relación con el conjunto de datos de referencia,,3,,Climatología,,,,Operational,AI
+grib2/4/101/4-19,Tipo de relación con el conjunto de datos de referencia,,4-19,,Reservadas,,,,Operational,AI
+grib2/4/101/20,Tipo de relación con el conjunto de datos de referencia,,20,,Índice de Pronóstico Extremo (EFI),((véase la nota 3)),137,,Operational,AI
+grib2/4/101/21,Tipo de relación con el conjunto de datos de referencia,,21,,Cambio de colas (SOT),((véase la nota 4)),138,,Operational,AI
+grib2/4/101/22,Tipo de relación con el conjunto de datos de referencia,,22,,Anomalía de probabilidades,((véase la nota 5)),148,,Operational,AI
+grib2/4/101/23,Tipo de relación con el conjunto de datos de referencia,,23,,Índice estandarizado de sequía,((véase la nota 6)),147,,Operational,AI
+grib2/4/101/24,Tipo de relación con el conjunto de datos de referencia,,24,,Pronóstico del Punto de Cruce (CPF),(Ver la Nota 7),162,,Operational,AI
+grib2/4/101/25-191,Tipo de relación con el conjunto de datos de referencia,,25-191,,Reservadas,,,,Operational,AI
+grib2/4/101/192-254,Tipo de relación con el conjunto de datos de referencia,,192-254,,Reservadas para uso local,,,,Operational,AI
+grib2/4/101/255,Tipo de relación con el conjunto de datos de referencia,,255,,Valor faltante,,,,Operational,AI

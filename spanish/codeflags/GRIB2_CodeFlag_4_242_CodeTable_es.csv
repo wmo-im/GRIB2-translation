@@ -1,10 +1,10 @@
 ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
-grib2/4/242/0,Tabla de cifrado 4.242 - Clasificación de la placa,,0,,Reservada,,,,Operational,Original
-grib2/4/242/1,Tabla de cifrado 4.242 - Clasificación de la placa,,1,,Clases de uso de la tierra según ESA-GlobCover GCV2009,,,,Operational,Original
-grib2/4/242/2,Tabla de cifrado 4.242 - Clasificación de la placa,,2,,Clases de uso de la tierra según el Proyecto Global Land Cover (GLC2000) de la Comisión Europea,,,,Operational,Original
-grib2/4/242/3,Clasificación de la placa,,3,,Clases de uso de la tierra según ECOCLIMAP,,,,Operational,AI Engine
-grib2/4/242/4,Clasificación de la placa,,4,,Clases de uso de la tierra según ECOCLIMAP-SG,,,,Operational,AI Engine
-grib2/4/242/5,Clasificación de la placa,,5,,Clases de uso de la tierra según la caracterización global de cobertura terrestre (GLCC) v2.0 BATS de USGS EROS.,,,,Operational,AI Engine
-grib2/4/242/6-191,Clasificación de la placa,,6-191,,Reservadas,,,,Operational,AI Engine
-grib2/4/242/192-254,Tabla de cifrado 4.242 - Clasificación de la placa,,192-254,,,,,,Operational,Original
-grib2/4/242/255,Tabla de cifrado 4.242 - Clasificación de la placa,,255,,Valor faltante,,,,Operational,Original
+grib2/4/242/0,Tabla de cifrado 4.242 - Clasificación de la placa,,0,,Reservada,,,,Operational,PDF
+grib2/4/242/1,Tabla de cifrado 4.242 - Clasificación de la placa,,1,,Clases de uso de la tierra según ESA-GlobCover GCV2009,,,,Operational,PDF
+grib2/4/242/2,Tabla de cifrado 4.242 - Clasificación de la placa,,2,,Clases de uso de la tierra según el Proyecto Global Land Cover (GLC2000) de la Comisión Europea,,,,Operational,PDF
+grib2/4/242/3,Clasificación de la placa,,3,,Clases de uso de la tierra según ECOCLIMAP,,,,Operational,AI
+grib2/4/242/4,Clasificación de la placa,,4,,Clases de uso de la tierra según ECOCLIMAP-SG,,,,Operational,AI
+grib2/4/242/5,Clasificación de la placa,,5,,Clases de uso de la tierra según la caracterización global de cobertura terrestre (GLCC) v2.0 BATS de USGS EROS.,,,,Operational,AI
+grib2/4/242/6-191,Clasificación de la placa,,6-191,,Reservadas,,,,Operational,AI
+grib2/4/242/192-254,Tabla de cifrado 4.242 - Clasificación de la placa,,192-254,,,,,,Operational,PDF
+grib2/4/242/255,Tabla de cifrado 4.242 - Clasificación de la placa,,255,,Valor faltante,,,,Operational,PDF

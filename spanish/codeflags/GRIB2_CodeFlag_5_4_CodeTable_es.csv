@@ -1,6 +1,6 @@
 ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
-grib2/5/4/0,Tabla de cifrado 5.4 Método de separación de los grupos,,0,,Separación línea por línea,,,,Operational,Original
-grib2/5/4/1,Tabla de cifrado 5.4 Método de separación de los grupos,,1,,Separación general de los grupos,,,,Operational,Original
-grib2/5/4/2-191,Tabla de cifrado 5.4 Método de separación de los grupos,,2-191,,Reservadas,,,,Operational,Original
-grib2/5/4/192-254,Tabla de cifrado 5.4 Método de separación de los grupos,,192-254,,,,,,Operational,Original
-grib2/5/4/255,Tabla de cifrado 5.4 Método de separación de los grupos,,255,,Valor faltante,,,,Operational,Original
+grib2/5/4/0,Tabla de cifrado 5.4 Método de separación de los grupos,,0,,Separación línea por línea,,,,Operational,PDF
+grib2/5/4/1,Tabla de cifrado 5.4 Método de separación de los grupos,,1,,Separación general de los grupos,,,,Operational,PDF
+grib2/5/4/2-191,Tabla de cifrado 5.4 Método de separación de los grupos,,2-191,,Reservadas,,,,Operational,PDF
+grib2/5/4/192-254,Tabla de cifrado 5.4 Método de separación de los grupos,,192-254,,,,,,Operational,PDF
+grib2/5/4/255,Tabla de cifrado 5.4 Método de separación de los grupos,,255,,Valor faltante,,,,Operational,PDF

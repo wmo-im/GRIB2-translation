@@ -1,8 +1,8 @@
 ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
-grib2/3/13/1/0,modo de escaneo de HEALPix,,1,0,El escaneo de puntos en la dirección +i (+x),,,,Operational,AI Engine
-grib2/3/13/1/1,modo de escaneo de HEALPix,,1,1,El escaneo de puntos en la dirección -i (-x),,,,Operational,AI Engine
-grib2/3/13/2/0,modo de escaneo de HEALPix,,2,0,El escaneo de puntos en la dirección -j (-y),,,,Operational,AI Engine
-grib2/3/13/2/1,Modo de escaneo de HEALPix,,2,1,El escaneo de puntos en la dirección +j (+y),,,,Operational,AI Engine
-grib2/3/13/3/0,modo de escaneo de HEALPix,,3,0,Los puntos adyacentes en la dirección i (x) son consecutivos,,,,Operational,AI Engine
-grib2/3/13/3/1,modo de escaneo de HEALPix,,3,1,Los puntos adyacentes en la dirección j (y) son consecutivos,,,,Operational,AI Engine
-grib2/3/13/4-8,modo de escaneo de HEALPix,,4-8,,Reservadas,,,,Operational,AI Engine
+grib2/3/13/1/0,modo de escaneo de HEALPix,,1,0,El escaneo de puntos en la dirección +i (+x),,,,Operational,AI
+grib2/3/13/1/1,modo de escaneo de HEALPix,,1,1,El escaneo de puntos en la dirección -i (-x),,,,Operational,AI
+grib2/3/13/2/0,modo de escaneo de HEALPix,,2,0,El escaneo de puntos en la dirección -j (-y),,,,Operational,AI
+grib2/3/13/2/1,Modo de escaneo de HEALPix,,2,1,El escaneo de puntos en la dirección +j (+y),,,,Operational,AI
+grib2/3/13/3/0,modo de escaneo de HEALPix,,3,0,Los puntos adyacentes en la dirección i (x) son consecutivos,,,,Operational,AI
+grib2/3/13/3/1,modo de escaneo de HEALPix,,3,1,Los puntos adyacentes en la dirección j (y) son consecutivos,,,,Operational,AI
+grib2/3/13/4-8,modo de escaneo de HEALPix,,4-8,,Reservadas,,,,Operational,AI

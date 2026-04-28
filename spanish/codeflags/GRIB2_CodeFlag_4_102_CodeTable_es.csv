@@ -1,22 +1,22 @@
 ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
-grib2/4/102/0,Procesamiento estadístico del período de referencia,,0,,Media,,,,Operational,AI Engine
-grib2/4/102/1,Procesamiento estadístico del período de referencia,,1,,Acumulación (véase la nota 1),,,,Operational,AI Engine
-grib2/4/102/2,Procesamiento estadístico del período de referencia,,2,,Máxima,,,,Operational,AI Engine
-grib2/4/102/3,Procesamiento estadístico del período de referencia,,3,,Mínima,,,,Operational,AI Engine
-grib2/4/102/4,Procesamiento estadístico del período de referencia,,4,,Mediana,,,,Operational,AI Engine
-grib2/4/102/5-19,Procesamiento estadístico del período de referencia,,5-19,,Reservadas,,,,Operational,AI Engine
-grib2/4/102/20,Procesamiento estadístico del período de referencia,,20,,Modelo Climático,,,,Operational,AI Engine
-grib2/4/102/21,Procesamiento estadístico del período de referencia,,21,,Índice basado en la distribución normal,,,,Operational,AI Engine
-grib2/4/102/22,Procesamiento estadístico del período de referencia,,22,,Índice basado en la distribución log-normal,,,,Operational,AI Engine
-grib2/4/102/23,Procesamiento estadístico del período de referencia,,23,,Índice basado en la distribución log-normal generalizada,,,,Operational,AI Engine
-grib2/4/102/24,Procesamiento estadístico del período de referencia,,24,,Índice basado en la distribución gamma,,,,Operational,AI Engine
-grib2/4/102/25,Procesamiento estadístico del período de referencia,,25,,Índice basado en la distribución logística,,,,Operational,AI Engine
-grib2/4/102/26,Procesamiento estadístico del período de referencia,,26,,Índice basado en la distribución log-logística,,,,Operational,AI Engine
-grib2/4/102/27,Procesamiento estadístico del período de referencia,,27,,Índice basado en la distribución logística generalizada,,,,Operational,AI Engine
-grib2/4/102/28,Procesamiento estadístico del período de referencia,,28,,Índice basado en la distribución de Weibull,,,,Operational,AI Engine
-grib2/4/102/29,Procesamiento estadístico del período de referencia,,29,,Índice basado en la distribución de valores extremos generalizada,,,,Operational,AI Engine
-grib2/4/102/30,Procesamiento estadístico del período de referencia,,30,,Índice basado en la distribución de Pearson III,,,,Operational,AI Engine
-grib2/4/102/31,Procesamiento estadístico del período de referencia,,31,,Índice basado en la distribución empírica,,,,Operational,AI Engine
-grib2/4/102/32-191,Procesamiento estadístico del período de referencia,,32-191,,Reservadas,,,,Operational,AI Engine
-grib2/4/102/192-254,Procesamiento estadístico del período de referencia,,192-254,,Reservadas para uso local,,,,Operational,AI Engine
-grib2/4/102/255,Procesamiento estadístico del período de referencia,,255,,Valor faltante,,,,Operational,AI Engine
+grib2/4/102/0,Procesamiento estadístico del período de referencia,,0,,Media,,,,Operational,AI
+grib2/4/102/1,Procesamiento estadístico del período de referencia,,1,,Acumulación (véase la nota 1),,,,Operational,AI
+grib2/4/102/2,Procesamiento estadístico del período de referencia,,2,,Máxima,,,,Operational,AI
+grib2/4/102/3,Procesamiento estadístico del período de referencia,,3,,Mínima,,,,Operational,AI
+grib2/4/102/4,Procesamiento estadístico del período de referencia,,4,,Mediana,,,,Operational,AI
+grib2/4/102/5-19,Procesamiento estadístico del período de referencia,,5-19,,Reservadas,,,,Operational,AI
+grib2/4/102/20,Procesamiento estadístico del período de referencia,,20,,Modelo Climático,,,,Operational,AI
+grib2/4/102/21,Procesamiento estadístico del período de referencia,,21,,Índice basado en la distribución normal,,,,Operational,AI
+grib2/4/102/22,Procesamiento estadístico del período de referencia,,22,,Índice basado en la distribución log-normal,,,,Operational,AI
+grib2/4/102/23,Procesamiento estadístico del período de referencia,,23,,Índice basado en la distribución log-normal generalizada,,,,Operational,AI
+grib2/4/102/24,Procesamiento estadístico del período de referencia,,24,,Índice basado en la distribución gamma,,,,Operational,AI
+grib2/4/102/25,Procesamiento estadístico del período de referencia,,25,,Índice basado en la distribución logística,,,,Operational,AI
+grib2/4/102/26,Procesamiento estadístico del período de referencia,,26,,Índice basado en la distribución log-logística,,,,Operational,AI
+grib2/4/102/27,Procesamiento estadístico del período de referencia,,27,,Índice basado en la distribución logística generalizada,,,,Operational,AI
+grib2/4/102/28,Procesamiento estadístico del período de referencia,,28,,Índice basado en la distribución de Weibull,,,,Operational,AI
+grib2/4/102/29,Procesamiento estadístico del período de referencia,,29,,Índice basado en la distribución de valores extremos generalizada,,,,Operational,AI
+grib2/4/102/30,Procesamiento estadístico del período de referencia,,30,,Índice basado en la distribución de Pearson III,,,,Operational,AI
+grib2/4/102/31,Procesamiento estadístico del período de referencia,,31,,Índice basado en la distribución empírica,,,,Operational,AI
+grib2/4/102/32-191,Procesamiento estadístico del período de referencia,,32-191,,Reservadas,,,,Operational,AI
+grib2/4/102/192-254,Procesamiento estadístico del período de referencia,,192-254,,Reservadas para uso local,,,,Operational,AI
+grib2/4/102/255,Procesamiento estadístico del período de referencia,,255,,Valor faltante,,,,Operational,AI

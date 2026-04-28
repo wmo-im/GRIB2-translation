@@ -1,15 +1,15 @@
 ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
-grib2/4/104/0,Procesamiento de proximidad espacial y temporal,,0,,Media,,,,Operational,AI Engine
-grib2/4/104/1,Procesamiento de proximidad espacial y temporal,,1,,Reservadas,,,,Operational,AI Engine
-grib2/4/104/2,Procesamiento de proximidad espacial y temporal,,2,,Máxima,,,,Operational,AI Engine
-grib2/4/104/3,Procesamiento de proximidad espacial y temporal,,3,,Mínima,,,,Operational,AI Engine
-grib2/4/104/4,Procesamiento de proximidad espacial y temporal,,4,,Rango,,,,Operational,AI Engine
-grib2/4/104/5,Procesamiento de proximidad espacial y temporal,,5,,Reservadas,,,,Operational,AI Engine
-grib2/4/104/6,Procesamiento de proximidad espacial y temporal,,6,,desviación estándar,,,,Operational,AI Engine
-grib2/4/104/7-10,Procesamiento de proximidad espacial y temporal,,7-10,,Reservadas,,,,Operational,AI Engine
-grib2/4/104/11,Procesamiento de proximidad espacial y temporal,,11,,Suma,,,,Operational,AI Engine
-grib2/4/104/12-189,Procesamiento de proximidad espacial y temporal,,12-189,,Reservadas,,,,Operational,AI Engine
-grib2/4/104/190,Procesamiento de proximidad espacial y temporal,,190,,Cuantil,((véase la nota 1)),153,,Opertional,AI Engine
-grib2/4/104/191,Procesamiento de proximidad espacial y temporal,,191,,Categórico (booleano),,,,Operational,AI Engine
-grib2/4/104/192-254,Procesamiento de proximidad espacial y temporal,,192-254,,Reservadas para uso local,,,,Operational,AI Engine
-grib2/4/104/255,Procesamiento de proximidad espacial y temporal,,255,,Valor faltante,,,,Operational,AI Engine
+grib2/4/104/0,Procesamiento de proximidad espacial y temporal,,0,,Media,,,,Operational,AI
+grib2/4/104/1,Procesamiento de proximidad espacial y temporal,,1,,Reservadas,,,,Operational,AI
+grib2/4/104/2,Procesamiento de proximidad espacial y temporal,,2,,Máxima,,,,Operational,AI
+grib2/4/104/3,Procesamiento de proximidad espacial y temporal,,3,,Mínima,,,,Operational,AI
+grib2/4/104/4,Procesamiento de proximidad espacial y temporal,,4,,Rango,,,,Operational,AI
+grib2/4/104/5,Procesamiento de proximidad espacial y temporal,,5,,Reservadas,,,,Operational,AI
+grib2/4/104/6,Procesamiento de proximidad espacial y temporal,,6,,desviación estándar,,,,Operational,AI
+grib2/4/104/7-10,Procesamiento de proximidad espacial y temporal,,7-10,,Reservadas,,,,Operational,AI
+grib2/4/104/11,Procesamiento de proximidad espacial y temporal,,11,,Suma,,,,Operational,AI
+grib2/4/104/12-189,Procesamiento de proximidad espacial y temporal,,12-189,,Reservadas,,,,Operational,AI
+grib2/4/104/190,Procesamiento de proximidad espacial y temporal,,190,,Cuantil,((véase la nota 1)),153,,Opertional,AI
+grib2/4/104/191,Procesamiento de proximidad espacial y temporal,,191,,Categórico (booleano),,,,Operational,AI
+grib2/4/104/192-254,Procesamiento de proximidad espacial y temporal,,192-254,,Reservadas para uso local,,,,Operational,AI
+grib2/4/104/255,Procesamiento de proximidad espacial y temporal,,255,,Valor faltante,,,,Operational,AI

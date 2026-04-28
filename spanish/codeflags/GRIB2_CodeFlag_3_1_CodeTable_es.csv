@@ -1,57 +1,57 @@
 ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
-grib2/3/1/0,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,0,,Latitud/longitud,,27,,Operational,Original
-grib2/3/1/1,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,1,,Latitud/longitud después de la rotación,,,,Operational,Original
-grib2/3/1/2,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,2,,,,,,Operational,Original
-grib2/3/1/3,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,3,,Latitud/longitud después de la dilatación y la rotación,,,,Operational,Original
-grib2/3/1/4,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,4,,Latitud/longitud de resolución variable,,,,Operational,Original
-grib2/3/1/5,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,5,,Latitud/longitud giradas de resolución variable,,,,Operational,Original
-grib2/3/1/6-9,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,6-9,,Reservadas,,,,Operational,Original
-grib2/3/1/10,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,10,,Mercator,,,,Operational,Original
-grib2/3/1/11,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,11,,Reservadas,,,,Operational,AI Engine
-grib2/3/1/12,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,12,,Mercator transversal,,,,Operational,AI Engine
-grib2/3/1/13,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,13,,Proyección Mercator con definición de los subdominios de modelización,,,,Operational,Original
-grib2/3/1/14-19,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,14-19,,Reservadas,,,,Operational,Original
-grib2/3/1/20,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,20,,Proyección estereográfica polar,,36,,Operational,Original
-grib2/3/1/21-22,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,21-22,,Reservadas,,,,Operational,Original
-grib2/3/1/23,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,23,,Proyección estereográfica polar con definición de los subdominios de modelización,,,,Operational,Original
-grib2/3/1/24-29,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,24-29,,Reservadas,,,,Operational,Original
-grib2/3/1/30,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,30,,Proyección conforme de Lambert,,35,,Operational,Original
-grib2/3/1/31,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,31,,Proyección de área equivalente de Albers,,,,Operational,Original
-grib2/3/1/32,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,32,,Reservadas,,,,Operational,Original
-grib2/3/1/33,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,33,,Proyección conforme de Lambert con definición de los subdominios de modelización,,,,Operational,Original
-grib2/3/1/34-39,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,34-39,,Reservadas,,,,Operational,Original
-grib2/3/1/40,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,40,,Retícula gausiana de latitud/longitud,,,,Operational,Original
-grib2/3/1/41,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,41,,Retícula gausiana de latitud/longitud después de la rotación,,,,Operational,Original
-grib2/3/1/42,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,42,,Retícula gausiana de latitud/longitud después de la dilatación,,,,Operational,Original
-grib2/3/1/43,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,43,,Retícula gausiana de latitud/longitud después de la dilatación y la rotación,,,,Operational,Original
-grib2/3/1/44-49,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,44-49,,Reservadas,,,,Operational,Original
-grib2/3/1/50,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,50,,Coeficientes armónicos esféricos,,,,Operational,Original
-grib2/3/1/51,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,51,,Coeficientes armónicos esféricos después de la rotación,,,,Operational,Original
-grib2/3/1/52,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,52,,Coeficientes armónicos esféricos después de la dilatación,,,,Operational,Original
-grib2/3/1/53,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,53,,Coeficientes armónicos esféricos después de la dilatación y la rotación,,,,Operational,Original
-grib2/3/1/54-60,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,54-60,,Reservadas,,,,Operational,Original
-grib2/3/1/61,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,61,,Representación espectral mediante proyección Mercator con definición de los subdominios de modelización,,,,Operational,Original
-grib2/3/1/62,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,62,,Representación espectral mediante proyección estereográfica polar con definición de los subdominios de modelización,,,,Operational,Original
-grib2/3/1/63,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,63,,Representación espectral mediante proyección conforme de Lambert con definición de los subdominios de modelización,,,,Operational,Original
-grib2/3/1/64-89,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,64-89,,Reservadas,,,,Operational,Original
-grib2/3/1/90,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,90,,Perspectiva desde el espacio o proyección ortogonal,,,,Operational,Original
-grib2/3/1/91-99,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,91-99,,Reservadas,,,,Operational,Original
-grib2/3/1/100,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,100,,Retícula triangular basada en un icosaedro,,,,Operational,Original
-grib2/3/1/101,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,101,,Retícula general no estructurada,,,,Operational,Original
-grib2/3/1/102-109,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,102-109,,Reservadas,,,,Operational,Original
-grib2/3/1/110,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,110,,Proyección ecuatorial azimutal equidistante,,,,Operational,Original
-grib2/3/1/111-119,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,111-119,,Reservadas,,,,Operational,Original
-grib2/3/1/120,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,120,,Proyección azimut-distancia,,,,Operational,Original
-grib2/3/1/121-139,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,121-139,,Reservadas,,,,Operational,Original
-grib2/3/1/140,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,140,,Proyección azimutal equivalente de Lambert,,,,Operational,Original
-grib2/3/1/141-149,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,141-149,,Reservadas,,,,Operational,AI Engine
-grib2/3/1/150,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,150,,Cuadrícula de pixelización isoLatitudinal de área igual jerárquica (HEALPix),,,,Operational,AI Engine
-grib2/3/1/151-999,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,151-999,,Reservadas,,,,Operational,AI Engine
-grib2/3/1/1000,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,1000,,Retícula de sección transversal con puntos equidistantes en el eje horizontal,,,,Experimental,Original
-grib2/3/1/1001-1099,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,1001-1099,,Reservadas,,,,Operational,Original
-grib2/3/1/1100,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,1100,,Retícula de diagrama de Hovmöller con puntos equidistantes en el eje horizontal,,,,Experimental,Original
-grib2/3/1/1101-1199,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,1101-1199,,Reservadas,,,,Operational,AI Engine
-grib2/3/1/1200,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,1200,,Retícula de sección de tiempo,,,,Experimental,Original
-grib2/3/1/1201-32767,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,1201-32767,,Reservadas,,,,Operational,Original
-grib2/3/1/32768-65534,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,32768-65534,,Reservadas para uso local,,,,Operational,Original
-grib2/3/1/65535,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,65535,,Valor faltante,,,,Operational,Original
+grib2/3/1/0,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,0,,Latitud/longitud,,27,,Operational,PDF
+grib2/3/1/1,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,1,,Latitud/longitud después de la rotación,,,,Operational,PDF
+grib2/3/1/2,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,2,,,,,,Operational,PDF
+grib2/3/1/3,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,3,,Latitud/longitud después de la dilatación y la rotación,,,,Operational,PDF
+grib2/3/1/4,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,4,,Latitud/longitud de resolución variable,,,,Operational,PDF
+grib2/3/1/5,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,5,,Latitud/longitud giradas de resolución variable,,,,Operational,PDF
+grib2/3/1/6-9,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,6-9,,Reservadas,,,,Operational,PDF
+grib2/3/1/10,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,10,,Mercator,,,,Operational,PDF
+grib2/3/1/11,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,11,,Reservadas,,,,Operational,AI
+grib2/3/1/12,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,12,,Mercator transversal,,,,Operational,AI
+grib2/3/1/13,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,13,,Proyección Mercator con definición de los subdominios de modelización,,,,Operational,PDF
+grib2/3/1/14-19,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,14-19,,Reservadas,,,,Operational,PDF
+grib2/3/1/20,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,20,,Proyección estereográfica polar,,36,,Operational,PDF
+grib2/3/1/21-22,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,21-22,,Reservadas,,,,Operational,PDF
+grib2/3/1/23,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,23,,Proyección estereográfica polar con definición de los subdominios de modelización,,,,Operational,PDF
+grib2/3/1/24-29,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,24-29,,Reservadas,,,,Operational,PDF
+grib2/3/1/30,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,30,,Proyección conforme de Lambert,,35,,Operational,PDF
+grib2/3/1/31,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,31,,Proyección de área equivalente de Albers,,,,Operational,PDF
+grib2/3/1/32,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,32,,Reservadas,,,,Operational,PDF
+grib2/3/1/33,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,33,,Proyección conforme de Lambert con definición de los subdominios de modelización,,,,Operational,PDF
+grib2/3/1/34-39,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,34-39,,Reservadas,,,,Operational,PDF
+grib2/3/1/40,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,40,,Retícula gausiana de latitud/longitud,,,,Operational,PDF
+grib2/3/1/41,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,41,,Retícula gausiana de latitud/longitud después de la rotación,,,,Operational,PDF
+grib2/3/1/42,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,42,,Retícula gausiana de latitud/longitud después de la dilatación,,,,Operational,PDF
+grib2/3/1/43,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,43,,Retícula gausiana de latitud/longitud después de la dilatación y la rotación,,,,Operational,PDF
+grib2/3/1/44-49,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,44-49,,Reservadas,,,,Operational,PDF
+grib2/3/1/50,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,50,,Coeficientes armónicos esféricos,,,,Operational,PDF
+grib2/3/1/51,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,51,,Coeficientes armónicos esféricos después de la rotación,,,,Operational,PDF
+grib2/3/1/52,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,52,,Coeficientes armónicos esféricos después de la dilatación,,,,Operational,PDF
+grib2/3/1/53,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,53,,Coeficientes armónicos esféricos después de la dilatación y la rotación,,,,Operational,PDF
+grib2/3/1/54-60,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,54-60,,Reservadas,,,,Operational,PDF
+grib2/3/1/61,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,61,,Representación espectral mediante proyección Mercator con definición de los subdominios de modelización,,,,Operational,PDF
+grib2/3/1/62,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,62,,Representación espectral mediante proyección estereográfica polar con definición de los subdominios de modelización,,,,Operational,PDF
+grib2/3/1/63,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,63,,Representación espectral mediante proyección conforme de Lambert con definición de los subdominios de modelización,,,,Operational,PDF
+grib2/3/1/64-89,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,64-89,,Reservadas,,,,Operational,PDF
+grib2/3/1/90,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,90,,Perspectiva desde el espacio o proyección ortogonal,,,,Operational,PDF
+grib2/3/1/91-99,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,91-99,,Reservadas,,,,Operational,PDF
+grib2/3/1/100,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,100,,Retícula triangular basada en un icosaedro,,,,Operational,PDF
+grib2/3/1/101,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,101,,Retícula general no estructurada,,,,Operational,PDF
+grib2/3/1/102-109,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,102-109,,Reservadas,,,,Operational,PDF
+grib2/3/1/110,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,110,,Proyección ecuatorial azimutal equidistante,,,,Operational,PDF
+grib2/3/1/111-119,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,111-119,,Reservadas,,,,Operational,PDF
+grib2/3/1/120,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,120,,Proyección azimut-distancia,,,,Operational,PDF
+grib2/3/1/121-139,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,121-139,,Reservadas,,,,Operational,PDF
+grib2/3/1/140,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,140,,Proyección azimutal equivalente de Lambert,,,,Operational,PDF
+grib2/3/1/141-149,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,141-149,,Reservadas,,,,Operational,AI
+grib2/3/1/150,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,150,,Cuadrícula de pixelización isoLatitudinal de área igual jerárquica (HEALPix),,,,Operational,AI
+grib2/3/1/151-999,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,151-999,,Reservadas,,,,Operational,AI
+grib2/3/1/1000,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,1000,,Retícula de sección transversal con puntos equidistantes en el eje horizontal,,,,Experimental,PDF
+grib2/3/1/1001-1099,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,1001-1099,,Reservadas,,,,Operational,PDF
+grib2/3/1/1100,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,1100,,Retícula de diagrama de Hovmöller con puntos equidistantes en el eje horizontal,,,,Experimental,PDF
+grib2/3/1/1101-1199,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,1101-1199,,Reservadas,,,,Operational,AI
+grib2/3/1/1200,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,1200,,Retícula de sección de tiempo,,,,Experimental,PDF
+grib2/3/1/1201-32767,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,1201-32767,,Reservadas,,,,Operational,PDF
+grib2/3/1/32768-65534,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,32768-65534,,Reservadas para uso local,,,,Operational,PDF
+grib2/3/1/65535,Tabla de cifrado 3.1 — Número del modelo de definición de la retícula,,65535,,Valor faltante,,,,Operational,PDF

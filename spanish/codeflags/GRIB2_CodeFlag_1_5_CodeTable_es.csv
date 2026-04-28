@@ -1,7 +1,7 @@
 ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
-grib2/1/5/0,Tabla de cifrado 1.5 – Número del modelo de identificación,,0,,Definición del calendario,,,,Operational,Original
-grib2/1/5/1,Tabla de cifrado 1.5 – Número del modelo de identificación,,1,,Compensación paleontológica,,,,Operational,Original
-grib2/1/5/2,Tabla de cifrado 1.5 – Número del modelo de identificación,,2,,Definición del calendario y compensación paleontológica,,,,Operational,Original
-grib2/1/5/3-32767,Tabla de cifrado 1.5 – Número del modelo de identificación,,3-32767,,Reservadas,,,,Operational,Original
-grib2/1/5/32768-65534,Tabla de cifrado 1.5 – Número del modelo de identificación,,32768-65534,,Reservadas para uso local,,,,Operational,Original
-grib2/1/5/65535,Tabla de cifrado 1.5 – Número del modelo de identificación,,65535,,Valor faltante,,,,Operational,Original
+grib2/1/5/0,Tabla de cifrado 1.5 – Número del modelo de identificación,,0,,Definición del calendario,,,,Operational,PDF
+grib2/1/5/1,Tabla de cifrado 1.5 – Número del modelo de identificación,,1,,Compensación paleontológica,,,,Operational,PDF
+grib2/1/5/2,Tabla de cifrado 1.5 – Número del modelo de identificación,,2,,Definición del calendario y compensación paleontológica,,,,Operational,PDF
+grib2/1/5/3-32767,Tabla de cifrado 1.5 – Número del modelo de identificación,,3-32767,,Reservadas,,,,Operational,PDF
+grib2/1/5/32768-65534,Tabla de cifrado 1.5 – Número del modelo de identificación,,32768-65534,,Reservadas para uso local,,,,Operational,PDF
+grib2/1/5/65535,Tabla de cifrado 1.5 – Número del modelo de identificación,,65535,,Valor faltante,,,,Operational,PDF

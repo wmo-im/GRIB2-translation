@@ -1,12 +1,12 @@
 ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
-grib2/4/241/0,Tabla de cifrado 4.241 – Atributos de la cobertura,,0,,Indefinida,,,,Operational,Original
-grib2/4/241/1,Tabla de cifrado 4.241 – Atributos de la cobertura,,1,,No modificada,,,,Operational,Original
-grib2/4/241/2,Tabla de cifrado 4.241 – Atributos de la cobertura,,2,,Cubierta de nieve,,,,Operational,Original
-grib2/4/241/3,Tabla de cifrado 4.241 – Atributos de la cobertura,,3,,Inundada,,,,Operational,Original
-grib2/4/241/4,Tabla de cifrado 4.241 – Atributos de la cobertura,,4,,Cubierta de hielo,,,,Operational,Original
-grib2/4/241/5,Atributos de la cobertura,,5,,Con agua interceptada,,,,Operational,AI Engine
-grib2/4/241/6,Atributos de la cobertura,,6,,Con nieve interceptada,,,,Operational,AI Engine
-grib2/4/241/7,Atributos de la cobertura,,7,,Agregado,,,,Operational,AI Engine
-grib2/4/241/8-191,Atributos de la cobertura,,8-191,,Reservadas,,,,Operational,AI Engine
-grib2/4/241/192-254,Tabla de cifrado 4.241 – Atributos de la cobertura,,192-254,,Reservadas para uso local,,,,Operational,Original
-grib2/4/241/255,Tabla de cifrado 4.241 – Atributos de la cobertura,,255,,Valor faltante,,,,Operational,Original
+grib2/4/241/0,Tabla de cifrado 4.241 – Atributos de la cobertura,,0,,Indefinida,,,,Operational,PDF
+grib2/4/241/1,Tabla de cifrado 4.241 – Atributos de la cobertura,,1,,No modificada,,,,Operational,PDF
+grib2/4/241/2,Tabla de cifrado 4.241 – Atributos de la cobertura,,2,,Cubierta de nieve,,,,Operational,PDF
+grib2/4/241/3,Tabla de cifrado 4.241 – Atributos de la cobertura,,3,,Inundada,,,,Operational,PDF
+grib2/4/241/4,Tabla de cifrado 4.241 – Atributos de la cobertura,,4,,Cubierta de hielo,,,,Operational,PDF
+grib2/4/241/5,Atributos de la cobertura,,5,,Con agua interceptada,,,,Operational,AI
+grib2/4/241/6,Atributos de la cobertura,,6,,Con nieve interceptada,,,,Operational,AI
+grib2/4/241/7,Atributos de la cobertura,,7,,Agregado,,,,Operational,AI
+grib2/4/241/8-191,Atributos de la cobertura,,8-191,,Reservadas,,,,Operational,AI
+grib2/4/241/192-254,Tabla de cifrado 4.241 – Atributos de la cobertura,,192-254,,Reservadas para uso local,,,,Operational,PDF
+grib2/4/241/255,Tabla de cifrado 4.241 – Atributos de la cobertura,,255,,Valor faltante,,,,Operational,PDF
