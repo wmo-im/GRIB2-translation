@@ -1,2 +1,2 @@
-﻿ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translated_by
-grib2/1/0/24,Definición del calendario,24,1,Tipo de calendario,(véase la Tabla de cifrado 1.6),,1.6,,Operational,Original
+﻿ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translation_source
+grib2/1/0/24,Definición del calendario,24,1,Tipo de calendario,(véase la Tabla de cifrado 1.6),,1.6,,Operational,PDF

@@ -1,6 +1,6 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
-grib2/3/12/0,HEALPix rhomboids or points ordering,,0,,Ring ordering,,,,Operational,Original
-grib2/3/12/1,HEALPix rhomboids or points ordering,,1,,Nested ordering,,,,Operational,Original
-grib2/3/12/2-191,HEALPix rhomboids or points ordering,,2-191,,Reserved,,,,Operational,Original
-grib2/3/12/192-254,HEALPix rhomboids or points ordering,,192-254,,Reserved for local use,,,,Operational,Original
-grib2/3/12/255,HEALPix rhomboids or points ordering,,255,,Missing,,,,Operational,Original
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
+grib2/3/12/0,HEALPix rhomboids or points ordering,,0,,Ring ordering,,,,Operational,na
+grib2/3/12/1,HEALPix rhomboids or points ordering,,1,,Nested ordering,,,,Operational,na
+grib2/3/12/2-191,HEALPix rhomboids or points ordering,,2-191,,Reserved,,,,Operational,na
+grib2/3/12/192-254,HEALPix rhomboids or points ordering,,192-254,,Reserved for local use,,,,Operational,na
+grib2/3/12/255,HEALPix rhomboids or points ordering,,255,,Missing,,,,Operational,na

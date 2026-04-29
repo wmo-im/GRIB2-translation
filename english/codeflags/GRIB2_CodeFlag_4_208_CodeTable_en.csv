@@ -1,9 +1,9 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
-grib2/4/208/0,Turbulence,,0,,None (smooth),,,,Operational,Original
-grib2/4/208/1,Turbulence,,1,,Light,,,,Operational,Original
-grib2/4/208/2,Turbulence,,2,,Moderate,,,,Operational,Original
-grib2/4/208/3,Turbulence,,3,,Severe,,,,Operational,Original
-grib2/4/208/4,Turbulence,,4,,Extreme,,,,Operational,Original
-grib2/4/208/5-191,Turbulence,,5-191,,Reserved,,,,Operational,Original
-grib2/4/208/192-254,Turbulence,,192-254,,Reserved for local use,,,,Operational,Original
-grib2/4/208/255,Turbulence,,255,,Missing,,,,Operational,Original
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
+grib2/4/208/0,Turbulence,,0,,None (smooth),,,,Operational,na
+grib2/4/208/1,Turbulence,,1,,Light,,,,Operational,na
+grib2/4/208/2,Turbulence,,2,,Moderate,,,,Operational,na
+grib2/4/208/3,Turbulence,,3,,Severe,,,,Operational,na
+grib2/4/208/4,Turbulence,,4,,Extreme,,,,Operational,na
+grib2/4/208/5-191,Turbulence,,5-191,,Reserved,,,,Operational,na
+grib2/4/208/192-254,Turbulence,,192-254,,Reserved for local use,,,,Operational,na
+grib2/4/208/255,Turbulence,,255,,Missing,,,,Operational,na

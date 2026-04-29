@@ -1,4 +1,4 @@
-ID,Title_ru,OctetNo,OctetCount,Contents_ru,Note_ru,noteIDs,codeTable,flagTable,Status,translated_by
+ID,Title_ru,OctetNo,OctetCount,Contents_ru,Note_ru,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/3/53/15-28,Образец определения сетки 3.53 — р астянутые и повернутые коэффициенты сфериче-,15–28,,То же, что и в образце определения сетки 3.50,,,,,Original
 grib2/3/53/29-32,Образец определения сетки 3.53 — р астянутые и повернутые коэффициенты сфериче-,29–32,,Широта Южного полюса проекции,,,,,operational,Original
 grib2/3/53/33-36,Образец определения сетки 3.53 — р астянутые и повернутые коэффициенты сфериче-,33–36,,Долгота Южного полюса проекции,,,,,operational,Original

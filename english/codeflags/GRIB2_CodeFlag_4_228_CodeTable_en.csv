@@ -1,8 +1,8 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
-grib2/4/228/0,Icing severity,,0,,None,,,,Operational,Original
-grib2/4/228/1,Icing severity,,1,,Trace,,,,Operational,Original
-grib2/4/228/2,Icing severity,,2,,Light,,,,Operational,Original
-grib2/4/228/3,Icing severity,,3,,Moderate,,,,Operational,Original
-grib2/4/228/4,Icing severity,,4,,Severe,,,,Operational,Original
-grib2/4/228/5-254,Icing severity,,5-254,,Reserved,,,,Operational,Original
-grib2/4/228/255,Icing severity,,255,,Missing value,,,,Operational,Original
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
+grib2/4/228/0,Icing severity,,0,,None,,,,Operational,na
+grib2/4/228/1,Icing severity,,1,,Trace,,,,Operational,na
+grib2/4/228/2,Icing severity,,2,,Light,,,,Operational,na
+grib2/4/228/3,Icing severity,,3,,Moderate,,,,Operational,na
+grib2/4/228/4,Icing severity,,4,,Severe,,,,Operational,na
+grib2/4/228/5-254,Icing severity,,5-254,,Reserved,,,,Operational,na
+grib2/4/228/255,Icing severity,,255,,Missing value,,,,Operational,na

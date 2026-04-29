@@ -1,18 +1,18 @@
-ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
-grib2/4/212/0,Table de code 4.212 – Utilisation du sol,,0,,En réserve,,,,Operational,Original
-grib2/4/212/1,Table de code 4.212 – Utilisation du sol,,1,,Terrain urbain,,,,Operational,Original
-grib2/4/212/2,Table de code 4.212 – Utilisation du sol,,2,,Agriculture,,,,Operational,Original
-grib2/4/212/3,Table de code 4.212 – Utilisation du sol,,3,,Terrain de parcours,,,,Operational,Original
-grib2/4/212/4,Table de code 4.212 – Utilisation du sol,,4,,Forêt caducifoliée,,,,Operational,Original
-grib2/4/212/5,Table de code 4.212 – Utilisation du sol,,5,,Forêt de conifères,,,,Operational,Original
-grib2/4/212/6,Table de code 4.212 – Utilisation du sol,,6,,Forêt/marécage,,,,Operational,Original
-grib2/4/212/7,Table de code 4.212 – Utilisation du sol,,7,,Eau,,,,Operational,Original
-grib2/4/212/8,Table de code 4.212 – Utilisation du sol,,8,,Marécages,,,,Operational,Original
-grib2/4/212/9,Table de code 4.212 – Utilisation du sol,,9,,Désert,,,,Operational,Original
-grib2/4/212/10,Table de code 4.212 – Utilisation du sol,,10,,Toundra,,,,Operational,Original
-grib2/4/212/11,Table de code 4.212 – Utilisation du sol,,11,,Glace,,,,Operational,Original
-grib2/4/212/12,Table de code 4.212 – Utilisation du sol,,12,,Forêt tropicale,,,,Operational,Original
-grib2/4/212/13,Table de code 4.212 – Utilisation du sol,,13,,Savane,,,,Operational,Original
-grib2/4/212/14-191,Table de code 4.212 – Utilisation du sol,,14-191,,En réserve,,,,Operational,Original
-grib2/4/212/192-254,Table de code 4.212 – Utilisation du sol,,192-254,,En réserve pour un usage local,,,,Operational,Original
-grib2/4/212/255,Table de code 4.212 – Utilisation du sol,,255,,Valeur manquante,,,,Operational,Original
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
+grib2/4/212/0,Table de code 4.212 – Utilisation du sol,,0,,En réserve,,,,Operational,PDF
+grib2/4/212/1,Table de code 4.212 – Utilisation du sol,,1,,Terrain urbain,,,,Operational,PDF
+grib2/4/212/2,Table de code 4.212 – Utilisation du sol,,2,,Agriculture,,,,Operational,PDF
+grib2/4/212/3,Table de code 4.212 – Utilisation du sol,,3,,Terrain de parcours,,,,Operational,PDF
+grib2/4/212/4,Table de code 4.212 – Utilisation du sol,,4,,Forêt caducifoliée,,,,Operational,PDF
+grib2/4/212/5,Table de code 4.212 – Utilisation du sol,,5,,Forêt de conifères,,,,Operational,PDF
+grib2/4/212/6,Table de code 4.212 – Utilisation du sol,,6,,Forêt/marécage,,,,Operational,PDF
+grib2/4/212/7,Table de code 4.212 – Utilisation du sol,,7,,Eau,,,,Operational,PDF
+grib2/4/212/8,Table de code 4.212 – Utilisation du sol,,8,,Marécages,,,,Operational,PDF
+grib2/4/212/9,Table de code 4.212 – Utilisation du sol,,9,,Désert,,,,Operational,PDF
+grib2/4/212/10,Table de code 4.212 – Utilisation du sol,,10,,Toundra,,,,Operational,PDF
+grib2/4/212/11,Table de code 4.212 – Utilisation du sol,,11,,Glace,,,,Operational,PDF
+grib2/4/212/12,Table de code 4.212 – Utilisation du sol,,12,,Forêt tropicale,,,,Operational,PDF
+grib2/4/212/13,Table de code 4.212 – Utilisation du sol,,13,,Savane,,,,Operational,PDF
+grib2/4/212/14-191,Table de code 4.212 – Utilisation du sol,,14-191,,En réserve,,,,Operational,PDF
+grib2/4/212/192-254,Table de code 4.212 – Utilisation du sol,,192-254,,En réserve pour un usage local,,,,Operational,PDF
+grib2/4/212/255,Table de code 4.212 – Utilisation du sol,,255,,Valeur manquante,,,,Operational,PDF

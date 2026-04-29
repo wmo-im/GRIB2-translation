@@ -1,14 +1,14 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
-grib2/4/250/0,Drainage direction,,0,,Reserved,,,,Operational,Original
-grib2/4/250/1,Drainage direction,,1,,South-west,,,,Operational,Original
-grib2/4/250/2,Drainage direction,,2,,South,,,,Operational,Original
-grib2/4/250/3,Drainage direction,,3,,South-east,,,,Operational,Original
-grib2/4/250/4,Drainage direction,,4,,West,,,,Operational,Original
-grib2/4/250/5,Drainage direction,,5,,No direction,,,,Operational,Original
-grib2/4/250/6,Drainage direction,,6,,East,,,,Operational,Original
-grib2/4/250/7,Drainage direction,,7,,North-west,,,,Operational,Original
-grib2/4/250/8,Drainage direction,,8,,North,,,,Operational,Original
-grib2/4/250/9,Drainage direction,,9,,North-east,,,,Operational,Original
-grib2/4/250/10-191,Drainage direction,,10-191,,Reserved,,,,Operational,Original
-grib2/4/250/192-254,Drainage direction,,192-254,,Reserved for local use,,,,Operational,Original
-grib2/4/250/255,Drainage direction,,255,,Missing,,,,Operational,Original
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
+grib2/4/250/0,Drainage direction,,0,,Reserved,,,,Operational,na
+grib2/4/250/1,Drainage direction,,1,,South-west,,,,Operational,na
+grib2/4/250/2,Drainage direction,,2,,South,,,,Operational,na
+grib2/4/250/3,Drainage direction,,3,,South-east,,,,Operational,na
+grib2/4/250/4,Drainage direction,,4,,West,,,,Operational,na
+grib2/4/250/5,Drainage direction,,5,,No direction,,,,Operational,na
+grib2/4/250/6,Drainage direction,,6,,East,,,,Operational,na
+grib2/4/250/7,Drainage direction,,7,,North-west,,,,Operational,na
+grib2/4/250/8,Drainage direction,,8,,North,,,,Operational,na
+grib2/4/250/9,Drainage direction,,9,,North-east,,,,Operational,na
+grib2/4/250/10-191,Drainage direction,,10-191,,Reserved,,,,Operational,na
+grib2/4/250/192-254,Drainage direction,,192-254,,Reserved for local use,,,,Operational,na
+grib2/4/250/255,Drainage direction,,255,,Missing,,,,Operational,na

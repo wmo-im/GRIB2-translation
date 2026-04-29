@@ -1,6 +1,6 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
-grib2/4/206/0,Volcanic ash,,0,,Not present,,,,Operational,Original
-grib2/4/206/1,Volcanic ash,,1,,Present,,,,Operational,Original
-grib2/4/206/2-191,Volcanic ash,,2-191,,Reserved,,,,Operational,Original
-grib2/4/206/192-254,Volcanic ash,,192-254,,Reserved for local use,,,,Operational,Original
-grib2/4/206/255,Volcanic ash,,255,,Missing,,,,Operational,Original
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
+grib2/4/206/0,Volcanic ash,,0,,Not present,,,,Operational,na
+grib2/4/206/1,Volcanic ash,,1,,Present,,,,Operational,na
+grib2/4/206/2-191,Volcanic ash,,2-191,,Reserved,,,,Operational,na
+grib2/4/206/192-254,Volcanic ash,,192-254,,Reserved for local use,,,,Operational,na
+grib2/4/206/255,Volcanic ash,,255,,Missing,,,,Operational,na

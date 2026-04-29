@@ -1,2 +1,2 @@
-ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translated_by
-grib2/7/1/6-nn,"Matrices en los puntos de la retícula, empaquetado simple",6-nn,,"Valores de datos binarios – cadena binaria, con cada valor (ajustado) de dato",,,,,Experimental,Original
+ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translation_source
+grib2/7/1/6-nn,"Matrices en los puntos de la retícula, empaquetado simple",6-nn,,"Valores de datos binarios – cadena binaria, con cada valor (ajustado) de dato",,,,,Experimental,PDF

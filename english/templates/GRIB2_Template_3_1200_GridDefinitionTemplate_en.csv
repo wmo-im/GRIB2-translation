@@ -1,19 +1,19 @@
-ID,Title_en,OctetNo,OctetCount,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status,translated_by
-grib2/3/1200/15-18,time section grid,15-18,4,NT - number of time steps,,,,,Experimental,Original
-grib2/3/1200/19,time section grid,19,1,Unit of offset from reference time,(see Code table 4.4),,4.4,,Experimental,Original
-grib2/3/1200/20-23,time section grid,20-23,4,Offset from reference of first time (negative value when first bit set),,,,,Experimental,Original
-grib2/3/1200/24,time section grid,24,1,Type of time increment,(see Code table 4.11),,4.11,,Experimental,Original
-grib2/3/1200/25,time section grid,25,1,Unit of time increment,(see Code table 4.4),,4.4,,Experimental,Original
-grib2/3/1200/26-29,time section grid,26-29,4,Time increment (negative value when first bit set),,,,,Experimental,Original
-grib2/3/1200//1,time section grid,,,30-36   Last date/time,,,,,Experimental,Original
-grib2/3/1200/30-31,time section grid,30-31,2,Year,,,,,Experimental,Original
-grib2/3/1200/32,time section grid,32,1,Month,,,,,Experimental,Original
-grib2/3/1200/33,time section grid,33,1,Day,,,,,Experimental,Original
-grib2/3/1200/34,time section grid,34,1,Hour,,,,,Experimental,Original
-grib2/3/1200/35,time section grid,35,1,Minute,,,,,Experimental,Original
-grib2/3/1200/36,time section grid,36,1,Second,,,,,Experimental,Original
-grib2/3/1200/37-38,time section grid,37-38,2,Number of vertical points,,,,,Experimental,Original
-grib2/3/1200/39,time section grid,39,1,Physical meaning of vertical coordinate,(see Code table 3.15),,3.15,,Experimental,Original
-grib2/3/1200/40,time section grid,40,1,Vertical dimension coordinate values definition,(see Code table 3.21),,3.21,,Experimental,Original
-grib2/3/1200/41-42,time section grid,41-42,2,NC - number of coefficients or values used to specify vertical coordinates,,,,,Experimental,Original
-grib2/3/1200/43-(42+NCx4),time section grid,43-(42+NCx4),,"Coefficients to define vertical dimension coordinate values in functional form, or the explicit coordinate values (IEEE 32-bit floating-point values)",,,,,Experimental,Original
+ID,Title_en,OctetNo,OctetCount,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status,translation_source
+grib2/3/1200/15-18,time section grid,15-18,4,NT - number of time steps,,,,,Experimental,na
+grib2/3/1200/19,time section grid,19,1,Unit of offset from reference time,(see Code table 4.4),,4.4,,Experimental,na
+grib2/3/1200/20-23,time section grid,20-23,4,Offset from reference of first time (negative value when first bit set),,,,,Experimental,na
+grib2/3/1200/24,time section grid,24,1,Type of time increment,(see Code table 4.11),,4.11,,Experimental,na
+grib2/3/1200/25,time section grid,25,1,Unit of time increment,(see Code table 4.4),,4.4,,Experimental,na
+grib2/3/1200/26-29,time section grid,26-29,4,Time increment (negative value when first bit set),,,,,Experimental,na
+grib2/3/1200//1,time section grid,,,30-36   Last date/time,,,,,Experimental,na
+grib2/3/1200/30-31,time section grid,30-31,2,Year,,,,,Experimental,na
+grib2/3/1200/32,time section grid,32,1,Month,,,,,Experimental,na
+grib2/3/1200/33,time section grid,33,1,Day,,,,,Experimental,na
+grib2/3/1200/34,time section grid,34,1,Hour,,,,,Experimental,na
+grib2/3/1200/35,time section grid,35,1,Minute,,,,,Experimental,na
+grib2/3/1200/36,time section grid,36,1,Second,,,,,Experimental,na
+grib2/3/1200/37-38,time section grid,37-38,2,Number of vertical points,,,,,Experimental,na
+grib2/3/1200/39,time section grid,39,1,Physical meaning of vertical coordinate,(see Code table 3.15),,3.15,,Experimental,na
+grib2/3/1200/40,time section grid,40,1,Vertical dimension coordinate values definition,(see Code table 3.21),,3.21,,Experimental,na
+grib2/3/1200/41-42,time section grid,41-42,2,NC - number of coefficients or values used to specify vertical coordinates,,,,,Experimental,na
+grib2/3/1200/43-(42+NCx4),time section grid,43-(42+NCx4),,"Coefficients to define vertical dimension coordinate values in functional form, or the explicit coordinate values (IEEE 32-bit floating-point values)",,,,,Experimental,na

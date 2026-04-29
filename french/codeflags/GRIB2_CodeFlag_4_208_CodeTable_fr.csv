@@ -1,9 +1,9 @@
-ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
-grib2/4/208/0,Table de code 4.208 – Turbulence,,0,,Pas de turbulence,,,,Operational,Original
-grib2/4/208/1,Table de code 4.208 – Turbulence,,1,,Turbulence faible,,,,Operational,Original
-grib2/4/208/2,Table de code 4.208 – Turbulence,,2,,Turbulence modérée,,,,Operational,Original
-grib2/4/208/3,Table de code 4.208 – Turbulence,,3,,Turbulence forte,,,,Operational,Original
-grib2/4/208/4,Table de code 4.208 – Turbulence,,4,,Turbulence extrême,,,,Operational,Original
-grib2/4/208/5-191,Table de code 4.208 – Turbulence,,5-191,,En réserve,,,,Operational,Original
-grib2/4/208/192-254,Table de code 4.208 – Turbulence,,192-254,,En réserve pour un usage local,,,,Operational,Original
-grib2/4/208/255,Table de code 4.208 – Turbulence,,255,,Valeur manquante,,,,Operational,Original
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
+grib2/4/208/0,Table de code 4.208 – Turbulence,,0,,Pas de turbulence,,,,Operational,PDF
+grib2/4/208/1,Table de code 4.208 – Turbulence,,1,,Turbulence faible,,,,Operational,PDF
+grib2/4/208/2,Table de code 4.208 – Turbulence,,2,,Turbulence modérée,,,,Operational,PDF
+grib2/4/208/3,Table de code 4.208 – Turbulence,,3,,Turbulence forte,,,,Operational,PDF
+grib2/4/208/4,Table de code 4.208 – Turbulence,,4,,Turbulence extrême,,,,Operational,PDF
+grib2/4/208/5-191,Table de code 4.208 – Turbulence,,5-191,,En réserve,,,,Operational,PDF
+grib2/4/208/192-254,Table de code 4.208 – Turbulence,,192-254,,En réserve pour un usage local,,,,Operational,PDF
+grib2/4/208/255,Table de code 4.208 – Turbulence,,255,,Valeur manquante,,,,Operational,PDF

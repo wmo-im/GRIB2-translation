@@ -1,5 +1,5 @@
-ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
-grib2/3/5/1/0,Table d'indicateurs 3.5 - Centre de la projection,,1,0,Le pôle Nord se situe sur le plan de la projection,,,,Operational,Original
-grib2/3/5/1/1,Table d'indicateurs 3.5 - Centre de la projection,,1,1,Le pôle Sud se situe sur le plan de la projection,,,,Operational,Original
-grib2/3/5/2/0,Table d'indicateurs 3.5 - Centre de la projection,,2,0,Un seul centre de projection est utilisé,,,,Operational,Original
-grib2/3/5/2/1,Table d'indicateurs 3.5 - Centre de la projection,,2,1,La projection est bipolaire et symétrique,,,,Operational,Original
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
+grib2/3/5/1/0,Table d'indicateurs 3.5 - Centre de la projection,,1,0,Le pôle Nord se situe sur le plan de la projection,,,,Operational,PDF
+grib2/3/5/1/1,Table d'indicateurs 3.5 - Centre de la projection,,1,1,Le pôle Sud se situe sur le plan de la projection,,,,Operational,PDF
+grib2/3/5/2/0,Table d'indicateurs 3.5 - Centre de la projection,,2,0,Un seul centre de projection est utilisé,,,,Operational,PDF
+grib2/3/5/2/1,Table d'indicateurs 3.5 - Centre de la projection,,2,1,La projection est bipolaire et symétrique,,,,Operational,PDF

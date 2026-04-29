@@ -1,5 +1,5 @@
-ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translated_by
-grib2/6/0/0,Tabla de cifrado 6.0 — Indicador de la topografía binaria,,0,,"Un mapa de bits de datos se aplica a este producto, el que se especifica en esta Sección",,,,Operational,Original
-grib2/6/0/1-253,Tabla de cifrado 6.0 — Indicador de la topografía binaria,,1-253,,Un mapa de bits de datos preestablecido por el centro de origen/generación se aplica a este producto; el mismo no se especifica en esta Sección,,,,Operational,Original
-grib2/6/0/254,Tabla de cifrado 6.0 — Indicador de la topografía binaria,,254,,"Un mapa de bits de datos definido previamente en el mismo mensaje ""GRIB"" se aplica a este producto",,,,Operational,Original
-grib2/6/0/255,Tabla de cifrado 6.0 — Indicador de la topografía binaria,,255,,Ningún mapa de bits de datos se aplica a este product,,,,Operational,Original
+ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
+grib2/6/0/0,Tabla de cifrado 6.0 — Indicador de la topografía binaria,,0,,"Un mapa de bits de datos se aplica a este producto, el que se especifica en esta Sección",,,,Operational,PDF
+grib2/6/0/1-253,Tabla de cifrado 6.0 — Indicador de la topografía binaria,,1-253,,Un mapa de bits de datos preestablecido por el centro de origen/generación se aplica a este producto; el mismo no se especifica en esta Sección,,,,Operational,PDF
+grib2/6/0/254,Tabla de cifrado 6.0 — Indicador de la topografía binaria,,254,,"Un mapa de bits de datos definido previamente en el mismo mensaje ""GRIB"" se aplica a este producto",,,,Operational,PDF
+grib2/6/0/255,Tabla de cifrado 6.0 — Indicador de la topografía binaria,,255,,Ningún mapa de bits de datos se aplica a este product,,,,Operational,PDF

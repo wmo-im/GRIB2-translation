@@ -1,5 +1,5 @@
-ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translated_by
-grib2/3/7/0,Tabla de cifrado 3.7 — Modelo de representación de los datos espectrales,,0,,Reservada,,,,Operational,Original
-grib2/3/7/1,Tabla de cifrado 3.7 — Modelo de representación de los datos espectrales,,1,,(see separate doc or pdf file),(véase la nota),116,,Operational,Original
-grib2/3/7/2-254,Tabla de cifrado 3.7 — Modelo de representación de los datos espectrales,,2-254,,Reservadas,,,,Operational,Original
-grib2/3/7/255,Tabla de cifrado 3.7 — Modelo de representación de los datos espectrales,,255,,Valor faltante,,,,Operational,Original
+ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
+grib2/3/7/0,Tabla de cifrado 3.7 — Modelo de representación de los datos espectrales,,0,,Reservada,,,,Operational,PDF
+grib2/3/7/1,Tabla de cifrado 3.7 — Modelo de representación de los datos espectrales,,1,,(see separate doc or pdf file),(véase la nota),116,,Operational,PDF
+grib2/3/7/2-254,Tabla de cifrado 3.7 — Modelo de representación de los datos espectrales,,2-254,,Reservadas,,,,Operational,PDF
+grib2/3/7/255,Tabla de cifrado 3.7 — Modelo de representación de los datos espectrales,,255,,Valor faltante,,,,Operational,PDF

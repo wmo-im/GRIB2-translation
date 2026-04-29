@@ -1,6 +1,6 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
-grib2/4/14/0,Clutter filter indicator,,0,,No clutter filter used,,,,Operational,Original
-grib2/4/14/1,Clutter filter indicator,,1,,Clutter filter used,,,,Operational,Original
-grib2/4/14/2-191,Clutter filter indicator,,2-191,,Reserved,,,,Operational,Original
-grib2/4/14/192-254,Clutter filter indicator,,192-254,,Reserved for local use,,,,Operational,Original
-grib2/4/14/255,Clutter filter indicator,,255,,Missing,,,,Operational,Original
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
+grib2/4/14/0,Clutter filter indicator,,0,,No clutter filter used,,,,Operational,na
+grib2/4/14/1,Clutter filter indicator,,1,,Clutter filter used,,,,Operational,na
+grib2/4/14/2-191,Clutter filter indicator,,2-191,,Reserved,,,,Operational,na
+grib2/4/14/192-254,Clutter filter indicator,,192-254,,Reserved for local use,,,,Operational,na
+grib2/4/14/255,Clutter filter indicator,,255,,Missing,,,,Operational,na

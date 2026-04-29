@@ -1,14 +1,14 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
-grib2/0/0/0,"Discipline of processed data in the GRIB message, number of GRIB Master table",,0,,Meteorological products,,,,Operational,Original
-grib2/0/0/1,"Discipline of processed data in the GRIB message, number of GRIB Master table",,1,,Hydrological products,,,,Operational,Original
-grib2/0/0/2,"Discipline of processed data in the GRIB message, number of GRIB Master table",,2,,Land surface products,,,,Operational,Original
-grib2/0/0/3,"Discipline of processed data in the GRIB message, number of GRIB Master table",,3,,"Satellite remote sensing products (formerly ""Space products"")",,,,Operational,Original
-grib2/0/0/4,"Discipline of processed data in the GRIB message, number of GRIB Master table",,4,,Space weather products,,,,Operational,Original
-grib2/0/0/5-9,"Discipline of processed data in the GRIB message, number of GRIB Master table",,5-9,,Reserved,,,,Operational,Original
-grib2/0/0/10,"Discipline of processed data in the GRIB message, number of GRIB Master table",,10,,Oceanographic products,,,,Operational,Original
-grib2/0/0/11-19,"Discipline of processed data in the GRIB message, number of GRIB Master table",,11-19,,Reserved,,,,Operational,Original
-grib2/0/0/20,"Discipline of processed data in the GRIB message, number of GRIB Master table",,20,,Health and socioeconomic impacts,,,,Operational,Original
-grib2/0/0/21-190,"Discipline of processed data in the GRIB message, number of GRIB Master table",,21-190,,Reserved,,,,Operational,Original
-grib2/0/0/191,"Discipline of processed data in the GRIB message, number of GRIB Master table",,191,,Computational parameters,,,,Operational,Original
-grib2/0/0/192-254,"Discipline of processed data in the GRIB message, number of GRIB Master table",,192-254,,Reserved for local use,,,,Operational,Original
-grib2/0/0/255,"Discipline of processed data in the GRIB message, number of GRIB Master table",,255,,Missing,,,,Operational,Original
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
+grib2/0/0/0,"Discipline of processed data in the GRIB message, number of GRIB Master table",,0,,Meteorological products,,,,Operational,na
+grib2/0/0/1,"Discipline of processed data in the GRIB message, number of GRIB Master table",,1,,Hydrological products,,,,Operational,na
+grib2/0/0/2,"Discipline of processed data in the GRIB message, number of GRIB Master table",,2,,Land surface products,,,,Operational,na
+grib2/0/0/3,"Discipline of processed data in the GRIB message, number of GRIB Master table",,3,,"Satellite remote sensing products (formerly ""Space products"")",,,,Operational,na
+grib2/0/0/4,"Discipline of processed data in the GRIB message, number of GRIB Master table",,4,,Space weather products,,,,Operational,na
+grib2/0/0/5-9,"Discipline of processed data in the GRIB message, number of GRIB Master table",,5-9,,Reserved,,,,Operational,na
+grib2/0/0/10,"Discipline of processed data in the GRIB message, number of GRIB Master table",,10,,Oceanographic products,,,,Operational,na
+grib2/0/0/11-19,"Discipline of processed data in the GRIB message, number of GRIB Master table",,11-19,,Reserved,,,,Operational,na
+grib2/0/0/20,"Discipline of processed data in the GRIB message, number of GRIB Master table",,20,,Health and socioeconomic impacts,,,,Operational,na
+grib2/0/0/21-190,"Discipline of processed data in the GRIB message, number of GRIB Master table",,21-190,,Reserved,,,,Operational,na
+grib2/0/0/191,"Discipline of processed data in the GRIB message, number of GRIB Master table",,191,,Computational parameters,,,,Operational,na
+grib2/0/0/192-254,"Discipline of processed data in the GRIB message, number of GRIB Master table",,192-254,,Reserved for local use,,,,Operational,na
+grib2/0/0/255,"Discipline of processed data in the GRIB message, number of GRIB Master table",,255,,Missing,,,,Operational,na

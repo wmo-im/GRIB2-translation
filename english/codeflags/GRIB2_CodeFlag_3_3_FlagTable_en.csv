@@ -1,9 +1,9 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
-grib2/3/3/1-2,Resolution and component flags,,1-2,,Reserved,,,,Operational,Original
-grib2/3/3/3/0,Resolution and component flags,,3,0,i direction increments not given,,,,Operational,Original
-grib2/3/3/3/1,Resolution and component flags,,3,1,i direction increments given,,,,Operational,Original
-grib2/3/3/4/0,Resolution and component flags,,4,0,j direction increments not given,,,,Operational,Original
-grib2/3/3/4/1,Resolution and component flags,,4,1,j direction increments given,,,,Operational,Original
-grib2/3/3/5/0,Resolution and component flags,,5,0,Resolved u- and v- components of vector quantities relative to easterly and northerly directions,,,,Operational,Original
-grib2/3/3/5/1,Resolution and component flags,,5,1,"Resolved u- and v- components of vector quantities relative to the defined grid in the direction of increasing x and y (or i and j) coordinates, respectively",,,,Operational,Original
-grib2/3/3/6-8,Resolution and component flags,,6-8,,Reserved - set to zero,,,,Operational,Original
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
+grib2/3/3/1-2,Resolution and component flags,,1-2,,Reserved,,,,Operational,na
+grib2/3/3/3/0,Resolution and component flags,,3,0,i direction increments not given,,,,Operational,na
+grib2/3/3/3/1,Resolution and component flags,,3,1,i direction increments given,,,,Operational,na
+grib2/3/3/4/0,Resolution and component flags,,4,0,j direction increments not given,,,,Operational,na
+grib2/3/3/4/1,Resolution and component flags,,4,1,j direction increments given,,,,Operational,na
+grib2/3/3/5/0,Resolution and component flags,,5,0,Resolved u- and v- components of vector quantities relative to easterly and northerly directions,,,,Operational,na
+grib2/3/3/5/1,Resolution and component flags,,5,1,"Resolved u- and v- components of vector quantities relative to the defined grid in the direction of increasing x and y (or i and j) coordinates, respectively",,,,Operational,na
+grib2/3/3/6-8,Resolution and component flags,,6-8,,Reserved - set to zero,,,,Operational,na

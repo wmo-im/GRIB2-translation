@@ -1,16 +1,16 @@
-ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
-grib2/4/213/0,Table de code 4.213 – Type de sol,,0,,En réserve,,,,Operational,Original
-grib2/4/213/1,Table de code 4.213 – Type de sol,,1,,Sable,,,,Operational,Original
-grib2/4/213/2,Table de code 4.213 – Type de sol,,2,,Sable limoneux,,,,Operational,Original
-grib2/4/213/3,Table de code 4.213 – Type de sol,,3,,Limon sableux,,,,Operational,Original
-grib2/4/213/4,Table de code 4.213 – Type de sol,,4,,Limon,,,,Operational,Original
-grib2/4/213/5,Table de code 4.213 – Type de sol,,5,,Sol organique (redéfini),,,,Operational,Original
-grib2/4/213/6,Table de code 4.213 – Type de sol,,6,,Limon sablo-argileux,,,,Operational,Original
-grib2/4/213/7,Table de code 4.213 – Type de sol,,7,,Limon fin argileux,,,,Operational,Original
-grib2/4/213/8,Table de code 4.213 – Type de sol,,8,,Limon argileux,,,,Operational,Original
-grib2/4/213/9,Table de code 4.213 – Type de sol,,9,,Argile sableuse,,,,Operational,Original
-grib2/4/213/10,Table de code 4.213 – Type de sol,,10,,Argile limoneuse,,,,Operational,Original
-grib2/4/213/11,Table de code 4.213 – Type de sol,,11,,Argile,,,,Operational,Original
-grib2/4/213/12-191,Table de code 4.213 – Type de sol,,12-191,,En réserve,,,,Operational,Original
-grib2/4/213/192-254,Table de code 4.213 – Type de sol,,192-254,,En réserve pour un usage local,,,,Operational,Original
-grib2/4/213/255,Table de code 4.213 – Type de sol,,255,,Valeur manquante,,,,Operational,Original
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
+grib2/4/213/0,Table de code 4.213 – Type de sol,,0,,En réserve,,,,Operational,PDF
+grib2/4/213/1,Table de code 4.213 – Type de sol,,1,,Sable,,,,Operational,PDF
+grib2/4/213/2,Table de code 4.213 – Type de sol,,2,,Sable limoneux,,,,Operational,PDF
+grib2/4/213/3,Table de code 4.213 – Type de sol,,3,,Limon sableux,,,,Operational,PDF
+grib2/4/213/4,Table de code 4.213 – Type de sol,,4,,Limon,,,,Operational,PDF
+grib2/4/213/5,Table de code 4.213 – Type de sol,,5,,Sol organique (redéfini),,,,Operational,PDF
+grib2/4/213/6,Table de code 4.213 – Type de sol,,6,,Limon sablo-argileux,,,,Operational,PDF
+grib2/4/213/7,Table de code 4.213 – Type de sol,,7,,Limon fin argileux,,,,Operational,PDF
+grib2/4/213/8,Table de code 4.213 – Type de sol,,8,,Limon argileux,,,,Operational,PDF
+grib2/4/213/9,Table de code 4.213 – Type de sol,,9,,Argile sableuse,,,,Operational,PDF
+grib2/4/213/10,Table de code 4.213 – Type de sol,,10,,Argile limoneuse,,,,Operational,PDF
+grib2/4/213/11,Table de code 4.213 – Type de sol,,11,,Argile,,,,Operational,PDF
+grib2/4/213/12-191,Table de code 4.213 – Type de sol,,12-191,,En réserve,,,,Operational,PDF
+grib2/4/213/192-254,Table de code 4.213 – Type de sol,,192-254,,En réserve pour un usage local,,,,Operational,PDF
+grib2/4/213/255,Table de code 4.213 – Type de sol,,255,,Valeur manquante,,,,Operational,PDF

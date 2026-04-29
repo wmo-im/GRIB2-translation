@@ -1,16 +1,16 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
-grib2/4/91/0,Type of Interval,,0,,Smaller than first limit,,,,Operational,Original
-grib2/4/91/1,Type of Interval,,1,,Greater than second limit,,,,Operational,Original
-grib2/4/91/2,Type of Interval,,2,,Between first and second limit. The range includes the first limit but not the second limit,,,,Operational,Original
-grib2/4/91/3,Type of Interval,,3,,Greater than first limit,,,,Operational,Original
-grib2/4/91/4,Type of Interval,,4,,Smaller than second limit,,,,Operational,Original
-grib2/4/91/5,Type of Interval,,5,,Smaller or equal first limit,,,,Operational,Original
-grib2/4/91/6,Type of Interval,,6,,Greater or equal second limit,,,,Operational,Original
-grib2/4/91/7,Type of Interval,,7,,Between first and second. The range includes the first limit and the second limit,,,,Operational,Original
-grib2/4/91/8,Type of Interval,,8,,Greater or equal first limit,,,,Operational,Original
-grib2/4/91/9,Type of Interval,,9,,Smaller or equal second limit,,,,Operational,Original
-grib2/4/91/10,Type of Interval,,10,,Between first and second limit. The range includes the second limit but not the first limit,,,,Operational,Original
-grib2/4/91/11,Type of Interval,,11,,Equal to first limit,,,,Operational,Original
-grib2/4/91/12-191,Type of Interval,,12-191,,Reserved,,,,Operational,Original
-grib2/4/91/192-254,Type of Interval,,192-254,,Reserved for local use,,,,Operational,Original
-grib2/4/91/255,Type of Interval,,255,,Missing,,,,Operational,Original
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
+grib2/4/91/0,Type of Interval,,0,,Smaller than first limit,,,,Operational,na
+grib2/4/91/1,Type of Interval,,1,,Greater than second limit,,,,Operational,na
+grib2/4/91/2,Type of Interval,,2,,Between first and second limit. The range includes the first limit but not the second limit,,,,Operational,na
+grib2/4/91/3,Type of Interval,,3,,Greater than first limit,,,,Operational,na
+grib2/4/91/4,Type of Interval,,4,,Smaller than second limit,,,,Operational,na
+grib2/4/91/5,Type of Interval,,5,,Smaller or equal first limit,,,,Operational,na
+grib2/4/91/6,Type of Interval,,6,,Greater or equal second limit,,,,Operational,na
+grib2/4/91/7,Type of Interval,,7,,Between first and second. The range includes the first limit and the second limit,,,,Operational,na
+grib2/4/91/8,Type of Interval,,8,,Greater or equal first limit,,,,Operational,na
+grib2/4/91/9,Type of Interval,,9,,Smaller or equal second limit,,,,Operational,na
+grib2/4/91/10,Type of Interval,,10,,Between first and second limit. The range includes the second limit but not the first limit,,,,Operational,na
+grib2/4/91/11,Type of Interval,,11,,Equal to first limit,,,,Operational,na
+grib2/4/91/12-191,Type of Interval,,12-191,,Reserved,,,,Operational,na
+grib2/4/91/192-254,Type of Interval,,192-254,,Reserved for local use,,,,Operational,na
+grib2/4/91/255,Type of Interval,,255,,Missing,,,,Operational,na

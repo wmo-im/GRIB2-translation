@@ -1,23 +1,23 @@
-ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translated_by
-grib2/3/30/15,Modèle de définition de la grille 3.30 — Projection conforme de Lambert,15,1,Forme de la Terre,(voir la table de code 3.2),,3.2,,Operational,Original
-grib2/3/30/16,Modèle de définition de la grille 3.30 — Projection conforme de Lambert,16,1,Facteur d'échelle du rayon de la Terre sphérique,,,,,Operational,Original
-grib2/3/30/17-20,Modèle de définition de la grille 3.30 — Projection conforme de Lambert,17-20,4,Valeur ajustée du rayon de la Terre sphérique,,,,,Operational,Original
-grib2/3/30/21,Modèle de définition de la grille 3.30 — Projection conforme de Lambert,21,1,Facteur d'échelle du grand axe de la Terre ellipsoïdale aplatie,,,,,Operational,Original
-grib2/3/30/22-25,Modèle de définition de la grille 3.30 — Projection conforme de Lambert,22-25,4,Valeur ajustée du grand axe de la Terre ellipsoïdale aplatie,,,,,Operational,Original
-grib2/3/30/26,Modèle de définition de la grille 3.30 — Projection conforme de Lambert,26,1,Facteur d'échelle du petit axe de la Terre ellipsoïdale aplatie,,,,,Operational,Original
-grib2/3/30/27-30,Modèle de définition de la grille 3.30 — Projection conforme de Lambert,27-30,4,Valeur ajustée du petit axe de la Terre ellipsoïdale aplatie,,,,,Operational,Original
-grib2/3/30/31-34,Modèle de définition de la grille 3.30 — Projection conforme de Lambert,31-34,4,Nx - nombre de points le long de l'axe des x,,,,,Operational,Original
-grib2/3/30/35-38,Modèle de définition de la grille 3.30 — Projection conforme de Lambert,35-38,4,Ny - nombre de points le long de l'axe des y,,,,,Operational,Original
-grib2/3/30/39-42,Modèle de définition de la grille 3.30 — Projection conforme de Lambert,39-42,4,La1 - latitude du premier point de la grille,,,,,Operational,Original
-grib2/3/30/43-46,Modèle de définition de la grille 3.30 — Projection conforme de Lambert,43-46,4,Lo1 - longitude du premier point de la grille,,,,,Operational,Original
-grib2/3/30/47,Modèle de définition de la grille 3.30 — Projection conforme de Lambert,47,1,Indicateurs de résolution et de composantes,(voir la table d'indicateurs 3.3),114,,3.3,Operational,Original
-grib2/3/30/48-51,Modèle de définition de la grille 3.30 — Projection conforme de Lambert,48-51,4,LaD - latitude pour laquelle Dx et Dy sont précisées,,,,,Operational,Original
-grib2/3/30/52-55,Modèle de définition de la grille 3.30 — Projection conforme de Lambert,52-55,4,LoV - Longitude du méridien parallèle à l'axe des y le long duquel la valeur des y augmente avec la latitude,(voir la note 4),51,,,Operational,Original
-grib2/3/30/56-59,Modèle de définition de la grille 3.30 — Projection conforme de Lambert,56-59,4,Dx - longueur de grille dans la direction x,(voir la note 1),28,,,Operational,Original
-grib2/3/30/60-63,Modèle de définition de la grille 3.30 — Projection conforme de Lambert,60-63,4,Dy - longueur de grille dans la direction y,(voir la note 1),28,,,Operational,Original
-grib2/3/30/64,Modèle de définition de la grille 3.30 — Projection conforme de Lambert,64,1,Centre de la projection,(voir la table d'indicateurs 3.5),,,3.5,Operational,Original
-grib2/3/30/65,Modèle de définition de la grille 3.30 — Projection conforme de Lambert,65,1,Mode d'exploration,(voir la table d'indicateurs 3.4),,,3.4,Operational,Original
-grib2/3/30/66-69,Modèle de définition de la grille 3.30 — Projection conforme de Lambert,66-69,4,Carré latin 1 première latitude à partir du pôle à laquelle le cône sécant coupe la sphère,,,,,Operational,Original
-grib2/3/30/70-73,Modèle de définition de la grille 3.30 — Projection conforme de Lambert,70-73,4,Carré latin 2 – deuxième latitude à partir du pôle à laquelle le cône sécant coupe la sphère,,,,,Operational,Original
-grib2/3/30/74-77,Modèle de définition de la grille 3.30 — Projection conforme de Lambert,74-77,4,Latitude du pôle Sud de la projection,,,,,Operational,Original
-grib2/3/30/78-81,Modèle de définition de la grille 3.30 — Projection conforme de Lambert,78-81,4,Longitude du pôle Sud de la projection,,,,,Operational,Original
+ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translation_source
+grib2/3/30/15,Modèle de définition de la grille 3.30 — Projection conforme de Lambert,15,1,Forme de la Terre,(voir la table de code 3.2),,3.2,,Operational,PDF
+grib2/3/30/16,Modèle de définition de la grille 3.30 — Projection conforme de Lambert,16,1,Facteur d'échelle du rayon de la Terre sphérique,,,,,Operational,PDF
+grib2/3/30/17-20,Modèle de définition de la grille 3.30 — Projection conforme de Lambert,17-20,4,Valeur ajustée du rayon de la Terre sphérique,,,,,Operational,PDF
+grib2/3/30/21,Modèle de définition de la grille 3.30 — Projection conforme de Lambert,21,1,Facteur d'échelle du grand axe de la Terre ellipsoïdale aplatie,,,,,Operational,PDF
+grib2/3/30/22-25,Modèle de définition de la grille 3.30 — Projection conforme de Lambert,22-25,4,Valeur ajustée du grand axe de la Terre ellipsoïdale aplatie,,,,,Operational,PDF
+grib2/3/30/26,Modèle de définition de la grille 3.30 — Projection conforme de Lambert,26,1,Facteur d'échelle du petit axe de la Terre ellipsoïdale aplatie,,,,,Operational,PDF
+grib2/3/30/27-30,Modèle de définition de la grille 3.30 — Projection conforme de Lambert,27-30,4,Valeur ajustée du petit axe de la Terre ellipsoïdale aplatie,,,,,Operational,PDF
+grib2/3/30/31-34,Modèle de définition de la grille 3.30 — Projection conforme de Lambert,31-34,4,Nx - nombre de points le long de l'axe des x,,,,,Operational,PDF
+grib2/3/30/35-38,Modèle de définition de la grille 3.30 — Projection conforme de Lambert,35-38,4,Ny - nombre de points le long de l'axe des y,,,,,Operational,PDF
+grib2/3/30/39-42,Modèle de définition de la grille 3.30 — Projection conforme de Lambert,39-42,4,La1 - latitude du premier point de la grille,,,,,Operational,PDF
+grib2/3/30/43-46,Modèle de définition de la grille 3.30 — Projection conforme de Lambert,43-46,4,Lo1 - longitude du premier point de la grille,,,,,Operational,PDF
+grib2/3/30/47,Modèle de définition de la grille 3.30 — Projection conforme de Lambert,47,1,Indicateurs de résolution et de composantes,(voir la table d'indicateurs 3.3),114,,3.3,Operational,PDF
+grib2/3/30/48-51,Modèle de définition de la grille 3.30 — Projection conforme de Lambert,48-51,4,LaD - latitude pour laquelle Dx et Dy sont précisées,,,,,Operational,PDF
+grib2/3/30/52-55,Modèle de définition de la grille 3.30 — Projection conforme de Lambert,52-55,4,LoV - Longitude du méridien parallèle à l'axe des y le long duquel la valeur des y augmente avec la latitude,(voir la note 4),51,,,Operational,PDF
+grib2/3/30/56-59,Modèle de définition de la grille 3.30 — Projection conforme de Lambert,56-59,4,Dx - longueur de grille dans la direction x,(voir la note 1),28,,,Operational,PDF
+grib2/3/30/60-63,Modèle de définition de la grille 3.30 — Projection conforme de Lambert,60-63,4,Dy - longueur de grille dans la direction y,(voir la note 1),28,,,Operational,PDF
+grib2/3/30/64,Modèle de définition de la grille 3.30 — Projection conforme de Lambert,64,1,Centre de la projection,(voir la table d'indicateurs 3.5),,,3.5,Operational,PDF
+grib2/3/30/65,Modèle de définition de la grille 3.30 — Projection conforme de Lambert,65,1,Mode d'exploration,(voir la table d'indicateurs 3.4),,,3.4,Operational,PDF
+grib2/3/30/66-69,Modèle de définition de la grille 3.30 — Projection conforme de Lambert,66-69,4,Carré latin 1 première latitude à partir du pôle à laquelle le cône sécant coupe la sphère,,,,,Operational,PDF
+grib2/3/30/70-73,Modèle de définition de la grille 3.30 — Projection conforme de Lambert,70-73,4,Carré latin 2 – deuxième latitude à partir du pôle à laquelle le cône sécant coupe la sphère,,,,,Operational,PDF
+grib2/3/30/74-77,Modèle de définition de la grille 3.30 — Projection conforme de Lambert,74-77,4,Latitude du pôle Sud de la projection,,,,,Operational,PDF
+grib2/3/30/78-81,Modèle de définition de la grille 3.30 — Projection conforme de Lambert,78-81,4,Longitude du pôle Sud de la projection,,,,,Operational,PDF

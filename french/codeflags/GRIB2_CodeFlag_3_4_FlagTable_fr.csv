@@ -1,20 +1,20 @@
-ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
-grib2/3/4/1/0,Table d'indicateurs 3.4 - Mode d'exploration,,1,0,Exploration des points de la première ligne ou colonne dans la direction +i (+x),,,,Operational,Original
-grib2/3/4/1/1,Table d'indicateurs 3.4 - Mode d'exploration,,1,1,Exploration des points de la première ligne ou colonne dans la direction -i (-x),,,,Operational,Original
-grib2/3/4/2/0,Table d'indicateurs 3.4 - Mode d'exploration,,2,0,Exploration des points de la première ligne ou colonne dans la direction -j (-y),,,,Operational,Original
-grib2/3/4/2/1,Table d'indicateurs 3.4 - Mode d'exploration,,2,1,Exploration des points de la première ligne ou colonne dans la direction +j (+y),,,,Operational,Original
-grib2/3/4/3/0,Table d'indicateurs 3.4 - Mode d'exploration,,3,0,Les points adjacents dans la direction i (x) sont consécutifs,,,,Operational,Original
-grib2/3/4/3/1,Table d'indicateurs 3.4 - Mode d'exploration,,3,1,Les points adjacents dans la direction j (y) sont consécutifs,,,,Operational,Original
-grib2/3/4/4/0,Table d'indicateurs 3.4 - Mode d'exploration,,4,0,Exploration de toutes les lignes dans la même direction,,,,Operational,Original
-grib2/3/4/4/1,Table d'indicateurs 3.4 - Mode d'exploration,,4,1,Exploration des lignes adjacentes dans la direction opposée,,,,Operational,Original
-grib2/3/4/5/0,Table d'indicateurs 3.4 - Mode d'exploration,,5,0,Les points des lignes impaires ne sont pas décalés dans la direction i (x),,,,Operational,Original
-grib2/3/4/5/1,Table d'indicateurs 3.4 - Mode d'exploration,,5,1,Les points des lignes impaires sont décalés de Di/2 dans la direction i (x),,,,Operational,Original
-grib2/3/4/6/0,Table d'indicateurs 3.4 - Mode d'exploration,,6,0,Les points des lignes paires ne sont pas décalés dans la direction i (x),,,,Operational,Original
-grib2/3/4/6/1,Table d'indicateurs 3.4 - Mode d'exploration,,6,1,Les points des lignes paires sont décalés de Di/2 dans la direction i (x),,,,Operational,Original
-grib2/3/4/7/0,Table d'indicateurs 3.4 - Mode d'exploration,,7,0,Les points ne sont pas décalés dans la direction j (y),,,,Operational,Original
-grib2/3/4/7/1,Table d'indicateurs 3.4 - Mode d'exploration,,7,1,Les points sont décalés de Dj/2 dans la direction j (y),,,,Operational,Original
-grib2/3/4/8/0,Table d'indicateurs 3.4 - Mode d'exploration,,8,0,"Les lignes contiennent Ni points de grille et les colonnes, Nj points de grille",,,,Operational,Original
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
+grib2/3/4/1/0,Table d'indicateurs 3.4 - Mode d'exploration,,1,0,Exploration des points de la première ligne ou colonne dans la direction +i (+x),,,,Operational,PDF
+grib2/3/4/1/1,Table d'indicateurs 3.4 - Mode d'exploration,,1,1,Exploration des points de la première ligne ou colonne dans la direction -i (-x),,,,Operational,PDF
+grib2/3/4/2/0,Table d'indicateurs 3.4 - Mode d'exploration,,2,0,Exploration des points de la première ligne ou colonne dans la direction -j (-y),,,,Operational,PDF
+grib2/3/4/2/1,Table d'indicateurs 3.4 - Mode d'exploration,,2,1,Exploration des points de la première ligne ou colonne dans la direction +j (+y),,,,Operational,PDF
+grib2/3/4/3/0,Table d'indicateurs 3.4 - Mode d'exploration,,3,0,Les points adjacents dans la direction i (x) sont consécutifs,,,,Operational,PDF
+grib2/3/4/3/1,Table d'indicateurs 3.4 - Mode d'exploration,,3,1,Les points adjacents dans la direction j (y) sont consécutifs,,,,Operational,PDF
+grib2/3/4/4/0,Table d'indicateurs 3.4 - Mode d'exploration,,4,0,Exploration de toutes les lignes dans la même direction,,,,Operational,PDF
+grib2/3/4/4/1,Table d'indicateurs 3.4 - Mode d'exploration,,4,1,Exploration des lignes adjacentes dans la direction opposée,,,,Operational,PDF
+grib2/3/4/5/0,Table d'indicateurs 3.4 - Mode d'exploration,,5,0,Les points des lignes impaires ne sont pas décalés dans la direction i (x),,,,Operational,PDF
+grib2/3/4/5/1,Table d'indicateurs 3.4 - Mode d'exploration,,5,1,Les points des lignes impaires sont décalés de Di/2 dans la direction i (x),,,,Operational,PDF
+grib2/3/4/6/0,Table d'indicateurs 3.4 - Mode d'exploration,,6,0,Les points des lignes paires ne sont pas décalés dans la direction i (x),,,,Operational,PDF
+grib2/3/4/6/1,Table d'indicateurs 3.4 - Mode d'exploration,,6,1,Les points des lignes paires sont décalés de Di/2 dans la direction i (x),,,,Operational,PDF
+grib2/3/4/7/0,Table d'indicateurs 3.4 - Mode d'exploration,,7,0,Les points ne sont pas décalés dans la direction j (y),,,,Operational,PDF
+grib2/3/4/7/1,Table d'indicateurs 3.4 - Mode d'exploration,,7,1,Les points sont décalés de Dj/2 dans la direction j (y),,,,Operational,PDF
+grib2/3/4/8/0,Table d'indicateurs 3.4 - Mode d'exploration,,8,0,"Les lignes contiennent Ni points de grille et les colonnes, Nj points de grille",,,,Operational,PDF
 grib2/3/4/8/1,Table d'indicateurs 3.4 - Mode d'exploration,,8,1,"Les lignes contiennent Ni points de grille, si les points ne sont pas décalés dans la direction i
 Les lignes contiennent Ni-1 points de grille, si les points sont décalés de Di/2 dans la direction i
 Les colonnes contiennent Nj points de grille, si les points ne sont pas décalés dans la direction j
-Les colonnes contiennent Nj-1 points de grille, si les points sont décalés de Dj/2 dans la direction j",,,,Operational,Original
+Les colonnes contiennent Nj-1 points de grille, si les points sont décalés de Dj/2 dans la direction j",,,,Operational,PDF

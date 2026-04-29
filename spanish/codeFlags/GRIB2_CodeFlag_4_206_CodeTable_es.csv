@@ -1,6 +1,6 @@
-ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translated_by
-grib2/4/206/0,Tabla de cifrado 4.206 - Ceniza volcánica,,0,,Ausencia de cenizas volcánicas,,,,Operational,Original
-grib2/4/206/1,Tabla de cifrado 4.206 - Ceniza volcánica,,1,,Presencia de cenizas volcánicas,,,,Operational,Original
-grib2/4/206/2-191,Tabla de cifrado 4.206 - Ceniza volcánica,,2-191,,Reservadas,,,,Operational,Original
-grib2/4/206/192-254,Tabla de cifrado 4.206 - Ceniza volcánica,,192-254,,Reservadas para uso local,,,,Operational,Original
-grib2/4/206/255,Tabla de cifrado 4.206 - Ceniza volcánica,,255,,Valor faltante,,,,Operational,Original
+ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
+grib2/4/206/0,Tabla de cifrado 4.206 - Ceniza volcánica,,0,,Ausencia de cenizas volcánicas,,,,Operational,PDF
+grib2/4/206/1,Tabla de cifrado 4.206 - Ceniza volcánica,,1,,Presencia de cenizas volcánicas,,,,Operational,PDF
+grib2/4/206/2-191,Tabla de cifrado 4.206 - Ceniza volcánica,,2-191,,Reservadas,,,,Operational,PDF
+grib2/4/206/192-254,Tabla de cifrado 4.206 - Ceniza volcánica,,192-254,,Reservadas para uso local,,,,Operational,PDF
+grib2/4/206/255,Tabla de cifrado 4.206 - Ceniza volcánica,,255,,Valor faltante,,,,Operational,PDF

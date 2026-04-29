@@ -1,2 +1,2 @@
-ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translated_by
-grib2/7/0/6-nn,Modèle des données 7.0 — Données aux points de grille — compression simple,6-nn,,"Données binaires — chaîne binaire, pour chaque valeur (ajustée)",,,,,Operational,Original
+ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translation_source
+grib2/7/0/6-nn,Modèle des données 7.0 — Données aux points de grille — compression simple,6-nn,,"Données binaires — chaîne binaire, pour chaque valeur (ajustée)",,,,,Operational,PDF

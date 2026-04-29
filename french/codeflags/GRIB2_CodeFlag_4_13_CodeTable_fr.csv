@@ -1,6 +1,6 @@
-ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
-grib2/4/13/0,Table de code 4.13 – Indicateur de contrôle de qualité,,0,,Absence de contrôle de qualité,,,,Operational,Original
-grib2/4/13/1,Table de code 4.13 – Indicateur de contrôle de qualité,,1,,Contrôle de qualité appliqué,,,,Operational,Original
-grib2/4/13/2-191,Table de code 4.13 – Indicateur de contrôle de qualité,,2-191,,En réserve,,,,Operational,Original
-grib2/4/13/192-254,Table de code 4.13 – Indicateur de contrôle de qualité,,192-254,,En réserve pour un usage local,,,,Operational,Original
-grib2/4/13/255,Table de code 4.13 – Indicateur de contrôle de qualité,,255,,Valeur manquante,,,,Operational,Original
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
+grib2/4/13/0,Table de code 4.13 – Indicateur de contrôle de qualité,,0,,Absence de contrôle de qualité,,,,Operational,PDF
+grib2/4/13/1,Table de code 4.13 – Indicateur de contrôle de qualité,,1,,Contrôle de qualité appliqué,,,,Operational,PDF
+grib2/4/13/2-191,Table de code 4.13 – Indicateur de contrôle de qualité,,2-191,,En réserve,,,,Operational,PDF
+grib2/4/13/192-254,Table de code 4.13 – Indicateur de contrôle de qualité,,192-254,,En réserve pour un usage local,,,,Operational,PDF
+grib2/4/13/255,Table de code 4.13 – Indicateur de contrôle de qualité,,255,,Valeur manquante,,,,Operational,PDF

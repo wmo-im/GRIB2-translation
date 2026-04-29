@@ -1,17 +1,17 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
-grib2/4/4/0,Indicator of unit of time range,,0,,Minute,,,,Operational,Original
-grib2/4/4/1,Indicator of unit of time range,,1,,Hour,,,,Operational,Original
-grib2/4/4/2,Indicator of unit of time range,,2,,Day,,,,Operational,Original
-grib2/4/4/3,Indicator of unit of time range,,3,,Month,,,,Operational,Original
-grib2/4/4/4,Indicator of unit of time range,,4,,Year,,,,Operational,Original
-grib2/4/4/5,Indicator of unit of time range,,5,,Decade (10 years),,,,Operational,Original
-grib2/4/4/6,Indicator of unit of time range,,6,,Normal (30 years),,,,Operational,Original
-grib2/4/4/7,Indicator of unit of time range,,7,,Century (100 years),,,,Operational,Original
-grib2/4/4/8-9,Indicator of unit of time range,,8-9,,Reserved,,,,Operational,Original
-grib2/4/4/10,Indicator of unit of time range,,10,,3 hours,,,,Operational,Original
-grib2/4/4/11,Indicator of unit of time range,,11,,6 hours,,,,Operational,Original
-grib2/4/4/12,Indicator of unit of time range,,12,,12 hours,,,,Operational,Original
-grib2/4/4/13,Indicator of unit of time range,,13,,Second,,,,Operational,Original
-grib2/4/4/14-191,Indicator of unit of time range,,14-191,,Reserved,,,,Operational,Original
-grib2/4/4/192-254,Indicator of unit of time range,,192-254,,Reserved for local use,,,,Operational,Original
-grib2/4/4/255,Indicator of unit of time range,,255,,Missing,,,,Operational,Original
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
+grib2/4/4/0,Indicator of unit of time range,,0,,Minute,,,,Operational,na
+grib2/4/4/1,Indicator of unit of time range,,1,,Hour,,,,Operational,na
+grib2/4/4/2,Indicator of unit of time range,,2,,Day,,,,Operational,na
+grib2/4/4/3,Indicator of unit of time range,,3,,Month,,,,Operational,na
+grib2/4/4/4,Indicator of unit of time range,,4,,Year,,,,Operational,na
+grib2/4/4/5,Indicator of unit of time range,,5,,Decade (10 years),,,,Operational,na
+grib2/4/4/6,Indicator of unit of time range,,6,,Normal (30 years),,,,Operational,na
+grib2/4/4/7,Indicator of unit of time range,,7,,Century (100 years),,,,Operational,na
+grib2/4/4/8-9,Indicator of unit of time range,,8-9,,Reserved,,,,Operational,na
+grib2/4/4/10,Indicator of unit of time range,,10,,3 hours,,,,Operational,na
+grib2/4/4/11,Indicator of unit of time range,,11,,6 hours,,,,Operational,na
+grib2/4/4/12,Indicator of unit of time range,,12,,12 hours,,,,Operational,na
+grib2/4/4/13,Indicator of unit of time range,,13,,Second,,,,Operational,na
+grib2/4/4/14-191,Indicator of unit of time range,,14-191,,Reserved,,,,Operational,na
+grib2/4/4/192-254,Indicator of unit of time range,,192-254,,Reserved for local use,,,,Operational,na
+grib2/4/4/255,Indicator of unit of time range,,255,,Missing,,,,Operational,na

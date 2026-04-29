@@ -1,4 +1,4 @@
-ID,Title_ru,OctetNo,OctetCount,Contents_ru,Note_ru,noteIDs,codeTable,flagTable,Status,translated_by
+ID,Title_ru,OctetNo,OctetCount,Contents_ru,Note_ru,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/5/200/12,Образец представления данных 5.200 — данные в узлах сетки — последовательная,12,,Количество битов, использованных для каждого упакованного значения при последова- тельной упаковке значений по уровням наблюдений,,,,,Original
 grib2/5/200/13-14,Образец представления данных 5.200 — данные в узлах сетки — последовательная,13–14,,MV — максимальное значение в уровнях, использованных в упаковке,,,,,Original
 grib2/5/200/15-16,Образец представления данных 5.200 — данные в узлах сетки — последовательная,15–16,,MVL — максимальное значение уровня (заданное заранее),,,,,operational,Original

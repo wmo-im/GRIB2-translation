@@ -1,18 +1,18 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
-grib2/4/224/0,Categorical outlook,,0,,No risk area,,,,Operational,Original
-grib2/4/224/1,Categorical outlook,,1,,Reserved,,,,Operational,Original
-grib2/4/224/2,Categorical outlook,,2,,General thunderstorm risk area,,,,Operational,Original
-grib2/4/224/3,Categorical outlook,,3,,Reserved,,,,Operational,Original
-grib2/4/224/4,Categorical outlook,,4,,Slight risk area,,,,Operational,Original
-grib2/4/224/5,Categorical outlook,,5,,Reserved,,,,Operational,Original
-grib2/4/224/6,Categorical outlook,,6,,Moderate risk area,,,,Operational,Original
-grib2/4/224/7,Categorical outlook,,7,,Reserved,,,,Operational,Original
-grib2/4/224/8,Categorical outlook,,8,,High risk area,,,,Operational,Original
-grib2/4/224/9-10,Categorical outlook,,9-10,,Reserved,,,,Operational,Original
-grib2/4/224/11,Categorical outlook,,11,,Dry thunderstorm (dry lightning) risk area,,,,Operational,Original
-grib2/4/224/12-13,Categorical outlook,,12-13,,Reserved,,,,Operational,Original
-grib2/4/224/14,Categorical outlook,,14,,Critical risk area,,,,Operational,Original
-grib2/4/224/15-17,Categorical outlook,,15-17,,Reserved,,,,Operational,Original
-grib2/4/224/18,Categorical outlook,,18,,Extremely critical risk area,,,,Operational,Original
-grib2/4/224/19-254,Categorical outlook,,19-254,,Reserved,,,,Operational,Original
-grib2/4/224/255,Categorical outlook,,255,,Missing,,,,Operational,Original
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
+grib2/4/224/0,Categorical outlook,,0,,No risk area,,,,Operational,na
+grib2/4/224/1,Categorical outlook,,1,,Reserved,,,,Operational,na
+grib2/4/224/2,Categorical outlook,,2,,General thunderstorm risk area,,,,Operational,na
+grib2/4/224/3,Categorical outlook,,3,,Reserved,,,,Operational,na
+grib2/4/224/4,Categorical outlook,,4,,Slight risk area,,,,Operational,na
+grib2/4/224/5,Categorical outlook,,5,,Reserved,,,,Operational,na
+grib2/4/224/6,Categorical outlook,,6,,Moderate risk area,,,,Operational,na
+grib2/4/224/7,Categorical outlook,,7,,Reserved,,,,Operational,na
+grib2/4/224/8,Categorical outlook,,8,,High risk area,,,,Operational,na
+grib2/4/224/9-10,Categorical outlook,,9-10,,Reserved,,,,Operational,na
+grib2/4/224/11,Categorical outlook,,11,,Dry thunderstorm (dry lightning) risk area,,,,Operational,na
+grib2/4/224/12-13,Categorical outlook,,12-13,,Reserved,,,,Operational,na
+grib2/4/224/14,Categorical outlook,,14,,Critical risk area,,,,Operational,na
+grib2/4/224/15-17,Categorical outlook,,15-17,,Reserved,,,,Operational,na
+grib2/4/224/18,Categorical outlook,,18,,Extremely critical risk area,,,,Operational,na
+grib2/4/224/19-254,Categorical outlook,,19-254,,Reserved,,,,Operational,na
+grib2/4/224/255,Categorical outlook,,255,,Missing,,,,Operational,na

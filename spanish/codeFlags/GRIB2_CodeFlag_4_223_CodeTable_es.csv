@@ -1,5 +1,5 @@
-ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translated_by
-grib2/4/223/0,Tabla de cifrado 4.223 – Indicador de detección de incendios,,0,,No se ha detectado ningún incendio,,,,Operational,Original
-grib2/4/223/1,Tabla de cifrado 4.223 – Indicador de detección de incendios,,1,,Se ha detectado un posible incendio,,,,Operational,Original
-grib2/4/223/2,Tabla de cifrado 4.223 – Indicador de detección de incendios,,2,,Se ha detectado un probable incendio,,,,Operational,Original
-grib2/4/223/3,Tabla de cifrado 4.223 – Indicador de detección de incendios,,3,,Valor faltante,,,,Operational,Original
+ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
+grib2/4/223/0,Tabla de cifrado 4.223 – Indicador de detección de incendios,,0,,No se ha detectado ningún incendio,,,,Operational,PDF
+grib2/4/223/1,Tabla de cifrado 4.223 – Indicador de detección de incendios,,1,,Se ha detectado un posible incendio,,,,Operational,PDF
+grib2/4/223/2,Tabla de cifrado 4.223 – Indicador de detección de incendios,,2,,Se ha detectado un probable incendio,,,,Operational,PDF
+grib2/4/223/3,Tabla de cifrado 4.223 – Indicador de detección de incendios,,3,,Valor faltante,,,,Operational,PDF

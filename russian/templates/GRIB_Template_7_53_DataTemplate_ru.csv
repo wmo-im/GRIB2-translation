@@ -1,4 +1,4 @@
-ID,Title_ru,OctetNo,OctetCount,Contents_ru,Note_ru,noteIDs,codeTable,flagTable,Status,translated_by
+ID,Title_ru,OctetNo,OctetCount,Contents_ru,Note_ru,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/7/53/0,Образец данных 7.53 — спектральные данные для моделей ограниченной территории —,0,,Метеорологическая продукция,,,,,operational,Original
 grib2/7/53/1,Образец данных 7.53 — спектральные данные для моделей ограниченной территории —,1,,Гидрологическая продукция,,,,,operational,Original
 grib2/7/53/2,Образец данных 7.53 — спектральные данные для моделей ограниченной территории —,2,,Продукция, связанная с поверхностью суши,,,,,Original

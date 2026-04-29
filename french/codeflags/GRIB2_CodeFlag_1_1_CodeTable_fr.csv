@@ -1,4 +1,4 @@
-ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
-grib2/1/1/0,Table de code 1.1 – Numéro de version des tables locales du code GRIB,,0,,Aucune table locale utilisée. Seules les données des tables et des modèles de la présente table principale sont valables,,,,Operational,Original
-grib2/1/1/1-254,Table de code 1.1 – Numéro de version des tables locales du code GRIB,,1-254,,Numéro de version des tables locales utilisées,,,,Operational,Original
-grib2/1/1/255,Table de code 1.1 – Numéro de version des tables locales du code GRIB,,255,,Valeur manquante,,,,Operational,Original
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
+grib2/1/1/0,Table de code 1.1 – Numéro de version des tables locales du code GRIB,,0,,Aucune table locale utilisée. Seules les données des tables et des modèles de la présente table principale sont valables,,,,Operational,PDF
+grib2/1/1/1-254,Table de code 1.1 – Numéro de version des tables locales du code GRIB,,1-254,,Numéro de version des tables locales utilisées,,,,Operational,PDF
+grib2/1/1/255,Table de code 1.1 – Numéro de version des tables locales du code GRIB,,255,,Valeur manquante,,,,Operational,PDF

@@ -1,8 +1,8 @@
-ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
-grib2/4/217/0,Table de code 4.217 – Type de masque de nuages,,0,,Ciel clair au-dessus de l'eau,,,,Operational,Original
-grib2/4/217/1,Table de code 4.217 – Type de masque de nuages,,1,,Ciel clair au-dessus des terres,,,,Operational,Original
-grib2/4/217/2,Table de code 4.217 – Type de masque de nuages,,2,,Nuages,,,,Operational,Original
-grib2/4/217/3,Table de code 4.217 – Type de masque de nuages,,3,,Aucune donnée,,,,Operational,Original
-grib2/4/217/4-191,Table de code 4.217 – Type de masque de nuages,,4-191,,En réserve,,,,Operational,Original
-grib2/4/217/192-254,Table de code 4.217 – Type de masque de nuages,,192-254,,En réserve pour un usage local,,,,Operational,Original
-grib2/4/217/255,Table de code 4.217 – Type de masque de nuages,,255,,Valeur manquante,,,,Operational,Original
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
+grib2/4/217/0,Table de code 4.217 – Type de masque de nuages,,0,,Ciel clair au-dessus de l'eau,,,,Operational,PDF
+grib2/4/217/1,Table de code 4.217 – Type de masque de nuages,,1,,Ciel clair au-dessus des terres,,,,Operational,PDF
+grib2/4/217/2,Table de code 4.217 – Type de masque de nuages,,2,,Nuages,,,,Operational,PDF
+grib2/4/217/3,Table de code 4.217 – Type de masque de nuages,,3,,Aucune donnée,,,,Operational,PDF
+grib2/4/217/4-191,Table de code 4.217 – Type de masque de nuages,,4-191,,En réserve,,,,Operational,PDF
+grib2/4/217/192-254,Table de code 4.217 – Type de masque de nuages,,192-254,,En réserve pour un usage local,,,,Operational,PDF
+grib2/4/217/255,Table de code 4.217 – Type de masque de nuages,,255,,Valeur manquante,,,,Operational,PDF

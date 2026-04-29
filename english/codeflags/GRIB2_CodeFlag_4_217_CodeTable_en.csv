@@ -1,8 +1,8 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
-grib2/4/217/0,Cloud mask type,,0,,Clear over water,,,,Operational,Original
-grib2/4/217/1,Cloud mask type,,1,,Clear over land,,,,Operational,Original
-grib2/4/217/2,Cloud mask type,,2,,Cloud,,,,Operational,Original
-grib2/4/217/3,Cloud mask type,,3,,No data,,,,Operational,Original
-grib2/4/217/4-191,Cloud mask type,,4-191,,Reserved,,,,Operational,Original
-grib2/4/217/192-254,Cloud mask type,,192-254,,Reserved for local use,,,,Operational,Original
-grib2/4/217/255,Cloud mask type,,255,,Missing,,,,Operational,Original
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
+grib2/4/217/0,Cloud mask type,,0,,Clear over water,,,,Operational,na
+grib2/4/217/1,Cloud mask type,,1,,Clear over land,,,,Operational,na
+grib2/4/217/2,Cloud mask type,,2,,Cloud,,,,Operational,na
+grib2/4/217/3,Cloud mask type,,3,,No data,,,,Operational,na
+grib2/4/217/4-191,Cloud mask type,,4-191,,Reserved,,,,Operational,na
+grib2/4/217/192-254,Cloud mask type,,192-254,,Reserved for local use,,,,Operational,na
+grib2/4/217/255,Cloud mask type,,255,,Missing,,,,Operational,na

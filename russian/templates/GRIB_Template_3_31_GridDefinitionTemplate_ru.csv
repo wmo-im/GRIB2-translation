@@ -1,4 +1,4 @@
-ID,Title_ru,OctetNo,OctetCount,Contents_ru,Note_ru,noteIDs,codeTable,flagTable,Status,translated_by
+ID,Title_ru,OctetNo,OctetCount,Contents_ru,Note_ru,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/3/31/15,Образец определения сетки 3.31 — равновеликая проекция Альберса,15,,Форма Земли,см. кодовую таблицу 3.2,,3.2,,operational,Original
 grib2/3/31/16,Образец определения сетки 3.31 — равновеликая проекция Альберса,16,,Масштабный коэффициент радиуса сферической Земли,,,,,operational,Original
 grib2/3/31/17-20,Образец определения сетки 3.31 — равновеликая проекция Альберса,17–20,,Масштабированная величина радиуса сферической Земли,,,,,operational,Original

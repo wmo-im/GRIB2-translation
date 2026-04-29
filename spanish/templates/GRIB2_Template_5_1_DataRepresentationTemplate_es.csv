@@ -1,14 +1,14 @@
-﻿ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translated_by
-grib2/5/1/12-21,"Matrices en los puntos de la retícula, empaquetado simple",12-21,10,Idéntico al Modelo de representación de los datos 5.0,,,,,Experimental,Original
-grib2/5/1/22,"Matrices en los puntos de la retícula, empaquetado simple",22,1,0 - ausencia de mapas de bits matriciales; 1 – presencia de mapas de bits matriciales,,,,,Experimental,Original
-grib2/5/1/23-26,"Matrices en los puntos de la retícula, empaquetado simple",23-26,4,Número de valores de los datos cifrados en la Sección 7,,,,,Experimental,Original
-grib2/5/1/27-28,"Matrices en los puntos de la retícula, empaquetado simple",27-28,2,NR - primera dimensión (líneas) de cada matriz,,,,,Experimental,Original
-grib2/5/1/29-30,"Matrices en los puntos de la retícula, empaquetado simple",29-30,2,NC - segunda dimensión (columnas) de cada matriz,,,,,Experimental,Original
-grib2/5/1/31,"Matrices en los puntos de la retícula, empaquetado simple",31,1,Definición del valor de la coordenada de primera dimensión,(véase la Tabla de cifrado 5.2),,5.2,,Experimental,Original
-grib2/5/1/32,"Matrices en los puntos de la retícula, empaquetado simple",32,1,NC1 - número de coeficientes o de valores utilizados para precisar la función correspondiente a la coordenada de primera dimensión,,,,,Experimental,Original
-grib2/5/1/33,"Matrices en los puntos de la retícula, empaquetado simple",33,1,Definición del valor de la coordenada de segunda dimensión,(véase la Tabla de cifrado 5.2),,5.2,,Experimental,Original
-grib2/5/1/34,"Matrices en los puntos de la retícula, empaquetado simple",34,1,NC2 - número de coeficientes o de valores utilizados para precisar la función correspondiente a la coordenada de segunda dimensión,,,,,Experimental,Original
-grib2/5/1/35,"Matrices en los puntos de la retícula, empaquetado simple",35,1,Significación física de primera dimensión,(véase la Tabla de cifrado 5.3),,5.3,,Experimental,Original
-grib2/5/1/36,"Matrices en los puntos de la retícula, empaquetado simple",36,1,Significación física de segunda dimensión,(véase la Tabla de cifrado 5.3),,5.3,,Experimental,Original
-grib2/5/1/37-(36+NC1x4),"Matrices en los puntos de la retícula, empaquetado simple",37-(36+NC1x4),,"Coeficientes que definen en forma de funciones los valores de las coordenadas de primera dimensión, o valores explícitos de las coordenadas (valor de coma flotante IEEE de 32 bits)",,,,,Experimental,Original
-grib2/5/1/(37+NC1x4)-(36+4(NC1+NC2)),"Matrices en los puntos de la retícula, empaquetado simple",(37+NC1x4)-(36+4(NC1+NC2)),,"Coeficientes que definen en forma de funciones los valores de las coordenadas de segunda dimensión, o valores explícitos de las coordenadas (valor de coma flotante IEEE de 32 bits)",,,,,Experimental,Original
+﻿ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translation_source
+grib2/5/1/12-21,"Matrices en los puntos de la retícula, empaquetado simple",12-21,10,Idéntico al Modelo de representación de los datos 5.0,,,,,Experimental,PDF
+grib2/5/1/22,"Matrices en los puntos de la retícula, empaquetado simple",22,1,0 - ausencia de mapas de bits matriciales; 1 – presencia de mapas de bits matriciales,,,,,Experimental,PDF
+grib2/5/1/23-26,"Matrices en los puntos de la retícula, empaquetado simple",23-26,4,Número de valores de los datos cifrados en la Sección 7,,,,,Experimental,PDF
+grib2/5/1/27-28,"Matrices en los puntos de la retícula, empaquetado simple",27-28,2,NR - primera dimensión (líneas) de cada matriz,,,,,Experimental,PDF
+grib2/5/1/29-30,"Matrices en los puntos de la retícula, empaquetado simple",29-30,2,NC - segunda dimensión (columnas) de cada matriz,,,,,Experimental,PDF
+grib2/5/1/31,"Matrices en los puntos de la retícula, empaquetado simple",31,1,Definición del valor de la coordenada de primera dimensión,(véase la Tabla de cifrado 5.2),,5.2,,Experimental,PDF
+grib2/5/1/32,"Matrices en los puntos de la retícula, empaquetado simple",32,1,NC1 - número de coeficientes o de valores utilizados para precisar la función correspondiente a la coordenada de primera dimensión,,,,,Experimental,PDF
+grib2/5/1/33,"Matrices en los puntos de la retícula, empaquetado simple",33,1,Definición del valor de la coordenada de segunda dimensión,(véase la Tabla de cifrado 5.2),,5.2,,Experimental,PDF
+grib2/5/1/34,"Matrices en los puntos de la retícula, empaquetado simple",34,1,NC2 - número de coeficientes o de valores utilizados para precisar la función correspondiente a la coordenada de segunda dimensión,,,,,Experimental,PDF
+grib2/5/1/35,"Matrices en los puntos de la retícula, empaquetado simple",35,1,Significación física de primera dimensión,(véase la Tabla de cifrado 5.3),,5.3,,Experimental,PDF
+grib2/5/1/36,"Matrices en los puntos de la retícula, empaquetado simple",36,1,Significación física de segunda dimensión,(véase la Tabla de cifrado 5.3),,5.3,,Experimental,PDF
+grib2/5/1/37-(36+NC1x4),"Matrices en los puntos de la retícula, empaquetado simple",37-(36+NC1x4),,"Coeficientes que definen en forma de funciones los valores de las coordenadas de primera dimensión, o valores explícitos de las coordenadas (valor de coma flotante IEEE de 32 bits)",,,,,Experimental,PDF
+grib2/5/1/(37+NC1x4)-(36+4(NC1+NC2)),"Matrices en los puntos de la retícula, empaquetado simple",(37+NC1x4)-(36+4(NC1+NC2)),,"Coeficientes que definen en forma de funciones los valores de las coordenadas de segunda dimensión, o valores explícitos de las coordenadas (valor de coma flotante IEEE de 32 bits)",,,,,Experimental,PDF

@@ -1,6 +1,6 @@
-ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translated_by
-grib2/4/222/0,Tabla de cifrado 4.222 – Resultado categórico,,0,,No,,,,Operational,Original
-grib2/4/222/1,Tabla de cifrado 4.222 – Resultado categórico,,1,,Sí,,,,Operational,Original
-grib2/4/222/2-191,Tabla de cifrado 4.222 – Resultado categórico,,2-191,,Reservadas,,,,Operational,Original
-grib2/4/222/192-254,Tabla de cifrado 4.222 – Resultado categórico,,192-254,,Reservadas para uso local,,,,Operational,Original
-grib2/4/222/255,Tabla de cifrado 4.222 – Resultado categórico,,255,,Valor faltante,,,,Operational,Original
+ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
+grib2/4/222/0,Tabla de cifrado 4.222 – Resultado categórico,,0,,No,,,,Operational,PDF
+grib2/4/222/1,Tabla de cifrado 4.222 – Resultado categórico,,1,,Sí,,,,Operational,PDF
+grib2/4/222/2-191,Tabla de cifrado 4.222 – Resultado categórico,,2-191,,Reservadas,,,,Operational,PDF
+grib2/4/222/192-254,Tabla de cifrado 4.222 – Resultado categórico,,192-254,,Reservadas para uso local,,,,Operational,PDF
+grib2/4/222/255,Tabla de cifrado 4.222 – Resultado categórico,,255,,Valor faltante,,,,Operational,PDF

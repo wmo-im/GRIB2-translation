@@ -1,9 +1,9 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
-grib2/4/209/0,Planetary boundary-layer regime,,0,,Reserved,,,,Operational,Original
-grib2/4/209/1,Planetary boundary-layer regime,,1,,Stable,,,,Operational,Original
-grib2/4/209/2,Planetary boundary-layer regime,,2,,Mechanically driven turbulence,,,,Operational,Original
-grib2/4/209/3,Planetary boundary-layer regime,,3,,Forced convection,,,,Operational,Original
-grib2/4/209/4,Planetary boundary-layer regime,,4,,Free convection,,,,Operational,Original
-grib2/4/209/5-191,Planetary boundary-layer regime,,5-191,,Reserved,,,,Operational,Original
-grib2/4/209/192-254,Planetary boundary-layer regime,,192-254,,Reserved for local use,,,,Operational,Original
-grib2/4/209/255,Planetary boundary-layer regime,,255,,Missing,,,,Operational,Original
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
+grib2/4/209/0,Planetary boundary-layer regime,,0,,Reserved,,,,Operational,na
+grib2/4/209/1,Planetary boundary-layer regime,,1,,Stable,,,,Operational,na
+grib2/4/209/2,Planetary boundary-layer regime,,2,,Mechanically driven turbulence,,,,Operational,na
+grib2/4/209/3,Planetary boundary-layer regime,,3,,Forced convection,,,,Operational,na
+grib2/4/209/4,Planetary boundary-layer regime,,4,,Free convection,,,,Operational,na
+grib2/4/209/5-191,Planetary boundary-layer regime,,5-191,,Reserved,,,,Operational,na
+grib2/4/209/192-254,Planetary boundary-layer regime,,192-254,,Reserved for local use,,,,Operational,na
+grib2/4/209/255,Planetary boundary-layer regime,,255,,Missing,,,,Operational,na

@@ -1,6 +1,6 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
-grib2/4/210/0,Contrail intensity,,0,,Contrail not present,,,,Operational,Original
-grib2/4/210/1,Contrail intensity,,1,,Contrail present,,,,Operational,Original
-grib2/4/210/2-191,Contrail intensity,,2-191,,Reserved,,,,Operational,Original
-grib2/4/210/192-254,Contrail intensity,,192-254,,Reserved for local use,,,,Operational,Original
-grib2/4/210/255,Contrail intensity,,255,,Missing,,,,Operational,Original
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
+grib2/4/210/0,Contrail intensity,,0,,Contrail not present,,,,Operational,na
+grib2/4/210/1,Contrail intensity,,1,,Contrail present,,,,Operational,na
+grib2/4/210/2-191,Contrail intensity,,2-191,,Reserved,,,,Operational,na
+grib2/4/210/192-254,Contrail intensity,,192-254,,Reserved for local use,,,,Operational,na
+grib2/4/210/255,Contrail intensity,,255,,Missing,,,,Operational,na

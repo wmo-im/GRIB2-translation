@@ -1,17 +1,17 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
-grib2/4/239/0,Wetland Type,,0,,Reserved,,,,Operational,Original
-grib2/4/239/1,Wetland Type,,1,,Bog,,,,Operational,Original
-grib2/4/239/2,Wetland Type,,2,,Drained,,,,Operational,Original
-grib2/4/239/3,Wetland Type,,3,,Fen,,,,Operational,Original
-grib2/4/239/4,Wetland Type,,4,,Floodplain,,,,Operational,Original
-grib2/4/239/5,Wetland Type,,5,,Mangrove,,,,Operational,Original
-grib2/4/239/6,Wetland Type,,6,,Marsh,,,,Operational,Original
-grib2/4/239/7,Wetland Type,,7,,Rice,,,,Operational,Original
-grib2/4/239/8,Wetland Type,,8,,Riverine,,,,Operational,Original
-grib2/4/239/9,Wetland Type,,9,,Salt marsh,,,,Operational,Original
-grib2/4/239/10,Wetland Type,,10,,Swamp,,,,Operational,Original
-grib2/4/239/11,Wetland Type,,11,,Upland,,,,Operational,Original
-grib2/4/239/12,Wetland Type,,12,,Wet tundra,,,,Operational,Original
-grib2/4/239/13-191,Wetland Type,,13-191,,Reserved,,,,Operational,Original
-grib2/4/239/192-254,Wetland Type,,192-254,,Reserved for local use,,,,Operational,Original
-grib2/4/239/255,Wetland Type,,255,,Missing,,,,Operational,Original
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
+grib2/4/239/0,Wetland Type,,0,,Reserved,,,,Operational,na
+grib2/4/239/1,Wetland Type,,1,,Bog,,,,Operational,na
+grib2/4/239/2,Wetland Type,,2,,Drained,,,,Operational,na
+grib2/4/239/3,Wetland Type,,3,,Fen,,,,Operational,na
+grib2/4/239/4,Wetland Type,,4,,Floodplain,,,,Operational,na
+grib2/4/239/5,Wetland Type,,5,,Mangrove,,,,Operational,na
+grib2/4/239/6,Wetland Type,,6,,Marsh,,,,Operational,na
+grib2/4/239/7,Wetland Type,,7,,Rice,,,,Operational,na
+grib2/4/239/8,Wetland Type,,8,,Riverine,,,,Operational,na
+grib2/4/239/9,Wetland Type,,9,,Salt marsh,,,,Operational,na
+grib2/4/239/10,Wetland Type,,10,,Swamp,,,,Operational,na
+grib2/4/239/11,Wetland Type,,11,,Upland,,,,Operational,na
+grib2/4/239/12,Wetland Type,,12,,Wet tundra,,,,Operational,na
+grib2/4/239/13-191,Wetland Type,,13-191,,Reserved,,,,Operational,na
+grib2/4/239/192-254,Wetland Type,,192-254,,Reserved for local use,,,,Operational,na
+grib2/4/239/255,Wetland Type,,255,,Missing,,,,Operational,na

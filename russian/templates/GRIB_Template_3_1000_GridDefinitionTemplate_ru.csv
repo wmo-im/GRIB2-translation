@@ -1,4 +1,4 @@
-ID,Title_ru,OctetNo,OctetCount,Contents_ru,Note_ru,noteIDs,codeTable,flagTable,Status,translated_by
+ID,Title_ru,OctetNo,OctetCount,Contents_ru,Note_ru,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/3/1000//1,Образец определения сетки 3.1000 — с етка для представления разрезов с узлами,,15,,Форма Земли,см. кодовую таблицу 3.2,,3.2,,Original
 grib2/3/1000//2,Образец определения сетки 3.1000 — с етка для представления разрезов с узлами,,16,,Масштабный коэффициент радиуса сферической Земли,,,,,Original
 grib2/3/1000//3,Образец определения сетки 3.1000 — с етка для представления разрезов с узлами,,17–20,,Масштабированная величина радиуса сферической Земли,,,,,Original

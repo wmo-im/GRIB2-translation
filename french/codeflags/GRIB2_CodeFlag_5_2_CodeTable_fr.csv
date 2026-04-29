@@ -1,8 +1,8 @@
-ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
-grib2/5/2/0,Table de code 5.2 – Définition de la fonction des coordonnées matricielles,,0,,Jeu de coordonnées explicites,,,,Operational,Original
-grib2/5/2/1,Table de code 5.2 – Définition de la fonction des coordonnées matricielles,,1,,Coordonnées linéaires f(1) = C1 f(n) = f (n-1) + C2,,,,Operational,Original
-grib2/5/2/2-10,Table de code 5.2 – Définition de la fonction des coordonnées matricielles,,2-10,,En réserve,,,,Operational,Original
-grib2/5/2/11,Table de code 5.2 – Définition de la fonction des coordonnées matricielles,,11,,Coordonnées géométriques f(1) = C1 f(n) = C2 x f(n-1),,,,Operational,Original
-grib2/5/2/12-191,Table de code 5.2 – Définition de la fonction des coordonnées matricielles,,12-191,,En réserve,,,,Operational,Original
-grib2/5/2/192-254,Table de code 5.2 – Définition de la fonction des coordonnées matricielles,,192-254,,En réserve pour un usage local,,,,Operational,Original
-grib2/5/2/255,Table de code 5.2 – Définition de la fonction des coordonnées matricielles,,255,,Valeur manquante,,,,Operational,Original
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
+grib2/5/2/0,Table de code 5.2 – Définition de la fonction des coordonnées matricielles,,0,,Jeu de coordonnées explicites,,,,Operational,PDF
+grib2/5/2/1,Table de code 5.2 – Définition de la fonction des coordonnées matricielles,,1,,Coordonnées linéaires f(1) = C1 f(n) = f (n-1) + C2,,,,Operational,PDF
+grib2/5/2/2-10,Table de code 5.2 – Définition de la fonction des coordonnées matricielles,,2-10,,En réserve,,,,Operational,PDF
+grib2/5/2/11,Table de code 5.2 – Définition de la fonction des coordonnées matricielles,,11,,Coordonnées géométriques f(1) = C1 f(n) = C2 x f(n-1),,,,Operational,PDF
+grib2/5/2/12-191,Table de code 5.2 – Définition de la fonction des coordonnées matricielles,,12-191,,En réserve,,,,Operational,PDF
+grib2/5/2/192-254,Table de code 5.2 – Définition de la fonction des coordonnées matricielles,,192-254,,En réserve pour un usage local,,,,Operational,PDF
+grib2/5/2/255,Table de code 5.2 – Définition de la fonction des coordonnées matricielles,,255,,Valeur manquante,,,,Operational,PDF

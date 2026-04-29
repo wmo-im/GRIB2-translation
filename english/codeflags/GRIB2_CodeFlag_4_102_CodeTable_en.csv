@@ -1,22 +1,22 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
-grib2/4/102/0,Statistical processing of reference period,,0,,Average,,,,Operational,Original
-grib2/4/102/1,Statistical processing of reference period,,1,,Accumulation,,,,Operational,Original
-grib2/4/102/2,Statistical processing of reference period,,2,,Maximum,,,,Operational,Original
-grib2/4/102/3,Statistical processing of reference period,,3,,Minimum,,,,Operational,Original
-grib2/4/102/4,Statistical processing of reference period,,4,,Median,,,,Operational,Original
-grib2/4/102/5-19,Statistical processing of reference period,,5-19,,Reserved,,,,Operational,Original
-grib2/4/102/20,Statistical processing of reference period,,20,,Model Climate,,,,Operational,Original
-grib2/4/102/21,Statistical processing of reference period,,21,,Index based on normal distribution,,,,Operational,Original
-grib2/4/102/22,Statistical processing of reference period,,22,,Index based on log-normal distribution,,,,Operational,Original
-grib2/4/102/23,Statistical processing of reference period,,23,,Index based on generalized log-normal distribution,,,,Operational,Original
-grib2/4/102/24,Statistical processing of reference period,,24,,Index based on gamma distribution,,,,Operational,Original
-grib2/4/102/25,Statistical processing of reference period,,25,,Index based on logistic distribution,,,,Operational,Original
-grib2/4/102/26,Statistical processing of reference period,,26,,Index based on log-logistic distribution,,,,Operational,Original
-grib2/4/102/27,Statistical processing of reference period,,27,,Index based on generalized logistic distribution,,,,Operational,Original
-grib2/4/102/28,Statistical processing of reference period,,28,,Index based on Weibull distribution,,,,Operational,Original
-grib2/4/102/29,Statistical processing of reference period,,29,,Index based on generalized extreme value distribution,,,,Operational,Original
-grib2/4/102/30,Statistical processing of reference period,,30,,Index based on Pearson III distribution,,,,Operational,Original
-grib2/4/102/31,Statistical processing of reference period,,31,,Index based on empirical distribution,,,,Operational,Original
-grib2/4/102/32-191,Statistical processing of reference period,,32-191,,Reserved,,,,Operational,Original
-grib2/4/102/192-254,Statistical processing of reference period,,192-254,,Reserved for local use,,,,Operational,Original
-grib2/4/102/255,Statistical processing of reference period,,255,,Missing,,,,Operational,Original
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
+grib2/4/102/0,Statistical processing of reference period,,0,,Average,,,,Operational,na
+grib2/4/102/1,Statistical processing of reference period,,1,,Accumulation,,,,Operational,na
+grib2/4/102/2,Statistical processing of reference period,,2,,Maximum,,,,Operational,na
+grib2/4/102/3,Statistical processing of reference period,,3,,Minimum,,,,Operational,na
+grib2/4/102/4,Statistical processing of reference period,,4,,Median,,,,Operational,na
+grib2/4/102/5-19,Statistical processing of reference period,,5-19,,Reserved,,,,Operational,na
+grib2/4/102/20,Statistical processing of reference period,,20,,Model Climate,,,,Operational,na
+grib2/4/102/21,Statistical processing of reference period,,21,,Index based on normal distribution,,,,Operational,na
+grib2/4/102/22,Statistical processing of reference period,,22,,Index based on log-normal distribution,,,,Operational,na
+grib2/4/102/23,Statistical processing of reference period,,23,,Index based on generalized log-normal distribution,,,,Operational,na
+grib2/4/102/24,Statistical processing of reference period,,24,,Index based on gamma distribution,,,,Operational,na
+grib2/4/102/25,Statistical processing of reference period,,25,,Index based on logistic distribution,,,,Operational,na
+grib2/4/102/26,Statistical processing of reference period,,26,,Index based on log-logistic distribution,,,,Operational,na
+grib2/4/102/27,Statistical processing of reference period,,27,,Index based on generalized logistic distribution,,,,Operational,na
+grib2/4/102/28,Statistical processing of reference period,,28,,Index based on Weibull distribution,,,,Operational,na
+grib2/4/102/29,Statistical processing of reference period,,29,,Index based on generalized extreme value distribution,,,,Operational,na
+grib2/4/102/30,Statistical processing of reference period,,30,,Index based on Pearson III distribution,,,,Operational,na
+grib2/4/102/31,Statistical processing of reference period,,31,,Index based on empirical distribution,,,,Operational,na
+grib2/4/102/32-191,Statistical processing of reference period,,32-191,,Reserved,,,,Operational,na
+grib2/4/102/192-254,Statistical processing of reference period,,192-254,,Reserved for local use,,,,Operational,na
+grib2/4/102/255,Statistical processing of reference period,,255,,Missing,,,,Operational,na

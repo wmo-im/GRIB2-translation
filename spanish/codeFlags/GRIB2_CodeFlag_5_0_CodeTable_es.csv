@@ -1,20 +1,20 @@
-﻿ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translated_by
-grib2/5/0/0,Tabla de cifrado 5.0 - Número del modelo de representación de los datos,,0,,"Datos en los puntos de la retícula, empaquetado simple",,,,Operational,Original
-grib2/5/0/1,Tabla de cifrado 5.0 - Número del modelo de representación de los datos,,1,,"Valor de las matrices en los puntos de la retícula, empaquetado simple",,,,Experimental,Original
-grib2/5/0/2,Tabla de cifrado 5.0 - Número del modelo de representación de los datos,,2,,"Datos en los puntos de la retícula, empaquetado complejo",,,,Operational,Original
-grib2/5/0/3,Tabla de cifrado 5.0 - Número del modelo de representación de los datos,,3,,"Datos en los puntos de la retícula, empaquetado complejo y diferenciación espacial",,,,Operational,Original
-grib2/5/0/4,Tabla de cifrado 5.0 - Número del modelo de representación de los datos,,4,,"Datos en los puntos de la retícula, datos de coma flotante IEEE",,,,Operational,Original
-grib2/5/0/5-39,Tabla de cifrado 5.0 - Número del modelo de representación de los datos,,5-39,,Reservadas,,,,Operational,Original
-grib2/5/0/40,Tabla de cifrado 5.0 - Número del modelo de representación de los datos,,40,,Datos en los puntos de la retícula – Formato de tren de datos codificados JPEG 2000,,,,Operational,Original
-grib2/5/0/41,Tabla de cifrado 5.0 - Número del modelo de representación de los datos,,41,,Datos en los puntos de la retícula - Formato PNG (Portable Network Graphics),,,,Operational,Original
-grib2/5/0/42,Tabla de cifrado 5.0 - Número del modelo de representación de los datos,,42,,Datos reticulares - Compresión sin pérdidas recomendada por el CCSDS,,,,Operational,Original
-grib2/5/0/43-49,Tabla de cifrado 5.0 - Número del modelo de representación de los datos,,43-49,,Reservadas,,,,Operational,Original
-grib2/5/0/50,Tabla de cifrado 5.0 - Número del modelo de representación de los datos,,50,,"Datos espectrales, empaquetado simple",,,,Operational,Original
-grib2/5/0/51,Tabla de cifrado 5.0 - Número del modelo de representación de los datos,,51,,"Datos de armónicos esféricos, empaquetado complejo",,,,Operational,Original
-grib2/5/0/52,Tabla de cifrado 5.0 - Número del modelo de representación de los datos,,52,,Reservada,,,,Operational,Original
-grib2/5/0/53,Tabla de cifrado 5.0 - Número del modelo de representación de los datos,,53,,"Datos espectrales para modelos de área limitada, empaquetado complejo",,,,Operational,Original
-grib2/5/0/54-60,Tabla de cifrado 5.0 - Número del modelo de representación de los datos,,54-60,,Reservadas,,,,Operational,Original
-grib2/5/0/61,Tabla de cifrado 5.0 - Número del modelo de representación de los datos,,61,,"Datos en los puntos de la retícula, empaquetado simple con precálculo logarítmico",,,,Experimental,Original
-grib2/5/0/62-49151,Tabla de cifrado 5.0 - Número del modelo de representación de los datos,,62-49151,,Reservadas,,,,Operational,Original
-grib2/5/0/49152-65534,Tabla de cifrado 5.0 - Número del modelo de representación de los datos,,49152-65534,,Reservadas para uso local,,,,Operational,Original
-grib2/5/0/65535,Tabla de cifrado 5.0 - Número del modelo de representación de los datos,,65535,,Valor faltante,,,,Operational,Original
+﻿ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
+grib2/5/0/0,Tabla de cifrado 5.0 - Número del modelo de representación de los datos,,0,,"Datos en los puntos de la retícula, empaquetado simple",,,,Operational,PDF
+grib2/5/0/1,Tabla de cifrado 5.0 - Número del modelo de representación de los datos,,1,,"Valor de las matrices en los puntos de la retícula, empaquetado simple",,,,Experimental,PDF
+grib2/5/0/2,Tabla de cifrado 5.0 - Número del modelo de representación de los datos,,2,,"Datos en los puntos de la retícula, empaquetado complejo",,,,Operational,PDF
+grib2/5/0/3,Tabla de cifrado 5.0 - Número del modelo de representación de los datos,,3,,"Datos en los puntos de la retícula, empaquetado complejo y diferenciación espacial",,,,Operational,PDF
+grib2/5/0/4,Tabla de cifrado 5.0 - Número del modelo de representación de los datos,,4,,"Datos en los puntos de la retícula, datos de coma flotante IEEE",,,,Operational,PDF
+grib2/5/0/5-39,Tabla de cifrado 5.0 - Número del modelo de representación de los datos,,5-39,,Reservadas,,,,Operational,PDF
+grib2/5/0/40,Tabla de cifrado 5.0 - Número del modelo de representación de los datos,,40,,Datos en los puntos de la retícula – Formato de tren de datos codificados JPEG 2000,,,,Operational,PDF
+grib2/5/0/41,Tabla de cifrado 5.0 - Número del modelo de representación de los datos,,41,,Datos en los puntos de la retícula - Formato PNG (Portable Network Graphics),,,,Operational,PDF
+grib2/5/0/42,Tabla de cifrado 5.0 - Número del modelo de representación de los datos,,42,,Datos reticulares - Compresión sin pérdidas recomendada por el CCSDS,,,,Operational,PDF
+grib2/5/0/43-49,Tabla de cifrado 5.0 - Número del modelo de representación de los datos,,43-49,,Reservadas,,,,Operational,PDF
+grib2/5/0/50,Tabla de cifrado 5.0 - Número del modelo de representación de los datos,,50,,"Datos espectrales, empaquetado simple",,,,Operational,PDF
+grib2/5/0/51,Tabla de cifrado 5.0 - Número del modelo de representación de los datos,,51,,"Datos de armónicos esféricos, empaquetado complejo",,,,Operational,PDF
+grib2/5/0/52,Tabla de cifrado 5.0 - Número del modelo de representación de los datos,,52,,Reservada,,,,Operational,PDF
+grib2/5/0/53,Tabla de cifrado 5.0 - Número del modelo de representación de los datos,,53,,"Datos espectrales para modelos de área limitada, empaquetado complejo",,,,Operational,PDF
+grib2/5/0/54-60,Tabla de cifrado 5.0 - Número del modelo de representación de los datos,,54-60,,Reservadas,,,,Operational,PDF
+grib2/5/0/61,Tabla de cifrado 5.0 - Número del modelo de representación de los datos,,61,,"Datos en los puntos de la retícula, empaquetado simple con precálculo logarítmico",,,,Experimental,PDF
+grib2/5/0/62-49151,Tabla de cifrado 5.0 - Número del modelo de representación de los datos,,62-49151,,Reservadas,,,,Operational,PDF
+grib2/5/0/49152-65534,Tabla de cifrado 5.0 - Número del modelo de representación de los datos,,49152-65534,,Reservadas para uso local,,,,Operational,PDF
+grib2/5/0/65535,Tabla de cifrado 5.0 - Número del modelo de representación de los datos,,65535,,Valor faltante,,,,Operational,PDF

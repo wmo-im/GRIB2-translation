@@ -1,3 +1,3 @@
-ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translated_by
-grib2/7/53/6-(5+IxTS),Modèle des données 7.53 — Données spectrales pour les modèles à domaine limité – compression complexe,6-(5+IxTS),,Données tirées de la sous-série non compressée (valeurs en virgule flottante IEEE sur I octets),,,,,Operational,Original
-grib2/7/53/(6+IxTS)-nn,Modèle des données 7.53 — Données spectrales pour les modèles à domaine limité – compression complexe,(6+IxTS)-nn,,"Données binaires — chaîne binaire, pour chaque valeur (ajustée) en dehors de la sous-série non compressée",,,,,Operational,Original
+ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translation_source
+grib2/7/53/6-(5+IxTS),Modèle des données 7.53 — Données spectrales pour les modèles à domaine limité – compression complexe,6-(5+IxTS),,Données tirées de la sous-série non compressée (valeurs en virgule flottante IEEE sur I octets),,,,,Operational,PDF
+grib2/7/53/(6+IxTS)-nn,Modèle des données 7.53 — Données spectrales pour les modèles à domaine limité – compression complexe,(6+IxTS)-nn,,"Données binaires — chaîne binaire, pour chaque valeur (ajustée) en dehors de la sous-série non compressée",,,,,Operational,PDF

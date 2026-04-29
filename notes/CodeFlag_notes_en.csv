@@ -1,4 +1,4 @@
-noteID,note_en,translated_by
+noteID,note_en,translation_source
 1,Parameter deprecated. See Regulation 92.6.2 and use another parameter instead.,Original
 2,"Statistical process 1 (Accumulation) does not change units. It is recommended to use another parameter with ""rate"" in its name and accumulation in PDT.",Original
 3,"It is recommended not to use this parameter, but another one with a more descriptive unit.",Original

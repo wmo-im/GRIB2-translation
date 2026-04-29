@@ -1,7 +1,7 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
-grib2/4/12/0,Operating mode,,0,,Maintenance mode,,,,Operational,Original
-grib2/4/12/1,Operating mode,,1,,Clear air,,,,Operational,Original
-grib2/4/12/2,Operating mode,,2,,Precipitation,,,,Operational,Original
-grib2/4/12/3-191,Operating mode,,3-191,,Reserved,,,,Operational,Original
-grib2/4/12/192-254,Operating mode,,192-254,,Reserved for local use,,,,Operational,Original
-grib2/4/12/255,Operating mode,,255,,Missing,,,,Operational,Original
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
+grib2/4/12/0,Operating mode,,0,,Maintenance mode,,,,Operational,na
+grib2/4/12/1,Operating mode,,1,,Clear air,,,,Operational,na
+grib2/4/12/2,Operating mode,,2,,Precipitation,,,,Operational,na
+grib2/4/12/3-191,Operating mode,,3-191,,Reserved,,,,Operational,na
+grib2/4/12/192-254,Operating mode,,192-254,,Reserved for local use,,,,Operational,na
+grib2/4/12/255,Operating mode,,255,,Missing,,,,Operational,na

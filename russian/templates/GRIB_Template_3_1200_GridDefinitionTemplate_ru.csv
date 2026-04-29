@@ -1,4 +1,4 @@
-ID,Title_ru,OctetNo,OctetCount,Contents_ru,Note_ru,noteIDs,codeTable,flagTable,Status,translated_by
+ID,Title_ru,OctetNo,OctetCount,Contents_ru,Note_ru,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/3/1200/15-18,Образец определения сетки 3.1200 — сетка для представления временного разреза,15–18,,NT — Количество временных шагов,,,,,operational,Original
 grib2/3/1200/19,Образец определения сетки 3.1200 — сетка для представления временного разреза,19,,Единица измерения для отклонения от времени начала отсчета,см. кодовую таблицу 4.4,,4.4,,operational,Original
 grib2/3/1200/20-23,Образец определения сетки 3.1200 — сетка для представления временного разреза,20–23,,Отклонение первого отсчета времени от начала отсчета (отрицательное значение, когда первый бит установлен на 1),,,,,Original

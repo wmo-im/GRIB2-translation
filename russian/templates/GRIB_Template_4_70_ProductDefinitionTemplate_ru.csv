@@ -1,4 +1,4 @@
-ID,Title_ru,OctetNo,OctetCount,Contents_ru,Note_ru,noteIDs,codeTable,flagTable,Status,translated_by
+ID,Title_ru,OctetNo,OctetCount,Contents_ru,Note_ru,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/4/70/10,Образец определения продукции 4.70 — анализ или прогноз по горизонтальному уровню или,10,,Категория параметра,см. кодовую таблицу 4.1,,4.1,,operational,Original
 grib2/4/70/11,Образец определения продукции 4.70 — анализ или прогноз по горизонтальному уровню или,11,,Номер параметра,см. кодовую таблицу 4.2,,4.2,,operational,Original
 grib2/4/70/12-13,Образец определения продукции 4.70 — анализ или прогноз по горизонтальному уровню или,12–13,,Указатель процесса ввода данных,см. примечание 1,,1,,operational,Original

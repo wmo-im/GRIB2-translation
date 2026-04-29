@@ -1,22 +1,22 @@
-﻿ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
-grib2/5/0/0,Table de code 5.0 – Numéro du modèle de représentation des données,,0,,Données aux points de grille - compression simple,,,,Operational,Original
-grib2/5/0/1,Table de code 5.0 – Numéro du modèle de représentation des données,,1,,Matrices - compression simple,,,,Experimental,Original
-grib2/5/0/2,Table de code 5.0 – Numéro du modèle de représentation des données,,2,,Données aux points de grille - compression complexe,,,,Operational,Original
-grib2/5/0/3,Table de code 5.0 – Numéro du modèle de représentation des données,,3,,Données aux points de grille - compression complexe et différenciation spatiale,,,,Operational,Original
-grib2/5/0/4,Table de code 5.0 – Numéro du modèle de représentation des données,,4,,Données aux points de grille - données en virgule flottante IEEE,,,,Operational,Original
-grib2/5/0/5-39,Table de code 5.0 – Numéro du modèle de représentation des données,,5-39,,En réserve,,,,Operational,Original
-grib2/5/0/40,Table de code 5.0 – Numéro du modèle de représentation des données,,40,,Données aux points de grille - flux de données en format JPEG 2000,,,,Operational,Original
-grib2/5/0/41,Table de code 5.0 – Numéro du modèle de représentation des données,,41,,Données aux points de grille – format PNG (Portable Network Graphics - graphique réseau portable),,,,Operational,Original
-grib2/5/0/42,Table de code 5.0 – Numéro du modèle de représentation des données,,42,,Données aux points de grille et données spectrales - Compression sans perte de données recommandée par la CCSDS,,,,Operational,Original
-grib2/5/0/43-49,Table de code 5.0 – Numéro du modèle de représentation des données,,43-49,,En réserve,,,,Operational,Original
-grib2/5/0/50,Table de code 5.0 – Numéro du modèle de représentation des données,,50,,Données spectrales - compression simple,,,,Operational,Original
-grib2/5/0/51,Table de code 5.0 – Numéro du modèle de représentation des données,,51,,Données spectrales - compression complexe,,,,Operational,Original
-grib2/5/0/52,Table de code 5.0 – Numéro du modèle de représentation des données,,52,,En réserve,,,,Operational,Original
-grib2/5/0/53,Table de code 5.0 – Numéro du modèle de représentation des données,,53,,Données spectrales pour les modèles à domaine limité - compression complexe,,,,Operational,Original
-grib2/5/0/54-60,Table de code 5.0 – Numéro du modèle de représentation des données,,54-60,,En réserve,,,,Operational,Original
-grib2/5/0/61,Table de code 5.0 – Numéro du modèle de représentation des données,,61,,Données aux points de grille - compression simple après traitement logarithmique,,,,Experimental,Original
-grib2/5/0/62-199,Table de code 5.0 – Numéro du modèle de représentation des données,,62-199,,En réserve,,,,Operational,Original
-grib2/5/0/200,Table de code 5.0 – Numéro du modèle de représentation des données,,200,,Compression en longueur de ligne avec des valeurs de niveau,,,,Operational,Original
-grib2/5/0/201-49151,Table de code 5.0 – Numéro du modèle de représentation des données,,201-49151,,En réserve,,,,Operational,Original
-grib2/5/0/49152-65534,Table de code 5.0 – Numéro du modèle de représentation des données,,49152-65534,,En réserve pour un usage local,,,,Operational,Original
-grib2/5/0/65535,Table de code 5.0 – Numéro du modèle de représentation des données,,65535,,Valeur manquante,,,,Operational,Original
+﻿ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
+grib2/5/0/0,Table de code 5.0 – Numéro du modèle de représentation des données,,0,,Données aux points de grille - compression simple,,,,Operational,PDF
+grib2/5/0/1,Table de code 5.0 – Numéro du modèle de représentation des données,,1,,Matrices - compression simple,,,,Experimental,PDF
+grib2/5/0/2,Table de code 5.0 – Numéro du modèle de représentation des données,,2,,Données aux points de grille - compression complexe,,,,Operational,PDF
+grib2/5/0/3,Table de code 5.0 – Numéro du modèle de représentation des données,,3,,Données aux points de grille - compression complexe et différenciation spatiale,,,,Operational,PDF
+grib2/5/0/4,Table de code 5.0 – Numéro du modèle de représentation des données,,4,,Données aux points de grille - données en virgule flottante IEEE,,,,Operational,PDF
+grib2/5/0/5-39,Table de code 5.0 – Numéro du modèle de représentation des données,,5-39,,En réserve,,,,Operational,PDF
+grib2/5/0/40,Table de code 5.0 – Numéro du modèle de représentation des données,,40,,Données aux points de grille - flux de données en format JPEG 2000,,,,Operational,PDF
+grib2/5/0/41,Table de code 5.0 – Numéro du modèle de représentation des données,,41,,Données aux points de grille – format PNG (Portable Network Graphics - graphique réseau portable),,,,Operational,PDF
+grib2/5/0/42,Table de code 5.0 – Numéro du modèle de représentation des données,,42,,Données aux points de grille et données spectrales - Compression sans perte de données recommandée par la CCSDS,,,,Operational,PDF
+grib2/5/0/43-49,Table de code 5.0 – Numéro du modèle de représentation des données,,43-49,,En réserve,,,,Operational,PDF
+grib2/5/0/50,Table de code 5.0 – Numéro du modèle de représentation des données,,50,,Données spectrales - compression simple,,,,Operational,PDF
+grib2/5/0/51,Table de code 5.0 – Numéro du modèle de représentation des données,,51,,Données spectrales - compression complexe,,,,Operational,PDF
+grib2/5/0/52,Table de code 5.0 – Numéro du modèle de représentation des données,,52,,En réserve,,,,Operational,PDF
+grib2/5/0/53,Table de code 5.0 – Numéro du modèle de représentation des données,,53,,Données spectrales pour les modèles à domaine limité - compression complexe,,,,Operational,PDF
+grib2/5/0/54-60,Table de code 5.0 – Numéro du modèle de représentation des données,,54-60,,En réserve,,,,Operational,PDF
+grib2/5/0/61,Table de code 5.0 – Numéro du modèle de représentation des données,,61,,Données aux points de grille - compression simple après traitement logarithmique,,,,Experimental,PDF
+grib2/5/0/62-199,Table de code 5.0 – Numéro du modèle de représentation des données,,62-199,,En réserve,,,,Operational,PDF
+grib2/5/0/200,Table de code 5.0 – Numéro du modèle de représentation des données,,200,,Compression en longueur de ligne avec des valeurs de niveau,,,,Operational,PDF
+grib2/5/0/201-49151,Table de code 5.0 – Numéro du modèle de représentation des données,,201-49151,,En réserve,,,,Operational,PDF
+grib2/5/0/49152-65534,Table de code 5.0 – Numéro du modèle de représentation des données,,49152-65534,,En réserve pour un usage local,,,,Operational,PDF
+grib2/5/0/65535,Table de code 5.0 – Numéro du modèle de représentation des données,,65535,,Valeur manquante,,,,Operational,PDF

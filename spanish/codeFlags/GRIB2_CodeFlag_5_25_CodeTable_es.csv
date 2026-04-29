@@ -1,9 +1,9 @@
-ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translated_by
-grib2/5/25/0-76,Tabla de cifrado 5.25 Tipo de subtruncamiento del dominio mediante transformada bidimensional de Fourier,,0-76,,Reservadas,,,,Operational,Original
-grib2/5/25/77,Tabla de cifrado 5.25 Tipo de subtruncamiento del dominio mediante transformada bidimensional de Fourier,,77,,Rectangular,,,,Operational,Original
-grib2/5/25/78-87,Tabla de cifrado 5.25 Tipo de subtruncamiento del dominio mediante transformada bidimensional de Fourier,,78-87,,Reservadas,,,,Operational,Original
-grib2/5/25/88,Tabla de cifrado 5.25 Tipo de subtruncamiento del dominio mediante transformada bidimensional de Fourier,,88,,Elíptico,,,,Operational,Original
-grib2/5/25/89-98,Tabla de cifrado 5.25 Tipo de subtruncamiento del dominio mediante transformada bidimensional de Fourier,,89-98,,Resrevadas,,,,Operational,Original
-grib2/5/25/99,Tabla de cifrado 5.25 Tipo de subtruncamiento del dominio mediante transformada bidimensional de Fourier,,99,,Romboidal,,,,Operational,Original
-grib2/5/25/100-254,Tabla de cifrado 5.25 Tipo de subtruncamiento del dominio mediante transformada bidimensional de Fourier,,100-254,,Reservadas,,,,Operational,Original
-grib2/5/25/255,Tabla de cifrado 5.25 Tipo de subtruncamiento del dominio mediante transformada bidimensional de Fourier,,255,,Valor faltante,,,,Operational,Original
+ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
+grib2/5/25/0-76,Tabla de cifrado 5.25 Tipo de subtruncamiento del dominio mediante transformada bidimensional de Fourier,,0-76,,Reservadas,,,,Operational,PDF
+grib2/5/25/77,Tabla de cifrado 5.25 Tipo de subtruncamiento del dominio mediante transformada bidimensional de Fourier,,77,,Rectangular,,,,Operational,PDF
+grib2/5/25/78-87,Tabla de cifrado 5.25 Tipo de subtruncamiento del dominio mediante transformada bidimensional de Fourier,,78-87,,Reservadas,,,,Operational,PDF
+grib2/5/25/88,Tabla de cifrado 5.25 Tipo de subtruncamiento del dominio mediante transformada bidimensional de Fourier,,88,,Elíptico,,,,Operational,PDF
+grib2/5/25/89-98,Tabla de cifrado 5.25 Tipo de subtruncamiento del dominio mediante transformada bidimensional de Fourier,,89-98,,Resrevadas,,,,Operational,PDF
+grib2/5/25/99,Tabla de cifrado 5.25 Tipo de subtruncamiento del dominio mediante transformada bidimensional de Fourier,,99,,Romboidal,,,,Operational,PDF
+grib2/5/25/100-254,Tabla de cifrado 5.25 Tipo de subtruncamiento del dominio mediante transformada bidimensional de Fourier,,100-254,,Reservadas,,,,Operational,PDF
+grib2/5/25/255,Tabla de cifrado 5.25 Tipo de subtruncamiento del dominio mediante transformada bidimensional de Fourier,,255,,Valor faltante,,,,Operational,PDF

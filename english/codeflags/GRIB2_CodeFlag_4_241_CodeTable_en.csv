@@ -1,12 +1,12 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
-grib2/4/241/0,Coverage attributes,,0,,Undefined,,,,Operational,Original
-grib2/4/241/1,Coverage attributes,,1,,Unmodified,,,,Operational,Original
-grib2/4/241/2,Coverage attributes,,2,,Snow covered,,,,Operational,Original
-grib2/4/241/3,Coverage attributes,,3,,Flooded,,,,Operational,Original
-grib2/4/241/4,Coverage attributes,,4,,Ice covered,,,,Operational,Original
-grib2/4/241/5,Coverage attributes,,5,,With intercepted water,,,,Operational,Original
-grib2/4/241/6,Coverage attributes,,6,,With intercepted snow,,,,Operational,Original
-grib2/4/241/7,Coverage attributes,,7,,Aggregated,,,,Operational,Original
-grib2/4/241/8-191,Coverage attributes,,8-191,,Reserved,,,,Operational,Original
-grib2/4/241/192-254,Coverage attributes,,192-254,,Reserved for local use,,,,Operational,Original
-grib2/4/241/255,Coverage attributes,,255,,Missing value,,,,Operational,Original
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
+grib2/4/241/0,Coverage attributes,,0,,Undefined,,,,Operational,na
+grib2/4/241/1,Coverage attributes,,1,,Unmodified,,,,Operational,na
+grib2/4/241/2,Coverage attributes,,2,,Snow covered,,,,Operational,na
+grib2/4/241/3,Coverage attributes,,3,,Flooded,,,,Operational,na
+grib2/4/241/4,Coverage attributes,,4,,Ice covered,,,,Operational,na
+grib2/4/241/5,Coverage attributes,,5,,With intercepted water,,,,Operational,na
+grib2/4/241/6,Coverage attributes,,6,,With intercepted snow,,,,Operational,na
+grib2/4/241/7,Coverage attributes,,7,,Aggregated,,,,Operational,na
+grib2/4/241/8-191,Coverage attributes,,8-191,,Reserved,,,,Operational,na
+grib2/4/241/192-254,Coverage attributes,,192-254,,Reserved for local use,,,,Operational,na
+grib2/4/241/255,Coverage attributes,,255,,Missing value,,,,Operational,na

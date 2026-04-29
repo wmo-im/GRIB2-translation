@@ -1,15 +1,15 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
-grib2/1/4/0,Type of data,,0,,Analysis products,,,,Operational,Original
-grib2/1/4/1,Type of data,,1,,Forecast products,,,,Operational,Original
-grib2/1/4/2,Type of data,,2,,Analysis and forecast products,,,,Operational,Original
-grib2/1/4/3,Type of data,,3,,Control forecast products,,,,Operational,Original
-grib2/1/4/4,Type of data,,4,,Perturbed forecast products,,,,Operational,Original
-grib2/1/4/5,Type of data,,5,,Control and perturbed forecast products,,,,Operational,Original
-grib2/1/4/6,Type of data,,6,,Processed satellite observations,,,,Operational,Original
-grib2/1/4/7,Type of data,,7,,Processed radar observations,,,,Operational,Original
-grib2/1/4/8,Type of data,,8,,Event probability,,,,Operational,Original
-grib2/1/4/9,Type of data,,9,,Experimental data,(see Note 2),157,,Operational,Original
-grib2/1/4/10,Type of data,,10,,ML based forecast,(see Note 3),158,,Operational,Original
-grib2/1/4/11-191,Type of data,,11-191,,Reserved,,,,Operational,Original
-grib2/1/4/192-254,Type of data,,192-254,,Reserved for local use,,,,Operational,Original
-grib2/1/4/255,Type of data,,255,,Missing,,,,Operational,Original
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
+grib2/1/4/0,Type of data,,0,,Analysis products,,,,Operational,na
+grib2/1/4/1,Type of data,,1,,Forecast products,,,,Operational,na
+grib2/1/4/2,Type of data,,2,,Analysis and forecast products,,,,Operational,na
+grib2/1/4/3,Type of data,,3,,Control forecast products,,,,Operational,na
+grib2/1/4/4,Type of data,,4,,Perturbed forecast products,,,,Operational,na
+grib2/1/4/5,Type of data,,5,,Control and perturbed forecast products,,,,Operational,na
+grib2/1/4/6,Type of data,,6,,Processed satellite observations,,,,Operational,na
+grib2/1/4/7,Type of data,,7,,Processed radar observations,,,,Operational,na
+grib2/1/4/8,Type of data,,8,,Event probability,,,,Operational,na
+grib2/1/4/9,Type of data,,9,,Experimental data,(see Note 2),157,,Operational,na
+grib2/1/4/10,Type of data,,10,,ML based forecast,(see Note 3),158,,Operational,na
+grib2/1/4/11-191,Type of data,,11-191,,Reserved,,,,Operational,na
+grib2/1/4/192-254,Type of data,,192-254,,Reserved for local use,,,,Operational,na
+grib2/1/4/255,Type of data,,255,,Missing,,,,Operational,na

@@ -1,10 +1,10 @@
-ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translated_by
-grib2/4/16/0,Tabla de cifrado 4.16 – Valor de calidad asociado con parámetro,,0,,Índice de confianza,(véase la nota 2),94,,Operational,Original
-grib2/4/16/1,Tabla de cifrado 4.16 – Valor de calidad asociado con parámetro,,1,,Indicador de calidad,(véanse la nota 3 y la Tabla de cifrado 4.244),96,,Operational,Original
-grib2/4/16/2,Tabla de cifrado 4.16 – Valor de calidad asociado con parámetro,,2,,Correlación del producto con el producto de calibración usado,(véase la nota 4),95,,Operational,Original
-grib2/4/16/3,Tabla de cifrado 4.16 – Valor de calidad asociado con parámetro,,3,,Desviación estándar,(véase la nota 5),19,,Operational,Original
-grib2/4/16/4,Tabla de cifrado 4.16 – Valor de calidad asociado con parámetro,,4,,Error aleatorio,(véase la nota 5),19,,Operational,Original
-grib2/4/16/5,Tabla de cifrado 4.16 – Valor de calidad asociado con parámetro,,5,,Probabilidad,,,,Operational,Original
-grib2/4/16/6-191,Tabla de cifrado 4.16 – Valor de calidad asociado con parámetro,,6-191,,Reservadas,,,,Operational,Original
-grib2/4/16/192-254,Tabla de cifrado 4.16 – Valor de calidad asociado con parámetro,,192-254,,Reservadas para uso local,,,,Operational,Original
-grib2/4/16/255,Tabla de cifrado 4.16 – Valor de calidad asociado con parámetro,,255,,Valor faltante,,,,Operational,Original
+ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
+grib2/4/16/0,Tabla de cifrado 4.16 – Valor de calidad asociado con parámetro,,0,,Índice de confianza,(véase la nota 2),94,,Operational,PDF
+grib2/4/16/1,Tabla de cifrado 4.16 – Valor de calidad asociado con parámetro,,1,,Indicador de calidad,(véanse la nota 3 y la Tabla de cifrado 4.244),96,,Operational,PDF
+grib2/4/16/2,Tabla de cifrado 4.16 – Valor de calidad asociado con parámetro,,2,,Correlación del producto con el producto de calibración usado,(véase la nota 4),95,,Operational,PDF
+grib2/4/16/3,Tabla de cifrado 4.16 – Valor de calidad asociado con parámetro,,3,,Desviación estándar,(véase la nota 5),19,,Operational,PDF
+grib2/4/16/4,Tabla de cifrado 4.16 – Valor de calidad asociado con parámetro,,4,,Error aleatorio,(véase la nota 5),19,,Operational,PDF
+grib2/4/16/5,Tabla de cifrado 4.16 – Valor de calidad asociado con parámetro,,5,,Probabilidad,,,,Operational,PDF
+grib2/4/16/6-191,Tabla de cifrado 4.16 – Valor de calidad asociado con parámetro,,6-191,,Reservadas,,,,Operational,PDF
+grib2/4/16/192-254,Tabla de cifrado 4.16 – Valor de calidad asociado con parámetro,,192-254,,Reservadas para uso local,,,,Operational,PDF
+grib2/4/16/255,Tabla de cifrado 4.16 – Valor de calidad asociado con parámetro,,255,,Valor faltante,,,,Operational,PDF

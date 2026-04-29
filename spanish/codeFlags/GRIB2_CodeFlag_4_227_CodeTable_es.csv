@@ -1,9 +1,9 @@
-ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translated_by
-grib2/4/227/0,Tabla de cifrado 4.227 – Escenario de engelamiento (clasificación del estado del tiempo/ de las nubes),,0,,Ninguno,,,,Operational,Original
-grib2/4/227/1,Tabla de cifrado 4.227 – Escenario de engelamiento (clasificación del estado del tiempo/ de las nubes),,1,,General,,,,Operational,Original
-grib2/4/227/2,Tabla de cifrado 4.227 – Escenario de engelamiento (clasificación del estado del tiempo/ de las nubes),,2,,Convectivo,,,,Operational,Original
-grib2/4/227/3,Tabla de cifrado 4.227 – Escenario de engelamiento (clasificación del estado del tiempo/ de las nubes),,3,,Estratiforme,,,,Operational,Original
-grib2/4/227/4,Tabla de cifrado 4.227 – Escenario de engelamiento (clasificación del estado del tiempo/ de las nubes),,4,,Engelamiento,,,,Operational,Original
-grib2/4/227/5-191,Tabla de cifrado 4.227 – Escenario de engelamiento (clasificación del estado del tiempo/ de las nubes),,5-191,,Reservadas,,,,Operational,Original
-grib2/4/227/192-254,Tabla de cifrado 4.227 – Escenario de engelamiento (clasificación del estado del tiempo/ de las nubes),,192-254,,Reservadas para uso local,,,,Operational,Original
-grib2/4/227/255,Tabla de cifrado 4.227 – Escenario de engelamiento (clasificación del estado del tiempo/ de las nubes),,255,,Valor faltante,,,,Operational,Original
+ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
+grib2/4/227/0,Tabla de cifrado 4.227 – Escenario de engelamiento (clasificación del estado del tiempo/ de las nubes),,0,,Ninguno,,,,Operational,PDF
+grib2/4/227/1,Tabla de cifrado 4.227 – Escenario de engelamiento (clasificación del estado del tiempo/ de las nubes),,1,,General,,,,Operational,PDF
+grib2/4/227/2,Tabla de cifrado 4.227 – Escenario de engelamiento (clasificación del estado del tiempo/ de las nubes),,2,,Convectivo,,,,Operational,PDF
+grib2/4/227/3,Tabla de cifrado 4.227 – Escenario de engelamiento (clasificación del estado del tiempo/ de las nubes),,3,,Estratiforme,,,,Operational,PDF
+grib2/4/227/4,Tabla de cifrado 4.227 – Escenario de engelamiento (clasificación del estado del tiempo/ de las nubes),,4,,Engelamiento,,,,Operational,PDF
+grib2/4/227/5-191,Tabla de cifrado 4.227 – Escenario de engelamiento (clasificación del estado del tiempo/ de las nubes),,5-191,,Reservadas,,,,Operational,PDF
+grib2/4/227/192-254,Tabla de cifrado 4.227 – Escenario de engelamiento (clasificación del estado del tiempo/ de las nubes),,192-254,,Reservadas para uso local,,,,Operational,PDF
+grib2/4/227/255,Tabla de cifrado 4.227 – Escenario de engelamiento (clasificación del estado del tiempo/ de las nubes),,255,,Valor faltante,,,,Operational,PDF

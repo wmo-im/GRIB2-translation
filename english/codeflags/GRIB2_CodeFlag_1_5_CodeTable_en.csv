@@ -1,7 +1,7 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
-grib2/1/5/0,Identification template number,,0,,Calendar definition,,,,Operational,Original
-grib2/1/5/1,Identification template number,,1,,Paleontological offset,,,,Operational,Original
-grib2/1/5/2,Identification template number,,2,,Calendar definition and paleontological offset,,,,Operational,Original
-grib2/1/5/3-32767,Identification template number,,3-32767,,Reserved,,,,Operational,Original
-grib2/1/5/32768-65534,Identification template number,,32768-65534,,Reserved for local use,,,,Operational,Original
-grib2/1/5/65535,Identification template number,,65535,,Missing,,,,Operational,Original
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
+grib2/1/5/0,Identification template number,,0,,Calendar definition,,,,Operational,na
+grib2/1/5/1,Identification template number,,1,,Paleontological offset,,,,Operational,na
+grib2/1/5/2,Identification template number,,2,,Calendar definition and paleontological offset,,,,Operational,na
+grib2/1/5/3-32767,Identification template number,,3-32767,,Reserved,,,,Operational,na
+grib2/1/5/32768-65534,Identification template number,,32768-65534,,Reserved for local use,,,,Operational,na
+grib2/1/5/65535,Identification template number,,65535,,Missing,,,,Operational,na

@@ -1,13 +1,13 @@
-ID,Title_en,OctetNo,OctetCount,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status,translated_by
-grib2/4/35/10,satellite product with or without associated quality values,10,1,Parameter category,(see Code table 4.1),,4.1,,Operational,Original
-grib2/4/35/11,satellite product with or without associated quality values,11,1,Parameter number,(see Code table 4.2),,4.2,,Operational,Original
-grib2/4/35/12,satellite product with or without associated quality values,12,1,Type of generating process,(see Code table 4.3),,4.3,,Operational,Original
-grib2/4/35/13,satellite product with or without associated quality values,13,1,Observation generating process identifier (defined by originating centres),,,,,Operational,Original
-grib2/4/35/14,satellite product with or without associated quality values,14,1,Quality value associated with parameter,(see Code table 4.16),,4.16,,Operational,Original
-grib2/4/35/15,satellite product with or without associated quality values,15,1,Number of contributing spectral bands (NB),,,,,Operational,Original
-grib2/4/35//1,satellite product with or without associated quality values,,,"16-   Repeat the following 11 octets for each contributing band (nb = 1,NB)",,,,,Operational,Original
-grib2/4/35/(16+11(nb-1))-(17+11(nb-1)),satellite product with or without associated quality values,(16+11(nb-1))-(17+11(nb-1)),,Satellite series of band nb (code table defined by originating/generating centre),(see Note),14,,,Operational,Original
-grib2/4/35/(18+11(nb-1))-(19+11(nb-1)),satellite product with or without associated quality values,(18+11(nb-1))-(19+11(nb-1)),,Satellite numbers of band nb (code table defined by originating/generating centre),(see Note),14,,,Operational,Original
-grib2/4/35/(20+11(nb-1))-(21+11(nb-1)),satellite product with or without associated quality values,(20+11(nb-1))-(21+11(nb-1)),,Instrument types of band nb (code table defined by originating/generating centre),(see Note),14,,,Operational,Original
-grib2/4/35/(22+11(nb-1)),satellite product with or without associated quality values,(22+11(nb-1)),,Scale factor of central wave number of band nb,,,,,Operational,Original
-grib2/4/35/(23+11(nb-1))-(26+11(nb-1)),satellite product with or without associated quality values,(23+11(nb-1))-(26+11(nb-1)),,Scaled value of central wave number of band nb (units: m-1),,,,,Operational,Original
+ID,Title_en,OctetNo,OctetCount,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status,translation_source
+grib2/4/35/10,satellite product with or without associated quality values,10,1,Parameter category,(see Code table 4.1),,4.1,,Operational,na
+grib2/4/35/11,satellite product with or without associated quality values,11,1,Parameter number,(see Code table 4.2),,4.2,,Operational,na
+grib2/4/35/12,satellite product with or without associated quality values,12,1,Type of generating process,(see Code table 4.3),,4.3,,Operational,na
+grib2/4/35/13,satellite product with or without associated quality values,13,1,Observation generating process identifier (defined by originating centres),,,,,Operational,na
+grib2/4/35/14,satellite product with or without associated quality values,14,1,Quality value associated with parameter,(see Code table 4.16),,4.16,,Operational,na
+grib2/4/35/15,satellite product with or without associated quality values,15,1,Number of contributing spectral bands (NB),,,,,Operational,na
+grib2/4/35//1,satellite product with or without associated quality values,,,"16-   Repeat the following 11 octets for each contributing band (nb = 1,NB)",,,,,Operational,na
+grib2/4/35/(16+11(nb-1))-(17+11(nb-1)),satellite product with or without associated quality values,(16+11(nb-1))-(17+11(nb-1)),,Satellite series of band nb (code table defined by originating/generating centre),(see Note),14,,,Operational,na
+grib2/4/35/(18+11(nb-1))-(19+11(nb-1)),satellite product with or without associated quality values,(18+11(nb-1))-(19+11(nb-1)),,Satellite numbers of band nb (code table defined by originating/generating centre),(see Note),14,,,Operational,na
+grib2/4/35/(20+11(nb-1))-(21+11(nb-1)),satellite product with or without associated quality values,(20+11(nb-1))-(21+11(nb-1)),,Instrument types of band nb (code table defined by originating/generating centre),(see Note),14,,,Operational,na
+grib2/4/35/(22+11(nb-1)),satellite product with or without associated quality values,(22+11(nb-1)),,Scale factor of central wave number of band nb,,,,,Operational,na
+grib2/4/35/(23+11(nb-1))-(26+11(nb-1)),satellite product with or without associated quality values,(23+11(nb-1))-(26+11(nb-1)),,Scaled value of central wave number of band nb (units: m-1),,,,,Operational,na

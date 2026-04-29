@@ -1,17 +1,17 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
-grib2/4/106/0,Radar data quality flags,,0,,Normal operating data,,,,Operational,Original
-grib2/4/106/1,Radar data quality flags,,1,,No data,(see Note 1),176,,Operational,Original
-grib2/4/106/2,Radar data quality flags,,2,,Undetected,(see Note 2),177,,Operational,Original
-grib2/4/106/3,Radar data quality flags,,3,,Implausible data/outliers,(see Note 3),178,,Operational,Original
-grib2/4/106/4,Radar data quality flags,,4,,Beam overshooting,,,,Operational,Original
-grib2/4/106/5,Radar data quality flags,,5,,Beam blocking,,,,Operational,Original
-grib2/4/106/6,Radar data quality flags,,6,,Ground clutter,,,,Operational,Original
-grib2/4/106/7,Radar data quality flags,,7,,Sea clutter,,,,Operational,Original
-grib2/4/106/8,Radar data quality flags,,8,,Beam attenuation,,,,Operational,Original
-grib2/4/106/9,Radar data quality flags,,9,,Wet radome attenuation,,,,Operational,Original
-grib2/4/106/10,Radar data quality flags,,10,,Wind turbines,,,,Operational,Original
-grib2/4/106/11,Radar data quality flags,,11,,Insects/birds,,,,Operational,Original
-grib2/4/106/12,Radar data quality flags,,12,,Ships/aircrafts,,,,Operational,Original
-grib2/4/106/13-189,Radar data quality flags,,13-189,,Reserved,,,,Operational,Original
-grib2/4/106/192-254,Radar data quality flags,,192-254,,Reserved for local use,,,,Operational,Original
-grib2/4/106/255,Radar data quality flags,,255,,Missing,,,,Operational,Original
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
+grib2/4/106/0,Radar data quality flags,,0,,Normal operating data,,,,Operational,na
+grib2/4/106/1,Radar data quality flags,,1,,No data,(see Note 1),176,,Operational,na
+grib2/4/106/2,Radar data quality flags,,2,,Undetected,(see Note 2),177,,Operational,na
+grib2/4/106/3,Radar data quality flags,,3,,Implausible data/outliers,(see Note 3),178,,Operational,na
+grib2/4/106/4,Radar data quality flags,,4,,Beam overshooting,,,,Operational,na
+grib2/4/106/5,Radar data quality flags,,5,,Beam blocking,,,,Operational,na
+grib2/4/106/6,Radar data quality flags,,6,,Ground clutter,,,,Operational,na
+grib2/4/106/7,Radar data quality flags,,7,,Sea clutter,,,,Operational,na
+grib2/4/106/8,Radar data quality flags,,8,,Beam attenuation,,,,Operational,na
+grib2/4/106/9,Radar data quality flags,,9,,Wet radome attenuation,,,,Operational,na
+grib2/4/106/10,Radar data quality flags,,10,,Wind turbines,,,,Operational,na
+grib2/4/106/11,Radar data quality flags,,11,,Insects/birds,,,,Operational,na
+grib2/4/106/12,Radar data quality flags,,12,,Ships/aircrafts,,,,Operational,na
+grib2/4/106/13-189,Radar data quality flags,,13-189,,Reserved,,,,Operational,na
+grib2/4/106/192-254,Radar data quality flags,,192-254,,Reserved for local use,,,,Operational,na
+grib2/4/106/255,Radar data quality flags,,255,,Missing,,,,Operational,na

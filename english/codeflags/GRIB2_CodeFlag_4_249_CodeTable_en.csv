@@ -1,7 +1,7 @@
-ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translated_by
-grib2/4/249/0,Character of precipitation,,0,,None,,,,Operational,Original
-grib2/4/249/1,Character of precipitation,,1,,Showers,,,,Operational,Original
-grib2/4/249/2,Character of precipitation,,2,,Intermittent,,,,Operational,Original
-grib2/4/249/3,Character of precipitation,,3,,Continuous,,,,Operational,Original
-grib2/4/249/4-254,Character of precipitation,,4-254,,Reserved,,,,Operational,Original
-grib2/4/249/255,Character of precipitation,,255,,Missing,,,,Operational,Original
+ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
+grib2/4/249/0,Character of precipitation,,0,,None,,,,Operational,na
+grib2/4/249/1,Character of precipitation,,1,,Showers,,,,Operational,na
+grib2/4/249/2,Character of precipitation,,2,,Intermittent,,,,Operational,na
+grib2/4/249/3,Character of precipitation,,3,,Continuous,,,,Operational,na
+grib2/4/249/4-254,Character of precipitation,,4-254,,Reserved,,,,Operational,na
+grib2/4/249/255,Character of precipitation,,255,,Missing,,,,Operational,na

@@ -1,4 +1,4 @@
-ID,Title_ru,OctetNo,OctetCount,Contents_ru,Note_ru,noteIDs,codeTable,flagTable,Status,translated_by
+ID,Title_ru,OctetNo,OctetCount,Contents_ru,Note_ru,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/3/2/15-72,Образец определения сетки 3.2 — р астянутая широтно-долготная (или равноудаленная,15–72,,То же, что и в образце определения сетки 3.0,см. примечание 1,,1,,Original
 grib2/3/2/73-76,Образец определения сетки 3.2 — р астянутая широтно-долготная (или равноудаленная,73–76,,Широта полюса растягивания,,,,,operational,Original
 grib2/3/2/77-80,Образец определения сетки 3.2 — р астянутая широтно-долготная (или равноудаленная,77–80,,Долгота полюса растягивания,,,,,operational,Original

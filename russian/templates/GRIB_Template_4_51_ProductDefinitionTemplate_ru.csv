@@ -1,4 +1,4 @@
-ID,Title_ru,OctetNo,OctetCount,Contents_ru,Note_ru,noteIDs,codeTable,flagTable,Status,translated_by
+ID,Title_ru,OctetNo,OctetCount,Contents_ru,Note_ru,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/4/51/10,Образец определения продукции 4.51 — категориальные прогнозы по горизонтальному,10,,Категория параметра,см. кодовую таблицу 4.1,,4.1,,operational,Original
 grib2/4/51/11,Образец определения продукции 4.51 — категориальные прогнозы по горизонтальному,11,,Номер параметра,см. кодовую таблицу 4.2,,4.2,,operational,Original
 grib2/4/51/12,Образец определения продукции 4.51 — категориальные прогнозы по горизонтальному,12,,Тип процесса подготовки,см. кодовую таблицу 4.3,,4.3,,operational,Original

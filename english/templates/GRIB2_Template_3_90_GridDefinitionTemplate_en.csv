@@ -1,22 +1,22 @@
-ID,Title_en,OctetNo,OctetCount,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status,translated_by
-grib2/3/90/15,space view perspective or orthographic,15,1,Shape of the Earth,(see Code table 3.2),,3.2,,Operational,Original
-grib2/3/90/16,space view perspective or orthographic,16,1,Scale factor of radius of spherical Earth,,,,,Operational,Original
-grib2/3/90/17-20,space view perspective or orthographic,17-20,4,Scaled value of radius of spherical Earth,,,,,Operational,Original
-grib2/3/90/21,space view perspective or orthographic,21,1,Scale factor of major axis of oblate spheroid Earth,,,,,Operational,Original
-grib2/3/90/22-25,space view perspective or orthographic,22-25,4,Scaled value of major axis of oblate spheroid Earth,,,,,Operational,Original
-grib2/3/90/26,space view perspective or orthographic,26,1,Scale factor of minor axis of oblate spheroid Earth,,,,,Operational,Original
-grib2/3/90/27-30,space view perspective or orthographic,27-30,4,Scaled value of minor axis of oblate spheroid Earth,,,,,Operational,Original
-grib2/3/90/31-34,space view perspective or orthographic,31-34,4,Nx - number of points along x-axis (columns),,,,,Operational,Original
-grib2/3/90/35-38,space view perspective or orthographic,35-38,4,Ny - number of points along y-axis (rows or lines),,,,,Operational,Original
-grib2/3/90/39-42,space view perspective or orthographic,39-42,4,Lap - latitude of sub-satellite point,,,,,Operational,Original
-grib2/3/90/43-46,space view perspective or orthographic,43-46,4,Lop - longitude of sub-satellite point,,,,,Operational,Original
-grib2/3/90/47,space view perspective or orthographic,47,1,Resolution and component flags,(see Flag table 3.3),,,3.3,Operational,Original
-grib2/3/90/48-51,space view perspective or orthographic,48-51,4,"dx - apparent diameter of Earth in grid lengths, in x-direction",,,,,Operational,Original
-grib2/3/90/52-55,space view perspective or orthographic,52-55,4,"dy - apparent diameter of Earth in grid lengths, in y-direction",,,,,Operational,Original
-grib2/3/90/56-59,space view perspective or orthographic,56-59,4,Xp - x-coordinate of sub-satellite point (in units of 10-3 grid length expressed as an integer),,,,,Operational,Original
-grib2/3/90/60-63,space view perspective or orthographic,60-63,4,Yp - y-coordinate of sub-satellite point (in units of 10-3 grid length expressed as an integer),,,,,Operational,Original
-grib2/3/90/64,space view perspective or orthographic,64,1,Scanning mode,(see Flag table 3.4),,,3.4,Operational,Original
-grib2/3/90/65-68,space view perspective or orthographic,65-68,4,Orientation of the grid; i.e. the angle between the increasing y-axis and the meridian of the sub-satellite point in the direction of increasing latitude,(see Note 3),46,,,Operational,Original
-grib2/3/90/69-72,space view perspective or orthographic,69-72,4,"Nr - altitude of the camera from the Earth's centre, measured in units of the Earth's (equatorial) radius multiplied by a scale factor of 106","(see Notes 2, 4 and 5)","59,22,73",,,Operational,Original
-grib2/3/90/73-76,space view perspective or orthographic,73-76,4,Xo - x-coordinate of origin of sector image,,,,,Operational,Original
-grib2/3/90/77-80,space view perspective or orthographic,77-80,4,Yo - y-coordinate of origin of sector image,,,,,Operational,Original
+ID,Title_en,OctetNo,OctetCount,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status,translation_source
+grib2/3/90/15,space view perspective or orthographic,15,1,Shape of the Earth,(see Code table 3.2),,3.2,,Operational,na
+grib2/3/90/16,space view perspective or orthographic,16,1,Scale factor of radius of spherical Earth,,,,,Operational,na
+grib2/3/90/17-20,space view perspective or orthographic,17-20,4,Scaled value of radius of spherical Earth,,,,,Operational,na
+grib2/3/90/21,space view perspective or orthographic,21,1,Scale factor of major axis of oblate spheroid Earth,,,,,Operational,na
+grib2/3/90/22-25,space view perspective or orthographic,22-25,4,Scaled value of major axis of oblate spheroid Earth,,,,,Operational,na
+grib2/3/90/26,space view perspective or orthographic,26,1,Scale factor of minor axis of oblate spheroid Earth,,,,,Operational,na
+grib2/3/90/27-30,space view perspective or orthographic,27-30,4,Scaled value of minor axis of oblate spheroid Earth,,,,,Operational,na
+grib2/3/90/31-34,space view perspective or orthographic,31-34,4,Nx - number of points along x-axis (columns),,,,,Operational,na
+grib2/3/90/35-38,space view perspective or orthographic,35-38,4,Ny - number of points along y-axis (rows or lines),,,,,Operational,na
+grib2/3/90/39-42,space view perspective or orthographic,39-42,4,Lap - latitude of sub-satellite point,,,,,Operational,na
+grib2/3/90/43-46,space view perspective or orthographic,43-46,4,Lop - longitude of sub-satellite point,,,,,Operational,na
+grib2/3/90/47,space view perspective or orthographic,47,1,Resolution and component flags,(see Flag table 3.3),,,3.3,Operational,na
+grib2/3/90/48-51,space view perspective or orthographic,48-51,4,"dx - apparent diameter of Earth in grid lengths, in x-direction",,,,,Operational,na
+grib2/3/90/52-55,space view perspective or orthographic,52-55,4,"dy - apparent diameter of Earth in grid lengths, in y-direction",,,,,Operational,na
+grib2/3/90/56-59,space view perspective or orthographic,56-59,4,Xp - x-coordinate of sub-satellite point (in units of 10-3 grid length expressed as an integer),,,,,Operational,na
+grib2/3/90/60-63,space view perspective or orthographic,60-63,4,Yp - y-coordinate of sub-satellite point (in units of 10-3 grid length expressed as an integer),,,,,Operational,na
+grib2/3/90/64,space view perspective or orthographic,64,1,Scanning mode,(see Flag table 3.4),,,3.4,Operational,na
+grib2/3/90/65-68,space view perspective or orthographic,65-68,4,Orientation of the grid; i.e. the angle between the increasing y-axis and the meridian of the sub-satellite point in the direction of increasing latitude,(see Note 3),46,,,Operational,na
+grib2/3/90/69-72,space view perspective or orthographic,69-72,4,"Nr - altitude of the camera from the Earth's centre, measured in units of the Earth's (equatorial) radius multiplied by a scale factor of 106","(see Notes 2, 4 and 5)","59,22,73",,,Operational,na
+grib2/3/90/73-76,space view perspective or orthographic,73-76,4,Xo - x-coordinate of origin of sector image,,,,,Operational,na
+grib2/3/90/77-80,space view perspective or orthographic,77-80,4,Yo - y-coordinate of origin of sector image,,,,,Operational,na

@@ -1,5 +1,5 @@
-ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translated_by
-grib2/3/5/1/0,Tabla de banderines 3.5 — Centro de la proyección,,1,0,El Polo Norte se sitúa en el plano de la proyección,,,,Operational,Original
-grib2/3/5/1/1,Tabla de banderines 3.5 — Centro de la proyección,,1,1,El Polo Sur se sitúa en el plano de la proyección,,,,Operational,Original
-grib2/3/5/2/0,Tabla de banderines 3.5 — Centro de la proyección,,2,0,Se utiliza solamente un centro de proyección,,,,Operational,Original
-grib2/3/5/2/1,Tabla de banderines 3.5 — Centro de la proyección,,2,1,La proyección es bipolar y simétrica,,,,Operational,Original
+ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
+grib2/3/5/1/0,Tabla de banderines 3.5 — Centro de la proyección,,1,0,El Polo Norte se sitúa en el plano de la proyección,,,,Operational,PDF
+grib2/3/5/1/1,Tabla de banderines 3.5 — Centro de la proyección,,1,1,El Polo Sur se sitúa en el plano de la proyección,,,,Operational,PDF
+grib2/3/5/2/0,Tabla de banderines 3.5 — Centro de la proyección,,2,0,Se utiliza solamente un centro de proyección,,,,Operational,PDF
+grib2/3/5/2/1,Tabla de banderines 3.5 — Centro de la proyección,,2,1,La proyección es bipolar y simétrica,,,,Operational,PDF

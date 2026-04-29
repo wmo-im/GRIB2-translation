@@ -1,6 +1,6 @@
-ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translated_by
-grib2/4/205/0,Table de code 4.205 – Présence d'aérosol,,0,,Absence d'aérosol,,,,Operational,Original
-grib2/4/205/1,Table de code 4.205 – Présence d'aérosol,,1,,Présence d'aérosol,,,,Operational,Original
-grib2/4/205/2-191,Table de code 4.205 – Présence d'aérosol,,2-191,,En réserve,,,,Operational,Original
-grib2/4/205/192-254,Table de code 4.205 – Présence d'aérosol,,192-254,,En réserve pour un usage local,,,,Operational,Original
-grib2/4/205/255,Table de code 4.205 – Présence d'aérosol,,255,,Valeur manquante,,,,Operational,Original
+ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
+grib2/4/205/0,Table de code 4.205 – Présence d'aérosol,,0,,Absence d'aérosol,,,,Operational,PDF
+grib2/4/205/1,Table de code 4.205 – Présence d'aérosol,,1,,Présence d'aérosol,,,,Operational,PDF
+grib2/4/205/2-191,Table de code 4.205 – Présence d'aérosol,,2-191,,En réserve,,,,Operational,PDF
+grib2/4/205/192-254,Table de code 4.205 – Présence d'aérosol,,192-254,,En réserve pour un usage local,,,,Operational,PDF
+grib2/4/205/255,Table de code 4.205 – Présence d'aérosol,,255,,Valeur manquante,,,,Operational,PDF

@@ -1,9 +1,9 @@
-ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translated_by
-grib2/4/208/0,Tabla de cifrado 4.208 - Turbulencia,,0,,Ninguna turbulencia (plácido),,,,Operational,Original
-grib2/4/208/1,Tabla de cifrado 4.208 - Turbulencia,,1,,Ligera turbulencia,,,,Operational,Original
-grib2/4/208/2,Tabla de cifrado 4.208 - Turbulencia,,2,,Turbulencia moderada,,,,Operational,Original
-grib2/4/208/3,Tabla de cifrado 4.208 - Turbulencia,,3,,Turbulencia fuerte,,,,Operational,Original
-grib2/4/208/4,Tabla de cifrado 4.208 - Turbulencia,,4,,Turbulencia extrema,,,,Operational,Original
-grib2/4/208/5-191,Tabla de cifrado 4.208 - Turbulencia,,5-191,,Reservadas,,,,Operational,Original
-grib2/4/208/192-254,Tabla de cifrado 4.208 - Turbulencia,,192-254,,Reservadas para uso local,,,,Operational,Original
-grib2/4/208/255,Tabla de cifrado 4.208 - Turbulencia,,255,,Valor faltante,,,,Operational,Original
+ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
+grib2/4/208/0,Tabla de cifrado 4.208 - Turbulencia,,0,,Ninguna turbulencia (plácido),,,,Operational,PDF
+grib2/4/208/1,Tabla de cifrado 4.208 - Turbulencia,,1,,Ligera turbulencia,,,,Operational,PDF
+grib2/4/208/2,Tabla de cifrado 4.208 - Turbulencia,,2,,Turbulencia moderada,,,,Operational,PDF
+grib2/4/208/3,Tabla de cifrado 4.208 - Turbulencia,,3,,Turbulencia fuerte,,,,Operational,PDF
+grib2/4/208/4,Tabla de cifrado 4.208 - Turbulencia,,4,,Turbulencia extrema,,,,Operational,PDF
+grib2/4/208/5-191,Tabla de cifrado 4.208 - Turbulencia,,5-191,,Reservadas,,,,Operational,PDF
+grib2/4/208/192-254,Tabla de cifrado 4.208 - Turbulencia,,192-254,,Reservadas para uso local,,,,Operational,PDF
+grib2/4/208/255,Tabla de cifrado 4.208 - Turbulencia,,255,,Valor faltante,,,,Operational,PDF

@@ -1,4 +1,4 @@
-ID,Title_ru,OctetNo,OctetCount,Contents_ru,Note_ru,noteIDs,codeTable,flagTable,Status,translated_by
+ID,Title_ru,OctetNo,OctetCount,Contents_ru,Note_ru,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/3/120/15-18,Образец определения сетки 3.120 — азимутальная проекция,15–18,,Nb — количество накопителей данных вдоль лучей (см. примечание),,,,,operational,Original
 grib2/3/120/19-22,Образец определения сетки 3.120 — азимутальная проекция,19–22,,Nr — количество лучей,,,,,operational,Original
 grib2/3/120/23-26,Образец определения сетки 3.120 — азимутальная проекция,23–26,,La1 — широта центральной точки,,,,,operational,Original
