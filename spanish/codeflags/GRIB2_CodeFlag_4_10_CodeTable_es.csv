@@ -11,6 +11,12 @@ grib2/4/10/8,Tabla de cifrado 4.10 – Tipo de cálculo estadístico,,8,,Diferen
 grib2/4/10/9,Tabla de cifrado 4.10 – Tipo de cálculo estadístico,,9,,Razón (véase la nota 3),,,,Operational,PDF
 grib2/4/10/10,Tabla de cifrado 4.10 – Tipo de cálculo estadístico,,10,,Anomalía normalizada,,,,Operational,PDF
 grib2/4/10/11,Tabla de cifrado 4.10 – Tipo de cálculo estadístico,,11,,Adición,,,,Operational,PDF
-grib2/4/10/12-191,Tabla de cifrado 4.10 – Tipo de cálculo estadístico,,12-191,,Reservadas,,,,Operational,PDF
+grib2/4/10/12,Tabla de cifrado 4.10 – Tipo de cálculo estadístico,,12,,Periodo de retorno,,,,Operational,AI
+grib2/4/10/13,Tabla de cifrado 4.10 – Tipo de cálculo estadístico,,13,,Mediana,,,,Operational,AI
+grib2/4/10/14-99,Tabla de cifrado 4.10 – Tipo de cálculo estadístico,,14-99,,Reservadas,,,,Operational,AI
+grib2/4/10/100,Tabla de cifrado 4.10 – Tipo de cálculo estadístico,,100,,Severidad,,,,Operational,AI
+grib2/4/10/101,Tabla de cifrado 4.10 – Tipo de cálculo estadístico,,101,,Modo,,,,Operational,AI
+grib2/4/10/102,Tabla de cifrado 4.10 – Tipo de cálculo estadístico,,102,,Procesamiento de índices,((véase la nota 4)),146,,Operational,AI
+grib2/4/10/103-191,Tabla de cifrado 4.10 – Tipo de cálculo estadístico,,103-191,,Reservadas,,,,Operational,AI
 grib2/4/10/192-254,Tabla de cifrado 4.10 – Tipo de cálculo estadístico,,192-254,,Reservadas para uso local,,,,Operational,PDF
 grib2/4/10/255,Tabla de cifrado 4.10 – Tipo de cálculo estadístico,,255,,Valor faltante,,,,Operational,PDF

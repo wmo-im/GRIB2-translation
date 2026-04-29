@@ -1,4 +1,4 @@
-﻿ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translation_source
+ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/4/53/10,Parámetros con particiones para una superficie o capa horizontal en un momento dado,10,1,Categoría de parámetros,(véase la Tabla de cifrado 4.1),,4.1,,Operational,PDF
 grib2/4/53/11,Parámetros con particiones para una superficie o capa horizontal en un momento dado,11,1,Número de parámetros,(véase la Tabla de cifrado 4.2 y las notas 2 y 3),,4.2,,Operational,PDF
 grib2/4/53/12,Parámetros con particiones para una superficie o capa horizontal en un momento dado,12,1,Número de tabla de partición (PTN),(véanse las notas 1 y 3),,,,Operational,PDF

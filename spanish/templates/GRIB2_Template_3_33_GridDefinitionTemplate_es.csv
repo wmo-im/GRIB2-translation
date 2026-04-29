@@ -1,4 +1,4 @@
-﻿ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translation_source
+ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/3/33/15-81,Modelo de definición de la retícula 3.33 — Proyección conforme de Lambert con definición de los subdominios de modelización,15-81,67,Idéntico al Modelo de definición de la retícula 3.30,,,,,Operational,PDF
 grib2/3/33/82-85,Modelo de definición de la retícula 3.33 — Proyección conforme de Lambert con definición de los subdominios de modelización,82-85,4,Nux tamaño del subdominio de la predicción del modelo en dirección x (número de puntos de la retícula),,,,,Operational,PDF
 grib2/3/33/86-89,Modelo de definición de la retícula 3.33 — Proyección conforme de Lambert con definición de los subdominios de modelización,86-89,4,Ncx anchura del área de acoplamiento en el dominio de la predicción en dirección x (número de puntos de la retícula),,,,,Operational,PDF

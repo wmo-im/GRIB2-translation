@@ -1,0 +1,9 @@
+ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
+grib2/4/103/0,Tipo de proximidad espacial,,0,,Círculo [m],((véase la nota 1)),152,,Operational,AI
+grib2/4/103/1,Tipo de proximidad espacial,,1,,"Rectángulo [m,m]",((véase la nota 1)),152,,Operational,AI
+grib2/4/103/2,Tipo de proximidad espacial,,2,,Cuadrado [m],((véase la nota 1)),152,,Operational,AI
+grib2/4/103/3,Tipo de proximidad espacial,,3,,"Cuña [m,grado,grado]",((véase la nota 1)),152,,Operational,AI
+grib2/4/103/4,Tipo de proximidad espacial,,4,,"Extensión de cajas de cuadrícula centradas alrededor de la caja de cuadrícula i,j [x,y]",((véase la nota 1)),152,,Operational,AI
+grib2/4/103/5-191,Tipo de proximidad espacial,,5-191,,Reservadas,,,,Operational,AI
+grib2/4/103/192-254,Tipo de proximidad espacial,,192-254,,Reservadas para uso local,,,,Operational,AI
+grib2/4/103/255,Tipo de proximidad espacial,,255,,Valor faltante,,,,Operational,AI

@@ -1,4 +1,4 @@
-﻿ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translation_source
+ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/5/2/12-21,"Modelo de representación de los datos 5.2 – Datos en los puntos de la retícula, empaquetado complejo",12-21,10,Idéntico al Modelo de representación de los datos 5.0,,,,,Operational,PDF
 grib2/5/2/22,"Modelo de representación de los datos 5.2 – Datos en los puntos de la retícula, empaquetado complejo",22,1,Método de separación en grupos,(véase la Tabla de cifrado 5.4),,5.4,,Operational,PDF
 grib2/5/2/23,"Modelo de representación de los datos 5.2 – Datos en los puntos de la retícula, empaquetado complejo",23,1,Tratamiento de los valores faltantes,(véase la Tabla de cifrado 5.5),,5.5,,Operational,PDF

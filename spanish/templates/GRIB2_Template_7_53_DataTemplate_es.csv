@@ -1,3 +1,3 @@
 ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translation_source
-grib2/7/53/6-(5+IxTS),"Datos espectrales para modelos de área limitada, empaquetado complejo",6-(5+IxTS),,Valores de datos procedentes de la subserie desempaquetada (valores de coma flotante IEEE para octetos I),,,,,Operational,PDF
+grib2/7/53/6-(5+IxTS),"Datos espectrales para modelos de área limitada, empaquetado complejo",6-(5+IxTS) ,,Valores de datos procedentes de la subserie desempaquetada (valores de coma flotante IEEE para octetos I),,,,,Operational,PDF
 grib2/7/53/(6+IxTS)-nn,"Datos espectrales para modelos de área limitada, empaquetado complejo",(6+IxTS)-nn,,"Valores de datos binarios - cadena binaria, con cada valor de dato (ajustado) no comprendido en la subserie desempaquetada",,,,,Operational,PDF

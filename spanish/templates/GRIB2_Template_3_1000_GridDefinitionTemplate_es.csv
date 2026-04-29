@@ -1,4 +1,4 @@
-﻿ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translation_source
+ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/3/1000/15,Modelo de definición de la retícula 3.1000 – Retícula de sección transversal con puntos equidistantes en el eje horizontal,15,1,Forma de la Tierra,véase la Tabla de cifrado 3.2,,3.2,,Experimental,PDF
 grib2/3/1000/16,Modelo de definición de la retícula 3.1000 – Retícula de sección transversal con puntos equidistantes en el eje horizontal,16,1,Factor de escala del radio de la Tierra esférica,,,,,Experimental,PDF
 grib2/3/1000/17-20,Modelo de definición de la retícula 3.1000 – Retícula de sección transversal con puntos equidistantes en el eje horizontal,17-20,4,Valor ajustado del radio de la Tierra esférica,,,,,Experimental,PDF
@@ -8,7 +8,7 @@ grib2/3/1000/26,Modelo de definición de la retícula 3.1000 – Retícula de se
 grib2/3/1000/27-30,Modelo de definición de la retícula 3.1000 – Retícula de sección transversal con puntos equidistantes en el eje horizontal,27-30,4,Valor ajustado del eje menor de la Tierra esferoidal achatada,,,,,Experimental,PDF
 grib2/3/1000/31-34,Modelo de definición de la retícula 3.1000 – Retícula de sección transversal con puntos equidistantes en el eje horizontal,31-34,4,Número de puntos horizontales,,,,,Experimental,PDF
 grib2/3/1000/35-38,Modelo de definición de la retícula 3.1000 – Retícula de sección transversal con puntos equidistantes en el eje horizontal,35-38,4,Ángulo de base del campo de producción inicial,véase la nota 1,,,,Experimental,PDF
-grib2/3/1000/39-42,Modelo de definición de la retícula 3.1000 – Retícula de sección transversal con puntos equidistantes en el eje horizontal,39-42,4,"Subdivisiones del ángulo de base empleadas para indicar las longitudes y latitudes extremas,",véase la nota 1,,,,Experimental,PDF
+grib2/3/1000/39-42,Modelo de definición de la retícula 3.1000 – Retícula de sección transversal con puntos equidistantes en el eje horizontal,39-42,4,Subdivisiones del ángulo de base empleadas para indicar las longitudes y latitudes extremas,véase la nota 1,,,,Experimental,PDF
 grib2/3/1000/43-46,Modelo de definición de la retícula 3.1000 – Retícula de sección transversal con puntos equidistantes en el eje horizontal,43-46,4,La1 - latitud del primer punto de la retícula,véase la nota 1,,,,Experimental,PDF
 grib2/3/1000/47-50,Modelo de definición de la retícula 3.1000 – Retícula de sección transversal con puntos equidistantes en el eje horizontal,47-50,4,Lo1 - longitud del primer punto de la retícula,véase la nota 1,,,,Experimental,PDF
 grib2/3/1000/51,Modelo de definición de la retícula 3.1000 – Retícula de sección transversal con puntos equidistantes en el eje horizontal,51,1,Modo de exploración,banderines - véase la Tabla de banderines 3.4,,,3.4,Experimental,PDF

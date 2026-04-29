@@ -1,0 +1,7 @@
+ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
+grib2/4/251/0,Fórmulas de dirección de onda y frecuencia,,0,,Secuencia no definida,,,,Operational,AI
+grib2/4/251/1,Fórmulas de dirección de onda y frecuencia,,1,,Secuencia geométrica,(Consulte la Nota 1.),192,,Operational,AI
+grib2/4/251/2,Fórmulas de dirección de onda y frecuencia,,2,,Secuencia aritmética,((véase la nota 2)),193,,Operational,AI
+grib2/4/251/3-191,Fórmulas de dirección de onda y frecuencia,,3-191,,Reservadas,,,,Operational,AI
+grib2/4/251/192-254,Fórmulas de dirección y frecuencia de ondas,,192-254,,Reservadas para uso local,,,,Operational,AI
+grib2/4/251/255,Fórmulas de dirección de onda y frecuencia,,255,,Valor faltante,,,,Operational,AI

@@ -6,6 +6,9 @@ grib2/0/0/3,"Campo de especialización de los datos procesados en el mensaje GRI
 grib2/0/0/4,"Campo de especialización de los datos procesados en el mensaje GRIB, número de la tabla maestra de la clave GRIB",,4,,Productos de meteorología espacial,,,,Operational,PDF
 grib2/0/0/5-9,"Campo de especialización de los datos procesados en el mensaje GRIB, número de la tabla maestra de la clave GRIB",,5-9,,Reservadas,,,,Operational,PDF
 grib2/0/0/10,"Campo de especialización de los datos procesados en el mensaje GRIB, número de la tabla maestra de la clave GRIB",,10,,Productos oceanográficos,,,,Operational,PDF
-grib2/0/0/11-191,"Campo de especialización de los datos procesados en el mensaje GRIB, número de la tabla maestra de la clave GRIB",,11-191,,Reservadas,,,,Operational,PDF
+grib2/0/0/11-19,"Campo de especialización de los datos procesados en el mensaje GRIB, número de la tabla maestra de la clave GRIB",,11-19,,Reservadas,,,,Operational,AI
+grib2/0/0/20,"Campo de especialización de los datos procesados en el mensaje GRIB, número de la tabla maestra de la clave GRIB",,20,,Impactos de salud y socioeconómicos,,,,Operational,AI
+grib2/0/0/21-190,"Campo de especialización de los datos procesados en el mensaje GRIB, número de la tabla maestra de la clave GRIB",,21-190,,Reservadas,,,,Operational,AI
+grib2/0/0/191,"Campo de especialización de los datos procesados en el mensaje GRIB, número de la tabla maestra de la clave GRIB",,191,,Parámetros computacionales,,,,Operational,AI
 grib2/0/0/192-254,"Campo de especialización de los datos procesados en el mensaje GRIB, número de la tabla maestra de la clave GRIB",,192-254,,Reservadas para uso local,,,,Operational,PDF
 grib2/0/0/255,"Campo de especialización de los datos procesados en el mensaje GRIB, número de la tabla maestra de la clave GRIB",,255,,Valor faltante,,,,Operational,PDF

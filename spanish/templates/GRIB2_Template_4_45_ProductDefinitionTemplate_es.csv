@@ -1,4 +1,4 @@
-﻿ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translation_source
+ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/4/45/10,"Modelo de definición del producto 4.45 – Predicción de conjunto individual, de control y perturbada, para una superficie o capa horizontal en un momento dado respecto de aerosoles",10,1,Categoría del parámetro,(véase la Tabla de cifrado 4.1),,4.1,,Operational,PDF
 grib2/4/45/11,"Modelo de definición del producto 4.45 – Predicción de conjunto individual, de control y perturbada, para una superficie o capa horizontal en un momento dado respecto de aerosoles",11,1,Número del parámetro,(véase la Tabla de cifrado 4.2),,4.2,,Operational,PDF
 grib2/4/45/12-13,"Modelo de definición del producto 4.45 – Predicción de conjunto individual, de control y perturbada, para una superficie o capa horizontal en un momento dado respecto de aerosoles",12-13,2,Tipo de aerosol,(véase la Tabla de cifrado 4.233),,4.233,,Operational,PDF

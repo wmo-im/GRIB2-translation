@@ -1,4 +1,4 @@
-﻿ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
+ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
 grib2/5/0/0,Tabla de cifrado 5.0 - Número del modelo de representación de los datos,,0,,"Datos en los puntos de la retícula, empaquetado simple",,,,Operational,PDF
 grib2/5/0/1,Tabla de cifrado 5.0 - Número del modelo de representación de los datos,,1,,"Valor de las matrices en los puntos de la retícula, empaquetado simple",,,,Experimental,PDF
 grib2/5/0/2,Tabla de cifrado 5.0 - Número del modelo de representación de los datos,,2,,"Datos en los puntos de la retícula, empaquetado complejo",,,,Operational,PDF
@@ -15,6 +15,8 @@ grib2/5/0/52,Tabla de cifrado 5.0 - Número del modelo de representación de los
 grib2/5/0/53,Tabla de cifrado 5.0 - Número del modelo de representación de los datos,,53,,"Datos espectrales para modelos de área limitada, empaquetado complejo",,,,Operational,PDF
 grib2/5/0/54-60,Tabla de cifrado 5.0 - Número del modelo de representación de los datos,,54-60,,Reservadas,,,,Operational,PDF
 grib2/5/0/61,Tabla de cifrado 5.0 - Número del modelo de representación de los datos,,61,,"Datos en los puntos de la retícula, empaquetado simple con precálculo logarítmico",,,,Experimental,PDF
-grib2/5/0/62-49151,Tabla de cifrado 5.0 - Número del modelo de representación de los datos,,62-49151,,Reservadas,,,,Operational,PDF
+grib2/5/0/62-199,Tabla de cifrado 5.0 - Número del modelo de representación de los datos,,62-199,,Reservadas,,,,Operational,AI
+grib2/5/0/200,Tabla de cifrado 5.0 - Número del modelo de representación de los datos,,200,,Empaquetado de longitud de ejecución con valores de nivel,,,,Operational,AI
+grib2/5/0/201-49151,Tabla de cifrado 5.0 - Número del modelo de representación de los datos,,201-49151,,Reservadas,,,,Operational,AI
 grib2/5/0/49152-65534,Tabla de cifrado 5.0 - Número del modelo de representación de los datos,,49152-65534,,Reservadas para uso local,,,,Operational,PDF
 grib2/5/0/65535,Tabla de cifrado 5.0 - Número del modelo de representación de los datos,,65535,,Valor faltante,,,,Operational,PDF

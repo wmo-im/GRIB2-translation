@@ -1,4 +1,4 @@
-﻿ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translation_source
+ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/4/71/10,"Modelo de definición del producto 4.71 – Procesamiento posterior de la predicción de conjunto individual, de control y perturbada, para una superficie o capa horizontal en un momento dado",10,1,Categoría del parámetro,(véase la Tabla de cifrado 4.1),,4.1,,Operational,PDF
 grib2/4/71/11,"Modelo de definición del producto 4.71 – Procesamiento posterior de la predicción de conjunto individual, de control y perturbada, para una superficie o capa horizontal en un momento dado",11,1,Número del parámetro,(véase la Tabla de cifrado 4.2),,4.2,,Operational,PDF
 grib2/4/71/12-13,"Modelo de definición del producto 4.71 – Procesamiento posterior de la predicción de conjunto individual, de control y perturbada, para una superficie o capa horizontal en un momento dado",12-13,2,Identificador del proceso de entrada,(véase la nota 1),,,,Operational,PDF

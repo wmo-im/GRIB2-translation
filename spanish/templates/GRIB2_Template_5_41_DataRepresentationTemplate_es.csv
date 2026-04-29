@@ -1,4 +1,4 @@
-﻿ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translation_source
+ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/5/41/12-15,"Datos en los puntos de la retícula, formato PNG (Portable Network Graphics)",12-15,4,Valor de referencia (R) (valor de coma flotante IEEE de 32 bits),,,,,Operational,PDF
 grib2/5/41/16-17,"Datos en los puntos de la retícula, formato PNG (Portable Network Graphics)",16-17,2,Factor de escala binario (E),,,,,Operational,PDF
 grib2/5/41/18-19,"Datos en los puntos de la retícula, formato PNG (Portable Network Graphics)",18-19,2,Factor de escala decimal (D),,,,,Operational,PDF

@@ -1,4 +1,4 @@
-﻿ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translation_source
+ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/4/1100/10,Modelo de definición del producto 4.1100 — Retícula tipo Hovmöller sin ninguna promediación ni proceso estadístico,10,1,Categoría del parámetro,(véase la Tabla de cifrado 4.1),,4.1,,Experimental,PDF
 grib2/4/1100/11,Modelo de definición del producto 4.1100 — Retícula tipo Hovmöller sin ninguna promediación ni proceso estadístico,11,1,Número del parámetro,(véase la Tabla de cifrado 4.2),,4.2,,Experimental,PDF
 grib2/4/1100/12,Modelo de definición del producto 4.1100 — Retícula tipo Hovmöller sin ninguna promediación ni proceso estadístico,12,1,Tipo del proceso de generación,(véase la Tabla de cifrado 4.3),,4.3,,Experimental,PDF

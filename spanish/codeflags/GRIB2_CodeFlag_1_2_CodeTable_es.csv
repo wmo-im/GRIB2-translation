@@ -3,6 +3,9 @@ grib2/1/2/0,Tabla de cifrado 1.2 – Significación de la hora de referencia,,0,
 grib2/1/2/1,Tabla de cifrado 1.2 – Significación de la hora de referencia,,1,,Comienzo de la previsión,,,,Operational,PDF
 grib2/1/2/2,Tabla de cifrado 1.2 – Significación de la hora de referencia,,2,,Hora de verificación de la previsión,,,,Operational,PDF
 grib2/1/2/3,Tabla de cifrado 1.2 – Significación de la hora de referencia,,3,,Hora de la observación,,,,Operational,PDF
-grib2/1/2/4-191,Tabla de cifrado 1.2 – Significación de la hora de referencia,,4–191,,Reservadas,,,,Operational,PDF
-grib2/1/2/192-254,Tabla de cifrado 1.2 – Significación de la hora de referencia,,192–254,,Reservadas para uso local,,,,Operational,PDF
+grib2/1/2/4,Significación de la hora de referencia,,4,,Hora local,,,,Operational,AI
+grib2/1/2/5,Significación de la hora de referencia,,5,,Inicio de simulación,((véase la nota 1)),150,,Operational,AI
+grib2/1/2/6,Significación de la hora de referencia,,6,,Inicio de la asimilación de datos,,,,Operational,AI
+grib2/1/2/7-191,Significación de la hora de referencia,,7-191,,Reservadas,,,,Operational,AI
+grib2/1/2/192-254,Tabla de cifrado 1.2 – Significación de la hora de referencia,,192-254,,Reservadas para uso local,,,,Operational,PDF
 grib2/1/2/255,Tabla de cifrado 1.2 – Significación de la hora de referencia,,255,,Valor faltante,,,,Operational,PDF

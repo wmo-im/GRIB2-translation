@@ -1,34 +1,35 @@
-﻿ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
-grib2/4/2/2/3/0,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 2 — Productos para la superficie terrestre, categoría de parámetros 3: productos relativos a los suelos",0,,Tipo de suelo,,,Tabla de cifrado 4.213,Operational,translation_source
-grib2/4/2/2/3/1,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 2 — Productos para la superficie terrestre, categoría de parámetros 3: productos relativos a los suelos",1,,Temperatura de la capa superior del suelo,,,K,Deprecated,PDF
-grib2/4/2/2/3/2,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 2 — Productos para la superficie terrestre, categoría de parámetros 3: productos relativos a los suelos",2,,Contenido de humedad de la capa superior del suelo,,,kg m-3,Deprecated,PDF
-grib2/4/2/2/3/3,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 2 — Productos para la superficie terrestre, categoría de parámetros 3: productos relativos a los suelos",3,,Contenido de humedad de la capa inferior del suelo,,,kg m-3,Deprecated,PDF
-grib2/4/2/2/3/4,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 2 — Productos para la superficie terrestre, categoría de parámetros 3: productos relativos a los suelos",4,,Temperatura de la capa inferior del suelo,,,K,Deprecated,PDF
-grib2/4/2/2/3/5,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 2 — Productos para la superficie terrestre, categoría de parámetros 3: productos relativos a los suelos",5,,Proporción volumétrica líquida del suelo (sin congelación),,,Humedad,Deprecated,PDF
-grib2/4/2/2/3/6,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 2 — Productos para la superficie terrestre, categoría de parámetros 3: productos relativos a los suelos",6,,Número de capas de suelo en zona radicular,,,Numérica,Operational,PDF
-grib2/4/2/2/3/7,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 2 — Productos para la superficie terrestre, categoría de parámetros 3: productos relativos a los suelos",7,,Aparición de esfuerzo de transpiración (humedad del suelo),,,Proporción,Deprecated,PDF
-grib2/4/2/2/3/8,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 2 — Productos para la superficie terrestre, categoría de parámetros 3: productos relativos a los suelos",8,,Cese de evaporación directa (humedad del suelo),,,Proporción,Deprecated,PDF
-grib2/4/2/2/3/9,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 2 — Productos para la superficie terrestre, categoría de parámetros 3: productos relativos a los suelos",9,,Porosidad del suelo,,,Proporción,Deprecated,PDF
-grib2/4/2/2/3/10,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 2 — Productos para la superficie terrestre, categoría de parámetros 3: productos relativos a los suelos",10,,Humedad volumétrica líquida del suelo (sin congelación),,,m-3 m-3,Operational,PDF
-grib2/4/2/2/3/11,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 2 — Productos para la superficie terrestre, categoría de parámetros 3: productos relativos a los suelos",11,,Aparición de esfuerzo de transpiración volumétrica (humedad del suelo),,,m-3 m-3,Operational,PDF
-grib2/4/2/2/3/12,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 2 — Productos para la superficie terrestre, categoría de parámetros 3: productos relativos a los suelos",12,,Aparición de esfuerzo de transpiración (humedad del suelo),,,kg m-3,Operational,PDF
-grib2/4/2/2/3/13,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 2 — Productos para la superficie terrestre, categoría de parámetros 3: productos relativos a los suelos",13,,Cese de evaporación directa volumétrica (humedad del suelo),,,m-3 m-3,Operational,PDF
-grib2/4/2/2/3/14,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 2 — Productos para la superficie terrestre, categoría de parámetros 3: productos relativos a los suelos",14,,Cese de evaporación directa (humedad del suelo),,,kg m-3,Operational,PDF
-grib2/4/2/2/3/15,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 2 — Productos para la superficie terrestre, categoría de parámetros 3: productos relativos a los suelos",15,,Porosidad del suelo,,,m-3 m-3,Operational,PDF
-grib2/4/2/2/3/16,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 2 — Productos para la superficie terrestre, categoría de parámetros 3: productos relativos a los suelos",16,,Saturación volumétrica de la humedad del suelo,,,m-3 m-3,Operational,PDF
-grib2/4/2/2/3/17,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 2 — Productos para la superficie terrestre, categoría de parámetros 3: productos relativos a los suelos",17,,Saturación de la humedad del suelo,,,kg m-3,Operational,PDF
-grib2/4/2/2/3/18,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 2 — Productos para la superficie terrestre, categoría de parámetros 3: productos relativos a los suelos",18,,Temperatura del suelo,,,K,Operational,PDF
-grib2/4/2/2/3/19,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 2 — Productos para la superficie terrestre, categoría de parámetros 3: productos relativos a los suelos",19,,Humedad del suelo,,,kg m-3,Operational,PDF
-grib2/4/2/2/3/20,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 2 — Productos para la superficie terrestre, categoría de parámetros 3: productos relativos a los suelos",20,,Humedad del suelo integrada en columna,,,kg m-2,Operational,PDF
-grib2/4/2/2/3/21,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 2 — Productos para la superficie terrestre, categoría de parámetros 3: productos relativos a los suelos",21,,Hielo del suelo,,,kg m-3,Operational,PDF
-grib2/4/2/2/3/22,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 2 — Productos para la superficie terrestre, categoría de parámetros 3: productos relativos a los suelos",22,,Hielo en el suelo integrado en columna,,,kg m-2,Operational,PDF
-grib2/4/2/2/3/23,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 2 — Productos para la superficie terrestre, categoría de parámetros 3: productos relativos a los suelos",23,,Agua en estado líquido en la capa total de nieve,,,Kg m-2,Operational,PDF
-grib2/4/2/2/3/24,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 2 — Productos para la superficie terrestre, categoría de parámetros 3: productos relativos a los suelos",24,,Índice de helada,,,K día-1,Operational,PDF
-grib2/4/2/2/3/25,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 2 — Productos para la superficie terrestre, categoría de parámetros 3: productos relativos a los suelos",25,,Espesor de la nieve en distintas bandas de elevación,,,kg m-2,Operational,PDF
-grib2/4/2/2/3/26,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 2 — Productos para la superficie terrestre, categoría de parámetros 3: productos relativos a los suelos",26,,Flujo de calor del suelo,,,W m-2,Operational,PDF
-grib2/4/2/2/3/27,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 2 — Productos para la superficie terrestre, categoría de parámetros 3: productos relativos a los suelos",27,,Profundidad del suelo,,,m,Operational,PDF
-grib2/4/2/2/3/28,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 2 — Productos para la superficie terrestre, categoría de parámetros 3: productos relativos a los suelos",28,,Temperatura de la nieve,,,K,Operational,PDF
-grib2/4/2/2/3/29,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 2 — Productos para la superficie terrestre, categoría de parámetros 3: productos relativos a los suelos",29,,Temperatura del hielo,,,K,Operational,PDF
-grib2/4/2/2/3/30-191,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 2 — Productos para la superficie terrestre, categoría de parámetros 3: productos relativos a los suelos",30-191,,Reservados,,,,Operational,PDF
-grib2/4/2/2/3/192-254,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 2 — Productos para la superficie terrestre, categoría de parámetros 3: productos relativos a los suelos",192-254,,Reservados para uso local,,,,Operational,PDF
-grib2/4/2/2/3/255,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Campo de especialización 2 — Productos para la superficie terrestre, categoría de parámetros 3: productos relativos a los suelos",255,,Valor faltante,,,,Operational,PDF
+ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
+grib2/4/2/2/3/0,,,0,,,,,,Operational,,"AI"
+grib2/4/2/2/3/1,,,1,,,,,,Deprecated,,"AI"
+grib2/4/2/2/3/2,,,2,,,,,,Deprecated,,"AI"
+grib2/4/2/2/3/3,,,3,,,,,,Deprecated,,"AI"
+grib2/4/2/2/3/4,,,4,,,,,,Deprecated,,"AI"
+grib2/4/2/2/3/5,,,5,,,,,,Deprecated,,"AI"
+grib2/4/2/2/3/6,,,6,,,,,,Operational,,"AI"
+grib2/4/2/2/3/7,,,7,,,,,,Deprecated,,"AI"
+grib2/4/2/2/3/8,,,8,,,,,,Deprecated,,"AI"
+grib2/4/2/2/3/9,,,9,,,,,,Deprecated,,"AI"
+grib2/4/2/2/3/10,,,10,,,,,,Operational,,"AI"
+grib2/4/2/2/3/11,,,11,,,,,,Operational,,"AI"
+grib2/4/2/2/3/12,,,12,,,,,,Operational,,"AI"
+grib2/4/2/2/3/13,,,13,,,,,,Operational,,"AI"
+grib2/4/2/2/3/14,,,14,,,,,,Operational,,"AI"
+grib2/4/2/2/3/15,,,15,,,,,,Operational,,"AI"
+grib2/4/2/2/3/16,,,16,,,,,,Operational,,"AI"
+grib2/4/2/2/3/17,,,17,,,,,,Operational,,"AI"
+grib2/4/2/2/3/18,,,18,,,,,,Operational,,"AI"
+grib2/4/2/2/3/19,,,19,,,,,,Operational,,"AI"
+grib2/4/2/2/3/20,,,20,,,,,,Operational,,"AI"
+grib2/4/2/2/3/21,,,21,,,,,,Operational,,"AI"
+grib2/4/2/2/3/22,,,22,,,,,,Operational,,"AI"
+grib2/4/2/2/3/23,,,23,,,,,,Operational,,"AI"
+grib2/4/2/2/3/24,,,24,,,,,,Operational,,"AI"
+grib2/4/2/2/3/25,,,25,,,,,,Operational,,"AI"
+grib2/4/2/2/3/26,,,26,,,,,,Operational,,"AI"
+grib2/4/2/2/3/27,,,27,,,,,,Operational,,"AI"
+grib2/4/2/2/3/28,,,28,,,,,,Operational,,"AI"
+grib2/4/2/2/3/29,,,29,,,,,,Operational,,"AI"
+grib2/4/2/2/3/30,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Disciplina de productos 2 - Productos de la superficie terrestre, categoría de parámetros 3: productos de suelo",30,,Índice de humedad del suelo,,,Numérica,Operational,AI
+grib2/4/2/2/3/31-191,Tabla de cifrado 4.2 — Número de parámetros por campo de especialización y categoría de parámetros,"Disciplina de producto 2 - Productos de la superficie terrestre, categoría de parámetro 3: productos de suelo",31-191,,Reservadas,,,,Operational,AI
+grib2/4/2/2/3/192-254,,,192-254,,,,,,Operational,,"AI"
+grib2/4/2/2/3/255,,,255,,,,,,Operational,,"AI"

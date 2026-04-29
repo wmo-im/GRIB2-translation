@@ -1,0 +1,22 @@
+ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translation_source
+grib2/4/50/10,Análisis o predicción para una superficie o capa horizontal en un momento dado respecto de aerosoles,10,1,Categoría del parámetro,((véase la Tabla de cifrado 4.1)),,4.1,,Operational,AI
+grib2/4/50/11,Análisis o predicción para una superficie o capa horizontal en un momento dado respecto de aerosoles,11,1,Número del parámetro,((véase la Tabla de cifrado 4.2)),,4.2,,Operational,AI
+grib2/4/50/12-13,Análisis o predicción para una superficie o capa horizontal en un momento dado respecto de aerosoles,12-13,2,Tipo de aerosol,((véase la Tabla de cifrado 4.233)),,4.233,,Operational,AI
+grib2/4/50/14,Análisis o predicción para una superficie o capa horizontal en un momento dado respecto de aerosoles,14,1,Tipo de intervalo para los primeros y segundos tamaños,((véase la Tabla de cifrado 4.91)),,4.91,,Operational,AI
+grib2/4/50/15,Análisis o predicción para una superficie o capa horizontal en un momento dado respecto de aerosoles,15,1,Factor de escala del primer tamaño,,,,,Operational,AI
+grib2/4/50/16-19,Análisis o predicción para una superficie o capa horizontal en un momento dado respecto de aerosoles,16-19,4,Valor a escala del primer tamaño en metros,,,,,Operational,AI
+grib2/4/50/20,Análisis o predicción para una superficie o capa horizontal en un momento dado respecto de aerosoles,20,1,Factor de escala del segundo tamaño,,,,,Operational,AI
+grib2/4/50/21-24,Análisis o predicción para una superficie o capa horizontal en un momento dado respecto de aerosoles,21-24,4,Valor a escala del segundo tamaño en metros,,,,,Operational,AI
+grib2/4/50/25,Análisis o predicción para una superficie o capa horizontal en un momento dado respecto de aerosoles,25,1,Tipo de proceso de producción,((véase la Tabla de cifrado 4.3)),,4.3,,Operational,AI
+grib2/4/50/26,Análisis o predicción para una superficie o capa horizontal en un momento dado respecto de aerosoles,26,1,Identificador del proceso de producción de base (definido por el centro de origen),,,,,Operational,AI
+grib2/4/50/27,Análisis o predicción para una superficie o capa horizontal en un momento dado respecto de aerosoles,27,1,Identificador de proceso de producción de análisis o predicciones (definido por el centro de origen),,,,,Operational,AI
+grib2/4/50/28-29,Análisis o predicción para una superficie o capa horizontal en un momento dado respecto de aerosoles,28-29,2,Límite (horas) de recogida de datos de observación después de la hora de referencia,((véase la nota)),33,,,Operational,AI
+grib2/4/50/30,Análisis o predicción para una superficie o capa horizontal en un momento dado respecto de aerosoles,30,1,Límite (minutos) de recogida de datos de observación después de la hora de referencia,,,,,Operational,AI
+grib2/4/50/31,Análisis o predicción para una superficie o capa horizontal en un momento dado respecto de aerosoles,31,1,Indicador de la unidad del intervalo de tiempo,((véase la Tabla de cifrado 4.4)),,4.4,,Operational,AI
+grib2/4/50/32-35,Análisis o predicción para una superficie o capa horizontal en un momento dado respecto de aerosoles,32-35,4,"Hora de la predicción, en unidades definidas mediante el octeto 31",,,,,Operational,AI
+grib2/4/50/36,Análisis o predicción para una superficie o capa horizontal en un momento dado respecto de aerosoles,36,1,Tipo de la primera superficie especificada,((véase la Tabla de cifrado 4.5)),,4.5,,Operational,AI
+grib2/4/50/37,Análisis o predicción para una superficie o capa horizontal en un momento dado respecto de aerosoles,37,1,Factor de escala de la primera superficie especificada,,,,,Operational,AI
+grib2/4/50/38-41,Análisis o predicción para una superficie o capa horizontal en un momento dado respecto de aerosoles,38-41,4,Valor ajustado de la primera superficie especificada,,,,,Operational,AI
+grib2/4/50/42,Análisis o predicción para una superficie o capa horizontal en un momento dado respecto de aerosoles,42,1,Tipo de segunda superficie fija,((véase la Tabla de cifrado 4.5)),,4.5,,Operational,AI
+grib2/4/50/43,Análisis o predicción para una superficie o capa horizontal en un momento dado respecto de aerosoles,43,1,Factor de escala de la segunda superficie especificada,,,,,Operational,AI
+grib2/4/50/44-47,Análisis o predicción para una superficie o capa horizontal en un momento dado respecto de aerosoles,44-47,4,Valor ajustado de la segunda superficie especificada,,,,,Operational,AI

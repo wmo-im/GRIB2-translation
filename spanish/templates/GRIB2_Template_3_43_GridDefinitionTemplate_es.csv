@@ -1,4 +1,4 @@
-﻿ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translation_source
+ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/3/43/15-72,Modelo de definición de la retícula 3.43 — Retícula gausiana de latitud/longitud después de la dilatación y la rotación,15-72,58,Idéntico al Modelo de definición de la retícula 3.40,(véase la nota 1),,,,Operational,PDF
 grib2/3/43/73-76,Modelo de definición de la retícula 3.43 — Retícula gausiana de latitud/longitud después de la dilatación y la rotación,73-76,4,Latitud del polo sur de la proyección,,,,,Operational,PDF
 grib2/3/43/77-80,Modelo de definición de la retícula 3.43 — Retícula gausiana de latitud/longitud después de la dilatación y la rotación,77-80,4,Longitud del polo sur de la proyección,,,,,Operational,PDF

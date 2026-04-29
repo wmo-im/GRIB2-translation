@@ -4,6 +4,11 @@ grib2/4/6/1,Tabla de cifrado 4.6 – Tipo de predicción por conjuntos,,1,,Predi
 grib2/4/6/2,Tabla de cifrado 4.6 – Tipo de predicción por conjuntos,,2,,Predicción con perturbación negativa,,,,Operational,PDF
 grib2/4/6/3,Tabla de cifrado 4.6 – Tipo de predicción por conjuntos,,3,,Predicción con perturbación positiva,,,,Operational,PDF
 grib2/4/6/4,Tabla de cifrado 4.6 – Tipo de predicción por conjuntos,,4,,Predicción multimodelo,,,,Operational,PDF
-grib2/4/6/5-191,Tabla de cifrado 4.6 – Tipo de predicción por conjuntos,,5-191,,Reservadas,,,,Operational,PDF
+grib2/4/6/5,Tabla de cifrado 4.6 – Tipo de predicción por conjuntos,,5,,Pronóstico no perturbado,,,,Operational,AI
+grib2/4/6/6,Tabla de cifrado 4.6 – Tipo de predicción por conjuntos,,6,,Pronóstico perturbado,,,,Operationaal,AI
+grib2/4/6/7,Tabla de cifrado 4.6 – Tipo de predicción por conjuntos,,7,,Perturbaciones de condiciones iniciales,(Consulte la Nota 1.),160,,Operational,AI
+grib2/4/6/8,Tabla de cifrado 4.6 – Tipo de predicción por conjuntos,,8,,Perturbaciones de física del modelo,((véase la nota 2)),165,,Operational,AI
+grib2/4/6/9,Tabla de cifrado 4.6 – Tipo de predicción por conjuntos,,9,,Condiciones iniciales y perturbaciones de la física del modelo,((véase la nota 3)),161,,Operational,AI
+grib2/4/6/10-191,Tabla de cifrado 4.6 – Tipo de predicción por conjuntos,,10-191,,Reservadas,,,,Operational,AI
 grib2/4/6/192-254,Tabla de cifrado 4.6 – Tipo de predicción por conjuntos,,192-254,,Reservadas para uso local,,,,Operational,PDF
 grib2/4/6/255,Tabla de cifrado 4.6 – Tipo de predicción por conjuntos,,255,,Valor faltante,,,,Operational,PDF

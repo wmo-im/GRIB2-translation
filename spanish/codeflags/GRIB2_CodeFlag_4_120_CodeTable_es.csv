@@ -1,0 +1,18 @@
+ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
+grib2/4/120/0,Puntuaciones de verificación,,0,,Error medio,,,,Operational,AI
+grib2/4/120/1,Puntuaciones de verificación,,1,,Error cuadrático medio raíz,,,,Operational,AI
+grib2/4/120/2,Puntuaciones de verificación,,2,,Puntaje de probabilidad clasificada continua (CRPS),,,,Operational,AI
+grib2/4/120/3,Puntuaciones de verificación,,3,,Puntuación de probabilidad clasificada continua justa,,,,Operational,AI
+grib2/4/120/4,Puntajes de verificación,,4,,Puntaje continuo de ignorancia logarítmica,,,,Operational,AI
+grib2/4/120/5,Puntuaciones de verificación,,5,,Puntuación justa continua de ignorancia logarítmica,,,,Operational,AI
+grib2/4/120/6,Puntuaciones de verificación,,6,,Puntuación de probabilidad clasificada,,,,Operational,AI
+grib2/4/120/7-99,Puntuaciones de verificación,,7-99,,Reservado para uso futuro,,,,Operational,AI
+grib2/4/120/100,Puntuaciones de verificación,,100,,Tabla de contingencia (determinística) - aciertos,,,,Operational,AI
+grib2/4/120/101,Puntuaciones de verificación,,101,,Tabla de contingencia (determinística) - falsas alarmas,,,,Operational,AI
+grib2/4/120/102,Puntuaciones de verificación,,102,,Tabla de contingencia (determinística) - errores,,,,Operational,AI
+grib2/4/120/103,Puntuaciones de verificación,,103,,Tabla de contingencia (determinística) - negativos correctos,,,,Operational,AI
+grib2/4/120/104,Puntuaciones de verificación,,104,,Tabla de contingencia (probabilística) - Pronóstico por n miembros y observado,,,,Operational,AI
+grib2/4/120/105,Puntuaciones de verificación,,105,,Tabla de contingencia (probabilística) - Pronóstico por n miembros y no observado,,,,Operational,AI
+grib2/4/120/106-62999,Puntuaciones de verificación,,106-62999,,Reservadas,,,,Operational,AI
+grib2/4/120/63000-65534,Puntuaciones de verificación,,63000-65534,,Reservadas para uso local,,,,Operational,AI
+grib2/4/120/65535,Puntuaciones de verificación,,65535,,Valor faltante,,,,Operational,AI

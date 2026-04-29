@@ -1,4 +1,4 @@
-﻿ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translation_source
+ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/5/42/12-15,Datos de puntos de retícula — Compresión sin pérdidas recomendada por el Comité Consultivo en Sistemas de Datos Espaciales (CCSDS),12-15,4,Valor de referencia (R) (valor de coma flotante IEEE de 32 bits),,,,,Operational,PDF
 grib2/5/42/16-17,Datos de puntos de retícula — Compresión sin pérdidas recomendada por el Comité Consultivo en Sistemas de Datos Espaciales (CCSDS),16-17,2,Factor de escala binario (E),,,,,Operational,PDF
 grib2/5/42/18-19,Datos de puntos de retícula — Compresión sin pérdidas recomendada por el Comité Consultivo en Sistemas de Datos Espaciales (CCSDS),18-19,2,Factor de escala decimal (D),,,,,Operational,PDF

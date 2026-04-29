@@ -2,6 +2,9 @@ ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,no
 grib2/3/8/0,Tabla de cifrado 3.8 — Posición de los puntos de la retícula,,0,,Puntos de la retícula situados en los vértices de los triángulos,,,,Operational,PDF
 grib2/3/8/1,Tabla de cifrado 3.8 — Posición de los puntos de la retícula,,1,,Puntos de la retícula situados en los centros de los triángulos,,,,Operational,PDF
 grib2/3/8/2,Tabla de cifrado 3.8 — Posición de los puntos de la retícula,,2,,Puntos de la retícula en el centro de los lados de los triángulos,,,,Operational,PDF
-grib2/3/8/3-191,Tabla de cifrado 3.8 — Posición de los puntos de la retícula,,3-191,,Reservadas,,,,Operational,PDF
+grib2/3/8/3,Posición de los puntos de la retícula,,3,,Puntos de la cuadrícula en los vértices de la forma,,,,Operational,AI
+grib2/3/8/4,Posición de los puntos de la retícula,,4,,Puntos de la cuadrícula en el centro de las formas,,,,Operational,AI
+grib2/3/8/5,Posición de los puntos de la retícula,,5,,Puntos de la cuadrícula en los puntos medios de los lados de la forma,,,,Operational,AI
+grib2/3/8/6-191,Posición de los puntos de la retícula,,6-191,,Reservadas,,,,Operational,AI
 grib2/3/8/192-254,Tabla de cifrado 3.8 — Posición de los puntos de la retícula,,192-254,,Reservadas para uso local,,,,Operational,PDF
 grib2/3/8/255,Tabla de cifrado 3.8 — Posición de los puntos de la retícula,,255,,Valor faltante,,,,Operational,PDF

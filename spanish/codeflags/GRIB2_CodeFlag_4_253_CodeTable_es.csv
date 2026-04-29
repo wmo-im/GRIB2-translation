@@ -1,0 +1,4 @@
+ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
+grib2/4/253/0,Índice de peligro,,0,,Indefinida,,,,Operational,AI
+grib2/4/253/1-65534,Índice de peligro,,1-65534,,Reservadas,((véase la nota 1)),167,,Operational,AI
+grib2/4/253/65535,Índice de peligro,,65535,,Valor faltante,,,,Operational,AI

@@ -1,0 +1,7 @@
+ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
+grib2/4/122/0,Tipo de argumentos adicionales para la puntuación de verificación,,0,,Valor umbral fijo,,,,Operational,AI
+grib2/4/122/1,Tipo de argumentos adicionales para la puntuación de verificación,,1,,Umbral especificado como un cuantil de la climatología,,,,Operational,AI
+grib2/4/122/2,Tipo de argumentos adicionales para la puntuación de verificación,,2,,Umbral especificado como un múltiplo de la desviación estándar,,,,Operational,AI
+grib2/4/122/3-191,Tipo de argumentos adicionales para la puntuación de verificación,,3-191,,Reservadas,,,,Operational,AI
+grib2/4/122/192-254,Tipo de argumentos adicionales para la puntuación de verificación,,192-254,,Reservadas para uso local,,,,Operational,AI
+grib2/4/122/255,Tipo de argumentos adicionales para la puntuación de verificación,,255,,Valor faltante,,,,Operational,AI

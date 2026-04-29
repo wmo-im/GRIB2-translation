@@ -27,6 +27,22 @@ grib2/4/238/24,Tabla de cifrado 4.238 – Fuentes o sumideros,,24,,Buques,,,,Ope
 grib2/4/238/25,Tabla de cifrado 4.238 – Fuentes o sumideros,,25,,Desechos (sólidos y agua),,,,Operational,PDF
 grib2/4/238/26,Tabla de cifrado 4.238 – Fuentes o sumideros,,26,,Transporte por carretera,,,,Operational,PDF
 grib2/4/238/27,Tabla de cifrado 4.238 – Fuentes o sumideros,,27,,Transporte por todo terreno,,,,Operational,PDF
-grib2/4/238/28-191,Tabla de cifrado 4.238 – Fuentes o sumideros,,28-191,,Reservadas,,,,Operational,PDF
+grib2/4/238/28,Fuentes o sumideros,,28,,Planta de energía nuclear,,,,Operational,AI
+grib2/4/238/29,Fuentes o sumideros,,29,,Arma nuclear,,,,Operational,AI
+grib2/4/238/30,Fuentes o sumideros,,30,,Calefacción de edificios comerciales,,,,Operational,AI
+grib2/4/238/31,Fuentes o sumideros,,31,,Calefacción residencial,,,,Operational,AI
+grib2/4/238/32,Fuentes o sumideros,,32,,Refinerías de petróleo e industria de transformación,,,,Operational,AI
+grib2/4/238/33,Fuentes o sumideros,,33,,Producción de gas,,,,Operational,AI
+grib2/4/238/34,Fuentes o sumideros,,34,,Vegetación,,,,Operational,AI
+grib2/4/238/35,Fuentes o sumideros,,35,,Quema de biomasa,,,,Operational,AI
+grib2/4/238/36,Fuentes o sumideros,,36,,Asentamientos,,,,Operational,AI
+grib2/4/238/37,Fuentes o sumideros,,37,,Suelo,,,,Operational,AI
+grib2/4/238/38,Fuentes o sumideros,,38,,Animales salvajes,,,,Operational,AI
+grib2/4/238/39,Fuentes o sumideros,,39,,Sabana,,,,Operational,AI
+grib2/4/238/40,Fuentes o sumideros,,40,,Bosque tropical,,,,Operational,AI
+grib2/4/238/41,Fuentes o sumideros,,41,,Bosque boreal,,,,Operational,AI
+grib2/4/238/42,Fuentes o sumideros,,42,,Turbera,,,,Operational,AI
+grib2/4/238/43,Fuentes o sumideros,,43,,Deforestación,,,,Operational,AI
+grib2/4/238/44-191,Fuentes o sumideros,,44-191,,Reservadas,,,,Operational,AI
 grib2/4/238/192-254,Tabla de cifrado 4.238 – Fuentes o sumideros,,192-254,,Reservadas para uso local,,,,Operational,PDF
 grib2/4/238/255,Tabla de cifrado 4.238 – Fuentes o sumideros,,255,,Faltante,,,,Operational,PDF

@@ -1,4 +1,4 @@
-﻿ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translation_source
+ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/4/88/10,Modelo de definición del producto 4.88 – Análisis o predicción en una superficie o capa horizontal a una hora local,10,1,Categoría de parámetro,(véase la Tabla de cifrado 4.1),,4.1,,Operational,PDF
 grib2/4/88/11,Modelo de definición del producto 4.88 – Análisis o predicción en una superficie o capa horizontal a una hora local,11,1,Número del parámetro,(véase la Tabla de cifrado 4.2),,4.2,,Operational,PDF
 grib2/4/88/12,Modelo de definición del producto 4.88 – Análisis o predicción en una superficie o capa horizontal a una hora local,12,1,Tipo de proceso de producción,(véase la Tabla de cifrado 4.3),,4.3,,Operational,PDF
@@ -12,7 +12,7 @@ grib2/4/88/22,Modelo de definición del producto 4.88 – Análisis o predicció
 grib2/4/88/23-26,Modelo de definición del producto 4.88 – Análisis o predicción en una superficie o capa horizontal a una hora local,23-26,4,Valor ajustado de la segunda superficie especificada,,,,,Operational,PDF
 grib2/4/88/27,Modelo de definición del producto 4.88 – Análisis o predicción en una superficie o capa horizontal a una hora local,27,1,Método utilizado para obtener los valores de los campos de datos a la hora local especificada en la sección 1,(véase la Tabla de cifrado 4.248),,4.248,,Operational,PDF
 grib2/4/88/28,Modelo de definición del producto 4.88 – Análisis o predicción en una superficie o capa horizontal a una hora local,28,1,n - Número de análisis o predicción utilizado para crear el campo de datos compuesto a la hora local especificada en la sección 1 (n>=1),,,,,Operational,PDF
-grib2/4/88//1,Modelo de definición del producto 4.88 – Análisis o predicción en una superficie o capa horizontal a una hora local,,,Octetos 29-46  Especificación del análisis o la predicción utilizados en el cálculo (n=1),,,,,Operational,PDF
+grib2/4/88//1,Modelo de definición del producto 4.88 – Análisis o predicción en una superficie o capa horizontal a una hora local,,,Octetos 29-46 Especificación del análisis o la predicción utilizados en el cálculo (n=1),,,,,Operational,PDF
 grib2/4/88/29-30,Modelo de definición del producto 4.88 – Análisis o predicción en una superficie o capa horizontal a una hora local,29-30,2,Año del análisis o la predicción utilizados en el cálculo,,,,,Operational,PDF
 grib2/4/88/31,Modelo de definición del producto 4.88 – Análisis o predicción en una superficie o capa horizontal a una hora local,31,1,Mes del análisis o la predicción utilizados en el cálculo,,,,,Operational,PDF
 grib2/4/88/32,Modelo de definición del producto 4.88 – Análisis o predicción en una superficie o capa horizontal a una hora local,32,1,Día del análisis o la predicción utilizados en el cálculo,,,,,Operational,PDF

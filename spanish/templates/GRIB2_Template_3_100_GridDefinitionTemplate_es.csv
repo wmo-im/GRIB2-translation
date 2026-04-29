@@ -1,4 +1,4 @@
-﻿ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translation_source
+ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/3/100/15,"Modelo de definición de la retícula 3.100 — Retícula triangular, basada en un icosaedro (véase la parte B, adjunto I de GRIB)",15,1,n2 - exponente de 2 para el número de intervalos sobre los costados del triángulo principal,,,,,Operational,PDF
 grib2/3/100/16,"Modelo de definición de la retícula 3.100 — Retícula triangular, basada en un icosaedro (véase la parte B, adjunto I de GRIB)",16,1,n3 - exponente de 3 para el número de intervalos sobre los costados del triángulo principal,,,,,Operational,PDF
 grib2/3/100/17-18,"Modelo de definición de la retícula 3.100 — Retícula triangular, basada en un icosaedro (véase la parte B, adjunto I de GRIB)",17-18,2,ni - número de intervalos sobre los costados de los triángulos del icosaedro,,,,,Operational,PDF

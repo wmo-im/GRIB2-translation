@@ -1,4 +1,4 @@
-﻿ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translation_source
+ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/3/101/15,Modelo de definición de retícula 3.101 – Retícula general no estructurada,15,1,Forma de la Tierra,véase la Tabla de cifrado 3.2,,3.2,,Operational,PDF
 grib2/3/101/16-18,Modelo de definición de retícula 3.101 – Retícula general no estructurada,16-18,3,Número de retícula utilizado (definido por el centro de origen),,,,,Operational,PDF
 grib2/3/101/19,Modelo de definición de retícula 3.101 – Retícula general no estructurada,19,1,Número de retícula de referencia (para poder introducir anotaciones de la retícula Arakawa C en una retícula arbitraria),,,,,Operational,PDF

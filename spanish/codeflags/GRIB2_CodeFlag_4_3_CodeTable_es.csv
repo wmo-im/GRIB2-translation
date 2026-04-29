@@ -21,6 +21,8 @@ grib2/4/3/18,Tabla de cifrado 4.3 – Tipo de proceso de generación,,18,,Difere
 grib2/4/3/19,Tabla de cifrado 4.3 – Tipo de proceso de generación,,19,,Primera aproximación,,,,Operational,PDF
 grib2/4/3/20,Tabla de cifrado 4.3 – Tipo de proceso de generación,,20,,Incremento de análisis (véase la nota 2),,,,Operational,PDF
 grib2/4/3/21,Tabla de cifrado 4.3 – Tipo de proceso de generación,,21,,Incremento de inicialización para el análisis (véase la nota 3),,,,Operational,PDF
-grib2/4/3/22-191,Tabla de cifrado 4.3 – Tipo de proceso de generación,,22-191,,Reservadas,,,,Operational,PDF
+grib2/4/3/22,Tipo de proceso de generación,,22,,Pronóstico combinado,((véase la nota 4)),159,,Operational,AI
+grib2/4/3/23,Tipo de proceso de generación,,23,,Anomalía,((véase la nota 5)),166,,Operational,AI
+grib2/4/3/24-191,Tipo de proceso de generación,,24-191,,Reservadas,,,,Operational,AI
 grib2/4/3/192-254,Tabla de cifrado 4.3 – Tipo de proceso de generación,,192-254,,Reservadas para uso local,,,,Operational,PDF
 grib2/4/3/255,Tabla de cifrado 4.3 – Tipo de proceso de generación,,255,,Valor faltante,,,,Operational,PDF

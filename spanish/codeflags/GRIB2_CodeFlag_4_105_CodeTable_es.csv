@@ -1,0 +1,6 @@
+ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
+grib2/4/105/0,Datos faltantes de proximidad espacial y temporal,,0,,Ignorar datos faltantes,,,,Operational,AI
+grib2/4/105/1,Datos faltantes de proximidad espacial y temporal,,1,,Ausencia de datos,,,,Operational,AI
+grib2/4/105/2-189,Datos faltantes de proximidad espacial y temporal,,2-189,,Reservadas,,,,Operational,AI
+grib2/4/105/192-254,Datos faltantes de proximidad espacial y temporal,,192-254,,Reservadas para uso local,,,,Operational,AI
+grib2/4/105/255,Datos faltantes de proximidad espacial y temporal,,255,,Valor faltante,,,,Operational,AI
