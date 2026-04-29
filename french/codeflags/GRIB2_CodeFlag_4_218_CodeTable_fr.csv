@@ -1,45 +1,45 @@
 ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
-grib2/4/218/0,Table de code 4.218 – Type de scène formée de pixels,,0,,Aucune scène identifiée,,,,Operational,PDF
-grib2/4/218/1,Table de code 4.218 – Type de scène formée de pixels,,1,,Forêt à feuillage aciculaire persistant,,,,Operational,PDF
-grib2/4/218/2,Table de code 4.218 – Type de scène formée de pixels,,2,,Forêt à feuillage large persistant,,,,Operational,PDF
-grib2/4/218/3,Table de code 4.218 – Type de scène formée de pixels,,3,,Forêt à feuillage aciculaire caduc,,,,Operational,PDF
-grib2/4/218/4,Table de code 4.218 – Type de scène formée de pixels,,4,,Forêt à feuillage large caduc,,,,Operational,PDF
-grib2/4/218/5,Table de code 4.218 – Type de scène formée de pixels,,5,,Forêt mélangée caduque,,,,Operational,PDF
-grib2/4/218/6,Table de code 4.218 – Type de scène formée de pixels,,6,,Végétation arbustive dense,,,,Operational,PDF
-grib2/4/218/7,Table de code 4.218 – Type de scène formée de pixels,,7,,Végétation arbustive claire,,,,Operational,PDF
-grib2/4/218/8,Table de code 4.218 – Type de scène formée de pixels,,8,,Savane arborescente,,,,Operational,PDF
-grib2/4/218/10,Table de code 4.218 – Type de scène formée de pixels,,10,,Prairie,,,,Operational,PDF
-grib2/4/218/11,Table de code 4.218 – Type de scène formée de pixels,,11,,Zones humides permanentes,,,,Operational,PDF
-grib2/4/218/12,Table de code 4.218 – Type de scène formée de pixels,,12,,Terres cultivées,,,,Operational,PDF
-grib2/4/218/13,Table de code 4.218 – Type de scène formée de pixels,,13,,Zones urbaines,,,,Operational,PDF
-grib2/4/218/14,Table de code 4.218 – Type de scène formée de pixels,,14,,Végétation ou cultures,,,,Operational,PDF
-grib2/4/218/15,Table de code 4.218 – Type de scène formée de pixels,,15,,Neige éternelle ou glace pérenne,,,,Operational,PDF
-grib2/4/218/16,Table de code 4.218 – Type de scène formée de pixels,,16,,Désert stérile,,,,Operational,PDF
-grib2/4/218/17,Table de code 4.218 – Type de scène formée de pixels,,17,,Étendues d'eau,,,,Operational,PDF
-grib2/4/218/18,Table de code 4.218 – Type de scène formée de pixels,,18,,Toundra,,,,Operational,PDF
-grib2/4/218/19,Table de code 4.218 – Type de scène formée de pixels,,19,,Nuage chaud (eau liquide),,,,Operational,PDF
-grib2/4/218/20,Table de code 4.218 – Type de scène formée de pixels,,20,,Nuage d'eau surfondue,,,,Operational,PDF
-grib2/4/218/21,Table de code 4.218 – Type de scène formée de pixels,,21,,Nuage mixte,,,,Operational,PDF
-grib2/4/218/22,Table de code 4.218 – Type de scène formée de pixels,,22,,Nuage glacé de faible épaisseur optique,,,,Operational,PDF
-grib2/4/218/23,Table de code 4.218 – Type de scène formée de pixels,,23,,Nuage glacé de grande épaisseur optique,,,,Operational,PDF
-grib2/4/218/24,Table de code 4.218 – Type de scène formée de pixels,,24,,Nuage multicouche,,,,Operational,PDF
-grib2/4/218/25-96,Table de code 4.218 – Type de scène formée de pixels,,25-96,,En réserve,,,,Operational,PDF
-grib2/4/218/97,Table de code 4.218 – Type de scène formée de pixels,,97,,Terres couvertes de neige ou de glace,,,,Operational,PDF
-grib2/4/218/98,Table de code 4.218 – Type de scène formée de pixels,,98,,Eaux couvertes de neige ou de glace,,,,Operational,PDF
-grib2/4/218/99,Table de code 4.218 – Type de scène formée de pixels,,99,,Reflet solaire,,,,Operational,PDF
-grib2/4/218/100,Table de code 4.218 – Type de scène formée de pixels,,100,,Nuages,,,,Operational,PDF
-grib2/4/218/101,Table de code 4.218 – Type de scène formée de pixels,,101,,Nuages bas/brouillard/stratus,,,,Operational,PDF
-grib2/4/218/102,Table de code 4.218 – Type de scène formée de pixels,,102,,Nuages bas/stratocumulus,,,,Operational,PDF
-grib2/4/218/103,Table de code 4.218 – Type de scène formée de pixels,,103,,Nuages bas/de type inconnu,,,,Operational,PDF
-grib2/4/218/104,Table de code 4.218 – Type de scène formée de pixels,,104,,Nuages moyens/nimbostratus,,,,Operational,PDF
-grib2/4/218/105,Table de code 4.218 – Type de scène formée de pixels,,105,,Nuages moyens/altostratus,,,,Operational,PDF
-grib2/4/218/106,Table de code 4.218 – Type de scène formée de pixels,,106,,Nuages moyens/de type inconnu,,,,Operational,PDF
-grib2/4/218/107,Table de code 4.218 – Type de scène formée de pixels,,107,,Nuages élevés/cumulus,,,,Operational,PDF
-grib2/4/218/108,Table de code 4.218 – Type de scène formée de pixels,,108,,Nuages élevés/cirrus,,,,Operational,PDF
-grib2/4/218/109,Table de code 4.218 – Type de scène formée de pixels,,109,,Nuages élevés/de type inconnu,,,,Operational,PDF
-grib2/4/218/110,Table de code 4.218 – Type de scène formée de pixels,,110,,Nuages de type inconnu,,,,Operational,PDF
-grib2/4/218/111,Table de code 4.218 – Type de scène formée de pixels,,111,,Nuage d'eau en couche unique,,,,Operational,PDF
-grib2/4/218/112,Table de code 4.218 – Type de scène formée de pixels,,112,,Nuage glacé en couche unique,,,,Operational,PDF
-grib2/4/218/113-191,Table de code 4.218 – Type de scène formée de pixels,,113-191,,En réserve,,,,Operational,PDF
-grib2/4/218/192-254,Table de code 4.218 – Type de scène formée de pixels,,192-254,,En réserve pour un usage local,,,,Operational,PDF
-grib2/4/218/255,Table de code 4.218 – Type de scène formée de pixels,,255,,Valeur manquante,,,,Operational,PDF
+grib2/4/218/0,Type de scène formée de pixels,,0,,Aucune scène identifiée,,,,Operational,PDF
+grib2/4/218/1,Type de scène formée de pixels,,1,,Forêt à feuillage aciculaire persistant,,,,Operational,PDF
+grib2/4/218/2,Type de scène formée de pixels,,2,,Forêt à feuillage large persistant,,,,Operational,PDF
+grib2/4/218/3,Type de scène formée de pixels,,3,,Forêt à feuillage aciculaire caduc,,,,Operational,PDF
+grib2/4/218/4,Type de scène formée de pixels,,4,,Forêt à feuillage large caduc,,,,Operational,PDF
+grib2/4/218/5,Type de scène formée de pixels,,5,,Forêt mélangée caduque,,,,Operational,PDF
+grib2/4/218/6,Type de scène formée de pixels,,6,,Végétation arbustive dense,,,,Operational,PDF
+grib2/4/218/7,Type de scène formée de pixels,,7,,Végétation arbustive claire,,,,Operational,PDF
+grib2/4/218/8,Type de scène formée de pixels,,8,,Savane arborescente,,,,Operational,PDF
+grib2/4/218/10,Type de scène formée de pixels,,10,,Prairie,,,,Operational,PDF
+grib2/4/218/11,Type de scène formée de pixels,,11,,Zones humides permanentes,,,,Operational,PDF
+grib2/4/218/12,Type de scène formée de pixels,,12,,Terres cultivées,,,,Operational,PDF
+grib2/4/218/13,Type de scène formée de pixels,,13,,Zones urbaines,,,,Operational,PDF
+grib2/4/218/14,Type de scène formée de pixels,,14,,Végétation ou cultures,,,,Operational,PDF
+grib2/4/218/15,Type de scène formée de pixels,,15,,Neige éternelle ou glace pérenne,,,,Operational,PDF
+grib2/4/218/16,Type de scène formée de pixels,,16,,Désert stérile,,,,Operational,PDF
+grib2/4/218/17,Type de scène formée de pixels,,17,,Étendues d'eau,,,,Operational,PDF
+grib2/4/218/18,Type de scène formée de pixels,,18,,Toundra,,,,Operational,PDF
+grib2/4/218/19,Type de scène formée de pixels,,19,,Nuage chaud (eau liquide),,,,Operational,PDF
+grib2/4/218/20,Type de scène formée de pixels,,20,,Nuage d'eau surfondue,,,,Operational,PDF
+grib2/4/218/21,Type de scène formée de pixels,,21,,Nuage mixte,,,,Operational,PDF
+grib2/4/218/22,Type de scène formée de pixels,,22,,Nuage glacé de faible épaisseur optique,,,,Operational,PDF
+grib2/4/218/23,Type de scène formée de pixels,,23,,Nuage glacé de grande épaisseur optique,,,,Operational,PDF
+grib2/4/218/24,Type de scène formée de pixels,,24,,Nuage multicouche,,,,Operational,PDF
+grib2/4/218/25-96,Type de scène formée de pixels,,25-96,,En réserve,,,,Operational,PDF
+grib2/4/218/97,Type de scène formée de pixels,,97,,Terres couvertes de neige ou de glace,,,,Operational,PDF
+grib2/4/218/98,Type de scène formée de pixels,,98,,Eaux couvertes de neige ou de glace,,,,Operational,PDF
+grib2/4/218/99,Type de scène formée de pixels,,99,,Reflet solaire,,,,Operational,PDF
+grib2/4/218/100,Type de scène formée de pixels,,100,,Nuages,,,,Operational,PDF
+grib2/4/218/101,Type de scène formée de pixels,,101,,Nuages bas/brouillard/stratus,,,,Operational,PDF
+grib2/4/218/102,Type de scène formée de pixels,,102,,Nuages bas/stratocumulus,,,,Operational,PDF
+grib2/4/218/103,Type de scène formée de pixels,,103,,Nuages bas/de type inconnu,,,,Operational,PDF
+grib2/4/218/104,Type de scène formée de pixels,,104,,Nuages moyens/nimbostratus,,,,Operational,PDF
+grib2/4/218/105,Type de scène formée de pixels,,105,,Nuages moyens/altostratus,,,,Operational,PDF
+grib2/4/218/106,Type de scène formée de pixels,,106,,Nuages moyens/de type inconnu,,,,Operational,PDF
+grib2/4/218/107,Type de scène formée de pixels,,107,,Nuages élevés/cumulus,,,,Operational,PDF
+grib2/4/218/108,Type de scène formée de pixels,,108,,Nuages élevés/cirrus,,,,Operational,PDF
+grib2/4/218/109,Type de scène formée de pixels,,109,,Nuages élevés/de type inconnu,,,,Operational,PDF
+grib2/4/218/110,Type de scène formée de pixels,,110,,Nuages de type inconnu,,,,Operational,PDF
+grib2/4/218/111,Type de scène formée de pixels,,111,,Nuage d'eau en couche unique,,,,Operational,PDF
+grib2/4/218/112,Type de scène formée de pixels,,112,,Nuage glacé en couche unique,,,,Operational,PDF
+grib2/4/218/113-191,Type de scène formée de pixels,,113-191,,En réserve,,,,Operational,PDF
+grib2/4/218/192-254,Type de scène formée de pixels,,192-254,,En réserve pour un usage local,,,,Operational,PDF
+grib2/4/218/255,Type de scène formée de pixels,,255,,Valeur manquante,,,,Operational,PDF

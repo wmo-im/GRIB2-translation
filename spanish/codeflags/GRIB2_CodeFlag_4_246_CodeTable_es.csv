@@ -1,7 +1,7 @@
 ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
-grib2/4/246/0,Tabla de cifrado 4.246 – Intensidad de la tormenta,,0,,No hay tormenta,,,,Operational,PDF
-grib2/4/246/1,Tabla de cifrado 4.246 – Intensidad de la tormenta,,1,,Tormenta débil,,,,Operational,PDF
-grib2/4/246/2,Tabla de cifrado 4.246 – Intensidad de la tormenta,,2,,Tormenta moderada,,,,Operational,PDF
-grib2/4/246/3,Tabla de cifrado 4.246 – Intensidad de la tormenta,,3,,Tormenta fuerte,,,,Operational,PDF
-grib2/4/246/4-254,Tabla de cifrado 4.246 – Intensidad de la tormenta,,4-254,,Reservadas,,,,Operational,PDF
-grib2/4/246/255,Tabla de cifrado 4.246 – Intensidad de la tormenta,,255,,Valor faltante,,,,Operational,PDF
+grib2/4/246/0,Intensidad de la tormenta,,0,,No hay tormenta,,,,Operational,PDF
+grib2/4/246/1,Intensidad de la tormenta,,1,,Tormenta débil,,,,Operational,PDF
+grib2/4/246/2,Intensidad de la tormenta,,2,,Tormenta moderada,,,,Operational,PDF
+grib2/4/246/3,Intensidad de la tormenta,,3,,Tormenta fuerte,,,,Operational,PDF
+grib2/4/246/4-254,Intensidad de la tormenta,,4-254,,Reservadas,,,,Operational,PDF
+grib2/4/246/255,Intensidad de la tormenta,,255,,Valor faltante,,,,Operational,PDF

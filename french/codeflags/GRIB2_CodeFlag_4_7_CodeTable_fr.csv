@@ -1,14 +1,14 @@
 ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
-grib2/4/7/0,Table de code 4.7 – Prévision dérivée,,0,,Moyenne non pondérée de tous les membres,,,,Operational,PDF
-grib2/4/7/1,Table de code 4.7 – Prévision dérivée,,1,,Moyenne pondérée de tous les membres,,,,Operational,PDF
-grib2/4/7/2,Table de code 4.7 – Prévision dérivée,,2,,Écart type par rapport à la moyenne du groupe de membres,,,,Operational,PDF
-grib2/4/7/3,Table de code 4.7 – Prévision dérivée,,3,,"Écart type par rapport à la moyenne du groupe de membres, normalisé",,,,Operational,PDF
-grib2/4/7/4,Table de code 4.7 – Prévision dérivée,,4,,Dispersion de l'ensemble des membres,,,,Operational,PDF
-grib2/4/7/5,Table de code 4.7 – Prévision dérivée,,5,,Indice de grande anomalie pour l'ensemble des membres,(voir la note 1),67,,Operational,PDF
-grib2/4/7/6,Table de code 4.7 – Prévision dérivée,,6,,Moyenne non pondérée des membres du groupe,,,,Operational,PDF
-grib2/4/7/7,Table de code 4.7 – Prévision dérivée,,7,,Amplitude interquartile (entre le 25e et le 75e quantiles),,,,Operational,PDF
-grib2/4/7/8,Table de code 4.7 – Prévision dérivée,,8,,Minimum de tous les membres de l'ensemble,(voir la note 2),63,,Operational,PDF
-grib2/4/7/9,Table de code 4.7 – Prévision dérivée,,9,,Maximum de tous les membres de l'ensemble,(voir la note 2),63,,Operational,PDF
-grib2/4/7/10-191,Table de code 4.7 – Prévision dérivée,,10-191,,En réserve,,,,Operational,PDF
-grib2/4/7/192-254,Table de code 4.7 – Prévision dérivée,,192-254,,En réserve pour un usage local,,,,Operational,PDF
-grib2/4/7/255,Table de code 4.7 – Prévision dérivée,,255,,Valeur manquante,,,,Operational,PDF
+grib2/4/7/0,Prévision dérivée,,0,,Moyenne non pondérée de tous les membres,,,,Operational,PDF
+grib2/4/7/1,Prévision dérivée,,1,,Moyenne pondérée de tous les membres,,,,Operational,PDF
+grib2/4/7/2,Prévision dérivée,,2,,Écart type par rapport à la moyenne du groupe de membres,,,,Operational,PDF
+grib2/4/7/3,Prévision dérivée,,3,,"Écart type par rapport à la moyenne du groupe de membres, normalisé",,,,Operational,PDF
+grib2/4/7/4,Prévision dérivée,,4,,Dispersion de l'ensemble des membres,,,,Operational,PDF
+grib2/4/7/5,Prévision dérivée,,5,,Indice de grande anomalie pour l'ensemble des membres,(voir la note 1),67,,Operational,PDF
+grib2/4/7/6,Prévision dérivée,,6,,Moyenne non pondérée des membres du groupe,,,,Operational,PDF
+grib2/4/7/7,Prévision dérivée,,7,,Amplitude interquartile (entre le 25e et le 75e quantiles),,,,Operational,PDF
+grib2/4/7/8,Prévision dérivée,,8,,Minimum de tous les membres de l'ensemble,(voir la note 2),63,,Operational,PDF
+grib2/4/7/9,Prévision dérivée,,9,,Maximum de tous les membres de l'ensemble,(voir la note 2),63,,Operational,PDF
+grib2/4/7/10-191,Prévision dérivée,,10-191,,En réserve,,,,Operational,PDF
+grib2/4/7/192-254,Prévision dérivée,,192-254,,En réserve pour un usage local,,,,Operational,PDF
+grib2/4/7/255,Prévision dérivée,,255,,Valeur manquante,,,,Operational,PDF

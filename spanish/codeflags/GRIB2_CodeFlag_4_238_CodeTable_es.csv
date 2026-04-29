@@ -1,32 +1,32 @@
 ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
-grib2/4/238/0,Tabla de cifrado 4.238 – Fuentes o sumideros,,0,,Otro,,,,Operational,PDF
-grib2/4/238/1,Tabla de cifrado 4.238 – Fuentes o sumideros,,1,,Aviación,,,,Operational,PDF
-grib2/4/238/2,Tabla de cifrado 4.238 – Fuentes o sumideros,,2,,Relámpagos,,,,Operational,PDF
-grib2/4/238/3,Tabla de cifrado 4.238 – Fuentes o sumideros,,3,,Fuentes biogénicas,,,,Operational,PDF
-grib2/4/238/4,Tabla de cifrado 4.238 – Fuentes o sumideros,,4,,Fuentes antropógenas,,,,Operational,PDF
-grib2/4/238/5,Tabla de cifrado 4.238 – Fuentes o sumideros,,5,,Incendios forestales,,,,Operational,PDF
-grib2/4/238/6,Tabla de cifrado 4.238 – Fuentes o sumideros,,6,,Fuentes naturales,,,,Operational,PDF
-grib2/4/238/7,Tabla de cifrado 4.238 – Fuentes o sumideros,,7,,Volcanes,,,,Operational,PDF
-grib2/4/238/8,Tabla de cifrado 4.238 – Fuentes o sumideros,,8,,Biocombustibles,,,,Operational,PDF
-grib2/4/238/9,Tabla de cifrado 4.238 – Fuentes o sumideros,,9,,Combustibles fósiles,,,,Operational,PDF
-grib2/4/238/10,Tabla de cifrado 4.238 – Fuentes o sumideros,,10,,Humedales,,,,Operational,PDF
-grib2/4/238/11,Tabla de cifrado 4.238 – Fuentes o sumideros,,11,,Océanos,,,,Operational,PDF
-grib2/4/238/12,Tabla de cifrado 4.238 – Fuentes o sumideros,,12,,Fuentes antropógenas en altura,,,,Operational,PDF
-grib2/4/238/13,Tabla de cifrado 4.238 – Fuentes o sumideros,,13,,Fuentes antropógenas en superficie,,,,Operational,PDF
-grib2/4/238/14,Tabla de cifrado 4.238 – Fuentes o sumideros,,14,,Ganadería,,,,Operational,PDF
-grib2/4/238/15,Tabla de cifrado 4.238 – Fuentes o sumideros,,15,,Tierras agrícolas,,,,Operational,PDF
-grib2/4/238/16,Tabla de cifrado 4.238 – Fuentes o sumideros,,16,,Quema de desechos agrícolas,,,,Operational,PDF
-grib2/4/238/17,Tabla de cifrado 4.238 – Fuentes o sumideros,,17,,Agricultura (todo),,,,Operational,PDF
-grib2/4/238/18,Tabla de cifrado 4.238 – Fuentes o sumideros,,18,,"Combustión residencial, comercial y de otro tipo",,,,Operational,PDF
-grib2/4/238/19,Tabla de cifrado 4.238 – Fuentes o sumideros,,19,,Generación de energía,,,,Operational,PDF
-grib2/4/238/20,Tabla de cifrado 4.238 – Fuentes o sumideros,,20,,Super centrales energéticas,,,,Operational,PDF
-grib2/4/238/21,Tabla de cifrado 4.238 – Fuentes o sumideros,,21,,Emisiones fugitivas,,,,Operational,PDF
-grib2/4/238/22,Tabla de cifrado 4.238 – Fuentes o sumideros,,22,,Procesos industriales,,,,Operational,PDF
-grib2/4/238/23,Tabla de cifrado 4.238 – Fuentes o sumideros,,23,,Solventes,,,,Operational,PDF
-grib2/4/238/24,Tabla de cifrado 4.238 – Fuentes o sumideros,,24,,Buques,,,,Operational,PDF
-grib2/4/238/25,Tabla de cifrado 4.238 – Fuentes o sumideros,,25,,Desechos (sólidos y agua),,,,Operational,PDF
-grib2/4/238/26,Tabla de cifrado 4.238 – Fuentes o sumideros,,26,,Transporte por carretera,,,,Operational,PDF
-grib2/4/238/27,Tabla de cifrado 4.238 – Fuentes o sumideros,,27,,Transporte por todo terreno,,,,Operational,PDF
-grib2/4/238/28-191,Tabla de cifrado 4.238 – Fuentes o sumideros,,28-191,,Reservadas,,,,Operational,PDF
-grib2/4/238/192-254,Tabla de cifrado 4.238 – Fuentes o sumideros,,192-254,,Reservadas para uso local,,,,Operational,PDF
-grib2/4/238/255,Tabla de cifrado 4.238 – Fuentes o sumideros,,255,,Faltante,,,,Operational,PDF
+grib2/4/238/0,Fuentes o sumideros,,0,,Otro,,,,Operational,PDF
+grib2/4/238/1,Fuentes o sumideros,,1,,Aviación,,,,Operational,PDF
+grib2/4/238/2,Fuentes o sumideros,,2,,Relámpagos,,,,Operational,PDF
+grib2/4/238/3,Fuentes o sumideros,,3,,Fuentes biogénicas,,,,Operational,PDF
+grib2/4/238/4,Fuentes o sumideros,,4,,Fuentes antropógenas,,,,Operational,PDF
+grib2/4/238/5,Fuentes o sumideros,,5,,Incendios forestales,,,,Operational,PDF
+grib2/4/238/6,Fuentes o sumideros,,6,,Fuentes naturales,,,,Operational,PDF
+grib2/4/238/7,Fuentes o sumideros,,7,,Volcanes,,,,Operational,PDF
+grib2/4/238/8,Fuentes o sumideros,,8,,Biocombustibles,,,,Operational,PDF
+grib2/4/238/9,Fuentes o sumideros,,9,,Combustibles fósiles,,,,Operational,PDF
+grib2/4/238/10,Fuentes o sumideros,,10,,Humedales,,,,Operational,PDF
+grib2/4/238/11,Fuentes o sumideros,,11,,Océanos,,,,Operational,PDF
+grib2/4/238/12,Fuentes o sumideros,,12,,Fuentes antropógenas en altura,,,,Operational,PDF
+grib2/4/238/13,Fuentes o sumideros,,13,,Fuentes antropógenas en superficie,,,,Operational,PDF
+grib2/4/238/14,Fuentes o sumideros,,14,,Ganadería,,,,Operational,PDF
+grib2/4/238/15,Fuentes o sumideros,,15,,Tierras agrícolas,,,,Operational,PDF
+grib2/4/238/16,Fuentes o sumideros,,16,,Quema de desechos agrícolas,,,,Operational,PDF
+grib2/4/238/17,Fuentes o sumideros,,17,,Agricultura (todo),,,,Operational,PDF
+grib2/4/238/18,Fuentes o sumideros,,18,,"Combustión residencial, comercial y de otro tipo",,,,Operational,PDF
+grib2/4/238/19,Fuentes o sumideros,,19,,Generación de energía,,,,Operational,PDF
+grib2/4/238/20,Fuentes o sumideros,,20,,Super centrales energéticas,,,,Operational,PDF
+grib2/4/238/21,Fuentes o sumideros,,21,,Emisiones fugitivas,,,,Operational,PDF
+grib2/4/238/22,Fuentes o sumideros,,22,,Procesos industriales,,,,Operational,PDF
+grib2/4/238/23,Fuentes o sumideros,,23,,Solventes,,,,Operational,PDF
+grib2/4/238/24,Fuentes o sumideros,,24,,Buques,,,,Operational,PDF
+grib2/4/238/25,Fuentes o sumideros,,25,,Desechos (sólidos y agua),,,,Operational,PDF
+grib2/4/238/26,Fuentes o sumideros,,26,,Transporte por carretera,,,,Operational,PDF
+grib2/4/238/27,Fuentes o sumideros,,27,,Transporte por todo terreno,,,,Operational,PDF
+grib2/4/238/28-191,Fuentes o sumideros,,28-191,,Reservadas,,,,Operational,PDF
+grib2/4/238/192-254,Fuentes o sumideros,,192-254,,Reservadas para uso local,,,,Operational,PDF
+grib2/4/238/255,Fuentes o sumideros,,255,,Faltante,,,,Operational,PDF

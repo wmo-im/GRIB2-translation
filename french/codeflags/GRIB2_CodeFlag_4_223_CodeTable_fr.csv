@@ -1,5 +1,5 @@
 ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
-grib2/4/223/0,Table de code 4.223 – Indicateur de détection d'incendies,,0,,Aucun incendie détecté,,,,Operational,PDF
-grib2/4/223/1,Table de code 4.223 – Indicateur de détection d'incendies,,1,,Incendie possible,,,,Operational,PDF
-grib2/4/223/2,Table de code 4.223 – Indicateur de détection d'incendies,,2,,Incendie probable,,,,Operational,PDF
-grib2/4/223/3,Table de code 4.223 – Indicateur de détection d'incendies,,3,,Valeur manquante,,,,Operational,PDF
+grib2/4/223/0,Indicateur de détection d'incendies,,0,,Aucun incendie détecté,,,,Operational,PDF
+grib2/4/223/1,Indicateur de détection d'incendies,,1,,Incendie possible,,,,Operational,PDF
+grib2/4/223/2,Indicateur de détection d'incendies,,2,,Incendie probable,,,,Operational,PDF
+grib2/4/223/3,Indicateur de détection d'incendies,,3,,Valeur manquante,,,,Operational,PDF

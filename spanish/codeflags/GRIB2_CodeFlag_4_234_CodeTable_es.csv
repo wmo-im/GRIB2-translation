@@ -1,21 +1,21 @@
 ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
-grib2/4/234/1,Tabla de cifrado 4.234 – Fracción de la cubierta vegetal (se utilizará como parámetro con particiones en el modelo de definición del producto 4.53 ó 4.54),,1,,"Cultivos, agricultura mixta",,,,Operational,PDF
-grib2/4/234/2,Tabla de cifrado 4.234 – Fracción de la cubierta vegetal (se utilizará como parámetro con particiones en el modelo de definición del producto 4.53 ó 4.54),,2,,Hierba corta,,,,Operational,PDF
-grib2/4/234/3,Tabla de cifrado 4.234 – Fracción de la cubierta vegetal (se utilizará como parámetro con particiones en el modelo de definición del producto 4.53 ó 4.54),,3,,Árboles perennes de hoja acicular,,,,Operational,PDF
-grib2/4/234/4,Tabla de cifrado 4.234 – Fracción de la cubierta vegetal (se utilizará como parámetro con particiones en el modelo de definición del producto 4.53 ó 4.54),,4,,Árboles caducifolios de hoja acicular,,,,Operational,PDF
-grib2/4/234/5,Tabla de cifrado 4.234 – Fracción de la cubierta vegetal (se utilizará como parámetro con particiones en el modelo de definición del producto 4.53 ó 4.54),,5,,Árboles caducifolios de hoja ancha,,,,Operational,PDF
-grib2/4/234/6,Tabla de cifrado 4.234 – Fracción de la cubierta vegetal (se utilizará como parámetro con particiones en el modelo de definición del producto 4.53 ó 4.54),,6,,Árboles perennes de hoja ancha,,,,Operational,PDF
-grib2/4/234/7,Tabla de cifrado 4.234 – Fracción de la cubierta vegetal (se utilizará como parámetro con particiones en el modelo de definición del producto 4.53 ó 4.54),,7,,Hierba alta,,,,Operational,PDF
-grib2/4/234/8,Tabla de cifrado 4.234 – Fracción de la cubierta vegetal (se utilizará como parámetro con particiones en el modelo de definición del producto 4.53 ó 4.54),,8,,Desierto,,,,Operational,PDF
-grib2/4/234/9,Tabla de cifrado 4.234 – Fracción de la cubierta vegetal (se utilizará como parámetro con particiones en el modelo de definición del producto 4.53 ó 4.54),,9,,Tundra,,,,Operational,PDF
-grib2/4/234/10,Tabla de cifrado 4.234 – Fracción de la cubierta vegetal (se utilizará como parámetro con particiones en el modelo de definición del producto 4.53 ó 4.54),,10,,Cultivos de regadío,,,,Operational,PDF
-grib2/4/234/11,Tabla de cifrado 4.234 – Fracción de la cubierta vegetal (se utilizará como parámetro con particiones en el modelo de definición del producto 4.53 ó 4.54),,11,,Semidesierto,,,,Operational,PDF
-grib2/4/234/12,Tabla de cifrado 4.234 – Fracción de la cubierta vegetal (se utilizará como parámetro con particiones en el modelo de definición del producto 4.53 ó 4.54),,12,,Casquetes de hielo y glaciares,,,,Operational,PDF
-grib2/4/234/13,Tabla de cifrado 4.234 – Fracción de la cubierta vegetal (se utilizará como parámetro con particiones en el modelo de definición del producto 4.53 ó 4.54),,13,,Ciénagas y pantanos,,,,Operational,PDF
-grib2/4/234/14,Tabla de cifrado 4.234 – Fracción de la cubierta vegetal (se utilizará como parámetro con particiones en el modelo de definición del producto 4.53 ó 4.54),,14,,Aguas interiores,,,,Operational,PDF
-grib2/4/234/15,Tabla de cifrado 4.234 – Fracción de la cubierta vegetal (se utilizará como parámetro con particiones en el modelo de definición del producto 4.53 ó 4.54),,15,,Océano,,,,Operational,PDF
-grib2/4/234/16,Tabla de cifrado 4.234 – Fracción de la cubierta vegetal (se utilizará como parámetro con particiones en el modelo de definición del producto 4.53 ó 4.54),,16,,Arbustos perennes,,,,Operational,PDF
-grib2/4/234/17,Tabla de cifrado 4.234 – Fracción de la cubierta vegetal (se utilizará como parámetro con particiones en el modelo de definición del producto 4.53 ó 4.54),,17,,Arbustos caducifolios,,,,Operational,PDF
-grib2/4/234/18,Tabla de cifrado 4.234 – Fracción de la cubierta vegetal (se utilizará como parámetro con particiones en el modelo de definición del producto 4.53 ó 4.54),,18,,Bosque mixto,,,,Operational,PDF
-grib2/4/234/19,Tabla de cifrado 4.234 – Fracción de la cubierta vegetal (se utilizará como parámetro con particiones en el modelo de definición del producto 4.53 ó 4.54),,19,,Bosque interrumpido,,,,Operational,PDF
-grib2/4/234/20,Tabla de cifrado 4.234 – Fracción de la cubierta vegetal (se utilizará como parámetro con particiones en el modelo de definición del producto 4.53 ó 4.54),,20,,Mezcla de tierra y agua,,,,Operational,PDF
+grib2/4/234/1,Fracción de la cubierta vegetal (se utilizará como parámetro con particiones en el modelo de definición del producto 4.53 ó 4.54),,1,,"Cultivos, agricultura mixta",,,,Operational,PDF
+grib2/4/234/2,Fracción de la cubierta vegetal (se utilizará como parámetro con particiones en el modelo de definición del producto 4.53 ó 4.54),,2,,Hierba corta,,,,Operational,PDF
+grib2/4/234/3,Fracción de la cubierta vegetal (se utilizará como parámetro con particiones en el modelo de definición del producto 4.53 ó 4.54),,3,,Árboles perennes de hoja acicular,,,,Operational,PDF
+grib2/4/234/4,Fracción de la cubierta vegetal (se utilizará como parámetro con particiones en el modelo de definición del producto 4.53 ó 4.54),,4,,Árboles caducifolios de hoja acicular,,,,Operational,PDF
+grib2/4/234/5,Fracción de la cubierta vegetal (se utilizará como parámetro con particiones en el modelo de definición del producto 4.53 ó 4.54),,5,,Árboles caducifolios de hoja ancha,,,,Operational,PDF
+grib2/4/234/6,Fracción de la cubierta vegetal (se utilizará como parámetro con particiones en el modelo de definición del producto 4.53 ó 4.54),,6,,Árboles perennes de hoja ancha,,,,Operational,PDF
+grib2/4/234/7,Fracción de la cubierta vegetal (se utilizará como parámetro con particiones en el modelo de definición del producto 4.53 ó 4.54),,7,,Hierba alta,,,,Operational,PDF
+grib2/4/234/8,Fracción de la cubierta vegetal (se utilizará como parámetro con particiones en el modelo de definición del producto 4.53 ó 4.54),,8,,Desierto,,,,Operational,PDF
+grib2/4/234/9,Fracción de la cubierta vegetal (se utilizará como parámetro con particiones en el modelo de definición del producto 4.53 ó 4.54),,9,,Tundra,,,,Operational,PDF
+grib2/4/234/10,Fracción de la cubierta vegetal (se utilizará como parámetro con particiones en el modelo de definición del producto 4.53 ó 4.54),,10,,Cultivos de regadío,,,,Operational,PDF
+grib2/4/234/11,Fracción de la cubierta vegetal (se utilizará como parámetro con particiones en el modelo de definición del producto 4.53 ó 4.54),,11,,Semidesierto,,,,Operational,PDF
+grib2/4/234/12,Fracción de la cubierta vegetal (se utilizará como parámetro con particiones en el modelo de definición del producto 4.53 ó 4.54),,12,,Casquetes de hielo y glaciares,,,,Operational,PDF
+grib2/4/234/13,Fracción de la cubierta vegetal (se utilizará como parámetro con particiones en el modelo de definición del producto 4.53 ó 4.54),,13,,Ciénagas y pantanos,,,,Operational,PDF
+grib2/4/234/14,Fracción de la cubierta vegetal (se utilizará como parámetro con particiones en el modelo de definición del producto 4.53 ó 4.54),,14,,Aguas interiores,,,,Operational,PDF
+grib2/4/234/15,Fracción de la cubierta vegetal (se utilizará como parámetro con particiones en el modelo de definición del producto 4.53 ó 4.54),,15,,Océano,,,,Operational,PDF
+grib2/4/234/16,Fracción de la cubierta vegetal (se utilizará como parámetro con particiones en el modelo de definición del producto 4.53 ó 4.54),,16,,Arbustos perennes,,,,Operational,PDF
+grib2/4/234/17,Fracción de la cubierta vegetal (se utilizará como parámetro con particiones en el modelo de definición del producto 4.53 ó 4.54),,17,,Arbustos caducifolios,,,,Operational,PDF
+grib2/4/234/18,Fracción de la cubierta vegetal (se utilizará como parámetro con particiones en el modelo de definición del producto 4.53 ó 4.54),,18,,Bosque mixto,,,,Operational,PDF
+grib2/4/234/19,Fracción de la cubierta vegetal (se utilizará como parámetro con particiones en el modelo de definición del producto 4.53 ó 4.54),,19,,Bosque interrumpido,,,,Operational,PDF
+grib2/4/234/20,Fracción de la cubierta vegetal (se utilizará como parámetro con particiones en el modelo de definición del producto 4.53 ó 4.54),,20,,Mezcla de tierra y agua,,,,Operational,PDF

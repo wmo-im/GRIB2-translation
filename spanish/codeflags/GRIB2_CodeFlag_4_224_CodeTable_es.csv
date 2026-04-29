@@ -1,18 +1,18 @@
 ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
-grib2/4/224/0,Tabla de cifrado 4.224 – Predicción categórica,,0,,Zona sin riesgo,,,,Operational,PDF
-grib2/4/224/1,Tabla de cifrado 4.224 – Predicción categórica,,1,,Reservada,,,,Operational,PDF
-grib2/4/224/2,Tabla de cifrado 4.224 – Predicción categórica,,2,,Zona de riesgo de tormentas generales,,,,Operational,PDF
-grib2/4/224/3,Tabla de cifrado 4.224 – Predicción categórica,,3,,Reservada,,,,Operational,PDF
-grib2/4/224/4,Tabla de cifrado 4.224 – Predicción categórica,,4,,Zona de riesgo leve,,,,Operational,PDF
-grib2/4/224/5,Tabla de cifrado 4.224 – Predicción categórica,,5,,Reservada,,,,Operational,PDF
-grib2/4/224/6,Tabla de cifrado 4.224 – Predicción categórica,,6,,Zona de riesgo moderado,,,,Operational,PDF
-grib2/4/224/7,Tabla de cifrado 4.224 – Predicción categórica,,7,,Reservada,,,,Operational,PDF
-grib2/4/224/8,Tabla de cifrado 4.224 – Predicción categórica,,8,,Zona de alto riesgo,,,,Operational,PDF
-grib2/4/224/9-10,Tabla de cifrado 4.224 – Predicción categórica,,9-10,,Reservadas,,,,Operational,PDF
-grib2/4/224/11,Tabla de cifrado 4.224 – Predicción categórica,,11,,Zona de riesgo de tormentas secas (relámpagos secos),,,,Operational,PDF
-grib2/4/224/12-13,Tabla de cifrado 4.224 – Predicción categórica,,12-13,,Reservadas,,,,Operational,PDF
-grib2/4/224/14,Tabla de cifrado 4.224 – Predicción categórica,,14,,Zona de riesgo grave,,,,Operational,PDF
-grib2/4/224/15-17,Tabla de cifrado 4.224 – Predicción categórica,,15-17,,Reservadas,,,,Operational,PDF
-grib2/4/224/18,Tabla de cifrado 4.224 – Predicción categórica,,18,,Zona de riesgo extremadamente grave,,,,Operational,PDF
-grib2/4/224/19-254,Tabla de cifrado 4.224 – Predicción categórica,,19-254,,Reservadas,,,,Operational,PDF
-grib2/4/224/255,Tabla de cifrado 4.224 – Predicción categórica,,255,,Valor faltante,,,,Operational,PDF
+grib2/4/224/0,Predicción categórica,,0,,Zona sin riesgo,,,,Operational,PDF
+grib2/4/224/1,Predicción categórica,,1,,Reservada,,,,Operational,PDF
+grib2/4/224/2,Predicción categórica,,2,,Zona de riesgo de tormentas generales,,,,Operational,PDF
+grib2/4/224/3,Predicción categórica,,3,,Reservada,,,,Operational,PDF
+grib2/4/224/4,Predicción categórica,,4,,Zona de riesgo leve,,,,Operational,PDF
+grib2/4/224/5,Predicción categórica,,5,,Reservada,,,,Operational,PDF
+grib2/4/224/6,Predicción categórica,,6,,Zona de riesgo moderado,,,,Operational,PDF
+grib2/4/224/7,Predicción categórica,,7,,Reservada,,,,Operational,PDF
+grib2/4/224/8,Predicción categórica,,8,,Zona de alto riesgo,,,,Operational,PDF
+grib2/4/224/9-10,Predicción categórica,,9-10,,Reservadas,,,,Operational,PDF
+grib2/4/224/11,Predicción categórica,,11,,Zona de riesgo de tormentas secas (relámpagos secos),,,,Operational,PDF
+grib2/4/224/12-13,Predicción categórica,,12-13,,Reservadas,,,,Operational,PDF
+grib2/4/224/14,Predicción categórica,,14,,Zona de riesgo grave,,,,Operational,PDF
+grib2/4/224/15-17,Predicción categórica,,15-17,,Reservadas,,,,Operational,PDF
+grib2/4/224/18,Predicción categórica,,18,,Zona de riesgo extremadamente grave,,,,Operational,PDF
+grib2/4/224/19-254,Predicción categórica,,19-254,,Reservadas,,,,Operational,PDF
+grib2/4/224/255,Predicción categórica,,255,,Valor faltante,,,,Operational,PDF

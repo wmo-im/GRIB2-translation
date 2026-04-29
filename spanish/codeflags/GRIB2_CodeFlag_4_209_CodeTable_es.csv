@@ -1,9 +1,9 @@
 ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
-grib2/4/209/0,Tabla de cifrado 4.209 – Régimen de la capa límite planetaria,,0,,Reservada,,,,Operational,PDF
-grib2/4/209/1,Tabla de cifrado 4.209 – Régimen de la capa límite planetaria,,1,,Estable,,,,Operational,PDF
-grib2/4/209/2,Tabla de cifrado 4.209 – Régimen de la capa límite planetaria,,2,,Turbulencia de origen mecánico,,,,Operational,PDF
-grib2/4/209/3,Tabla de cifrado 4.209 – Régimen de la capa límite planetaria,,3,,Convección forzada,,,,Operational,PDF
-grib2/4/209/4,Tabla de cifrado 4.209 – Régimen de la capa límite planetaria,,4,,Convección libre,,,,Operational,PDF
-grib2/4/209/5-191,Tabla de cifrado 4.209 – Régimen de la capa límite planetaria,,5-191,,Reservadas,,,,Operational,PDF
-grib2/4/209/192-254,Tabla de cifrado 4.209 – Régimen de la capa límite planetaria,,192-254,,Reservadas para uso local,,,,Operational,PDF
-grib2/4/209/255,Tabla de cifrado 4.209 – Régimen de la capa límite planetaria,,255,,Valor faltante,,,,Operational,PDF
+grib2/4/209/0,Régimen de la capa límite planetaria,,0,,Reservada,,,,Operational,PDF
+grib2/4/209/1,Régimen de la capa límite planetaria,,1,,Estable,,,,Operational,PDF
+grib2/4/209/2,Régimen de la capa límite planetaria,,2,,Turbulencia de origen mecánico,,,,Operational,PDF
+grib2/4/209/3,Régimen de la capa límite planetaria,,3,,Convección forzada,,,,Operational,PDF
+grib2/4/209/4,Régimen de la capa límite planetaria,,4,,Convección libre,,,,Operational,PDF
+grib2/4/209/5-191,Régimen de la capa límite planetaria,,5-191,,Reservadas,,,,Operational,PDF
+grib2/4/209/192-254,Régimen de la capa límite planetaria,,192-254,,Reservadas para uso local,,,,Operational,PDF
+grib2/4/209/255,Régimen de la capa límite planetaria,,255,,Valor faltante,,,,Operational,PDF

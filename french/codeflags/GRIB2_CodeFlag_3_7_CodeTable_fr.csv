@@ -1,5 +1,5 @@
 ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
-grib2/3/7/0,Table de code 3.7 — Mode de représentation des données spectrales,,0,,En réserve,,,,Operational,PDF
-grib2/3/7/1,Table de code 3.7 — Mode de représentation des données spectrales,,1,,"Les nombres complexes Fm (voir le chiffre du code 1 de la table de code 3.6 ci-dessus) sont enregistrés pour m ≥ 0 sous forme de paires de nombres réels Re(Fm), Im(Fm) placées dans l'ordre des valeurs croissantes de n, allant de m à N(m), en commençant par m = 0, puis m = 1, 2, ... M",(voir la note),116,,Operational,PDF
-grib2/3/7/2-254,Table de code 3.7 — Mode de représentation des données spectrales,,2-254,,En réserve,,,,Operational,PDF
-grib2/3/7/255,Table de code 3.7 — Mode de représentation des données spectrales,,255,,Valeur manquante,,,,Operational,PDF
+grib2/3/7/0,Mode de représentation des données spectrales,,0,,En réserve,,,,Operational,PDF
+grib2/3/7/1,Mode de représentation des données spectrales,,1,,"Les nombres complexes Fm (voir le chiffre du code 1 de la table de code 3.6 ci-dessus) sont enregistrés pour m ≥ 0 sous forme de paires de nombres réels Re(Fm), Im(Fm) placées dans l'ordre des valeurs croissantes de n, allant de m à N(m), en commençant par m = 0, puis m = 1, 2, ... M",(voir la note),116,,Operational,PDF
+grib2/3/7/2-254,Mode de représentation des données spectrales,,2-254,,En réserve,,,,Operational,PDF
+grib2/3/7/255,Mode de représentation des données spectrales,,255,,Valeur manquante,,,,Operational,PDF

@@ -1,14 +1,14 @@
 ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
-grib2/1/3/0,Table de code 1.3 – État des données,,0,,Produits opérationnels,,,,Operational,PDF
-grib2/1/3/1,Table de code 1.3 – État des données,,1,,Produits d'essai opérationnels,,,,Operational,PDF
-grib2/1/3/2,Table de code 1.3 – État des données,,2,,Produits expérimentaux,,,,Operational,PDF
-grib2/1/3/3,Table de code 1.3 – État des données,,3,,Produits de réanalyse,,,,Operational,PDF
-grib2/1/3/4,Table de code 1.3 – État des données,,4,,Grand ensemble interactif mondial relevant du programme THORPEX (TIGGE),,,,Operational,PDF
-grib2/1/3/5,Table de code 1.3 – État des données,,5,,Test du Grand ensemble interactif mondial relevant du programme THORPEX (TIGGE),,,,Operational,PDF
-grib2/1/3/6,Table de code 1.3 – État des données,,6,,Produits opérationnels S2S,,,,Operational,PDF
-grib2/1/3/7,Table de code 1.3 – État des données,,7,,Produits d'essai S2S,,,,Operational,PDF
-grib2/1/3/8,Table de code 1.3 – État des données,,8,,Incertitudes dans les ensembles utilisés dans le cadre du projet de réanalyses à l'échelle régionale (UERRA),,,,Operational,PDF
-grib2/1/3/9,Table de code 1.3 – État des données,,9,,Vérification des incertitudes dans les ensembles utilisés dans le cadre du projet de réanalyses à l'échelle régionale (UERRA),,,,Operational,PDF
-grib2/1/3/10-191,Table de code 1.3 – État des données,,10-191,,En réserve,,,,Operational,PDF
-grib2/1/3/192-254,Table de code 1.3 – État des données,,192-254,,En réserve pour un usage local,,,,Operational,PDF
-grib2/1/3/255,Table de code 1.3 – État des données,,255,,Valeur manquante,,,,Operational,PDF
+grib2/1/3/0,État des données,,0,,Produits opérationnels,,,,Operational,PDF
+grib2/1/3/1,État des données,,1,,Produits d'essai opérationnels,,,,Operational,PDF
+grib2/1/3/2,État des données,,2,,Produits expérimentaux,,,,Operational,PDF
+grib2/1/3/3,État des données,,3,,Produits de réanalyse,,,,Operational,PDF
+grib2/1/3/4,État des données,,4,,Grand ensemble interactif mondial relevant du programme THORPEX (TIGGE),,,,Operational,PDF
+grib2/1/3/5,État des données,,5,,Test du Grand ensemble interactif mondial relevant du programme THORPEX (TIGGE),,,,Operational,PDF
+grib2/1/3/6,État des données,,6,,Produits opérationnels S2S,,,,Operational,PDF
+grib2/1/3/7,État des données,,7,,Produits d'essai S2S,,,,Operational,PDF
+grib2/1/3/8,État des données,,8,,Incertitudes dans les ensembles utilisés dans le cadre du projet de réanalyses à l'échelle régionale (UERRA),,,,Operational,PDF
+grib2/1/3/9,État des données,,9,,Vérification des incertitudes dans les ensembles utilisés dans le cadre du projet de réanalyses à l'échelle régionale (UERRA),,,,Operational,PDF
+grib2/1/3/10-191,État des données,,10-191,,En réserve,,,,Operational,PDF
+grib2/1/3/192-254,État des données,,192-254,,En réserve pour un usage local,,,,Operational,PDF
+grib2/1/3/255,État des données,,255,,Valeur manquante,,,,Operational,PDF

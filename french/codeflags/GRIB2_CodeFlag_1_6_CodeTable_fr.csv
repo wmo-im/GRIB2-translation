@@ -1,8 +1,8 @@
 ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
-grib2/1/6/0,Table de code 1.6 – Type de calendrier,,0,,Grégorien,,,,Operational,PDF
-grib2/1/6/1,Table de code 1.6 – Type de calendrier,,1,,360 jours,,,,Operational,PDF
-grib2/1/6/2,Table de code 1.6 – Type de calendrier,,2,,365 jours,(voir la note 1),47,,Operational,PDF
-grib2/1/6/3,Table de code 1.6 – Type de calendrier,,3,,Grégorien proleptique,(voir la note 2),48,,Operational,PDF
-grib2/1/6/4-191,Table de code 1.6 – Type de calendrier,,4-191,,En réserve,,,,Operational,PDF
-grib2/1/6/192-254,Table de code 1.6 – Type de calendrier,,192-254,,En réserve pour un usage local,,,,Operational,PDF
-grib2/1/6/255,Table de code 1.6 – Type de calendrier,,255,,Valeur manquante,,,,Operational,PDF
+grib2/1/6/0,Type de calendrier,,0,,Grégorien,,,,Operational,PDF
+grib2/1/6/1,Type de calendrier,,1,,360 jours,,,,Operational,PDF
+grib2/1/6/2,Type de calendrier,,2,,365 jours,(voir la note 1),47,,Operational,PDF
+grib2/1/6/3,Type de calendrier,,3,,Grégorien proleptique,(voir la note 2),48,,Operational,PDF
+grib2/1/6/4-191,Type de calendrier,,4-191,,En réserve,,,,Operational,PDF
+grib2/1/6/192-254,Type de calendrier,,192-254,,En réserve pour un usage local,,,,Operational,PDF
+grib2/1/6/255,Type de calendrier,,255,,Valeur manquante,,,,Operational,PDF

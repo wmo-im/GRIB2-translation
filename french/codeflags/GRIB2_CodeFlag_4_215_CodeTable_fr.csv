@@ -1,9 +1,9 @@
 ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
-grib2/4/215/0-49,Table de code 4.215 – Couverture neigeuse télédétectée,,0-49,,En réserve,,,,Operational,PDF
-grib2/4/215/50,Table de code 4.215 – Couverture neigeuse télédétectée,,50,,Pas de neige/pas de nuage,,,,Operational,PDF
-grib2/4/215/51-99,Table de code 4.215 – Couverture neigeuse télédétectée,,51-99,,En réserve,,,,Operational,PDF
-grib2/4/215/100,Table de code 4.215 – Couverture neigeuse télédétectée,,100,,Nuages,,,,Operational,PDF
-grib2/4/215/101-249,Table de code 4.215 – Couverture neigeuse télédétectée,,101-249,,En réserve,,,,Operational,PDF
-grib2/4/215/250,Table de code 4.215 – Couverture neigeuse télédétectée,,250,,Neige,,,,Operational,PDF
-grib2/4/215/251-254,Table de code 4.215 – Couverture neigeuse télédétectée,,251-254,,En réserve pour un usage local,,,,Operational,PDF
-grib2/4/215/255,Table de code 4.215 – Couverture neigeuse télédétectée,,255,,Valeur manquante,,,,Operational,PDF
+grib2/4/215/0-49,Couverture neigeuse télédétectée,,0-49,,En réserve,,,,Operational,PDF
+grib2/4/215/50,Couverture neigeuse télédétectée,,50,,Pas de neige/pas de nuage,,,,Operational,PDF
+grib2/4/215/51-99,Couverture neigeuse télédétectée,,51-99,,En réserve,,,,Operational,PDF
+grib2/4/215/100,Couverture neigeuse télédétectée,,100,,Nuages,,,,Operational,PDF
+grib2/4/215/101-249,Couverture neigeuse télédétectée,,101-249,,En réserve,,,,Operational,PDF
+grib2/4/215/250,Couverture neigeuse télédétectée,,250,,Neige,,,,Operational,PDF
+grib2/4/215/251-254,Couverture neigeuse télédétectée,,251-254,,En réserve pour un usage local,,,,Operational,PDF
+grib2/4/215/255,Couverture neigeuse télédétectée,,255,,Valeur manquante,,,,Operational,PDF

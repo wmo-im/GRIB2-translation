@@ -1,5 +1,5 @@
 ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
-grib2/5/26/0,Table de code 5.26 – Méthode de compression pour les axes,,0,,Les coefficients spectraux des axes sont compressés,,,,Operational,PDF
-grib2/5/26/1,Table de code 5.26 – Méthode de compression pour les axes,,1,,Les coefficients spectraux des axes sont inclus dans la sous-série décompressée,,,,Operational,PDF
-grib2/5/26/2-254,Table de code 5.26 – Méthode de compression pour les axes,,2-254,,En réserve,,,,Operational,PDF
-grib2/5/26/255,Table de code 5.26 – Méthode de compression pour les axes,,255,,Valeur manquante,,,,Operational,PDF
+grib2/5/26/0,Méthode de compression pour les axes,,0,,Les coefficients spectraux des axes sont compressés,,,,Operational,PDF
+grib2/5/26/1,Méthode de compression pour les axes,,1,,Les coefficients spectraux des axes sont inclus dans la sous-série décompressée,,,,Operational,PDF
+grib2/5/26/2-254,Méthode de compression pour les axes,,2-254,,En réserve,,,,Operational,PDF
+grib2/5/26/255,Méthode de compression pour les axes,,255,,Valeur manquante,,,,Operational,PDF

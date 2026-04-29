@@ -1,7 +1,7 @@
 ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
-grib2/3/8/0,Table de code 3.8 — Position des points de grille,,0,,Points de grille situés aux sommets des triangles,,,,Operational,PDF
-grib2/3/8/1,Table de code 3.8 — Position des points de grille,,1,,Points de grille situés au centre des triangles,,,,Operational,PDF
-grib2/3/8/2,Table de code 3.8 — Position des points de grille,,2,,Points de grille situés au centre des côtés des triangles,,,,Operational,PDF
-grib2/3/8/3-191,Table de code 3.8 — Position des points de grille,,3-191,,En réserve,,,,Operational,PDF
-grib2/3/8/192-254,Table de code 3.8 — Position des points de grille,,192-254,,En réserve pour un usage local,,,,Operational,PDF
-grib2/3/8/255,Table de code 3.8 — Position des points de grille,,255,,Valeur manquante,,,,Operational,PDF
+grib2/3/8/0,Position des points de grille,,0,,Points de grille situés aux sommets des triangles,,,,Operational,PDF
+grib2/3/8/1,Position des points de grille,,1,,Points de grille situés au centre des triangles,,,,Operational,PDF
+grib2/3/8/2,Position des points de grille,,2,,Points de grille situés au centre des côtés des triangles,,,,Operational,PDF
+grib2/3/8/3-191,Position des points de grille,,3-191,,En réserve,,,,Operational,PDF
+grib2/3/8/192-254,Position des points de grille,,192-254,,En réserve pour un usage local,,,,Operational,PDF
+grib2/3/8/255,Position des points de grille,,255,,Valeur manquante,,,,Operational,PDF
