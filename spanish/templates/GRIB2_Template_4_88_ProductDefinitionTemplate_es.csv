@@ -1,4 +1,4 @@
-﻿ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translation_source
+ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/4/88/10,Modelo de definición del producto 4.88 – Análisis o predicción en una superficie o capa horizontal a una hora local,10,1,Categoría de parámetro,(véase la Tabla de cifrado 4.1),,4.1,,Operational,PDF
 grib2/4/88/11,Modelo de definición del producto 4.88 – Análisis o predicción en una superficie o capa horizontal a una hora local,11,1,Número del parámetro,(véase la Tabla de cifrado 4.2),,4.2,,Operational,PDF
 grib2/4/88/12,Modelo de definición del producto 4.88 – Análisis o predicción en una superficie o capa horizontal a una hora local,12,1,Tipo de proceso de producción,(véase la Tabla de cifrado 4.3),,4.3,,Operational,PDF
@@ -19,8 +19,8 @@ grib2/4/88/32,Modelo de definición del producto 4.88 – Análisis o predicció
 grib2/4/88/33,Modelo de definición del producto 4.88 – Análisis o predicción en una superficie o capa horizontal a una hora local,33,1,Hora del análisis o la predicción utilizados en el cálculo,,,,,Operational,PDF
 grib2/4/88/34,Modelo de definición del producto 4.88 – Análisis o predicción en una superficie o capa horizontal a una hora local,34,1,Minutos del análisis o la predicción utilizados en el cálculo,,,,,Operational,PDF
 grib2/4/88/35,Modelo de definición del producto 4.88 – Análisis o predicción en una superficie o capa horizontal a una hora local,35,1,Segundos del análisis o la predicción utilizados en el cálculo,,,,,Operational,PDF
-grib2/4/88/36,Modelo de definición del producto 4.88 – Análisis o predicción en una superficie o capa horizontal a una hora local,36,1,Indicador de las unidades de tiempo de la predicción,"(véase la Tabla de cifrado 4.4, indicar como faltante si se trata de un análisis)",,4.4,,Operational,PDF
-grib2/4/88/37-40,Modelo de definición del producto 4.88 – Análisis o predicción en una superficie o capa horizontal a una hora local,37-40,4,Hora de la predicción (indicar como faltante si se trata de un análisis),,,,,Operational,PDF
+grib2/4/88/36,Modelo de definición del producto 4.88 – Análisis o predicción en una superficie o capa horizontal a una hora local,36,1,Indicador de las unidades de tiempo de la predicción,"(véase la Tabla de cifrado 4.4, indicar como faltante si se trata de un análisis)",70,4.4,,Operational,PDF
+grib2/4/88/37-40,Modelo de definición del producto 4.88 – Análisis o predicción en una superficie o capa horizontal a una hora local,37-40,4,Hora de la predicción (indicar como faltante si se trata de un análisis),(véase la nota),70,,,Operational,PDF
 grib2/4/88/41,Modelo de definición del producto 4.88 – Análisis o predicción en una superficie o capa horizontal a una hora local,41,1,Número de incrementos de tiempo de la predicción utilizada en el cálculo,,,,,Operational,PDF
 grib2/4/88/42,Modelo de definición del producto 4.88 – Análisis o predicción en una superficie o capa horizontal a una hora local,42,1,Indicador de las unidades de tiempo de los incrementos de tiempo,,,,,Operational,PDF
 grib2/4/88/43-46,Modelo de definición del producto 4.88 – Análisis o predicción en una superficie o capa horizontal a una hora local,43-46,4,Incrementos de tiempo entre horas de predicción sucesivas,,,,,Operational,PDF

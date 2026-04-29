@@ -4,7 +4,7 @@ grib2/4/11/1,Table de code 4.11 – Type d'intervalle de temps,,1,,Heures trait�
 grib2/4/11/2,Table de code 4.11 – Type d'intervalle de temps,,2,,Heures traitées successivement avec même début de prévision et heure de prévision incrémentée,,,,Operational,PDF
 grib2/4/11/3,Table de code 4.11 – Type d'intervalle de temps,,3,,Heures traitées successivement avec début de prévision incrémenté et heure de prévision décrémentée pour une période de validité constante,,,,Operational,PDF
 grib2/4/11/4,Table de code 4.11 – Type d'intervalle de temps,,4,,Heures traitées successivement avec début de prévision décrémenté et heure de prévision incrémentée pour une période de validité constante,,,,Operational,PDF
-grib2/4/11/5,Table de code 4.11 – Type d'intervalle de temps,,5,,Sous-intervalle de temps glissant entre l'heure de prévision et la fin de l'intervalle de temps complet*,"Le chiffre du code 5 s'applique au moment où un seul sous-intervalle de temps a été utilisé pour effectuer le calcul dans le domaine traité statistiquement. Les heures exactes de début et de fin du sous-intervalle ne sont pas données, mais l'on sait qu'elles sont comprises entre le début et la fin de l'intervalle de temps complet.",,,Operational,PDF
+grib2/4/11/5,Table de code 4.11 – Type d'intervalle de temps,,5,,Sous-intervalle de temps glissant entre l'heure de prévision et la fin de l'intervalle de temps complet,(voir la note),37,,Operational,PDF
 grib2/4/11/6-191,Table de code 4.11 – Type d'intervalle de temps,,6-191,,En réserve,,,,Operational,PDF
 grib2/4/11/192-254,Table de code 4.11 – Type d'intervalle de temps,,192-254,,En réserve pour un usage local,,,,Operational,PDF
 grib2/4/11/255,Table de code 4.11 – Type d'intervalle de temps,,255,,Valeur manquante,,,,Operational,PDF

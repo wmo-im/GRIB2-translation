@@ -1,5 +1,5 @@
 ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
-grib2/3/7/0,Spectral data representation mode,,0,,Reserved,,,,Operational,PDF
-grib2/3/7/1,Spectral data representation mode,,1,,(see separate doc or pdf file),(see Note),116,,Operational,PDF
-grib2/3/7/2-254,Spectral data representation mode,,2-254,,Reserved,,,,Operational,PDF
-grib2/3/7/255,Spectral data representation mode,,255,,Missing,,,,Operational,PDF
+grib2/3/7/0,Spectral data representation mode,,0,,Reserved,,,,Operational,na
+grib2/3/7/1,Spectral data representation mode,,1,,(see separate doc or pdf file),(see Note),116,,Operational,na
+grib2/3/7/2-254,Spectral data representation mode,,2-254,,Reserved,,,,Operational,na
+grib2/3/7/255,Spectral data representation mode,,255,,Missing,,,,Operational,na

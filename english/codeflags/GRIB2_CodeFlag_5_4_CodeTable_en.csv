@@ -1,6 +1,6 @@
 ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
-grib2/5/4/0,Group splitting method,,0,,Row by row splitting,,,,Operational,PDF
-grib2/5/4/1,Group splitting method,,1,,General group splitting,,,,Operational,PDF
-grib2/5/4/2-191,Group splitting method,,2-191,,Reserved,,,,Operational,PDF
-grib2/5/4/192-254,Group splitting method,,192-254,,Reserved for local use,,,,Operational,PDF
-grib2/5/4/255,Group splitting method,,255,,Missing,,,,Operational,PDF
+grib2/5/4/0,Group splitting method,,0,,Row by row splitting,,,,Operational,na
+grib2/5/4/1,Group splitting method,,1,,General group splitting,,,,Operational,na
+grib2/5/4/2-191,Group splitting method,,2-191,,Reserved,,,,Operational,na
+grib2/5/4/192-254,Group splitting method,,192-254,,Reserved for local use,,,,Operational,na
+grib2/5/4/255,Group splitting method,,255,,Missing,,,,Operational,na

@@ -1,6 +1,6 @@
 ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
-grib2/4/222/0,Categorical result,,0,,No,,,,Operational,PDF
-grib2/4/222/1,Categorical result,,1,,Yes,,,,Operational,PDF
-grib2/4/222/2-191,Categorical result,,2-191,,Reserved,,,,Operational,PDF
-grib2/4/222/192-254,Categorical result,,192-254,,Reserved for local use,,,,Operational,PDF
-grib2/4/222/255,Categorical result,,255,,Missing,,,,Operational,PDF
+grib2/4/222/0,Categorical result,,0,,No,,,,Operational,na
+grib2/4/222/1,Categorical result,,1,,Yes,,,,Operational,na
+grib2/4/222/2-191,Categorical result,,2-191,,Reserved,,,,Operational,na
+grib2/4/222/192-254,Categorical result,,192-254,,Reserved for local use,,,,Operational,na
+grib2/4/222/255,Categorical result,,255,,Missing,,,,Operational,na

@@ -1,8 +1,8 @@
 ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
-grib2/4/236/1,Soil texture fraction (to be used as partitioned parameter in product definition template 4.53 or 4.54),,1,,Coarse,,,,Operational,PDF
-grib2/4/236/2,Soil texture fraction (to be used as partitioned parameter in product definition template 4.53 or 4.54),,2,,Medium,,,,Operational,PDF
-grib2/4/236/3,Soil texture fraction (to be used as partitioned parameter in product definition template 4.53 or 4.54),,3,,Medium-fine,,,,Operational,PDF
-grib2/4/236/4,Soil texture fraction (to be used as partitioned parameter in product definition template 4.53 or 4.54),,4,,Fine,,,,Operational,PDF
-grib2/4/236/5,Soil texture fraction (to be used as partitioned parameter in product definition template 4.53 or 4.54),,5,,Very-fine,,,,Operational,PDF
-grib2/4/236/6,Soil texture fraction (to be used as partitioned parameter in product definition template 4.53 or 4.54),,6,,Organic,,,,Operational,PDF
-grib2/4/236/7,Soil texture fraction (to be used as partitioned parameter in product definition template 4.53 or 4.54),,7,,Tropical-organic,,,,Operational,PDF
+grib2/4/236/1,Soil texture fraction (to be used as partitioned parameter in product definition template 4.53 or 4.54),,1,,Coarse,,,,Operational,na
+grib2/4/236/2,Soil texture fraction (to be used as partitioned parameter in product definition template 4.53 or 4.54),,2,,Medium,,,,Operational,na
+grib2/4/236/3,Soil texture fraction (to be used as partitioned parameter in product definition template 4.53 or 4.54),,3,,Medium-fine,,,,Operational,na
+grib2/4/236/4,Soil texture fraction (to be used as partitioned parameter in product definition template 4.53 or 4.54),,4,,Fine,,,,Operational,na
+grib2/4/236/5,Soil texture fraction (to be used as partitioned parameter in product definition template 4.53 or 4.54),,5,,Very-fine,,,,Operational,na
+grib2/4/236/6,Soil texture fraction (to be used as partitioned parameter in product definition template 4.53 or 4.54),,6,,Organic,,,,Operational,na
+grib2/4/236/7,Soil texture fraction (to be used as partitioned parameter in product definition template 4.53 or 4.54),,7,,Tropical-organic,,,,Operational,na

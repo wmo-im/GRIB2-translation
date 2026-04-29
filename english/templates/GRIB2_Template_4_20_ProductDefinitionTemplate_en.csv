@@ -1,20 +1,20 @@
 ID,Title_en,OctetNo,OctetCount,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status,translation_source
-grib2/4/20/10,radar product,10,1,Parameter category,(see Code table 4.1),,4.1,,Operational,PDF
-grib2/4/20/11,radar product,11,1,Parameter number,(see Code table 4.2),,4.2,,Operational,PDF
-grib2/4/20/12,radar product,12,1,Type of generating process,(see Code table 4.3),,4.3,,Operational,PDF
-grib2/4/20/13,radar product,13,1,Number of radar sites used,,,,,Operational,PDF
-grib2/4/20/14,radar product,14,1,Indicator of unit of time range,,,,,Operational,PDF
-grib2/4/20/15-18,radar product,15-18,4,Site latitude (in 10-6 degree),,,,,Operational,PDF
-grib2/4/20/19-22,radar product,19-22,4,Site longitude (in 10-6 degree),,,,,Operational,PDF
-grib2/4/20/23-24,radar product,23-24,2,Site elevation (metres),,,,,Operational,PDF
-grib2/4/20/25-28,radar product,25-28,4,Site ID (alphanumeric),,,,,Operational,PDF
-grib2/4/20/29-30,radar product,29-30,2,Site ID (numeric),,,,,Operational,PDF
-grib2/4/20/31,radar product,31,1,Operating mode,(see Code table 4.12),,4.12,,Operational,PDF
-grib2/4/20/32,radar product,32,1,Reflectivity calibration constant (tenths of dB),,,,,Operational,PDF
-grib2/4/20/33,radar product,33,1,Quality control indicator,(see Code table 4.13),,4.13,,Operational,PDF
-grib2/4/20/34,radar product,34,1,Clutter filter indicator,(see Code table 4.14),,4.14,,Operational,PDF
-grib2/4/20/35,radar product,35,1,Constant antenna elevation angle (tenths of degree true),,,,,Operational,PDF
-grib2/4/20/36-37,radar product,36-37,2,Accumulation interval (minutes),,,,,Operational,PDF
-grib2/4/20/38,radar product,38,1,Reference reflectivity for echo top (dB),,,,,Operational,PDF
-grib2/4/20/39-41,radar product,39-41,3,Range bin spacing (metres),,,,,Operational,PDF
-grib2/4/20/42-43,radar product,42-43,2,Radial angular spacing (tenths of degree true),,,,,Operational,PDF
+grib2/4/20/10,radar product,10,1,Parameter category,(see Code table 4.1),,4.1,,Operational,na
+grib2/4/20/11,radar product,11,1,Parameter number,(see Code table 4.2),,4.2,,Operational,na
+grib2/4/20/12,radar product,12,1,Type of generating process,(see Code table 4.3),,4.3,,Operational,na
+grib2/4/20/13,radar product,13,1,Number of radar sites used,,,,,Operational,na
+grib2/4/20/14,radar product,14,1,Indicator of unit of time range,,,,,Operational,na
+grib2/4/20/15-18,radar product,15-18,4,Site latitude (in 10-6 degree),,,,,Operational,na
+grib2/4/20/19-22,radar product,19-22,4,Site longitude (in 10-6 degree),,,,,Operational,na
+grib2/4/20/23-24,radar product,23-24,2,Site elevation (metres),,,,,Operational,na
+grib2/4/20/25-28,radar product,25-28,4,Site ID (alphanumeric),,,,,Operational,na
+grib2/4/20/29-30,radar product,29-30,2,Site ID (numeric),,,,,Operational,na
+grib2/4/20/31,radar product,31,1,Operating mode,(see Code table 4.12),,4.12,,Operational,na
+grib2/4/20/32,radar product,32,1,Reflectivity calibration constant (tenths of dB),,,,,Operational,na
+grib2/4/20/33,radar product,33,1,Quality control indicator,(see Code table 4.13),,4.13,,Operational,na
+grib2/4/20/34,radar product,34,1,Clutter filter indicator,(see Code table 4.14),,4.14,,Operational,na
+grib2/4/20/35,radar product,35,1,Constant antenna elevation angle (tenths of degree true),,,,,Operational,na
+grib2/4/20/36-37,radar product,36-37,2,Accumulation interval (minutes),,,,,Operational,na
+grib2/4/20/38,radar product,38,1,Reference reflectivity for echo top (dB),,,,,Operational,na
+grib2/4/20/39-41,radar product,39-41,3,Range bin spacing (metres),,,,,Operational,na
+grib2/4/20/42-43,radar product,42-43,2,Radial angular spacing (tenths of degree true),,,,,Operational,na

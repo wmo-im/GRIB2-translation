@@ -35,18 +35,18 @@ grib2/4/5/107,Table de code 4.5 – Type et unité des surfaces spécifiées,,10
 grib2/4/5/108,Table de code 4.5 – Type et unité des surfaces spécifiées,,108,,Niveau défini par la différence de pression avec la pression au sol,,,Pa,Operational,PDF
 grib2/4/5/109,Table de code 4.5 – Type et unité des surfaces spécifiées,,109,,Surface du tourbillon potentiel,,,K m² kg-1 s-1,Operational,PDF
 grib2/4/5/110,Table de code 4.5 – Type et unité des surfaces spécifiées,,110,,En réserve,,,–,Operational,PDF
-grib2/4/5/111,Table de code 4.5 – Type et unité des surfaces spécifiées,,111,,Niveau ETA,,85,–,Operational,PDF
+grib2/4/5/111,Table de code 4.5 – Type et unité des surfaces spécifiées,,111,,Niveau ETA,(voir la note 1),85,–,Operational,PDF
 grib2/4/5/112,Table de code 4.5 – Type et unité des surfaces spécifiées,,112,,En réserve,,,–,Operational,PDF
 grib2/4/5/113,Table de code 4.5 – Type et unité des surfaces spécifiées,,113,,Niveau hybride logarithmique,,,–,Operational,PDF
 grib2/4/5/114,Table de code 4.5 – Type et unité des surfaces spécifiées,,114,,Enneigement,,,Numérique,Operational,PDF
 grib2/4/5/115,Table de code 4.5 – Type et unité des surfaces spécifiées,,115,,Altitude sigma,(voir la note 4),75,–,Operational,PDF
 grib2/4/5/116,Table de code 4.5 – Type et unité des surfaces spécifiées,,116,,En réserve,,,–,Operational,PDF
 grib2/4/5/117,Table de code 4.5 – Type et unité des surfaces spécifiées,,117,,Épaisseur de la couche de mélange,,,m,Operational,PDF
-grib2/4/5/118,Table de code 4.5 – Type et unité des surfaces spécifiées,,118,,Hauteur hybride,,,–,Operational,PDF
-grib2/4/5/119,Table de code 4.5 – Type et unité des surfaces spécifiées,,119,,Niveau barique hybride,,55,–,Operational,PDF
+grib2/4/5/118,Table de code 4.5 – Type et unité des surfaces spécifiées,,118,,Hauteur hybride,(voir la note 2),54,–,Operational,PDF
+grib2/4/5/119,Table de code 4.5 – Type et unité des surfaces spécifiées,,119,,Niveau barique hybride,(voir la note 3),55,–,Operational,PDF
 grib2/4/5/120-149,Table de code 4.5 – Type et unité des surfaces spécifiées,,120-149,,En réserve,,,–,Operational,PDF
-grib2/4/5/150,Table de code 4.5 – Type et unité des surfaces spécifiées,,150,,Coordonnée généralisée de la hauteur verticale,(voir la note 5),,–,Operational,PDF
-grib2/4/5/151,Table de code 4.5 – Type et unité des surfaces spécifiées,,151,,Niveau du sol,(voir la note 6),,Numérique,Operational,PDF
+grib2/4/5/150,Table de code 4.5 – Type et unité des surfaces spécifiées,,150,,Coordonnée généralisée de la hauteur verticale,(voir la note 5),84,–,Operational,PDF
+grib2/4/5/151,Table de code 4.5 – Type et unité des surfaces spécifiées,,151,,Niveau du sol,(voir la note 6),100,Numérique,Operational,PDF
 grib2/4/5/152-159,Table de code 4.5 – Type et unité des surfaces spécifiées,,152-159,,En réserve,,,–,Operational,PDF
 grib2/4/5/160,Table de code 4.5 – Type et unité des surfaces spécifiées,,160,,Profondeur sous le niveau de la mer,,,m,Operational,PDF
 grib2/4/5/161,Table de code 4.5 – Type et unité des surfaces spécifiées,,161,,Profondeur sous la surface de l'eau,,,m,Operational,PDF
@@ -58,7 +58,7 @@ grib2/4/5/166,Table de code 4.5 – Type et unité des surfaces spécifiées,,16
 grib2/4/5/167,Table de code 4.5 – Type et unité des surfaces spécifiées,,167,,Partie inférieure de la rhizosphère,,,–,Operational,PDF
 grib2/4/5/168,Table de code 4.5 – Type et unité des surfaces spécifiées,,168,,Niveau du modèle océanique,,,Numérique,Operational,PDF
 grib2/4/5/169,Table de code 4.5 – Type et unité des surfaces spécifiées,,169,,Niveau océanique défini par l'écart de masse volumique de l'eau (sigma-theta) avec la proximité de la surface,(voir la note 7),18,kg m-3,Operational,PDF
-grib2/4/5/170,Table de code 4.5 – Type et unité des surfaces spécifiées,,170,,Niveau océanique défini par l'écart de température potentielle de l'eau (theta) avec la proximité de la surface,(voir la note 7),,,Operational,PDF
+grib2/4/5/170,Table de code 4.5 – Type et unité des surfaces spécifiées,,170,,Niveau océanique défini par l'écart de température potentielle de l'eau (theta) avec la proximité de la surface,(voir la note 7),18,K,Operational,PDF
 grib2/4/5/171-173,Table de code 4.5 – Type et unité des surfaces spécifiées,,171-173,,En réserve,,,–,Operational,PDF
 grib2/4/5/174,Table de code 4.5 – Type et unité des surfaces spécifiées,,174,,"Surface supérieure de la glace présente sur la mer, un lac ou un cours d'eau",,,–,Operational,PDF
 grib2/4/5/175,Table de code 4.5 – Type et unité des surfaces spécifiées,,175,,"Surface supérieure de la glace, couverte de neige, présente sur la mer, un lac ou un cours d'eau",,,–,Operational,PDF

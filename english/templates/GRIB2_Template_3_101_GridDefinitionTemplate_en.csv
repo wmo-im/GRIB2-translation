@@ -1,5 +1,5 @@
 ID,Title_en,OctetNo,OctetCount,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status,translation_source
-grib2/3/101/15,general unstructured grid,15,1,Shape of the Earth,(see Code table 3.2),,3.2,,Operational,PDF
-grib2/3/101/16-18,general unstructured grid,16-18,3,Number of grid used (defined by originating centre),,,,,Operational,PDF
-grib2/3/101/19,general unstructured grid,19,1,Number of grid in reference (to allow annotating for Arakawa C-grid on arbitrary grid),(see Note),86,,,Operational,PDF
-grib2/3/101/20-35,general unstructured grid,20-35,16,Universally Unique Identifier of horizontal grid,,,,,Operational,PDF
+grib2/3/101/15,general unstructured grid,15,1,Shape of the Earth,(see Code table 3.2),,3.2,,Operational,na
+grib2/3/101/16-18,general unstructured grid,16-18,3,Number of grid used (defined by originating centre),,,,,Operational,na
+grib2/3/101/19,general unstructured grid,19,1,Number of grid in reference (to allow annotating for Arakawa C-grid on arbitrary grid),(see Note),86,,,Operational,na
+grib2/3/101/20-35,general unstructured grid,20-35,16,Universally Unique Identifier of horizontal grid,,,,,Operational,na

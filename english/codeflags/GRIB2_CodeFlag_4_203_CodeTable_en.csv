@@ -1,26 +1,26 @@
 ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
-grib2/4/203/0,Cloud type,,0,,Clear,,,,Operational,PDF
-grib2/4/203/1,Cloud type,,1,,Cumulonimbus,,,,Operational,PDF
-grib2/4/203/2,Cloud type,,2,,Stratus,,,,Operational,PDF
-grib2/4/203/3,Cloud type,,3,,Stratocumulus,,,,Operational,PDF
-grib2/4/203/4,Cloud type,,4,,Cumulus,,,,Operational,PDF
-grib2/4/203/5,Cloud type,,5,,Altostratus,,,,Operational,PDF
-grib2/4/203/6,Cloud type,,6,,Nimbostratus,,,,Operational,PDF
-grib2/4/203/7,Cloud type,,7,,Altocumulus,,,,Operational,PDF
-grib2/4/203/8,Cloud type,,8,,Cirrostratus,,,,Operational,PDF
-grib2/4/203/9,Cloud type,,9,,Cirrocumulus,,,,Operational,PDF
-grib2/4/203/10,Cloud type,,10,,Cirrus,,,,Operational,PDF
-grib2/4/203/11,Cloud type,,11,,Cumulonimbus - ground-based fog beneath the lowest layer,,,,Operational,PDF
-grib2/4/203/12,Cloud type,,12,,Stratus - ground-based fog beneath the lowest layer,,,,Operational,PDF
-grib2/4/203/13,Cloud type,,13,,Stratocumulus - ground-based fog beneath the lowest layer,,,,Operational,PDF
-grib2/4/203/14,Cloud type,,14,,Cumulus - ground-based fog beneath the lowest layer,,,,Operational,PDF
-grib2/4/203/15,Cloud type,,15,,Altostratus - ground-based fog beneath the lowest layer,,,,Operational,PDF
-grib2/4/203/16,Cloud type,,16,,Nimbostratus - ground-based fog beneath the lowest layer,,,,Operational,PDF
-grib2/4/203/17,Cloud type,,17,,Altocumulus - ground-based fog beneath the lowest layer,,,,Operational,PDF
-grib2/4/203/18,Cloud type,,18,,Cirrostratus - ground-based fog beneath the lowest layer,,,,Operational,PDF
-grib2/4/203/19,Cloud type,,19,,Cirrocumulus - ground-based fog beneath the lowest layer,,,,Operational,PDF
-grib2/4/203/20,Cloud type,,20,,Cirrus - ground-based fog beneath the lowest layer,,,,Operational,PDF
-grib2/4/203/21-190,Cloud type,,21-190,,Reserved,,,,Operational,PDF
-grib2/4/203/191,Cloud type,,191,,Unknown,,,,Operational,PDF
-grib2/4/203/192-254,Cloud type,,192-254,,Reserved for local use,,,,Operational,PDF
-grib2/4/203/255,Cloud type,,255,,Missing,,,,Operational,PDF
+grib2/4/203/0,Cloud type,,0,,Clear,,,,Operational,na
+grib2/4/203/1,Cloud type,,1,,Cumulonimbus,,,,Operational,na
+grib2/4/203/2,Cloud type,,2,,Stratus,,,,Operational,na
+grib2/4/203/3,Cloud type,,3,,Stratocumulus,,,,Operational,na
+grib2/4/203/4,Cloud type,,4,,Cumulus,,,,Operational,na
+grib2/4/203/5,Cloud type,,5,,Altostratus,,,,Operational,na
+grib2/4/203/6,Cloud type,,6,,Nimbostratus,,,,Operational,na
+grib2/4/203/7,Cloud type,,7,,Altocumulus,,,,Operational,na
+grib2/4/203/8,Cloud type,,8,,Cirrostratus,,,,Operational,na
+grib2/4/203/9,Cloud type,,9,,Cirrocumulus,,,,Operational,na
+grib2/4/203/10,Cloud type,,10,,Cirrus,,,,Operational,na
+grib2/4/203/11,Cloud type,,11,,Cumulonimbus - ground-based fog beneath the lowest layer,,,,Operational,na
+grib2/4/203/12,Cloud type,,12,,Stratus - ground-based fog beneath the lowest layer,,,,Operational,na
+grib2/4/203/13,Cloud type,,13,,Stratocumulus - ground-based fog beneath the lowest layer,,,,Operational,na
+grib2/4/203/14,Cloud type,,14,,Cumulus - ground-based fog beneath the lowest layer,,,,Operational,na
+grib2/4/203/15,Cloud type,,15,,Altostratus - ground-based fog beneath the lowest layer,,,,Operational,na
+grib2/4/203/16,Cloud type,,16,,Nimbostratus - ground-based fog beneath the lowest layer,,,,Operational,na
+grib2/4/203/17,Cloud type,,17,,Altocumulus - ground-based fog beneath the lowest layer,,,,Operational,na
+grib2/4/203/18,Cloud type,,18,,Cirrostratus - ground-based fog beneath the lowest layer,,,,Operational,na
+grib2/4/203/19,Cloud type,,19,,Cirrocumulus - ground-based fog beneath the lowest layer,,,,Operational,na
+grib2/4/203/20,Cloud type,,20,,Cirrus - ground-based fog beneath the lowest layer,,,,Operational,na
+grib2/4/203/21-190,Cloud type,,21-190,,Reserved,,,,Operational,na
+grib2/4/203/191,Cloud type,,191,,Unknown,,,,Operational,na
+grib2/4/203/192-254,Cloud type,,192-254,,Reserved for local use,,,,Operational,na
+grib2/4/203/255,Cloud type,,255,,Missing,,,,Operational,na

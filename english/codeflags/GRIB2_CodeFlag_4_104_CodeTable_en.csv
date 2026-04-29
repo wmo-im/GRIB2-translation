@@ -1,15 +1,15 @@
 ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
-grib2/4/104/0,Spatial and temporal vicinity processing,,0,,Average,,,,Operational,PDF
-grib2/4/104/1,Spatial and temporal vicinity processing,,1,,Reserved,,,,Operational,PDF
-grib2/4/104/2,Spatial and temporal vicinity processing,,2,,Maximum,,,,Operational,PDF
-grib2/4/104/3,Spatial and temporal vicinity processing,,3,,Minimum,,,,Operational,PDF
-grib2/4/104/4,Spatial and temporal vicinity processing,,4,,Range,,,,Operational,PDF
-grib2/4/104/5,Spatial and temporal vicinity processing,,5,,Reserved,,,,Operational,PDF
-grib2/4/104/6,Spatial and temporal vicinity processing,,6,,Standard deviation,,,,Operational,PDF
-grib2/4/104/7-10,Spatial and temporal vicinity processing,,7-10,,Reserved,,,,Operational,PDF
-grib2/4/104/11,Spatial and temporal vicinity processing,,11,,Sum,,,,Operational,PDF
-grib2/4/104/12-189,Spatial and temporal vicinity processing,,12-189,,Reserved,,,,Operational,PDF
-grib2/4/104/190,Spatial and temporal vicinity processing,,190,,Quantile,(see Note),153,,Opertional,PDF
-grib2/4/104/191,Spatial and temporal vicinity processing,,191,,Categorical (boolean),,,,Operational,PDF
-grib2/4/104/192-254,Spatial and temporal vicinity processing,,192-254,,Reserved for local use,,,,Operational,PDF
-grib2/4/104/255,Spatial and temporal vicinity processing,,255,,Missing,,,,Operational,PDF
+grib2/4/104/0,Spatial and temporal vicinity processing,,0,,Average,,,,Operational,na
+grib2/4/104/1,Spatial and temporal vicinity processing,,1,,Reserved,,,,Operational,na
+grib2/4/104/2,Spatial and temporal vicinity processing,,2,,Maximum,,,,Operational,na
+grib2/4/104/3,Spatial and temporal vicinity processing,,3,,Minimum,,,,Operational,na
+grib2/4/104/4,Spatial and temporal vicinity processing,,4,,Range,,,,Operational,na
+grib2/4/104/5,Spatial and temporal vicinity processing,,5,,Reserved,,,,Operational,na
+grib2/4/104/6,Spatial and temporal vicinity processing,,6,,Standard deviation,,,,Operational,na
+grib2/4/104/7-10,Spatial and temporal vicinity processing,,7-10,,Reserved,,,,Operational,na
+grib2/4/104/11,Spatial and temporal vicinity processing,,11,,Sum,,,,Operational,na
+grib2/4/104/12-189,Spatial and temporal vicinity processing,,12-189,,Reserved,,,,Operational,na
+grib2/4/104/190,Spatial and temporal vicinity processing,,190,,Quantile,(see Note),153,,Opertional,na
+grib2/4/104/191,Spatial and temporal vicinity processing,,191,,Categorical (boolean),,,,Operational,na
+grib2/4/104/192-254,Spatial and temporal vicinity processing,,192-254,,Reserved for local use,,,,Operational,na
+grib2/4/104/255,Spatial and temporal vicinity processing,,255,,Missing,,,,Operational,na

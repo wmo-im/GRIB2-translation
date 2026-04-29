@@ -1,14 +1,14 @@
-﻿ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translation_source
+ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translation_source
 grib2/4/53/10,Parámetros con particiones para una superficie o capa horizontal en un momento dado,10,1,Categoría de parámetros,(véase la Tabla de cifrado 4.1),,4.1,,Operational,PDF
-grib2/4/53/11,Parámetros con particiones para una superficie o capa horizontal en un momento dado,11,1,Número de parámetros,(véase la Tabla de cifrado 4.2 y las notas 2 y 3),,4.2,,Operational,PDF
-grib2/4/53/12,Parámetros con particiones para una superficie o capa horizontal en un momento dado,12,1,Número de tabla de partición (PTN),(véanse las notas 1 y 3),,,,Operational,PDF
-grib2/4/53/13,Parámetros con particiones para una superficie o capa horizontal en un momento dado,13,1,Número de particiones (NP),,,,,Operational,PDF
-grib2/4/53/14-(14+2NP-1),Parámetros con particiones para una superficie o capa horizontal en un momento dado,14-(14+2NP-1),,Conjunto de particiones (enumérense todos los números de particiones de la partición),véase la Tabla de cifrado 4.PTN y la nota 1),,4.PTN,,Operational,PDF
-grib2/4/53/(14+2NP)-(15+2NP),Parámetros con particiones para una superficie o capa horizontal en un momento dado,(14+2NP)-(15+2NP),,Número de la partición (PN),,,4.PTN,,Operational,PDF
+grib2/4/53/11,Parámetros con particiones para una superficie o capa horizontal en un momento dado,11,1,Número de parámetros,(véase la Tabla de cifrado 4.2 y las notas 2 y 3),"60,121",4.2,,Operational,PDF
+grib2/4/53/12,Parámetros con particiones para una superficie o capa horizontal en un momento dado,12,1,Número de tabla de partición (PTN),(véanse las notas 1 y 3),"6,121",,,Operational,PDF
+grib2/4/53/13,Parámetros con particiones para una superficie o capa horizontal en un momento dado,13,1,Número de particiones (NP),(véase la nota 1),6,,,Operational,PDF
+grib2/4/53/14-(14+2NP-1),Parámetros con particiones para una superficie o capa horizontal en un momento dado,14-(14+2NP-1),,Conjunto de particiones (enumérense todos los números de particiones de la partición),(véase la Tabla de cifrado 4.PTN y la nota 3),6,4.PTN,,Operational,PDF
+grib2/4/53/(14+2NP)-(15+2NP),Parámetros con particiones para una superficie o capa horizontal en un momento dado,(14+2NP)-(15+2NP),,Número de la partición (PN),,121,4.PTN,,Operational,PDF
 grib2/4/53/(16+2NP),Parámetros con particiones para una superficie o capa horizontal en un momento dado,(16+2NP),,Tipo de proceso de producción,(véase la Tabla de cifrado 4.3),,4.3,,Operational,PDF
 grib2/4/53/(17+2NP),Parámetros con particiones para una superficie o capa horizontal en un momento dado,(17+2NP),,Identificador del proceso de producción de base (definido por el centro de origen),,,,,Operational,PDF
 grib2/4/53/(18+2NP),Parámetros con particiones para una superficie o capa horizontal en un momento dado,(18+2NP),,Identificador del proceso de producción del análisis o de la previsión (definido por el centro de origen),,,,,Operational,PDF
-grib2/4/53/(19+2NP)-(20+2NP),Parámetros con particiones para una superficie o capa horizontal en un momento dado,(19+2NP)-(20+2NP),,Límite (horas) de recogida de datos de observación después de la hora de referencia,,,,,Operational,PDF
+grib2/4/53/(19+2NP)-(20+2NP),Parámetros con particiones para una superficie o capa horizontal en un momento dado,(19+2NP)-(20+2NP),,Límite (horas) de recogida de datos de observación después de la hora de referencia,(véase la nota 1),6,,,Operational,PDF
 grib2/4/53/(21+2NP),Parámetros con particiones para una superficie o capa horizontal en un momento dado,(21+2NP),,Límite (minutos) de recogida de datos de observación después de la hora de referencia,,,,,Operational,PDF
 grib2/4/53/(22+2NP),Parámetros con particiones para una superficie o capa horizontal en un momento dado,(22+2NP),,Indicador de la unidad del intervalo de tiempo,(véase la Tabla de cifrado 4.4),,4.4,,Operational,PDF
 grib2/4/53/(23+2NP)-(26+2NP),Parámetros con particiones para una superficie o capa horizontal en un momento dado,(23+2NP)-(26+2NP),,Hora de la previsión expresada en la unidad precisada por el octeto precedente,,,,,Operational,PDF

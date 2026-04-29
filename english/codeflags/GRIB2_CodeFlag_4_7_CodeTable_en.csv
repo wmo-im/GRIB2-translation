@@ -1,15 +1,15 @@
 ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
-grib2/4/7/0,Derived forecast,,0,,Unweighted mean of all members,,,,Operational,PDF
-grib2/4/7/1,Derived forecast,,1,,Weighted mean of all members,,,,Operational,PDF
-grib2/4/7/2,Derived forecast,,2,,Standard deviation with respect to cluster mean,,,,Operational,PDF
-grib2/4/7/3,Derived forecast,,3,,"Standard deviation with respect to cluster mean, normalized",,,,Operational,PDF
-grib2/4/7/4,Derived forecast,,4,,Spread of all members,,,,Operational,PDF
-grib2/4/7/5,Derived forecast,,5,,Large anomaly index of all members,(see Note 1),67,,Operational,PDF
-grib2/4/7/6,Derived forecast,,6,,Unweighted mean of the cluster members,,,,Operational,PDF
-grib2/4/7/7,Derived forecast,,7,,Interquartile range (range between the 25th and 75th quantile),,,,Operational,PDF
-grib2/4/7/8,Derived forecast,,8,,Minimum of all ensemble members,(see Note 2),63,,Operational,PDF
-grib2/4/7/9,Derived forecast,,9,,Maximum of all ensemble members,(see Note 2),63,,Operational,PDF
-grib2/4/7/10,Derived forecast,,10,,Variance of all ensemble members,,,,Operational,PDF
-grib2/4/7/11-191,Derived forecast,,11-191,,Reserved,,,,Operational,PDF
-grib2/4/7/192-254,Derived forecast,,192-254,,Reserved for local use,,,,Operational,PDF
-grib2/4/7/255,Derived forecast,,255,,Missing,,,,Operational,PDF
+grib2/4/7/0,Derived forecast,,0,,Unweighted mean of all members,,,,Operational,na
+grib2/4/7/1,Derived forecast,,1,,Weighted mean of all members,,,,Operational,na
+grib2/4/7/2,Derived forecast,,2,,Standard deviation with respect to cluster mean,,,,Operational,na
+grib2/4/7/3,Derived forecast,,3,,"Standard deviation with respect to cluster mean, normalized",,,,Operational,na
+grib2/4/7/4,Derived forecast,,4,,Spread of all members,,,,Operational,na
+grib2/4/7/5,Derived forecast,,5,,Large anomaly index of all members,(see Note 1),67,,Operational,na
+grib2/4/7/6,Derived forecast,,6,,Unweighted mean of the cluster members,,,,Operational,na
+grib2/4/7/7,Derived forecast,,7,,Interquartile range (range between the 25th and 75th quantile),,,,Operational,na
+grib2/4/7/8,Derived forecast,,8,,Minimum of all ensemble members,(see Note 2),63,,Operational,na
+grib2/4/7/9,Derived forecast,,9,,Maximum of all ensemble members,(see Note 2),63,,Operational,na
+grib2/4/7/10,Derived forecast,,10,,Variance of all ensemble members,,,,Operational,na
+grib2/4/7/11-191,Derived forecast,,11-191,,Reserved,,,,Operational,na
+grib2/4/7/192-254,Derived forecast,,192-254,,Reserved for local use,,,,Operational,na
+grib2/4/7/255,Derived forecast,,255,,Missing,,,,Operational,na

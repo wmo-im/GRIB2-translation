@@ -1,10 +1,10 @@
 ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
-grib2/4/242/0,Tile classification,,0,,Reserved,,,,Operational,PDF
-grib2/4/242/1,Tile classification,,1,,Land use classes according to ESA-GlobCover GCV2009,,,,Operational,PDF
-grib2/4/242/2,Tile classification,,2,,Land use classes according to European Commission-Global Land Cover Project GLC2000,,,,Operational,PDF
-grib2/4/242/3,Tile classification,,3,,Land use classes according to ECOCLIMAP,,,,Operational,PDF
-grib2/4/242/4,Tile classification,,4,,Land use classes according to ECOCLIMAP-SG,,,,Operational,PDF
-grib2/4/242/5,Tile classification,,5,,Land use classes according to USGS EROS Global Land Cover Characterization (GLCC) v2.0 BATS Classification,,,,Operational,PDF
-grib2/4/242/6-191,Tile classification,,6-191,,Reserved,,,,Operational,PDF
-grib2/4/242/192-254,Tile classification,,192-254,,Reserved for local use,,,,Operational,PDF
-grib2/4/242/255,Tile classification,,255,,Missing value,,,,Operational,PDF
+grib2/4/242/0,Tile classification,,0,,Reserved,,,,Operational,na
+grib2/4/242/1,Tile classification,,1,,Land use classes according to ESA-GlobCover GCV2009,,,,Operational,na
+grib2/4/242/2,Tile classification,,2,,Land use classes according to European Commission-Global Land Cover Project GLC2000,,,,Operational,na
+grib2/4/242/3,Tile classification,,3,,Land use classes according to ECOCLIMAP,,,,Operational,na
+grib2/4/242/4,Tile classification,,4,,Land use classes according to ECOCLIMAP-SG,,,,Operational,na
+grib2/4/242/5,Tile classification,,5,,Land use classes according to USGS EROS Global Land Cover Characterization (GLCC) v2.0 BATS Classification,,,,Operational,na
+grib2/4/242/6-191,Tile classification,,6-191,,Reserved,,,,Operational,na
+grib2/4/242/192-254,Tile classification,,192-254,,Reserved for local use,,,,Operational,na
+grib2/4/242/255,Tile classification,,255,,Missing value,,,,Operational,na

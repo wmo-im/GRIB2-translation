@@ -1,8 +1,8 @@
 ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
-grib2/3/21/0,Vertical dimension coordinate values definition,,0,,Explicit coordinate values set,,,,Operational,PDF
-grib2/3/21/1,Vertical dimension coordinate values definition,,1,,"Linear coordinates f(1) = C1, f(n) = f(n-1) + C2",,,,Operational,PDF
-grib2/3/21/2-10,Vertical dimension coordinate values definition,,2-10,,Reserved,,,,Operational,PDF
-grib2/3/21/11,Vertical dimension coordinate values definition,,11,,"Geometric coordinates f(1) = C1, f(n) = C2 × f(n-1)",,,,Operational,PDF
-grib2/3/21/12-191,Vertical dimension coordinate values definition,,12-191,,Reserved,,,,Operational,PDF
-grib2/3/21/192-254,Vertical dimension coordinate values definition,,192-254,,Reserved for local use,,,,Operational,PDF
-grib2/3/21/255,Vertical dimension coordinate values definition,,255,,Missing,,,,Operational,PDF
+grib2/3/21/0,Vertical dimension coordinate values definition,,0,,Explicit coordinate values set,,,,Operational,na
+grib2/3/21/1,Vertical dimension coordinate values definition,,1,,"Linear coordinates f(1) = C1, f(n) = f(n-1) + C2",,,,Operational,na
+grib2/3/21/2-10,Vertical dimension coordinate values definition,,2-10,,Reserved,,,,Operational,na
+grib2/3/21/11,Vertical dimension coordinate values definition,,11,,"Geometric coordinates f(1) = C1, f(n) = C2 × f(n-1)",,,,Operational,na
+grib2/3/21/12-191,Vertical dimension coordinate values definition,,12-191,,Reserved,,,,Operational,na
+grib2/3/21/192-254,Vertical dimension coordinate values definition,,192-254,,Reserved for local use,,,,Operational,na
+grib2/3/21/255,Vertical dimension coordinate values definition,,255,,Missing,,,,Operational,na

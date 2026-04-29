@@ -1,7 +1,7 @@
 ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
-grib2/4/335/1,Emission scenario origin,,1,,ARGOS (Accident Reporting and Guiding Operational System),,,,Operational,PDF
-grib2/4/335/2,Emission scenario origin,,2,,JRODOS (Java version of Real time Online Decision SuppOrt System),,,,Operational,PDF
-grib2/4/335/3,Emission scenario origin,,3,,Assimilated (Scenario retrieved from measurements),,,,Operational,PDF
-grib2/4/335/4,Emission scenario origin,,4,,Centre (scenario by originating centre),,,,Operational,PDF
-grib2/4/335/5-254,Emission scenario origin,,5-254,,Reserved,,,,Operational,PDF
-grib2/4/335/255,Emission scenario origin,,255,,Missing value,,,,Operational,PDF
+grib2/4/335/1,Emission scenario origin,,1,,ARGOS (Accident Reporting and Guiding Operational System),,,,Operational,na
+grib2/4/335/2,Emission scenario origin,,2,,JRODOS (Java version of Real time Online Decision SuppOrt System),,,,Operational,na
+grib2/4/335/3,Emission scenario origin,,3,,Assimilated (Scenario retrieved from measurements),,,,Operational,na
+grib2/4/335/4,Emission scenario origin,,4,,Centre (scenario by originating centre),,,,Operational,na
+grib2/4/335/5-254,Emission scenario origin,,5-254,,Reserved,,,,Operational,na
+grib2/4/335/255,Emission scenario origin,,255,,Missing value,,,,Operational,na

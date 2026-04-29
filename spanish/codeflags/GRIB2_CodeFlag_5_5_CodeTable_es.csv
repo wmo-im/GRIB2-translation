@@ -3,5 +3,5 @@ grib2/5/5/0,Tabla de cifrado 5.5 Procesamiento de los valores faltantes en el em
 grib2/5/5/1,Tabla de cifrado 5.5 Procesamiento de los valores faltantes en el empaquetado complejo,,1,,Presencia de valores faltantes primarios en los datos,,,,Operational,PDF
 grib2/5/5/2,Tabla de cifrado 5.5 Procesamiento de los valores faltantes en el empaquetado complejo,,2,,Presencia de valores faltantes primarios y secundarios en los datos,,,,Operational,PDF
 grib2/5/5/3-191,Tabla de cifrado 5.5 Procesamiento de los valores faltantes en el empaquetado complejo,,3-191,,Reservadas,,,,Operational,PDF
-grib2/5/5/192-254,Tabla de cifrado 5.5 Procesamiento de los valores faltantes en el empaquetado complejo,,192-254,,,,,,Operational,PDF
+grib2/5/5/192-254,Tabla de cifrado 5.5 Procesamiento de los valores faltantes en el empaquetado complejo,,192-254,,Reservadas para uso local,,,,Operational,PDF
 grib2/5/5/255,Tabla de cifrado 5.5 Procesamiento de los valores faltantes en el empaquetado complejo,,255,,Valor faltante,,,,Operational,PDF

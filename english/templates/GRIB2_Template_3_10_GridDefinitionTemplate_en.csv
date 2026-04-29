@@ -1,21 +1,21 @@
 ID,Title_en,OctetNo,OctetCount,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status,translation_source
-grib2/3/10/15,Mercator,15,1,Shape of the Earth,(see Code table 3.2),,3.2,,Operational,PDF
-grib2/3/10/16,Mercator,16,1,Scale factor of radius of spherical Earth,,,,,Operational,PDF
-grib2/3/10/17-20,Mercator,17-20,4,Scaled value of radius of spherical Earth,,,,,Operational,PDF
-grib2/3/10/21,Mercator,21,1,Scale factor of major axis of oblate spheroid Earth,,,,,Operational,PDF
-grib2/3/10/22-25,Mercator,22-25,4,Scaled value of major axis of oblate spheroid Earth,,,,,Operational,PDF
-grib2/3/10/26,Mercator,26,1,Scale factor of minor axis of oblate spheroid Earth,,,,,Operational,PDF
-grib2/3/10/27-30,Mercator,27-30,4,Scaled value of minor axis of oblate spheroid Earth,,,,,Operational,PDF
-grib2/3/10/31-34,Mercator,31-34,4,Ni - number of points along a parallel,,,,,Operational,PDF
-grib2/3/10/35-38,Mercator,35-38,4,Nj - number of points along a meridian,,,,,Operational,PDF
-grib2/3/10/39-42,Mercator,39-42,4,La1 - latitude of first grid point,,,,,Operational,PDF
-grib2/3/10/43-46,Mercator,43-46,4,Lo1 - longitude of first grid point,,,,,Operational,PDF
-grib2/3/10/47,Mercator,47,1,Resolution and component flags,(see Flag table 3.3),,,3.3,Operational,PDF
-grib2/3/10/48-51,Mercator,48-51,4,LaD - latitude(s) at which the Mercator projection intersects the Earth (Latitude(s) where Di and Dj are specified),,,,,Operational,PDF
-grib2/3/10/52-55,Mercator,52-55,4,La2 - latitude of last grid point,,,,,Operational,PDF
-grib2/3/10/56-59,Mercator,56-59,4,Lo2 - longitude of last grid point,,,,,Operational,PDF
-grib2/3/10/60,Mercator,60,1,Scanning mode,(see Flag table 3.4),,,3.4,Operational,PDF
-grib2/3/10/61-64,Mercator,61-64,4,"Orientation of the grid, angle between i direction on the map and the Equator",(see Note 1),49,,,Operational,PDF
-grib2/3/10/65-68,Mercator,65-68,4,Di - longitudinal direction grid length,(see Note 2),28,,,Operational,PDF
-grib2/3/10/69-72,Mercator,69-72,4,Dj - latitudinal direction grid length,(see Note 2),28,,,Operational,PDF
-grib2/3/10/73-nn,Mercator,73-nn,,List of number of points along each meridian or parallel,"(see Notes 4, 5 and 6)","4,124,136",,,Operational,PDF
+grib2/3/10/15,Mercator,15,1,Shape of the Earth,(see Code table 3.2),,3.2,,Operational,na
+grib2/3/10/16,Mercator,16,1,Scale factor of radius of spherical Earth,,,,,Operational,na
+grib2/3/10/17-20,Mercator,17-20,4,Scaled value of radius of spherical Earth,,,,,Operational,na
+grib2/3/10/21,Mercator,21,1,Scale factor of major axis of oblate spheroid Earth,,,,,Operational,na
+grib2/3/10/22-25,Mercator,22-25,4,Scaled value of major axis of oblate spheroid Earth,,,,,Operational,na
+grib2/3/10/26,Mercator,26,1,Scale factor of minor axis of oblate spheroid Earth,,,,,Operational,na
+grib2/3/10/27-30,Mercator,27-30,4,Scaled value of minor axis of oblate spheroid Earth,,,,,Operational,na
+grib2/3/10/31-34,Mercator,31-34,4,Ni - number of points along a parallel,,,,,Operational,na
+grib2/3/10/35-38,Mercator,35-38,4,Nj - number of points along a meridian,,,,,Operational,na
+grib2/3/10/39-42,Mercator,39-42,4,La1 - latitude of first grid point,,,,,Operational,na
+grib2/3/10/43-46,Mercator,43-46,4,Lo1 - longitude of first grid point,,,,,Operational,na
+grib2/3/10/47,Mercator,47,1,Resolution and component flags,(see Flag table 3.3),,,3.3,Operational,na
+grib2/3/10/48-51,Mercator,48-51,4,LaD - latitude(s) at which the Mercator projection intersects the Earth (Latitude(s) where Di and Dj are specified),,,,,Operational,na
+grib2/3/10/52-55,Mercator,52-55,4,La2 - latitude of last grid point,,,,,Operational,na
+grib2/3/10/56-59,Mercator,56-59,4,Lo2 - longitude of last grid point,,,,,Operational,na
+grib2/3/10/60,Mercator,60,1,Scanning mode,(see Flag table 3.4),,,3.4,Operational,na
+grib2/3/10/61-64,Mercator,61-64,4,"Orientation of the grid, angle between i direction on the map and the Equator",(see Note 1),49,,,Operational,na
+grib2/3/10/65-68,Mercator,65-68,4,Di - longitudinal direction grid length,(see Note 2),28,,,Operational,na
+grib2/3/10/69-72,Mercator,69-72,4,Dj - latitudinal direction grid length,(see Note 2),28,,,Operational,na
+grib2/3/10/73-nn,Mercator,73-nn,,List of number of points along each meridian or parallel,"(see Notes 4, 5 and 6)","4,124,136",,,Operational,na

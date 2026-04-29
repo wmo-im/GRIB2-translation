@@ -1,5 +1,5 @@
-﻿ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translation_source
-grib2/3/120/15-18,Modèle de définition de la grille 3.120 — Projection azimut-distance,15-18,4,Nb - nombre de cellules de données le long des lignes radiales,(voir la note),,,,Operational,PDF
+ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translation_source
+grib2/3/120/15-18,Modèle de définition de la grille 3.120 — Projection azimut-distance,15-18,4,Nb - nombre de cellules de données le long des lignes radiales,(voir la note),1,,,Operational,PDF
 grib2/3/120/19-22,Modèle de définition de la grille 3.120 — Projection azimut-distance,19-22,4,Nr - nombre de lignes radiales,,,,,Operational,PDF
 grib2/3/120/23-26,Modèle de définition de la grille 3.120 — Projection azimut-distance,23-26,4,La1 - latitude du point central,,,,,Operational,PDF
 grib2/3/120/27-30,Modèle de définition de la grille 3.120 — Projection azimut-distance,27-30,4,Lo1 - longitude du point central,,,,,Operational,PDF

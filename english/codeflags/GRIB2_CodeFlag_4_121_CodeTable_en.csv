@@ -1,9 +1,9 @@
 ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
-grib2/4/121/0,Type of reference dataset for verification,,0,,Analysis interpolated on forecast grid,,,,Operational,PDF
-grib2/4/121/1,Type of reference dataset for verification,,1,,Analysis with forecast interpolated on analysis grid,,,,Operational,PDF
-grib2/4/121/2,Type of reference dataset for verification,,2,,Analysis interpolated on a common grid with the forecast but different to original grid,,,,Operational,PDF
-grib2/4/121/3,Type of reference dataset for verification,,3,,Gridded observation on forecast grid,,,,Operational,PDF
-grib2/4/121/4,Type of reference dataset for verification,,4,,Gridded observation with forecast interpolated on observation grid,,,,Operational,PDF
-grib2/4/121/5-191,Type of reference dataset for verification,,5-191,,Reserved,,,,Operational,PDF
-grib2/4/121/192-254,Type of reference dataset for verification,,192-254,,Reserved for local use,,,,Operational,PDF
-grib2/4/121/255,Type of reference dataset for verification,,255,,Missing,,,,Operational,PDF
+grib2/4/121/0,Type of reference dataset for verification,,0,,Analysis interpolated on forecast grid,,,,Operational,na
+grib2/4/121/1,Type of reference dataset for verification,,1,,Analysis with forecast interpolated on analysis grid,,,,Operational,na
+grib2/4/121/2,Type of reference dataset for verification,,2,,Analysis interpolated on a common grid with the forecast but different to original grid,,,,Operational,na
+grib2/4/121/3,Type of reference dataset for verification,,3,,Gridded observation on forecast grid,,,,Operational,na
+grib2/4/121/4,Type of reference dataset for verification,,4,,Gridded observation with forecast interpolated on observation grid,,,,Operational,na
+grib2/4/121/5-191,Type of reference dataset for verification,,5-191,,Reserved,,,,Operational,na
+grib2/4/121/192-254,Type of reference dataset for verification,,192-254,,Reserved for local use,,,,Operational,na
+grib2/4/121/255,Type of reference dataset for verification,,255,,Missing,,,,Operational,na

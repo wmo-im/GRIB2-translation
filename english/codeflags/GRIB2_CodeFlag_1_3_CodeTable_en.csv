@@ -1,22 +1,22 @@
 ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
-grib2/1/3/0,Production status of data,,0,,Operational products,,,,Operational,PDF
-grib2/1/3/1,Production status of data,,1,,Operational test products,,,,Operational,PDF
-grib2/1/3/2,Production status of data,,2,,Research products,,,,Operational,PDF
-grib2/1/3/3,Production status of data,,3,,Re-analysis products,,,,Operational,PDF
-grib2/1/3/4,Production status of data,,4,,THORPEX Interactive Grand Global Ensemble (TIGGE),,,,Operational,PDF
-grib2/1/3/5,Production status of data,,5,,THORPEX Interactive Grand Global Ensemble (TIGGE) test,,,,Operational,PDF
-grib2/1/3/6,Production status of data,,6,,S2S operational products,,,,Operational,PDF
-grib2/1/3/7,Production status of data,,7,,S2S test products,,,,Operational,PDF
-grib2/1/3/8,Production status of data,,8,,Uncertainties in Ensembles of Regional ReAnalyses project (UERRA),,,,Operational,PDF
-grib2/1/3/9,Production status of data,,9,,Uncertainties in Ensembles of Regional ReAnalyses project (UERRA) test,,,,Operational,PDF
-grib2/1/3/10,Production status of data,,10,,Copernicus regional reanalysis,,,,Operational,PDF
-grib2/1/3/11,Production status of data,,11,,Copernicus regional reanalysis test,,,,Operational,PDF
-grib2/1/3/12,Production status of data,,12,,Destination Earth,,,,Operational,PDF
-grib2/1/3/13,Production status of data,,13,,Destination Earth test,,,,Operational,PDF
-grib2/1/3/14,Production status of data,,14,,Lead Centre for Global Climate Reanalyses (LC-GCR),,,,Operational,PDF
-grib2/1/3/15,Production status of data,,15,,Lead Centre for Global Climate Reanalyses (LC-GCR) test,,,,Operational,PDF
-grib2/1/3/16,Production status of data,,16,,Machine Learning Model Intercomparison Project (MLMIP),,,,Operational,PDF
-grib2/1/3/17,Production status of data,,17,,Machine Learning Model Intercomparison Project (MLMIP) test,,,,Operational,PDF
-grib2/1/3/18-191,Production status of data,,18-191,,Reserved,,,,Operational,PDF
-grib2/1/3/192-254,Production status of data,,192-254,,Reserved for local use,,,,Operational,PDF
-grib2/1/3/255,Production status of data,,255,,Missing,,,,Operational,PDF
+grib2/1/3/0,Production status of data,,0,,Operational products,,,,Operational,na
+grib2/1/3/1,Production status of data,,1,,Operational test products,,,,Operational,na
+grib2/1/3/2,Production status of data,,2,,Research products,,,,Operational,na
+grib2/1/3/3,Production status of data,,3,,Re-analysis products,,,,Operational,na
+grib2/1/3/4,Production status of data,,4,,THORPEX Interactive Grand Global Ensemble (TIGGE),,,,Operational,na
+grib2/1/3/5,Production status of data,,5,,THORPEX Interactive Grand Global Ensemble (TIGGE) test,,,,Operational,na
+grib2/1/3/6,Production status of data,,6,,S2S operational products,,,,Operational,na
+grib2/1/3/7,Production status of data,,7,,S2S test products,,,,Operational,na
+grib2/1/3/8,Production status of data,,8,,Uncertainties in Ensembles of Regional ReAnalyses project (UERRA),,,,Operational,na
+grib2/1/3/9,Production status of data,,9,,Uncertainties in Ensembles of Regional ReAnalyses project (UERRA) test,,,,Operational,na
+grib2/1/3/10,Production status of data,,10,,Copernicus regional reanalysis,,,,Operational,na
+grib2/1/3/11,Production status of data,,11,,Copernicus regional reanalysis test,,,,Operational,na
+grib2/1/3/12,Production status of data,,12,,Destination Earth,,,,Operational,na
+grib2/1/3/13,Production status of data,,13,,Destination Earth test,,,,Operational,na
+grib2/1/3/14,Production status of data,,14,,Lead Centre for Global Climate Reanalyses (LC-GCR),,,,Operational,na
+grib2/1/3/15,Production status of data,,15,,Lead Centre for Global Climate Reanalyses (LC-GCR) test,,,,Operational,na
+grib2/1/3/16,Production status of data,,16,,Machine Learning Model Intercomparison Project (MLMIP),,,,Operational,na
+grib2/1/3/17,Production status of data,,17,,Machine Learning Model Intercomparison Project (MLMIP) test,,,,Operational,na
+grib2/1/3/18-191,Production status of data,,18-191,,Reserved,,,,Operational,na
+grib2/1/3/192-254,Production status of data,,192-254,,Reserved for local use,,,,Operational,na
+grib2/1/3/255,Production status of data,,255,,Missing,,,,Operational,na

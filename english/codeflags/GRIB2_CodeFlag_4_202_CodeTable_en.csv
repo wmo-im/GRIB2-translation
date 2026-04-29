@@ -1,4 +1,4 @@
 ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
-grib2/4/202/0-191,Precipitable water category,,0-191,,Reserved,,,,Operational,PDF
-grib2/4/202/192-254,Precipitable water category,,192-254,,Reserved for local use,,,,Operational,PDF
-grib2/4/202/255,Precipitable water category,,255,,Missing,,,,Operational,PDF
+grib2/4/202/0-191,Precipitable water category,,0-191,,Reserved,,,,Operational,na
+grib2/4/202/192-254,Precipitable water category,,192-254,,Reserved for local use,,,,Operational,na
+grib2/4/202/255,Precipitable water category,,255,,Missing,,,,Operational,na

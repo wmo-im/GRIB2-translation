@@ -1,11 +1,11 @@
-﻿ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translation_source
-grib2/3/120/15-18,Modelo de definición de la retícula 3.120 — Proyección azimut-distancia,15-18,4,Nb - número de células de datos a lo largo de las líneas radiales,véase la nota,,,,Operational,PDF
+ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translation_source
+grib2/3/120/15-18,Modelo de definición de la retícula 3.120 — Proyección azimut-distancia,15-18,4,Nb - número de células de datos a lo largo de las líneas radiales,(véase la nota),1,,,Operational,PDF
 grib2/3/120/19-22,Modelo de definición de la retícula 3.120 — Proyección azimut-distancia,19-22,4,Nr - número de líneas radiales,,,,,Operational,PDF
 grib2/3/120/23-26,Modelo de definición de la retícula 3.120 — Proyección azimut-distancia,23-26,4,La1 - latitud del punto central,,,,,Operational,PDF
 grib2/3/120/27-30,Modelo de definición de la retícula 3.120 — Proyección azimut-distancia,27-30,4,Lo1 - longitud del punto central,,,,,Operational,PDF
 grib2/3/120/31-34,Modelo de definición de la retícula 3.120 — Proyección azimut-distancia,31-34,4,Dx - separación de las células a lo largo de las líneas radiales,,,,,Operational,PDF
 grib2/3/120/35-38,Modelo de definición de la retícula 3.120 — Proyección azimut-distancia,35-38,4,Dstart - desplazamiento de las células a lo largo de las líneas radiales,,,,,Operational,PDF
-grib2/3/120/39,Modelo de definición de la retícula 3.120 — Proyección azimut-distancia,39,1,Modo de exploración,banderines - véase la Tabla de banderines 3.4,,,3.4,Operational,PDF
+grib2/3/120/39,Modelo de definición de la retícula 3.120 — Proyección azimut-distancia,39,1,Modo de exploración,(véase la Tabla de banderines 3.4),,,3.4,Operational,PDF
 grib2/3/120//1,Modelo de definición de la retícula 3.120 — Proyección azimut-distancia,,,40-(39+4Nr) Para cada una de las líneas radiales Nr,,,,,Operational,PDF
 grib2/3/120/(40+4(X-1))-(41+4(X-1)),Modelo de definición de la retícula 3.120 — Proyección azimut-distancia,(40+4(X-1))-(41+4(X-1)),,"Azi - azimut inicial, grados x 10 (grados norte)",,,,,Operational,PDF
 grib2/3/120/(42+4(X-1))-(43+4(X-1)),Modelo de definición de la retícula 3.120 — Proyección azimut-distancia,(42+4(X-1))-(43+4(X-1)),,"Adelta - anchura del azimut, grados x 100 , con X = 1 a Nr (+ en el sentido de las manecillas del reloj, - en el sentido opuesto a las manecillas del reloj)",,,,,Operational,PDF

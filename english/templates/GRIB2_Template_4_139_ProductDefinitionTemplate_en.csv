@@ -1,27 +1,27 @@
 ID,Title_en,OctetNo,OctetCount,Contents_en,Note_en,noteIDs,codeTable,flagTable,Status,translation_source
-grib2/4/139/10,Reforecast at a horizontal level or in a horizontal layer at a point in time for waves selected by period range,10,1,Parameter category,(see Code table 4.1),,4.1,,Operational,PDF
-grib2/4/139/11,Reforecast at a horizontal level or in a horizontal layer at a point in time for waves selected by period range,11,1,Parameter number,(see Code table 4.2),,4.2,,Operational,PDF
-grib2/4/139/12,Reforecast at a horizontal level or in a horizontal layer at a point in time for waves selected by period range,12,1,Type of wave period interval,(see Code table 4.91),,4.91,,Operational,PDF
-grib2/4/139/13,Reforecast at a horizontal level or in a horizontal layer at a point in time for waves selected by period range,13,1,Scale factor of lower wave period limit,,,,,Operational,PDF
-grib2/4/139/14-17,Reforecast at a horizontal level or in a horizontal layer at a point in time for waves selected by period range,14-17,4,Scaled value of lower wave period limit,(see Note 1),163,,,Operational,PDF
-grib2/4/139/18,Reforecast at a horizontal level or in a horizontal layer at a point in time for waves selected by period range,18,1,Scale factor of upper wave period limit,,,,,Operational,PDF
-grib2/4/139/19-22,Reforecast at a horizontal level or in a horizontal layer at a point in time for waves selected by period range,19-22,4,Scaled value of upper wave period limit,(see Note 1),163,,,Operational,PDF
-grib2/4/139/23,Reforecast at a horizontal level or in a horizontal layer at a point in time for waves selected by period range,23,1,Type of generating process,(see Code table 4.3),,4.3,,Operational,PDF
-grib2/4/139/24,Reforecast at a horizontal level or in a horizontal layer at a point in time for waves selected by period range,24,1,Background generating process identifier (defined by originating centre),,,,,Operational,PDF
-grib2/4/139/25,Reforecast at a horizontal level or in a horizontal layer at a point in time for waves selected by period range,25,1,Reforecast generating process identifier (defined by originating centre),,,,,Operational,PDF
-grib2/4/139/26-27,Reforecast at a horizontal level or in a horizontal layer at a point in time for waves selected by period range,26-27,2,Hours of observational data cut-off after reference time,(see Note 2),33,,,Operational,PDF
-grib2/4/139/28,Reforecast at a horizontal level or in a horizontal layer at a point in time for waves selected by period range,28,1,Minutes of observational data cut-off after reference time,,,,,Operational,PDF
-grib2/4/139/29,Reforecast at a horizontal level or in a horizontal layer at a point in time for waves selected by period range,29,1,Indicator of unit of time range,(see Code table 4.4),,4.4,,Operational,PDF
-grib2/4/139/30-33,Reforecast at a horizontal level or in a horizontal layer at a point in time for waves selected by period range,30-33,4,Forecast time in units defined by previous octet,,,,,Operational,PDF
-grib2/4/139/34,Reforecast at a horizontal level or in a horizontal layer at a point in time for waves selected by period range,34,1,Type of first fixed surface,(see Code table 4.5),,4.5,,Operational,PDF
-grib2/4/139/35,Reforecast at a horizontal level or in a horizontal layer at a point in time for waves selected by period range,35,1,Scale factor of first fixed surface,,,,,Operational,PDF
-grib2/4/139/36-39,Reforecast at a horizontal level or in a horizontal layer at a point in time for waves selected by period range,36-39,4,Scaled value of first fixed surface,,,,,Operational,PDF
-grib2/4/139/40,Reforecast at a horizontal level or in a horizontal layer at a point in time for waves selected by period range,40,1,Type of second fixed surface,(see Code table 4.5),,4.5,,Operational,PDF
-grib2/4/139/41,Reforecast at a horizontal level or in a horizontal layer at a point in time for waves selected by period range,41,1,Scale factor of second fixed surface,,,,,Operational,PDF
-grib2/4/139/42-45,Reforecast at a horizontal level or in a horizontal layer at a point in time for waves selected by period range,42-45,4,Scaled value of second fixed surface,,,,,Operational,PDF
-grib2/4/139/46-47,Reforecast at a horizontal level or in a horizontal layer at a point in time for waves selected by period range,46-47,2,Year of model version date,,,,,Operational,PDF
-grib2/4/139/48,Reforecast at a horizontal level or in a horizontal layer at a point in time for waves selected by period range,48,1,Month of model version date,,,,,Operational,PDF
-grib2/4/139/49,Reforecast at a horizontal level or in a horizontal layer at a point in time for waves selected by period range,49,1,Day of model version date,,,,,Operational,PDF
-grib2/4/139/50,Reforecast at a horizontal level or in a horizontal layer at a point in time for waves selected by period range,50,1,Hour of model version date,,,,,Operational,PDF
-grib2/4/139/51,Reforecast at a horizontal level or in a horizontal layer at a point in time for waves selected by period range,51,1,Minute of model version date,,,,,Operational,PDF
-grib2/4/139/52,Reforecast at a horizontal level or in a horizontal layer at a point in time for waves selected by period range,52,1,Second of model version date,,,,,Operational,PDF
+grib2/4/139/10,Reforecast at a horizontal level or in a horizontal layer at a point in time for waves selected by period range,10,1,Parameter category,(see Code table 4.1),,4.1,,Operational,na
+grib2/4/139/11,Reforecast at a horizontal level or in a horizontal layer at a point in time for waves selected by period range,11,1,Parameter number,(see Code table 4.2),,4.2,,Operational,na
+grib2/4/139/12,Reforecast at a horizontal level or in a horizontal layer at a point in time for waves selected by period range,12,1,Type of wave period interval,(see Code table 4.91),,4.91,,Operational,na
+grib2/4/139/13,Reforecast at a horizontal level or in a horizontal layer at a point in time for waves selected by period range,13,1,Scale factor of lower wave period limit,,,,,Operational,na
+grib2/4/139/14-17,Reforecast at a horizontal level or in a horizontal layer at a point in time for waves selected by period range,14-17,4,Scaled value of lower wave period limit,(see Note 1),163,,,Operational,na
+grib2/4/139/18,Reforecast at a horizontal level or in a horizontal layer at a point in time for waves selected by period range,18,1,Scale factor of upper wave period limit,,,,,Operational,na
+grib2/4/139/19-22,Reforecast at a horizontal level or in a horizontal layer at a point in time for waves selected by period range,19-22,4,Scaled value of upper wave period limit,(see Note 1),163,,,Operational,na
+grib2/4/139/23,Reforecast at a horizontal level or in a horizontal layer at a point in time for waves selected by period range,23,1,Type of generating process,(see Code table 4.3),,4.3,,Operational,na
+grib2/4/139/24,Reforecast at a horizontal level or in a horizontal layer at a point in time for waves selected by period range,24,1,Background generating process identifier (defined by originating centre),,,,,Operational,na
+grib2/4/139/25,Reforecast at a horizontal level or in a horizontal layer at a point in time for waves selected by period range,25,1,Reforecast generating process identifier (defined by originating centre),,,,,Operational,na
+grib2/4/139/26-27,Reforecast at a horizontal level or in a horizontal layer at a point in time for waves selected by period range,26-27,2,Hours of observational data cut-off after reference time,(see Note 2),33,,,Operational,na
+grib2/4/139/28,Reforecast at a horizontal level or in a horizontal layer at a point in time for waves selected by period range,28,1,Minutes of observational data cut-off after reference time,,,,,Operational,na
+grib2/4/139/29,Reforecast at a horizontal level or in a horizontal layer at a point in time for waves selected by period range,29,1,Indicator of unit of time range,(see Code table 4.4),,4.4,,Operational,na
+grib2/4/139/30-33,Reforecast at a horizontal level or in a horizontal layer at a point in time for waves selected by period range,30-33,4,Forecast time in units defined by previous octet,,,,,Operational,na
+grib2/4/139/34,Reforecast at a horizontal level or in a horizontal layer at a point in time for waves selected by period range,34,1,Type of first fixed surface,(see Code table 4.5),,4.5,,Operational,na
+grib2/4/139/35,Reforecast at a horizontal level or in a horizontal layer at a point in time for waves selected by period range,35,1,Scale factor of first fixed surface,,,,,Operational,na
+grib2/4/139/36-39,Reforecast at a horizontal level or in a horizontal layer at a point in time for waves selected by period range,36-39,4,Scaled value of first fixed surface,,,,,Operational,na
+grib2/4/139/40,Reforecast at a horizontal level or in a horizontal layer at a point in time for waves selected by period range,40,1,Type of second fixed surface,(see Code table 4.5),,4.5,,Operational,na
+grib2/4/139/41,Reforecast at a horizontal level or in a horizontal layer at a point in time for waves selected by period range,41,1,Scale factor of second fixed surface,,,,,Operational,na
+grib2/4/139/42-45,Reforecast at a horizontal level or in a horizontal layer at a point in time for waves selected by period range,42-45,4,Scaled value of second fixed surface,,,,,Operational,na
+grib2/4/139/46-47,Reforecast at a horizontal level or in a horizontal layer at a point in time for waves selected by period range,46-47,2,Year of model version date,,,,,Operational,na
+grib2/4/139/48,Reforecast at a horizontal level or in a horizontal layer at a point in time for waves selected by period range,48,1,Month of model version date,,,,,Operational,na
+grib2/4/139/49,Reforecast at a horizontal level or in a horizontal layer at a point in time for waves selected by period range,49,1,Day of model version date,,,,,Operational,na
+grib2/4/139/50,Reforecast at a horizontal level or in a horizontal layer at a point in time for waves selected by period range,50,1,Hour of model version date,,,,,Operational,na
+grib2/4/139/51,Reforecast at a horizontal level or in a horizontal layer at a point in time for waves selected by period range,51,1,Minute of model version date,,,,,Operational,na
+grib2/4/139/52,Reforecast at a horizontal level or in a horizontal layer at a point in time for waves selected by period range,52,1,Second of model version date,,,,,Operational,na

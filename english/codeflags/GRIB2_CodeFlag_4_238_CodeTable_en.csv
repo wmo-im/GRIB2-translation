@@ -1,48 +1,48 @@
 ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
-grib2/4/238/0,Source or sink,,0,,Other,,,,Operational,PDF
-grib2/4/238/1,Source or sink,,1,,Aviation,,,,Operational,PDF
-grib2/4/238/2,Source or sink,,2,,Lightning,,,,Operational,PDF
-grib2/4/238/3,Source or sink,,3,,Biogenic sources,,,,Operational,PDF
-grib2/4/238/4,Source or sink,,4,,Anthropogenic sources,,,,Operational,PDF
-grib2/4/238/5,Source or sink,,5,,Wild fires,,,,Operational,PDF
-grib2/4/238/6,Source or sink,,6,,Natural sources,,,,Operational,PDF
-grib2/4/238/7,Source or sink,,7,,Volcanoes,,,,Operational,PDF
-grib2/4/238/8,Source or sink,,8,,Bio-fuel,,,,Operational,PDF
-grib2/4/238/9,Source or sink,,9,,Fossil-fuel,,,,Operational,PDF
-grib2/4/238/10,Source or sink,,10,,Wetlands,,,,Operational,PDF
-grib2/4/238/11,Source or sink,,11,,Oceans,,,,Operational,PDF
-grib2/4/238/12,Source or sink,,12,,Elevated anthropogenic sources,,,,Operational,PDF
-grib2/4/238/13,Source or sink,,13,,Surface anthropogenic sources,,,,Operational,PDF
-grib2/4/238/14,Source or sink,,14,,Agriculture livestock,,,,Operational,PDF
-grib2/4/238/15,Source or sink,,15,,Agriculture soils,,,,Operational,PDF
-grib2/4/238/16,Source or sink,,16,,Agriculture waste burning,,,,Operational,PDF
-grib2/4/238/17,Source or sink,,17,,Agriculture (all),,,,Operational,PDF
-grib2/4/238/18,Source or sink,,18,,"Residential, commercial and other combustion",,,,Operational,PDF
-grib2/4/238/19,Source or sink,,19,,Power generation,,,,Operational,PDF
-grib2/4/238/20,Source or sink,,20,,Super power stations,,,,Operational,PDF
-grib2/4/238/21,Source or sink,,21,,Fugitives,,,,Operational,PDF
-grib2/4/238/22,Source or sink,,22,,Industrial process,,,,Operational,PDF
-grib2/4/238/23,Source or sink,,23,,Solvents,,,,Operational,PDF
-grib2/4/238/24,Source or sink,,24,,Ships,,,,Operational,PDF
-grib2/4/238/25,Source or sink,,25,,Wastes (solid and water),,,,Operational,PDF
-grib2/4/238/26,Source or sink,,26,,Road transportation,,,,Operational,PDF
-grib2/4/238/27,Source or sink,,27,,Off-road transportation,,,,Operational,PDF
-grib2/4/238/28,Source or sink,,28,,Nuclear power plant,,,,Operational,PDF
-grib2/4/238/29,Source or sink,,29,,Nuclear weapon,,,,Operational,PDF
-grib2/4/238/30,Source or sink,,30,,Commercial building heating,,,,Operational,PDF
-grib2/4/238/31,Source or sink,,31,,Residential heating,,,,Operational,PDF
-grib2/4/238/32,Source or sink,,32,,Oil refineries and transformation industry,,,,Operational,PDF
-grib2/4/238/33,Source or sink,,33,,Gas production,,,,Operational,PDF
-grib2/4/238/34,Source or sink,,34,,Vegetation,,,,Operational,PDF
-grib2/4/238/35,Source or sink,,35,,Biomass burning,,,,Operational,PDF
-grib2/4/238/36,Source or sink,,36,,Settlements,,,,Operational,PDF
-grib2/4/238/37,Source or sink,,37,,Soil,,,,Operational,PDF
-grib2/4/238/38,Source or sink,,38,,Wild animals,,,,Operational,PDF
-grib2/4/238/39,Source or sink,,39,,Savannah,,,,Operational,PDF
-grib2/4/238/40,Source or sink,,40,,Tropical forest,,,,Operational,PDF
-grib2/4/238/41,Source or sink,,41,,Boreal forest,,,,Operational,PDF
-grib2/4/238/42,Source or sink,,42,,Peatland,,,,Operational,PDF
-grib2/4/238/43,Source or sink,,43,,Deforestation,,,,Operational,PDF
-grib2/4/238/44-191,Source or sink,,44-191,,Reserved,,,,Operational,PDF
-grib2/4/238/192-254,Source or sink,,192-254,,Reserved for local use,,,,Operational,PDF
-grib2/4/238/255,Source or sink,,255,,Missing,,,,Operational,PDF
+grib2/4/238/0,Source or sink,,0,,Other,,,,Operational,na
+grib2/4/238/1,Source or sink,,1,,Aviation,,,,Operational,na
+grib2/4/238/2,Source or sink,,2,,Lightning,,,,Operational,na
+grib2/4/238/3,Source or sink,,3,,Biogenic sources,,,,Operational,na
+grib2/4/238/4,Source or sink,,4,,Anthropogenic sources,,,,Operational,na
+grib2/4/238/5,Source or sink,,5,,Wild fires,,,,Operational,na
+grib2/4/238/6,Source or sink,,6,,Natural sources,,,,Operational,na
+grib2/4/238/7,Source or sink,,7,,Volcanoes,,,,Operational,na
+grib2/4/238/8,Source or sink,,8,,Bio-fuel,,,,Operational,na
+grib2/4/238/9,Source or sink,,9,,Fossil-fuel,,,,Operational,na
+grib2/4/238/10,Source or sink,,10,,Wetlands,,,,Operational,na
+grib2/4/238/11,Source or sink,,11,,Oceans,,,,Operational,na
+grib2/4/238/12,Source or sink,,12,,Elevated anthropogenic sources,,,,Operational,na
+grib2/4/238/13,Source or sink,,13,,Surface anthropogenic sources,,,,Operational,na
+grib2/4/238/14,Source or sink,,14,,Agriculture livestock,,,,Operational,na
+grib2/4/238/15,Source or sink,,15,,Agriculture soils,,,,Operational,na
+grib2/4/238/16,Source or sink,,16,,Agriculture waste burning,,,,Operational,na
+grib2/4/238/17,Source or sink,,17,,Agriculture (all),,,,Operational,na
+grib2/4/238/18,Source or sink,,18,,"Residential, commercial and other combustion",,,,Operational,na
+grib2/4/238/19,Source or sink,,19,,Power generation,,,,Operational,na
+grib2/4/238/20,Source or sink,,20,,Super power stations,,,,Operational,na
+grib2/4/238/21,Source or sink,,21,,Fugitives,,,,Operational,na
+grib2/4/238/22,Source or sink,,22,,Industrial process,,,,Operational,na
+grib2/4/238/23,Source or sink,,23,,Solvents,,,,Operational,na
+grib2/4/238/24,Source or sink,,24,,Ships,,,,Operational,na
+grib2/4/238/25,Source or sink,,25,,Wastes (solid and water),,,,Operational,na
+grib2/4/238/26,Source or sink,,26,,Road transportation,,,,Operational,na
+grib2/4/238/27,Source or sink,,27,,Off-road transportation,,,,Operational,na
+grib2/4/238/28,Source or sink,,28,,Nuclear power plant,,,,Operational,na
+grib2/4/238/29,Source or sink,,29,,Nuclear weapon,,,,Operational,na
+grib2/4/238/30,Source or sink,,30,,Commercial building heating,,,,Operational,na
+grib2/4/238/31,Source or sink,,31,,Residential heating,,,,Operational,na
+grib2/4/238/32,Source or sink,,32,,Oil refineries and transformation industry,,,,Operational,na
+grib2/4/238/33,Source or sink,,33,,Gas production,,,,Operational,na
+grib2/4/238/34,Source or sink,,34,,Vegetation,,,,Operational,na
+grib2/4/238/35,Source or sink,,35,,Biomass burning,,,,Operational,na
+grib2/4/238/36,Source or sink,,36,,Settlements,,,,Operational,na
+grib2/4/238/37,Source or sink,,37,,Soil,,,,Operational,na
+grib2/4/238/38,Source or sink,,38,,Wild animals,,,,Operational,na
+grib2/4/238/39,Source or sink,,39,,Savannah,,,,Operational,na
+grib2/4/238/40,Source or sink,,40,,Tropical forest,,,,Operational,na
+grib2/4/238/41,Source or sink,,41,,Boreal forest,,,,Operational,na
+grib2/4/238/42,Source or sink,,42,,Peatland,,,,Operational,na
+grib2/4/238/43,Source or sink,,43,,Deforestation,,,,Operational,na
+grib2/4/238/44-191,Source or sink,,44-191,,Reserved,,,,Operational,na
+grib2/4/238/192-254,Source or sink,,192-254,,Reserved for local use,,,,Operational,na
+grib2/4/238/255,Source or sink,,255,,Missing,,,,Operational,na

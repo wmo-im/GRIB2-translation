@@ -1,12 +1,12 @@
 ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
-grib2/4/333/1,Transport dispersion model,,1,,DERMA (Danish Emergency Response Model of the Atmosphere),,,,Operational,PDF
-grib2/4/333/2,Transport dispersion model,,2,,E-EMEP (Emergency EMEP model),,,,Operational,PDF
-grib2/4/333/3,Transport dispersion model,,3,,FLEXPART (Particle dispersion model),,,,Operational,PDF
-grib2/4/333/4,Transport dispersion model,,4,,MLDP (Modèle lagrangien de dispersion de particules),,,,Operational,PDF
-grib2/4/333/5,Transport dispersion model,,5,,MATCH (Multi-scale Atmospheric Transport Model),,,,Operational,PDF
-grib2/4/333/6,Transport dispersion model,,6,,SILAM (System for Integrated modeLling of Atmospheric composition),,,,Operational,PDF
-grib2/4/333/7,Transport dispersion model,,7,,SNAP (Severe Nuclear Accident Program),,,,Operational,PDF
-grib2/4/333/8,Transport dispersion model,,8,,WRF-Chem (Weather Research and Forecasting Chemical model),,,,Operational,PDF
-grib2/4/333/9,Transport dispersion model,,9,,Trajectoire (Trajectory model),,,,Operational,PDF
-grib2/4/333/10-254,Transport dispersion model,,10-254,,Reserved,,,,Operational,PDF
-grib2/4/333/255,Transport dispersion model,,255,,Missing value,,,,Operational,PDF
+grib2/4/333/1,Transport dispersion model,,1,,DERMA (Danish Emergency Response Model of the Atmosphere),,,,Operational,na
+grib2/4/333/2,Transport dispersion model,,2,,E-EMEP (Emergency EMEP model),,,,Operational,na
+grib2/4/333/3,Transport dispersion model,,3,,FLEXPART (Particle dispersion model),,,,Operational,na
+grib2/4/333/4,Transport dispersion model,,4,,MLDP (Modèle lagrangien de dispersion de particules),,,,Operational,na
+grib2/4/333/5,Transport dispersion model,,5,,MATCH (Multi-scale Atmospheric Transport Model),,,,Operational,na
+grib2/4/333/6,Transport dispersion model,,6,,SILAM (System for Integrated modeLling of Atmospheric composition),,,,Operational,na
+grib2/4/333/7,Transport dispersion model,,7,,SNAP (Severe Nuclear Accident Program),,,,Operational,na
+grib2/4/333/8,Transport dispersion model,,8,,WRF-Chem (Weather Research and Forecasting Chemical model),,,,Operational,na
+grib2/4/333/9,Transport dispersion model,,9,,Trajectoire (Trajectory model),,,,Operational,na
+grib2/4/333/10-254,Transport dispersion model,,10-254,,Reserved,,,,Operational,na
+grib2/4/333/255,Transport dispersion model,,255,,Missing value,,,,Operational,na

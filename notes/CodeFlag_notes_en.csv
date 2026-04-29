@@ -1,190 +1,190 @@
 noteID,note_en,translation_source
-1,Parameter deprecated. See Regulation 92.6.2 and use another parameter instead.,PDF
-2,"Statistical process 1 (Accumulation) does not change units. It is recommended to use another parameter with ""rate"" in its name and accumulation in PDT.",PDF
-3,"It is recommended not to use this parameter, but another one with a more descriptive unit.",PDF
-4,Parameter deprecated. Use another parameter in parameter category 1: moisture instead.,PDF
-5,"FirstFixedSurface and SecondFixedSurface of Code table 4.5 (Fixed surface types and units) to define the vertical extent, i.e. FirstFixedSurface can be set to 1 (Ground or water surface) and SecondFixedSurface set to 7 (Tropopause) for a restriction to the troposphere.",PDF
-6,Statistical process 1 (Accumulation) does not change units.,PDF
-7,"Above normal, near normal and below normal are defined as three equiprobable categories based on climatology at each point over the geographical area covered by the grid. The type and methodology of the reference climatology are unspecified and should be documented concurrently by the data producer.",PDF
-8,Parameter deprecated. Use another parameter in parameter category 3: soil products instead.,PDF
-9,"Product definition templates that use Code Table 4.9 may contain octets to store the values of lower and upper limits. When categorical probability is used (such as below, near and above normal), these octets shall be set to ""all ones"" (missing).",PDF
-10,"Statistical process 1 (Accumulation) does not change units. It is recommended to use another parameter without the word ""time-integrated"" in its name and accumulation in PDT.",PDF
-11,The sum of the water and ice fractions may exceed the total due to overlap between the volumes containing ice and those containing liquid water.,PDF
-12,(see separate doc or pdf file),PDF
-13,Code figures 12 and 13 are intended in cases where code figures 0 and 2 may not be sufficient to indicate that significant post-processing has taken place on an initial analysis or forecast output.,PDF
-14,"Conversion factor between ""Specific activity concentration"" (14) and ""Air concentration"" (10) is ""mass density"" [kg m-3].",PDF
-15,In relation to local coordinate axes at a cell edge.,PDF
-16,"It is recommended to use Snow melt rate instead (discipline 2, category 0, number 41).",PDF
-17,Numbers 17 and 20 are deviations from the reference value of 1 000 kg m-3.,PDF
-18,The level is defined by a water property difference from the near-surface to the level. The near-surface is typically chosen at 10 m depth. The physical quantity used to compute the difference can be water density (σq) when using level type 169 or water potential temperature (θ) when using level type 170.,PDF
-19,The original data value is in the same units as the parameter defined by octets 10 and 11 of the product definition template.,PDF
-20,"The term ""number density"" is used as well for ""number concentration"" (code number 59); conversion factor between ""number density"" (59) and ""specific number concentration"" (60) is ""mass density"" [kg m-3].",PDF
-21,The x- and y- components of surface stress are not necessarily equivalent to the u- and v- components (eastward/northward). The x- and y- components strictly follow the defined coordinate system which may or may not follow the eastward and northward directions.,PDF
-22,The x- and y- components of water velocity are not necessarily equivalent to the u- and v- components (eastward/northward). The x- and y- components strictly follow the defined coordinate system which may or may not follow the eastward and northward directions.,PDF
-23,Total precipitation/snowfall rate stands for the sum of convective and large-scale precipitation/snowfall rate.,PDF
-24,The Global Solar UVI is formulated using the International Commission on Illumination (CIE) reference action spectrum for UV-induced erythema on the human skin (ISO17166:1999/CIE S 007/E-1998). It is a measure of the UV radiation that is relevant to and defined for a horizontal surface. The UVI is a unitless quantity defined by the formula: {{image}}.,PDF
-25,A data field representing snow coverage by elevation portrays at which elevations there is a snow pack. The elevation values typically range from 0 to 90 in 100-metre increments. A value of 253 is used to represent a no-snow/no-cloud data point. A value of 254 is used to represent a data point at which snow elevation could not be estimated because of clouds obscuring the remote sensor (when using aircraft or satellite measurements).,PDF
-26,A value strictly above 0.5 is treated as glacier. A value equal or below 0.5 is treated as land without glacier.,PDF
-27,"Latitude/Longitude is also called equidistant cylindrical or Plate Carrée.",PDF
-28,An initialized analysis is considered a zero-hour forecast.,PDF
-29,Analysis increment represents analysis minus first guess,PDF
-30,"Apparent temperature is the perceived outdoor temperature, caused by a combination of phenomena, such as air temperature, relative humidity and wind speed.",PDF
-31,"Assuming a cloud containing a bi-modal ice particle distribution, ""cloud ice"" refers to the small particle mode, whereas the large mode is usually called ""snow"". (""Ice pellets"", in contrast, may refer to the precipitation of sleet, formed from freezing raindrops or refreezing (partially) melted snowflakes, or the precipitation of small hail.)",PDF
-32,"Bits 5 through 8 may be used to generate staggered grids, such as Arakawa grids (see Part B, GRIB Attachment II).",PDF
-33,Budget interpolation means a low-order interpolation method that quasi-conserves area averages. It would be appropriate for interpolating budget fields such as precipitation. This method assumes that the field really represents box averages/maxima/minima where each box extends halfway to its neighboring grid point in each direction. The method actually averages bilinearly interpolated values in a square array of points distributed within each output grid box.,PDF
-34,"By convention, the flux sign is positive if downwards.",PDF
-35,"Lambert conformal can be secant, tangent, conical or bipolar.",PDF
-36,Polar stereographic projection can be south or north.,PDF
-37,"Code figure 5 applies to instances where a single time subinterval was used to calculate the statistically processed field. The exact starting and ending times of the subinterval are not given, but it is known that it is contained inclusively between the beginning time and the ending time of the overall interval.",PDF
-38,Code figures 11-20 indicate all four layers were used and ground-based fog is beneath the lowest layer.,PDF
-39,Data are in specified physical units.,PDF
-40,"Data are numeric without units, although they might be given quantitative meaning through a code table defined external to this document. The emphasis is on a displayable ""picture"" of some phenomenon, perhaps with certain enhanced features. Generally, each datum is an unsigned, one octet integer, but some image format products might have another datum size. The size of a datum is indicated in section 5.",PDF
-41,"Decibel (dB) is a logarithmic measure of the relative power, or of the relative values of two flux densities, especially of sound intensities and radio and radar power densities. In radar meteorology, the logarithmic scale (dBZ) is used for measuring radar reflectivity factor(obtained from the American Meteorological Society Glossary of Meteorology).",PDF
-42,Defined by originating centre.,PDF
-43,"Definition of LPI after Lynn et al.: Lynn, B. and Y. Yair, 2010: Prediction of lightning flash density with the WRF model, Adv. Geosci., 23:11-16; Yair, Y., B. Lynn, C. Price, V. Kotroni,K. Lagouvardos, E. Morin, A. Mugnai and M. Llasat, 2010: Predicting the potential for lightning activity in Mediterranean storms based on the Weather Research and Forecasting (WRF) model dynamic and microphysical fields, Journal of Geophysical Research, 115, D04205, doi:10.1029/2008JD010868.",PDF
-44,"Di and Dj are assumed to be positive, with the direction of i and j being given by bits 1 and 2.",PDF
-45,Eddy dissipation parameter is the third root of eddy dissipation rate [m2 s-3].,PDF
-46,"Entries 8 - 12 are deprecated.",PDF
-47,Essentially a non-leap year,PDF
-48,Extends the Gregorian calendar indefinitely in the past,PDF
-49,Fog is defined as cloud cover in the lowest model level.,PDF
-50,"It should be noted that depending on values of extreme (first/last) coordinates,and regardless of bitmap, effective number of points per row may be less than the number of points on the current circle.",PDF
-51,"For parameter 38 (Parameter category 0), ice volume is expressed as if the ice content were melted to liquid water and then its volume measured in the liquid state. This may be understood in the same manner as water equivalent snow depth.",PDF
-52,Further information concerning the wave parameters can be found in the Guide to Wave Analysis and Forecasting (WMO-No. 702).,PDF
-53,"Higher values indicate that heat stress is important. Interpretation of values can vary among organizations and use. See example in the ISO certification (ISO 7243, 1989; 2017; Parsons, 2013).",PDF
-54,"Hybrid height level (Code figure 118) can be defined as:z(k) = A(k) + B(k) x orog(k = 1,...,NLevels; orog = orography; z(k) = height in metres at level k)",PDF
-55,"Hybrid pressure level, for which Code figure 119 shall be used instead of 105, can be defined as:p(k) = A(k) + B(k) x sp(k = 1,...,NLevels; sp = surface pressure; p(k) = pressure at level k)",PDF
-56,i direction: west to east along a parallel or left to right along an x-axis.,PDF
-57,Ice internal pressure or stress (Pa m) is the integrated pressure across the vertical thickness of a layer of ice. It is produced when concentrated ice reacts to external forces such as wind and ocean currents.,PDF
-58,"If any of bits 5, 6, 7 or 8 are set, Di and Dj are not optional.",PDF
-59,"If bit number 4 is set, the first row scan is as defined by previous flags.",PDF
-60,"In astronomy, sky transparency means the effect on the viewing experience caused by the scattering of light through atmospheric water vapour, aerosols or other constituents. Ideal transparency conditions produce a black night sky conducive to viewing faint astronomical objects, almost like being in outer space. In poor transparency conditions, which may occur even in cloud-free conditions, the deep sky background is greyish (not black), faint details are washed out and contrast is reduced.",PDF
-61,Initialized analysis increment represents initialized analysis minus analysis,PDF
-62,It is recommended to use parameter 148.,PDF
-63,"It should be noted that the reference for ""minimum of all ensemble members"" and ""maximum of all ensemble members"" is the set of ensemble members and not a time interval and should not be confused with the maximum and minimum described by PDT 4.8.",PDF
-65,"j direction: south to north along a meridian, or bottom to top along a y-axis.",PDF
-66,"La1 and Lo1 define the first row, which is an odd row.",PDF
-67,"Large anomaly index is defined as {(number of members whose anomaly is higher than 0.5 x SD) - (number of members whose anomaly is lower than -0.5 x SD)} /(number of members) at each grid point, where SD is defined as observed climatological standard deviation.",PDF
-68,"Negative values associated to this coordinate will indicate depth below ground surface. If values are all below surface, use of entry 106 is recommended, with positive coordinate values instead.",PDF
-69,Normal flux is on a surface lifted to be normal to sun rays.,PDF
-70,Numbers 31 to 40 are deprecated.,PDF
-71,Parameters from 10 onward may be used in combination with product definition templates 4.40-4.43 and Common Code table C-14 (Code table 4.230) to represent any type of radioisotope.,PDF
-72,Performs a budget interpolation at the grid point nearest to the nominal grid point.,PDF
-73,"Remotely sensed snow cover is expressed as a field of dimensionless, thematic values. The currently accepted values are for no-snow/no-cloud, 50, for clouds, 100, and for snow, 250 (see Code table 4.215).",PDF
-74,"Seeing means the steadiness or turbulence of the atmosphere in the context of astronomical observation. Turbulence causes rapid random fluctuations of the optical path through the atmosphere. The twinkling of stars, for example, occurs in poor seeing conditions.",PDF
-75,"Sigma height level is the vertical model level of the height-based terrain-following coordinate (Gal-Chen and Somerville, 1975). The value of the level = (height of the level - height of the terrain) / (height of the top level - height of the terrain), which is greater than or equal to 0 and less than or equal to 1.",PDF
-76,Snow evaporation is the accumulated amount of water that has evaporated from snow from within the snow covered area of a grid-box.,PDF
-77,"Snow water equivalent per cent of normal is stored in per cent of normal units. For example,a value of 110 indicates 110 per cent of the normal snow water equivalent for a given depth of snow.",PDF
-78,Supercooled large droplets (SLD) are defined as those with a diameter greater than 50 microns.,PDF
-79,Surface roughness for heat is a measure of the surface resistance to heat transfer.,PDF
-80,Surface roughness for moisture is a measure of the surface resistance to moisture transfer.,PDF
-81,Temperature at the base of the thermal skin layer.,PDF
-82,Temperature of the water across a very small depth (approximately the upper 20 micrometers).,PDF
-83,Temperature of the water column free of diurnal temperature variability or equal to the ST sub-skin in the absence of any diurnal signal.,PDF
-84,"The definition of a generalized vertical height coordinate implies the absence of coordinate values in Section 4 but the presence of an external 3D-GRIB message that specifies the height of every model grid point in metres (see Notes to Section 4 in the section above entitled Specification of Octet Contents), i.e., this GRIB message will contain the field with discipline = 0, category = 3, parameter = 6 (Geometric height).",PDF
-85,The Eta vertical coordinate system involves normalizing the pressure at some point on a specific level by the mean sea-level pressure at that point.,PDF
-87,"The Fosberg index denotes the potential influence of weather on a wildland fire. It takes into account the combined effects of temperature, wind speed, relative humidity and precipitation. Higher values indicate a higher potential impact.",PDF
-90,"The listed units for this parameter appear not to be appropriate for evapotranspiration. Instead, it is recommended to use parameter 39 with statistical process 1 (accumulation) in order to report evapotranspiration in units of kg m-2.",PDF
-91,"The listed units for this parameter appear to be inappropriate for the potential evaporation rate. Instead, it is recommended to use parameter 143.",PDF
-92,"The original data value (Y in the note 4 of Regulation 92.9.4) has units of Code table 4.2 multiplied by second, unless otherwise noted on Code table 4.2.",PDF
-93,The original data value has squared units of Code table 4.2.,PDF
-94,"The original data value is a non-dimensional number from 0 to 1, where 0 indicates no confidence and 1 indicates maximal confidence.",PDF
-95,The original data value is a non-dimensional number without units.,PDF
-96,The original data value is defined by Code table 4.244,PDF
-97,The original data value is non-dimensional number without units.,PDF
-98,"The ratio of the radiant flux reflected by a surface to that reflected into the same reflected-beam geometry and wavelength range by an ideal (lossless) and diffuse(Lambertian) standard surface, irradiated under the same conditions.",PDF
-99,"The sea-ice level represents a sea-ice model level for which the depth is not constant across the model domains. The depth in metres of the level is provided by another GRIB message with the parameter “sea-ice thickness” with discipline 10, category 2 and parameter number 1.",PDF
-100,"The soil level represents a model level for which the depth is not constant across the model domain. The depth in metres of the level is provided by another GRIB message with the parameter ""soil depth"" with discipline 2, category 3 and parameter number 27.",PDF
-101,The solar flux per unit area received from a solid angle of 2π sr on a horizontal surface.,PDF
-102,"The solar flux per unit area received from a solid angle of 2π sr, except for the solid angle of the sun's disc, on a horizontal surface.",PDF
-103,The solar flux per unit area received from the solid angle of the sun's disc on a surface normal to the sun direction.,PDF
-104,"The total lightning flash density is the sum of cloud-to-ground and cloud-to-cloud lightning flash densities (see Lopez, P., 2016: A lightning parameterization for the ECMWF Integrated Forecasting System, Monthly Weather Review, 144, 3057-3075).",PDF
-105,The value for the constant direction increment Di (or Dx) in the accompanying grid definition template should be set to all ones (missing).,PDF
-106,Theoretical temperature at the precise air-sea interface.,PDF
-107,"This category is no longer populated. Please use ""Product discipline 0 -  Meteorological products, parameter category 20: atmospheric chemical constituents"".",PDF
-108,This code table is deprecated. See Common Code table C-0 instead.,PDF
-109,This method assumes that each field really represents box averages/maxima/minima where each box extends halfway to its neighboring grid point in each direction to represent averages/maxima/minima of values from the source grid with no interpolation.,PDF
-110,"This parameter is described in more detail by (a) Lee, S. and I.M. Held, 1993: Baroclinic wave packets in models and observations. J. Atmos. Sci., 50:1413-1428, (b) Chang, E.K.M., 1993: Downstream development of baroclinic waves as inferred from regression analysis. J. Atmos. Sci., 50:2038-2053, (c) Archambault, H.M., D. Keyser and L.F. Bosart, 2010: Relationships between large-scale regime transitions and major cool-season precipitation events in the northeastern United States. Mon Wea. Review, 138:3454-3473, and(d) Zimin, A.V., I. Szunyogh, B.R. Hung and E. Orr, 2006: Extracting envelopes of non-zonally propagating Rossby wave packets. Mon. Wea. Review, 134:1329-1333.",PDF
-111,Time integral of diffuse solar irradiance.,PDF
-112,Time integral of direct solar irradiance.,PDF
-113,Time integral of global solar irradiance.,PDF
-114,"Top of atmosphere radiance observed by a sensor, multiplied by pi and divided by the in-band solar irradiance.",PDF
-115,"Total solid precipitation includes the sum of all types of solid water, e.g. graupel, snow and hail.",PDF
-116,"Values of N(m) for common truncation cases: Triangular: M = J = K, N(m) = J Rhomboidal: K = J + M, N(m) = J + m Trapezoidal: K = J, K > M, N(m) = J",PDF
-117,WGS-84 is a geodetic system that uses IAG-GRS80 as a basis.,PDF
-118,"When a new category is to be added to Code table 4.1 and more than one discipline applies, the choice of discipline should be made based on the intended use of the product.",PDF
-119,"When a new parameter is to be added to Code table 4.2 and more than one category applies, the choice of category should be made based on the intended use of the product. The discipline and category are an important part of any product definition, so it is possible to have the same parameter name in more than one category. For example, ""water temperature"" in discipline 10 (oceanographic products), category 4 (subsurface properties) is used for reporting water temperature in the ocean or open sea, and is not the same as ""water temperature"" in discipline 1 (hydrological products), category 2 (inland water and sediment properties), which is used for reporting water temperature in freshwater lakes and rivers.",PDF
-120,"When a non-missing value is used from this code table, the original data value is a quality value associated with the parameter defined by octets 10 and 11 of the product definition template.",PDF
-121,"With respect to code figures 0, 1, 3, 6 and 7, coordinates can only be unambiguously interpreted, if the coordinate reference system in which they are embedded is known. Therefore, defining the shape of the Earth alone without coordinate system axis origins is ambiguous. Generally, the prime meridian defined in the geodetic system WGS-84 can be safely assumed to be the longitudinal origin. However, because these code figures do not specify the longitudinal origin explicitly, it is suggested to contact the originating centre if high precision coordinates are needed, in order to obtain the precise details of the coordinate system used (effective as from 16 November 2016).",PDF
-122,<<note has images of formulas>>,PDF
-123,"The lightning potential index (LPI, Number 1), as defined by Lynn et al. 2010, is derived from grid-scale (resolved) model information in convection permitting models. In contrast, the subgrid-scale lightning potential index is derived from subgrid-scale information (from parameterized convection) for models with coarser resolution.",PDF
-124,"Number 33 (Geometric altitude above mean sea level) or number 34 (Geometric height above ground level) should be used instead of number 6 (Geometric height), because it does not indicate whether this is referring to height above mean sea level or height above ground.",PDF
-125,"A C4 plant is a type of plant that uses a specific photosynthesis mechanism (C4 photosynthesis) in order to avoid photorespiration. Other types of plants are C3 and CAM.",PDF
-126,"Total (atmospheric) energy is the sum of internal energy, potential energy, kinetic energy and latent heat. Same applies to energy fluxes.",PDF
-127,"The water enthalpy (flux) is the enthalpy (flux) associated with the temperature of the water mass.",PDF
-128,"The water potential energy flux is the flux of potential energy associated with the water mass.",PDF
-129,"The net source is the sum of all the atmospheric (chemical) processes creating and destroying chemical constituents or aerosols in the column.",PDF
-130,"This parameter can be used with templates for chemical constituents to specify a chemical species if needed, for instance: Net ecosystem CO2 exchange flux or Net ecosystem CH4 exchange flux.",PDF
-131,"This parameter is the amount of sunshine in seconds over a given length of time in seconds. Sunshine is defined as a radiation intensity above 120 W m-2.",PDF
-132,"A duct layer is an atmospheric layer with a refractivity which leads to a trapping of electromagnetic waves. In a trapping layer the refractivity leads to a bending of EM waves, which is stronger than the Earth's curvature.",PDF
-133,"The Charnock parameter accounts for increased aerodynamic roughness as wave heights grow due to increasing surface stress. It depends on the wind speed, wave age and other aspects of the sea state and is used to calculate how much the waves slow down the wind.",PDF
-134,"Parameters are normalized by being divided by the product of air density and the square of the friction velocity.",PDF
-135,"No additional parameter needed, NA in templates 4.105, 4.106 and 4.107 should be set to 0.",PDF
-136,"Confidence interval for the significance test is needed (NA=1).",PDF
-137,"EFI is defined in https://doi.org/10.1256/qj.02.152. No additional parameter needed (NA=0).",PDF
-138,"SOT is defined in https://doi.org/10.1256/qj.02.152. Lower and upper quantile used for the SOT need to be defined (NA=2) in this order: start of the tail (10 or 90 usually) then end of tail (1 or 99 respectively).",PDF
-139,"This table is divided into blocks of 1000 entries: 1-1000, 1001-2000, 2001-3000, etc. Each block corresponds to a specific land cover survey listed in Code table 4.242 and is subsequently divided into 2 ranges of 500 entries (apart for the first 1000 entries which are designed to be generic and not bound to a specific land cover survey). The first 500 entries are reserved for native classification types of the given survey while the remaining 500 are using for groupings of native classification types.",PDF
-140,"Parameters 37 and 38 are deprecated. It is recommended to use 63 and 64 instead.",PDF
-141,"See Appendix XYZ.",PDF
-142,"In the ring ordering scheme, the 12 rhomboids are not considered and the scanning mode applies to the grid in its entirety.",PDF
-143,"In the nested ordering scheme, the 12 rhomboids are scanned in order defined in Gorsky et al., 2015. The flag bits then refer to how the points are scanned within a rhomboid.",PDF
-144,"This is the Julian day of the year that surface melt begins.",PDF
-145,"This is the Julian day of the year that surface freeze begins.",PDF
-146,"For code number 102 the drought index encoded in the message is specified by the table entries from discipline 0 and parameter category 22 with the corresponding parameter number. The statistical processing period of the drought index is defined by the keys ""length of time range"" and ""indicator of unit of time for the increment""",PDF
-147,"Descriptions of the drought indices in discipline 0, Meteorological products, category 22 are available in the Handbook of Drought Indicators and Indices (WMO-No. 1173) [https://library.wmo.int/idurl/4/55169]. The indices are specified by setting discipline and parameter category/number to the specific index to be encoded. Drought indicators are calculated over different time ranges, prescribed by the 'Length of time range' and 'Indicator of unit for time range' parameters in templates 4.107, 4.108, 4.109 and 4.112. All standardized drought indices are calculated according to the Standardized Precipitation Index User Guide (WMO-No. 1090)[https://library.wmo.int/idurl/4/39629].",PDF
-148,"This entry is intended to be used with templates 4.112 and 4.123. Instead of having the probability of the exceedance of the anomaly (code number 0) of the limits specified in the message, it specifies probabilities which were calculated for the forecast and for the reference dataset with the given specification listed in the metadata. The anomaly is calculated between the two derived probabilities.",PDF
-149,"This level differs from entry 13 which is vertically accumulated from the surface while this entry is not.",PDF
-150,"For use with downstream models (from NWP) such as dispersion modelling or air quality.",PDF
-151,Use the radionuclide release start date as baseline to determine activity arrival or activity end.,PDF
-152,"The following additional arguments must be specified: • Circle - 1 argument for the radius in metres; • Rectangle - 2 arguments for the length in (1) west-east and (2) south-north in metres; • Square - 1 argument for the length of the equal-length sides in metres; • Wedge - 3 arguments for (1) radius in metres and (2) start and (3) end radius in arithmetic degrees with 0 on the positive axis along west-east and counted counter-clockwise;  • Span of grid cells - 2 arguments for the number of grid cells in (1) west-east and (2) south-north so that the span is i+/-x and j+/-y.",PDF
-153,"The option quantile needs two additional arguments: (1) the total number of quantiles and (2) the quantile value.",PDF
-154,"These parameters are intended to be used with templates 4.121 and 4.122 in which the spatio-temporal criteria are used to get a categorical yes/no per grid point of each ensemble member.",PDF
-155,"Scale factor of lower limit, scaled value of lower limit, scale factor of upper limit and scaled value of upper limit must be set to missing. This entry is intended for, but not limited to, entries 5 to 7 in Code table 4.2, discipline 0, category 191.",PDF
-156,Heat net flux is the sum of latent heat net flux and sensible heat net flux.,PDF
-157,Data for demonstrational purposes only.,PDF
-158,Forecast from machine learning (ML) model.,PDF
-159,"Combination of different forecast products to produce a smooth, continuous forecast by applying weights to each individual prediction system which depend on the lead time and forecast skill (for example, seamless prediction using nowcasting to short-range and medium-range).",PDF
-160,Ensemble members are initialized from different initial conditions.,PDF
-161,Combination of 7 and 8.,PDF
-162,"Ben Bouallègue, Z. On the Verification of the Crossing-point Forecast. Tellus A: Dynamic Meteorology and Oceanography 2021, 73 (1), 1-10. https://doi.org/10.1080/16000870.2021.1913007.",PDF
-163,In relation to local coordinate axes at a (grid) cell edge.,PDF
-164,"When using entry 10, the lower limit is used to encode the quantile q (must be an integer between 0 and Q) while the upper limit is used to encode the total number of quantiles Q. This defines the probability of the parameter falling within quantile q. For instance, to encode the probability of falling within the 10th percentile, then q=10 and Q=100; to encode the probability of falling within the 1st tercile, then q=1 and Q=3.",PDF
-165,"Model physics are perturbed (for example, with methods like SPPT, SPP and SKEB.",PDF
-166,"This Anomaly entry should only be used as part of a verification/score field. To properly encode an anomaly and specify the corresponding climatology, please use one of the templates designed specifically for anomalies.",PDF
-167,"The hazard index can be locally defined by the centre.",PDF
-168,"This level has no defined location along the vertical axis. Scale factor and scaled values of first and second fixed surface should be set to 'missing' if not used.",PDF
-169,"Buizza, R., M. Miller, and T. N. Palmer, 1999: Stochastic representation of model uncertainties in the ECMWF ensemble prediction system. Quart. J. Roy. Meteor. Soc., 125, 2887-2908",PDF
-170,"Lang STK, Lock S-J, Leutbecher M, Bechtold P, Forbes RM. Revision of the Stochastically Perturbed Parametrisations model uncertainty scheme in the Integrated Forecasting System. Q J R Meteorol Soc. 2021; 147: 1364–1381. https://doi.org/10.1002/qj.3978",PDF
-171,"Shutts, G., 2004. A stochastic kinetic energy backscatter algorithm for use in ensemble prediction systems. Technical Memorandum 449, ECMWF.  Shutts, G., 2005: A kinetic energy backscatter algorithm for use in ensemble prediction systems.  Quart. J. Roy. Meteor. Soc., 131, 3079-3102.",PDF
-172,"Du, Jun & Berner, Judith & Buizza, R. & Charron, Martin & Houtekamer, Pieter & Hou, Dingchen & Jankov, Isidora & Mu, Mu & Wang, Xuguang & Wei, Mozheng & Yuan, Huiling. (2018). Ensemble Methods for Meteorological Predictions. 10.1007/978-3-642-40457-3_13-1",PDF
-173,"Li J., J. Du and Y. Liu, 2015: A comparison of initial condition-, multi-physics- and stochastic physics-based ensembles in predicting Beijing “7.21” excessive storm rain event. Acta Meteorologica Sinica, 73(1), 50-71, DOI: 10.11676/qxxb2015.008",PDF
-174,"Hou, D., Z. Toth, and Y. Zhu, 2006: A Stochastic Parameterization Scheme within NCEP Global Ensemble Forecast System. 18th AMS conference on Probability and Statistics. Atlanta, GA, Jan. 29-Feb. 2, 2006; Hou, D., Z. Toth, Y. Zhu, and W. Yang, 2008: Impact of a Stochastic Perturbation Scheme on NCEP Global Ensemble Forecast System. 19th AMS conference on Probability and Statistics.  New Orleans, LA, 20-24 Jan. 2008",PDF
-175,"Spatially analyzed quality indicator, according to OPERA II (Holleman I., Michelson D., Galli G., Germann U., and Peura M., 2006: Quality information for radars and radar data. OPERA II deliverable OPERA_2005_19), normalized to between 0 (poorest quality) to 1 (best quality).",PDF
-176,"'Undetected' means that the received radar signal is at or below noise level.",PDF
-177,"‘No data’ describes that a data point is out of range or in a blanked sector.",PDF
-178,"‘Implausible data / outliers’ refers to values that are not physically plausible.",PDF
-179,"BFI2D is calculated by dividing the BFI by an expression that increases with the directional spread and decreases with the peakedness. It comes from the consideration that an increase of the directional spread reduces the excess of kurtosis, which is not taken into account in the BFI alone. Mori, N., M. Onorato, and P. A. E. M. Janssen, 2011: On the Estimation of the Kurtosis in Directional Sea States for Freak Wave Forecasting. J. Phys. Oceanogr., 41, 1484–1497, https://doi.org/10.1175/2011JPO4542.1",PDF
-180,"Crest-trough correlation is an estimate of the auto-correlation between the crest heights and the trough depths. In narrow-banded seas this parameter is quite high, because crests and troughs are approximately the same size. Gemmrich, J., Cicon, L. Generation mechanism and prediction of an observed extreme rogue wave. Sci Rep 12, 1718 (2022). https://doi.org/10.1038/s41598-022-05671-4",PDF
-181,"This is a metric that quantifies the wave-induced mechanical fatigue on the sea-ice pack (0 means broken, 1 means solid). This metric only makes sense in the presence of sea ice.",PDF
-182,"The x- and y- components of the wave radiative stress to sea-ice are not necessarily equivalent to the u- and v- components (eastward/northward). The x- and y- components strictly follow the defined coordinate system which may or may not follow the eastward and northward directions.",PDF
-183,"The atmospheric surface momentum flux is what the atmosphere is losing at the surface of the ocean. The surface momentum flux into the ocean is the momentum flux that is entering the ocean and driving the ocean circulation. The difference is that part of the atmospheric momentum flux goes into the waves and not into the ocean circulation or part of the momentum contained in the wave field that is transferred to the ocean when waves break. In short, the ocean surface has waves which modulate the momentum transfer between the atmosphere and the ocean interior.",PDF
-184,"Probability that a fire will be observed in the grid box.",PDF
-185,"Probability that a lightning strike will ignite a fire, leading to a detectable fire in the grid box.",PDF
-186,"Water surface elevation in the river and floodplains defined by the model as base elevation.",PDF
-187,"Water flow from the groundwater storage to the main river channel.",PDF
-188,"The amount of water stored in the main river channel and on the floodplain within a grid cell. The term storage refers to the total volume of water. This entry is the sum of entries 11 and 12.",PDF
-189,"River flow velocity computed along the river network. It represents the mean speed of water movement in a cross-section of the river channel.",PDF
-190,"Mean mass diameter is the diameter of a particle representing the mean mass of the particle size distribution.",PDF
-191,"Estimated maximum diameter is the empirical estimate of the maximum particle size, based on a particle size distribution or its moments.",PDF
-192,"Geometric sequence: x_n = x_0 * r^(n-1) with 'x_0' first parameter and 'r' second parameter.",PDF
-193,"Arithmetic sequence: a_n = a_1 + (n-1) d with 'a_1' first parameter and 'd' second parameter.",PDF
+1,Parameter deprecated. See Regulation 92.6.2 and use another parameter instead.,na
+2,"Statistical process 1 (Accumulation) does not change units. It is recommended to use another parameter with ""rate"" in its name and accumulation in PDT.",na
+3,"It is recommended not to use this parameter, but another one with a more descriptive unit.",na
+4,Parameter deprecated. Use another parameter in parameter category 1: moisture instead.,na
+5,"FirstFixedSurface and SecondFixedSurface of Code table 4.5 (Fixed surface types and units) to define the vertical extent, i.e. FirstFixedSurface can be set to 1 (Ground or water surface) and SecondFixedSurface set to 7 (Tropopause) for a restriction to the troposphere.",na
+6,Statistical process 1 (Accumulation) does not change units.,na
+7,"Above normal, near normal and below normal are defined as three equiprobable categories based on climatology at each point over the geographical area covered by the grid. The type and methodology of the reference climatology are unspecified and should be documented concurrently by the data producer.",na
+8,Parameter deprecated. Use another parameter in parameter category 3: soil products instead.,na
+9,"Product definition templates that use Code Table 4.9 may contain octets to store the values of lower and upper limits. When categorical probability is used (such as below, near and above normal), these octets shall be set to ""all ones"" (missing).",na
+10,"Statistical process 1 (Accumulation) does not change units. It is recommended to use another parameter without the word ""time-integrated"" in its name and accumulation in PDT.",na
+11,The sum of the water and ice fractions may exceed the total due to overlap between the volumes containing ice and those containing liquid water.,na
+12,(see separate doc or pdf file),na
+13,Code figures 12 and 13 are intended in cases where code figures 0 and 2 may not be sufficient to indicate that significant post-processing has taken place on an initial analysis or forecast output.,na
+14,"Conversion factor between ""Specific activity concentration"" (14) and ""Air concentration"" (10) is ""mass density"" [kg m-3].",na
+15,In relation to local coordinate axes at a cell edge.,na
+16,"It is recommended to use Snow melt rate instead (discipline 2, category 0, number 41).",na
+17,Numbers 17 and 20 are deviations from the reference value of 1 000 kg m-3.,na
+18,The level is defined by a water property difference from the near-surface to the level. The near-surface is typically chosen at 10 m depth. The physical quantity used to compute the difference can be water density (σq) when using level type 169 or water potential temperature (θ) when using level type 170.,na
+19,The original data value is in the same units as the parameter defined by octets 10 and 11 of the product definition template.,na
+20,"The term ""number density"" is used as well for ""number concentration"" (code number 59); conversion factor between ""number density"" (59) and ""specific number concentration"" (60) is ""mass density"" [kg m-3].",na
+21,The x- and y- components of surface stress are not necessarily equivalent to the u- and v- components (eastward/northward). The x- and y- components strictly follow the defined coordinate system which may or may not follow the eastward and northward directions.,na
+22,The x- and y- components of water velocity are not necessarily equivalent to the u- and v- components (eastward/northward). The x- and y- components strictly follow the defined coordinate system which may or may not follow the eastward and northward directions.,na
+23,Total precipitation/snowfall rate stands for the sum of convective and large-scale precipitation/snowfall rate.,na
+24,The Global Solar UVI is formulated using the International Commission on Illumination (CIE) reference action spectrum for UV-induced erythema on the human skin (ISO17166:1999/CIE S 007/E-1998). It is a measure of the UV radiation that is relevant to and defined for a horizontal surface. The UVI is a unitless quantity defined by the formula: {{image}}.,na
+25,A data field representing snow coverage by elevation portrays at which elevations there is a snow pack. The elevation values typically range from 0 to 90 in 100-metre increments. A value of 253 is used to represent a no-snow/no-cloud data point. A value of 254 is used to represent a data point at which snow elevation could not be estimated because of clouds obscuring the remote sensor (when using aircraft or satellite measurements).,na
+26,A value strictly above 0.5 is treated as glacier. A value equal or below 0.5 is treated as land without glacier.,na
+27,"Latitude/Longitude is also called equidistant cylindrical or Plate Carrée.",na
+28,An initialized analysis is considered a zero-hour forecast.,na
+29,Analysis increment represents analysis minus first guess,na
+30,"Apparent temperature is the perceived outdoor temperature, caused by a combination of phenomena, such as air temperature, relative humidity and wind speed.",na
+31,"Assuming a cloud containing a bi-modal ice particle distribution, ""cloud ice"" refers to the small particle mode, whereas the large mode is usually called ""snow"". (""Ice pellets"", in contrast, may refer to the precipitation of sleet, formed from freezing raindrops or refreezing (partially) melted snowflakes, or the precipitation of small hail.)",na
+32,"Bits 5 through 8 may be used to generate staggered grids, such as Arakawa grids (see Part B, GRIB Attachment II).",na
+33,Budget interpolation means a low-order interpolation method that quasi-conserves area averages. It would be appropriate for interpolating budget fields such as precipitation. This method assumes that the field really represents box averages/maxima/minima where each box extends halfway to its neighboring grid point in each direction. The method actually averages bilinearly interpolated values in a square array of points distributed within each output grid box.,na
+34,"By convention, the flux sign is positive if downwards.",na
+35,"Lambert conformal can be secant, tangent, conical or bipolar.",na
+36,Polar stereographic projection can be south or north.,na
+37,"Code figure 5 applies to instances where a single time subinterval was used to calculate the statistically processed field. The exact starting and ending times of the subinterval are not given, but it is known that it is contained inclusively between the beginning time and the ending time of the overall interval.",na
+38,Code figures 11-20 indicate all four layers were used and ground-based fog is beneath the lowest layer.,na
+39,Data are in specified physical units.,na
+40,"Data are numeric without units, although they might be given quantitative meaning through a code table defined external to this document. The emphasis is on a displayable ""picture"" of some phenomenon, perhaps with certain enhanced features. Generally, each datum is an unsigned, one octet integer, but some image format products might have another datum size. The size of a datum is indicated in section 5.",na
+41,"Decibel (dB) is a logarithmic measure of the relative power, or of the relative values of two flux densities, especially of sound intensities and radio and radar power densities. In radar meteorology, the logarithmic scale (dBZ) is used for measuring radar reflectivity factor(obtained from the American Meteorological Society Glossary of Meteorology).",na
+42,Defined by originating centre.,na
+43,"Definition of LPI after Lynn et al.: Lynn, B. and Y. Yair, 2010: Prediction of lightning flash density with the WRF model, Adv. Geosci., 23:11-16; Yair, Y., B. Lynn, C. Price, V. Kotroni,K. Lagouvardos, E. Morin, A. Mugnai and M. Llasat, 2010: Predicting the potential for lightning activity in Mediterranean storms based on the Weather Research and Forecasting (WRF) model dynamic and microphysical fields, Journal of Geophysical Research, 115, D04205, doi:10.1029/2008JD010868.",na
+44,"Di and Dj are assumed to be positive, with the direction of i and j being given by bits 1 and 2.",na
+45,Eddy dissipation parameter is the third root of eddy dissipation rate [m2 s-3].,na
+46,"Entries 8 - 12 are deprecated.",na
+47,Essentially a non-leap year,na
+48,Extends the Gregorian calendar indefinitely in the past,na
+49,Fog is defined as cloud cover in the lowest model level.,na
+50,"It should be noted that depending on values of extreme (first/last) coordinates,and regardless of bitmap, effective number of points per row may be less than the number of points on the current circle.",na
+51,"For parameter 38 (Parameter category 0), ice volume is expressed as if the ice content were melted to liquid water and then its volume measured in the liquid state. This may be understood in the same manner as water equivalent snow depth.",na
+52,Further information concerning the wave parameters can be found in the Guide to Wave Analysis and Forecasting (WMO-No. 702).,na
+53,"Higher values indicate that heat stress is important. Interpretation of values can vary among organizations and use. See example in the ISO certification (ISO 7243, 1989; 2017; Parsons, 2013).",na
+54,"Hybrid height level (Code figure 118) can be defined as:z(k) = A(k) + B(k) x orog(k = 1,...,NLevels; orog = orography; z(k) = height in metres at level k)",na
+55,"Hybrid pressure level, for which Code figure 119 shall be used instead of 105, can be defined as:p(k) = A(k) + B(k) x sp(k = 1,...,NLevels; sp = surface pressure; p(k) = pressure at level k)",na
+56,i direction: west to east along a parallel or left to right along an x-axis.,na
+57,Ice internal pressure or stress (Pa m) is the integrated pressure across the vertical thickness of a layer of ice. It is produced when concentrated ice reacts to external forces such as wind and ocean currents.,na
+58,"If any of bits 5, 6, 7 or 8 are set, Di and Dj are not optional.",na
+59,"If bit number 4 is set, the first row scan is as defined by previous flags.",na
+60,"In astronomy, sky transparency means the effect on the viewing experience caused by the scattering of light through atmospheric water vapour, aerosols or other constituents. Ideal transparency conditions produce a black night sky conducive to viewing faint astronomical objects, almost like being in outer space. In poor transparency conditions, which may occur even in cloud-free conditions, the deep sky background is greyish (not black), faint details are washed out and contrast is reduced.",na
+61,Initialized analysis increment represents initialized analysis minus analysis,na
+62,It is recommended to use parameter 148.,na
+63,"It should be noted that the reference for ""minimum of all ensemble members"" and ""maximum of all ensemble members"" is the set of ensemble members and not a time interval and should not be confused with the maximum and minimum described by PDT 4.8.",na
+65,"j direction: south to north along a meridian, or bottom to top along a y-axis.",na
+66,"La1 and Lo1 define the first row, which is an odd row.",na
+67,"Large anomaly index is defined as {(number of members whose anomaly is higher than 0.5 x SD) - (number of members whose anomaly is lower than -0.5 x SD)} /(number of members) at each grid point, where SD is defined as observed climatological standard deviation.",na
+68,"Negative values associated to this coordinate will indicate depth below ground surface. If values are all below surface, use of entry 106 is recommended, with positive coordinate values instead.",na
+69,Normal flux is on a surface lifted to be normal to sun rays.,na
+70,Numbers 31 to 40 are deprecated.,na
+71,Parameters from 10 onward may be used in combination with product definition templates 4.40-4.43 and Common Code table C-14 (Code table 4.230) to represent any type of radioisotope.,na
+72,Performs a budget interpolation at the grid point nearest to the nominal grid point.,na
+73,"Remotely sensed snow cover is expressed as a field of dimensionless, thematic values. The currently accepted values are for no-snow/no-cloud, 50, for clouds, 100, and for snow, 250 (see Code table 4.215).",na
+74,"Seeing means the steadiness or turbulence of the atmosphere in the context of astronomical observation. Turbulence causes rapid random fluctuations of the optical path through the atmosphere. The twinkling of stars, for example, occurs in poor seeing conditions.",na
+75,"Sigma height level is the vertical model level of the height-based terrain-following coordinate (Gal-Chen and Somerville, 1975). The value of the level = (height of the level - height of the terrain) / (height of the top level - height of the terrain), which is greater than or equal to 0 and less than or equal to 1.",na
+76,Snow evaporation is the accumulated amount of water that has evaporated from snow from within the snow covered area of a grid-box.,na
+77,"Snow water equivalent per cent of normal is stored in per cent of normal units. For example,a value of 110 indicates 110 per cent of the normal snow water equivalent for a given depth of snow.",na
+78,Supercooled large droplets (SLD) are defined as those with a diameter greater than 50 microns.,na
+79,Surface roughness for heat is a measure of the surface resistance to heat transfer.,na
+80,Surface roughness for moisture is a measure of the surface resistance to moisture transfer.,na
+81,Temperature at the base of the thermal skin layer.,na
+82,Temperature of the water across a very small depth (approximately the upper 20 micrometers).,na
+83,Temperature of the water column free of diurnal temperature variability or equal to the ST sub-skin in the absence of any diurnal signal.,na
+84,"The definition of a generalized vertical height coordinate implies the absence of coordinate values in Section 4 but the presence of an external 3D-GRIB message that specifies the height of every model grid point in metres (see Notes to Section 4 in the section above entitled Specification of Octet Contents), i.e., this GRIB message will contain the field with discipline = 0, category = 3, parameter = 6 (Geometric height).",na
+85,The Eta vertical coordinate system involves normalizing the pressure at some point on a specific level by the mean sea-level pressure at that point.,na
+87,"The Fosberg index denotes the potential influence of weather on a wildland fire. It takes into account the combined effects of temperature, wind speed, relative humidity and precipitation. Higher values indicate a higher potential impact.",na
+90,"The listed units for this parameter appear not to be appropriate for evapotranspiration. Instead, it is recommended to use parameter 39 with statistical process 1 (accumulation) in order to report evapotranspiration in units of kg m-2.",na
+91,"The listed units for this parameter appear to be inappropriate for the potential evaporation rate. Instead, it is recommended to use parameter 143.",na
+92,"The original data value (Y in the note 4 of Regulation 92.9.4) has units of Code table 4.2 multiplied by second, unless otherwise noted on Code table 4.2.",na
+93,The original data value has squared units of Code table 4.2.,na
+94,"The original data value is a non-dimensional number from 0 to 1, where 0 indicates no confidence and 1 indicates maximal confidence.",na
+95,The original data value is a non-dimensional number without units.,na
+96,The original data value is defined by Code table 4.244,na
+97,The original data value is non-dimensional number without units.,na
+98,"The ratio of the radiant flux reflected by a surface to that reflected into the same reflected-beam geometry and wavelength range by an ideal (lossless) and diffuse(Lambertian) standard surface, irradiated under the same conditions.",na
+99,"The sea-ice level represents a sea-ice model level for which the depth is not constant across the model domains. The depth in metres of the level is provided by another GRIB message with the parameter “sea-ice thickness” with discipline 10, category 2 and parameter number 1.",na
+100,"The soil level represents a model level for which the depth is not constant across the model domain. The depth in metres of the level is provided by another GRIB message with the parameter ""soil depth"" with discipline 2, category 3 and parameter number 27.",na
+101,The solar flux per unit area received from a solid angle of 2π sr on a horizontal surface.,na
+102,"The solar flux per unit area received from a solid angle of 2π sr, except for the solid angle of the sun's disc, on a horizontal surface.",na
+103,The solar flux per unit area received from the solid angle of the sun's disc on a surface normal to the sun direction.,na
+104,"The total lightning flash density is the sum of cloud-to-ground and cloud-to-cloud lightning flash densities (see Lopez, P., 2016: A lightning parameterization for the ECMWF Integrated Forecasting System, Monthly Weather Review, 144, 3057-3075).",na
+105,The value for the constant direction increment Di (or Dx) in the accompanying grid definition template should be set to all ones (missing).,na
+106,Theoretical temperature at the precise air-sea interface.,na
+107,"This category is no longer populated. Please use ""Product discipline 0 -  Meteorological products, parameter category 20: atmospheric chemical constituents"".",na
+108,This code table is deprecated. See Common Code table C-0 instead.,na
+109,This method assumes that each field really represents box averages/maxima/minima where each box extends halfway to its neighboring grid point in each direction to represent averages/maxima/minima of values from the source grid with no interpolation.,na
+110,"This parameter is described in more detail by (a) Lee, S. and I.M. Held, 1993: Baroclinic wave packets in models and observations. J. Atmos. Sci., 50:1413-1428, (b) Chang, E.K.M., 1993: Downstream development of baroclinic waves as inferred from regression analysis. J. Atmos. Sci., 50:2038-2053, (c) Archambault, H.M., D. Keyser and L.F. Bosart, 2010: Relationships between large-scale regime transitions and major cool-season precipitation events in the northeastern United States. Mon Wea. Review, 138:3454-3473, and(d) Zimin, A.V., I. Szunyogh, B.R. Hung and E. Orr, 2006: Extracting envelopes of non-zonally propagating Rossby wave packets. Mon. Wea. Review, 134:1329-1333.",na
+111,Time integral of diffuse solar irradiance.,na
+112,Time integral of direct solar irradiance.,na
+113,Time integral of global solar irradiance.,na
+114,"Top of atmosphere radiance observed by a sensor, multiplied by pi and divided by the in-band solar irradiance.",na
+115,"Total solid precipitation includes the sum of all types of solid water, e.g. graupel, snow and hail.",na
+116,"Values of N(m) for common truncation cases: Triangular: M = J = K, N(m) = J Rhomboidal: K = J + M, N(m) = J + m Trapezoidal: K = J, K > M, N(m) = J",na
+117,WGS-84 is a geodetic system that uses IAG-GRS80 as a basis.,na
+118,"When a new category is to be added to Code table 4.1 and more than one discipline applies, the choice of discipline should be made based on the intended use of the product.",na
+119,"When a new parameter is to be added to Code table 4.2 and more than one category applies, the choice of category should be made based on the intended use of the product. The discipline and category are an important part of any product definition, so it is possible to have the same parameter name in more than one category. For example, ""water temperature"" in discipline 10 (oceanographic products), category 4 (subsurface properties) is used for reporting water temperature in the ocean or open sea, and is not the same as ""water temperature"" in discipline 1 (hydrological products), category 2 (inland water and sediment properties), which is used for reporting water temperature in freshwater lakes and rivers.",na
+120,"When a non-missing value is used from this code table, the original data value is a quality value associated with the parameter defined by octets 10 and 11 of the product definition template.",na
+121,"With respect to code figures 0, 1, 3, 6 and 7, coordinates can only be unambiguously interpreted, if the coordinate reference system in which they are embedded is known. Therefore, defining the shape of the Earth alone without coordinate system axis origins is ambiguous. Generally, the prime meridian defined in the geodetic system WGS-84 can be safely assumed to be the longitudinal origin. However, because these code figures do not specify the longitudinal origin explicitly, it is suggested to contact the originating centre if high precision coordinates are needed, in order to obtain the precise details of the coordinate system used (effective as from 16 November 2016).",na
+122,<<note has images of formulas>>,na
+123,"The lightning potential index (LPI, Number 1), as defined by Lynn et al. 2010, is derived from grid-scale (resolved) model information in convection permitting models. In contrast, the subgrid-scale lightning potential index is derived from subgrid-scale information (from parameterized convection) for models with coarser resolution.",na
+124,"Number 33 (Geometric altitude above mean sea level) or number 34 (Geometric height above ground level) should be used instead of number 6 (Geometric height), because it does not indicate whether this is referring to height above mean sea level or height above ground.",na
+125,"A C4 plant is a type of plant that uses a specific photosynthesis mechanism (C4 photosynthesis) in order to avoid photorespiration. Other types of plants are C3 and CAM.",na
+126,"Total (atmospheric) energy is the sum of internal energy, potential energy, kinetic energy and latent heat. Same applies to energy fluxes.",na
+127,"The water enthalpy (flux) is the enthalpy (flux) associated with the temperature of the water mass.",na
+128,"The water potential energy flux is the flux of potential energy associated with the water mass.",na
+129,"The net source is the sum of all the atmospheric (chemical) processes creating and destroying chemical constituents or aerosols in the column.",na
+130,"This parameter can be used with templates for chemical constituents to specify a chemical species if needed, for instance: Net ecosystem CO2 exchange flux or Net ecosystem CH4 exchange flux.",na
+131,"This parameter is the amount of sunshine in seconds over a given length of time in seconds. Sunshine is defined as a radiation intensity above 120 W m-2.",na
+132,"A duct layer is an atmospheric layer with a refractivity which leads to a trapping of electromagnetic waves. In a trapping layer the refractivity leads to a bending of EM waves, which is stronger than the Earth's curvature.",na
+133,"The Charnock parameter accounts for increased aerodynamic roughness as wave heights grow due to increasing surface stress. It depends on the wind speed, wave age and other aspects of the sea state and is used to calculate how much the waves slow down the wind.",na
+134,"Parameters are normalized by being divided by the product of air density and the square of the friction velocity.",na
+135,"No additional parameter needed, NA in templates 4.105, 4.106 and 4.107 should be set to 0.",na
+136,"Confidence interval for the significance test is needed (NA=1).",na
+137,"EFI is defined in https://doi.org/10.1256/qj.02.152. No additional parameter needed (NA=0).",na
+138,"SOT is defined in https://doi.org/10.1256/qj.02.152. Lower and upper quantile used for the SOT need to be defined (NA=2) in this order: start of the tail (10 or 90 usually) then end of tail (1 or 99 respectively).",na
+139,"This table is divided into blocks of 1000 entries: 1-1000, 1001-2000, 2001-3000, etc. Each block corresponds to a specific land cover survey listed in Code table 4.242 and is subsequently divided into 2 ranges of 500 entries (apart for the first 1000 entries which are designed to be generic and not bound to a specific land cover survey). The first 500 entries are reserved for native classification types of the given survey while the remaining 500 are using for groupings of native classification types.",na
+140,"Parameters 37 and 38 are deprecated. It is recommended to use 63 and 64 instead.",na
+141,"See Appendix XYZ.",na
+142,"In the ring ordering scheme, the 12 rhomboids are not considered and the scanning mode applies to the grid in its entirety.",na
+143,"In the nested ordering scheme, the 12 rhomboids are scanned in order defined in Gorsky et al., 2015. The flag bits then refer to how the points are scanned within a rhomboid.",na
+144,"This is the Julian day of the year that surface melt begins.",na
+145,"This is the Julian day of the year that surface freeze begins.",na
+146,"For code number 102 the drought index encoded in the message is specified by the table entries from discipline 0 and parameter category 22 with the corresponding parameter number. The statistical processing period of the drought index is defined by the keys ""length of time range"" and ""indicator of unit of time for the increment""",na
+147,"Descriptions of the drought indices in discipline 0, Meteorological products, category 22 are available in the Handbook of Drought Indicators and Indices (WMO-No. 1173) [https://library.wmo.int/idurl/4/55169]. The indices are specified by setting discipline and parameter category/number to the specific index to be encoded. Drought indicators are calculated over different time ranges, prescribed by the 'Length of time range' and 'Indicator of unit for time range' parameters in templates 4.107, 4.108, 4.109 and 4.112. All standardized drought indices are calculated according to the Standardized Precipitation Index User Guide (WMO-No. 1090)[https://library.wmo.int/idurl/4/39629].",na
+148,"This entry is intended to be used with templates 4.112 and 4.123. Instead of having the probability of the exceedance of the anomaly (code number 0) of the limits specified in the message, it specifies probabilities which were calculated for the forecast and for the reference dataset with the given specification listed in the metadata. The anomaly is calculated between the two derived probabilities.",na
+149,"This level differs from entry 13 which is vertically accumulated from the surface while this entry is not.",na
+150,"For use with downstream models (from NWP) such as dispersion modelling or air quality.",na
+151,Use the radionuclide release start date as baseline to determine activity arrival or activity end.,na
+152,"The following additional arguments must be specified: • Circle - 1 argument for the radius in metres; • Rectangle - 2 arguments for the length in (1) west-east and (2) south-north in metres; • Square - 1 argument for the length of the equal-length sides in metres; • Wedge - 3 arguments for (1) radius in metres and (2) start and (3) end radius in arithmetic degrees with 0 on the positive axis along west-east and counted counter-clockwise;  • Span of grid cells - 2 arguments for the number of grid cells in (1) west-east and (2) south-north so that the span is i+/-x and j+/-y.",na
+153,"The option quantile needs two additional arguments: (1) the total number of quantiles and (2) the quantile value.",na
+154,"These parameters are intended to be used with templates 4.121 and 4.122 in which the spatio-temporal criteria are used to get a categorical yes/no per grid point of each ensemble member.",na
+155,"Scale factor of lower limit, scaled value of lower limit, scale factor of upper limit and scaled value of upper limit must be set to missing. This entry is intended for, but not limited to, entries 5 to 7 in Code table 4.2, discipline 0, category 191.",na
+156,Heat net flux is the sum of latent heat net flux and sensible heat net flux.,na
+157,Data for demonstrational purposes only.,na
+158,Forecast from machine learning (ML) model.,na
+159,"Combination of different forecast products to produce a smooth, continuous forecast by applying weights to each individual prediction system which depend on the lead time and forecast skill (for example, seamless prediction using nowcasting to short-range and medium-range).",na
+160,Ensemble members are initialized from different initial conditions.,na
+161,Combination of 7 and 8.,na
+162,"Ben Bouallègue, Z. On the Verification of the Crossing-point Forecast. Tellus A: Dynamic Meteorology and Oceanography 2021, 73 (1), 1-10. https://doi.org/10.1080/16000870.2021.1913007.",na
+163,In relation to local coordinate axes at a (grid) cell edge.,na
+164,"When using entry 10, the lower limit is used to encode the quantile q (must be an integer between 0 and Q) while the upper limit is used to encode the total number of quantiles Q. This defines the probability of the parameter falling within quantile q. For instance, to encode the probability of falling within the 10th percentile, then q=10 and Q=100; to encode the probability of falling within the 1st tercile, then q=1 and Q=3.",na
+165,"Model physics are perturbed (for example, with methods like SPPT, SPP and SKEB.",na
+166,"This Anomaly entry should only be used as part of a verification/score field. To properly encode an anomaly and specify the corresponding climatology, please use one of the templates designed specifically for anomalies.",na
+167,"The hazard index can be locally defined by the centre.",na
+168,"This level has no defined location along the vertical axis. Scale factor and scaled values of first and second fixed surface should be set to 'missing' if not used.",na
+169,"Buizza, R., M. Miller, and T. N. Palmer, 1999: Stochastic representation of model uncertainties in the ECMWF ensemble prediction system. Quart. J. Roy. Meteor. Soc., 125, 2887-2908",na
+170,"Lang STK, Lock S-J, Leutbecher M, Bechtold P, Forbes RM. Revision of the Stochastically Perturbed Parametrisations model uncertainty scheme in the Integrated Forecasting System. Q J R Meteorol Soc. 2021; 147: 1364–1381. https://doi.org/10.1002/qj.3978",na
+171,"Shutts, G., 2004. A stochastic kinetic energy backscatter algorithm for use in ensemble prediction systems. Technical Memorandum 449, ECMWF.  Shutts, G., 2005: A kinetic energy backscatter algorithm for use in ensemble prediction systems.  Quart. J. Roy. Meteor. Soc., 131, 3079-3102.",na
+172,"Du, Jun & Berner, Judith & Buizza, R. & Charron, Martin & Houtekamer, Pieter & Hou, Dingchen & Jankov, Isidora & Mu, Mu & Wang, Xuguang & Wei, Mozheng & Yuan, Huiling. (2018). Ensemble Methods for Meteorological Predictions. 10.1007/978-3-642-40457-3_13-1",na
+173,"Li J., J. Du and Y. Liu, 2015: A comparison of initial condition-, multi-physics- and stochastic physics-based ensembles in predicting Beijing “7.21” excessive storm rain event. Acta Meteorologica Sinica, 73(1), 50-71, DOI: 10.11676/qxxb2015.008",na
+174,"Hou, D., Z. Toth, and Y. Zhu, 2006: A Stochastic Parameterization Scheme within NCEP Global Ensemble Forecast System. 18th AMS conference on Probability and Statistics. Atlanta, GA, Jan. 29-Feb. 2, 2006; Hou, D., Z. Toth, Y. Zhu, and W. Yang, 2008: Impact of a Stochastic Perturbation Scheme on NCEP Global Ensemble Forecast System. 19th AMS conference on Probability and Statistics.  New Orleans, LA, 20-24 Jan. 2008",na
+175,"Spatially analyzed quality indicator, according to OPERA II (Holleman I., Michelson D., Galli G., Germann U., and Peura M., 2006: Quality information for radars and radar data. OPERA II deliverable OPERA_2005_19), normalized to between 0 (poorest quality) to 1 (best quality).",na
+176,"'Undetected' means that the received radar signal is at or below noise level.",na
+177,"‘No data’ describes that a data point is out of range or in a blanked sector.",na
+178,"‘Implausible data / outliers’ refers to values that are not physically plausible.",na
+179,"BFI2D is calculated by dividing the BFI by an expression that increases with the directional spread and decreases with the peakedness. It comes from the consideration that an increase of the directional spread reduces the excess of kurtosis, which is not taken into account in the BFI alone. Mori, N., M. Onorato, and P. A. E. M. Janssen, 2011: On the Estimation of the Kurtosis in Directional Sea States for Freak Wave Forecasting. J. Phys. Oceanogr., 41, 1484–1497, https://doi.org/10.1175/2011JPO4542.1",na
+180,"Crest-trough correlation is an estimate of the auto-correlation between the crest heights and the trough depths. In narrow-banded seas this parameter is quite high, because crests and troughs are approximately the same size. Gemmrich, J., Cicon, L. Generation mechanism and prediction of an observed extreme rogue wave. Sci Rep 12, 1718 (2022). https://doi.org/10.1038/s41598-022-05671-4",na
+181,"This is a metric that quantifies the wave-induced mechanical fatigue on the sea-ice pack (0 means broken, 1 means solid). This metric only makes sense in the presence of sea ice.",na
+182,"The x- and y- components of the wave radiative stress to sea-ice are not necessarily equivalent to the u- and v- components (eastward/northward). The x- and y- components strictly follow the defined coordinate system which may or may not follow the eastward and northward directions.",na
+183,"The atmospheric surface momentum flux is what the atmosphere is losing at the surface of the ocean. The surface momentum flux into the ocean is the momentum flux that is entering the ocean and driving the ocean circulation. The difference is that part of the atmospheric momentum flux goes into the waves and not into the ocean circulation or part of the momentum contained in the wave field that is transferred to the ocean when waves break. In short, the ocean surface has waves which modulate the momentum transfer between the atmosphere and the ocean interior.",na
+184,"Probability that a fire will be observed in the grid box.",na
+185,"Probability that a lightning strike will ignite a fire, leading to a detectable fire in the grid box.",na
+186,"Water surface elevation in the river and floodplains defined by the model as base elevation.",na
+187,"Water flow from the groundwater storage to the main river channel.",na
+188,"The amount of water stored in the main river channel and on the floodplain within a grid cell. The term storage refers to the total volume of water. This entry is the sum of entries 11 and 12.",na
+189,"River flow velocity computed along the river network. It represents the mean speed of water movement in a cross-section of the river channel.",na
+190,"Mean mass diameter is the diameter of a particle representing the mean mass of the particle size distribution.",na
+191,"Estimated maximum diameter is the empirical estimate of the maximum particle size, based on a particle size distribution or its moments.",na
+192,"Geometric sequence: x_n = x_0 * r^(n-1) with 'x_0' first parameter and 'r' second parameter.",na
+193,"Arithmetic sequence: a_n = a_1 + (n-1) d with 'a_1' first parameter and 'd' second parameter.",na

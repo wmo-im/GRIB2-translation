@@ -1,6 +1,6 @@
 ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
-grib2/4/221/0,Treatment of missing data,,0,,Not included,,,,Operational,PDF
-grib2/4/221/1,Treatment of missing data,,1,,Extrapolated,,,,Operational,PDF
-grib2/4/221/2-191,Treatment of missing data,,2-191,,Reserved,,,,Operational,PDF
-grib2/4/221/192-254,Treatment of missing data,,192-254,,Reserved for local use,,,,Operational,PDF
-grib2/4/221/255,Treatment of missing data,,255,,Missing,,,,Operational,PDF
+grib2/4/221/0,Treatment of missing data,,0,,Not included,,,,Operational,na
+grib2/4/221/1,Treatment of missing data,,1,,Extrapolated,,,,Operational,na
+grib2/4/221/2-191,Treatment of missing data,,2-191,,Reserved,,,,Operational,na
+grib2/4/221/192-254,Treatment of missing data,,192-254,,Reserved for local use,,,,Operational,na
+grib2/4/221/255,Treatment of missing data,,255,,Missing,,,,Operational,na

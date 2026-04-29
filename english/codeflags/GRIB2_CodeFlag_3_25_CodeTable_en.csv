@@ -1,10 +1,10 @@
 ID,Title_en,SubTitle_en,CodeFlag,Value,MeaningParameterDescription_en,Note_en,noteIDs,UnitComments_en,Status,translation_source
-grib2/3/25/0-76,Type of bi-Fourier truncation,,0-76,,Reserved,,,,Operational,PDF
-grib2/3/25/77,Type of bi-Fourier truncation,,77,,Rectangular,,,,Operational,PDF
-grib2/3/25/78-87,Type of bi-Fourier truncation,,78-87,,Reserved,,,,Operational,PDF
-grib2/3/25/88,Type of bi-Fourier truncation,,88,,Elliptic,,,,Operational,PDF
-grib2/3/25/89-98,Type of bi-Fourier truncation,,89-98,,Reserved,,,,Operational,PDF
-grib2/3/25/99,Type of bi-Fourier truncation,,99,,Diamond,,,,Operational,PDF
-grib2/3/25/100-191,Type of bi-Fourier truncation,,100-191,,Reserved,,,,Operational,PDF
-grib2/3/25/192-254,Type of bi-Fourier truncation,,192-254,,Reserved for local use,,,,Operational,PDF
-grib2/3/25/255,Type of bi-Fourier truncation,,255,,Missing,,,,Operational,PDF
+grib2/3/25/0-76,Type of bi-Fourier truncation,,0-76,,Reserved,,,,Operational,na
+grib2/3/25/77,Type of bi-Fourier truncation,,77,,Rectangular,,,,Operational,na
+grib2/3/25/78-87,Type of bi-Fourier truncation,,78-87,,Reserved,,,,Operational,na
+grib2/3/25/88,Type of bi-Fourier truncation,,88,,Elliptic,,,,Operational,na
+grib2/3/25/89-98,Type of bi-Fourier truncation,,89-98,,Reserved,,,,Operational,na
+grib2/3/25/99,Type of bi-Fourier truncation,,99,,Diamond,,,,Operational,na
+grib2/3/25/100-191,Type of bi-Fourier truncation,,100-191,,Reserved,,,,Operational,na
+grib2/3/25/192-254,Type of bi-Fourier truncation,,192-254,,Reserved for local use,,,,Operational,na
+grib2/3/25/255,Type of bi-Fourier truncation,,255,,Missing,,,,Operational,na

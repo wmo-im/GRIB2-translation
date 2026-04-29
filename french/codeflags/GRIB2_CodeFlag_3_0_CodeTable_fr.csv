@@ -1,6 +1,6 @@
 ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
 grib2/3/0/0,Table de code 3.0 — Source de la définition de la grille,,0,,Précisée dans la table de code 3.1,,,,Operational,PDF
-grib2/3/0/1,Table de code 3.0 — Source de la définition de la grille,,1,,Définition de grille prédéterminée,Définition établie par le centre d'origine,,,Operational,PDF
+grib2/3/0/1,Table de code 3.0 — Source de la définition de la grille,,1,,Définition de grille prédéterminée,(voir la note),42,,Operational,PDF
 grib2/3/0/2-191,Table de code 3.0 — Source de la définition de la grille,,2-191,,En réserve,,,,Operational,PDF
 grib2/3/0/192-254,Table de code 3.0 — Source de la définition de la grille,,192-254,,En réserve pour un usage local,,,,Operational,PDF
 grib2/3/0/255,Table de code 3.0 — Source de la définition de la grille,,255,,Aucune définition de grille ne s'applique au produit,,,,Operational,PDF
