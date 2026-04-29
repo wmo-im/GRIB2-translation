@@ -1,3 +1,3 @@
-﻿ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translation_source
-grib2/1/2/24,Modèle d'identification 1.2 Définition du calendrier et décalage paléontologique,24,1,Type de calendrier,(voir la table de code 1.6),,1.6,,Operational,PDF
-grib2/1/2/25-26,Modèle d'identification 1.2 Définition du calendrier et décalage paléontologique,25-26,2,Nombre de dizaines de milliers d'années,,,,,Operational,PDF
+ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translation_source
+grib2/1/2/24,Définition du calendrier et décalage paléontologique,24,1,Type de calendrier,(voir la table de code 1.6),,1.6,,Operational,PDF
+grib2/1/2/25-26,Définition du calendrier et décalage paléontologique,25-26,2,Nombre de dizaines de milliers d'années,,,,,Operational,PDF

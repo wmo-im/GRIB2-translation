@@ -1,5 +1,5 @@
-﻿ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translation_source
-grib2/3/52/15-28,Modèle de définition de la grille 3.52 — Coefficients harmoniques sphériques après dilatation,15-28,14,Voir le modèle de définition de la grille 3.50,,,,,Operational,PDF
-grib2/3/52/29-32,Modèle de définition de la grille 3.52 — Coefficients harmoniques sphériques après dilatation,29-32,4,Latitude du pôle de dilatation,,,,,Operational,PDF
-grib2/3/52/33-36,Modèle de définition de la grille 3.52 — Coefficients harmoniques sphériques après dilatation,33-36,4,Longitude du pôle de dilatation,,,,,Operational,PDF
-grib2/3/52/37-40,Modèle de définition de la grille 3.52 — Coefficients harmoniques sphériques après dilatation,37-40,4,Facteur de dilatation,,,,,Operational,PDF
+ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translation_source
+grib2/3/52/15-28,Coefficients harmoniques sphériques après dilatation,15-28,14,Voir le modèle de définition de la grille 3.50,,,,,Operational,PDF
+grib2/3/52/29-32,Coefficients harmoniques sphériques après dilatation,29-32,4,Latitude du pôle de dilatation,,,,,Operational,PDF
+grib2/3/52/33-36,Coefficients harmoniques sphériques après dilatation,33-36,4,Longitude du pôle de dilatation,,,,,Operational,PDF
+grib2/3/52/37-40,Coefficients harmoniques sphériques après dilatation,37-40,4,Facteur de dilatation,,,,,Operational,PDF

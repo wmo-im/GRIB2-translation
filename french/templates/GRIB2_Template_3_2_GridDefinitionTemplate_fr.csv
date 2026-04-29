@@ -1,6 +1,6 @@
 ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translation_source
-grib2/3/2/15-72,"Modèle de définition de la grille 3.2 — Grille latitude/longitude (ou équidistante cylindrique, ou Plate Carrée) après dilatation",15-72,58,Voir modèle de définition de la grille 3.0,(voir la note 1),9,,,Operational,PDF
-grib2/3/2/73-76,"Modèle de définition de la grille 3.2 — Grille latitude/longitude (ou équidistante cylindrique, ou Plate Carrée) après dilatation",73-76,4,Latitude du pôle de dilatation,,,,,Operational,PDF
-grib2/3/2/77-80,"Modèle de définition de la grille 3.2 — Grille latitude/longitude (ou équidistante cylindrique, ou Plate Carrée) après dilatation",77-80,4,Longitude du pôle de dilatation,,,,,Operational,PDF
-grib2/3/2/81-84,"Modèle de définition de la grille 3.2 — Grille latitude/longitude (ou équidistante cylindrique, ou Plate Carrée) après dilatation",81-84,4,Facteur de dilatation,,,,,Operational,PDF
-grib2/3/2/85-nn,"Modèle de définition de la grille 3.2 — Grille latitude/longitude (ou équidistante cylindrique, ou Plate Carrée) après dilatation",85-nn,,Liste de nombre de points le long de chaque méridien ou parallèle,(voir les notes 3 et 4),"4,124",,,Operational,PDF
+grib2/3/2/15-72,"Grille latitude/longitude (ou équidistante cylindrique, ou Plate Carrée) après dilatation",15-72,58,Voir modèle de définition de la grille 3.0,(voir la note 1),9,,,Operational,PDF
+grib2/3/2/73-76,"Grille latitude/longitude (ou équidistante cylindrique, ou Plate Carrée) après dilatation",73-76,4,Latitude du pôle de dilatation,,,,,Operational,PDF
+grib2/3/2/77-80,"Grille latitude/longitude (ou équidistante cylindrique, ou Plate Carrée) après dilatation",77-80,4,Longitude du pôle de dilatation,,,,,Operational,PDF
+grib2/3/2/81-84,"Grille latitude/longitude (ou équidistante cylindrique, ou Plate Carrée) après dilatation",81-84,4,Facteur de dilatation,,,,,Operational,PDF
+grib2/3/2/85-nn,"Grille latitude/longitude (ou équidistante cylindrique, ou Plate Carrée) après dilatation",85-nn,,Liste de nombre de points le long de chaque méridien ou parallèle,(voir les notes 3 et 4),"4,124",,,Operational,PDF

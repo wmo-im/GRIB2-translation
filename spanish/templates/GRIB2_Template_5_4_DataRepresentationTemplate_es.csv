@@ -1,2 +1,2 @@
-﻿ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translation_source
-grib2/5/4/12,Modelo de representación de los datos 5.4 — Datos en los puntos de la retícula – datos de comas flotantes IEEE,12,1,Precisión,(véase la Tabla de cifrado 5.7),,5.7,,Operational,PDF
+ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translation_source
+grib2/5/4/12,Datos en los puntos de la retícula – datos de comas flotantes IEEE,12,1,Precisión,(véase la Tabla de cifrado 5.7),,5.7,,Operational,PDF
