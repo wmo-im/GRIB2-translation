@@ -1,23 +1,23 @@
-﻿ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translation_source
-grib2/3/12/15,Modelo de definición de la retícula 3.12 — Mercator transversal,15,1,Forma de la Tierra,véase la Tabla de cifrado 3.2,,3.2,,Operational,PDF
-grib2/3/12/16,Modelo de definición de la retícula 3.12 — Mercator transversal,16,1,Factor de escala del radio de la Tierra esférica,,,,,Operational,PDF
-grib2/3/12/17-20,Modelo de definición de la retícula 3.12 — Mercator transversal,17-20,4,Valor ajustado del radio de la Tierra esférica,,,,,Operational,PDF
-grib2/3/12/21,Modelo de definición de la retícula 3.12 — Mercator transversal,21,1,Factor de escala del eje mayor de la Tierra esferoidal achatada,,,,,Operational,PDF
-grib2/3/12/22-25,Modelo de definición de la retícula 3.12 — Mercator transversal,22-25,4,Valor ajustado del eje mayor de la Tierra esferoidal achatada,,,,,Operational,PDF
-grib2/3/12/26,Modelo de definición de la retícula 3.12 — Mercator transversal,26,1,Factor de escala del eje menor de la Tierra esferoidal achatada,,,,,Operational,PDF
-grib2/3/12/27-30,Modelo de definición de la retícula 3.12 — Mercator transversal,27-30,4,Valor ajustado del eje menor de la Tierra esferoidal achatada,,,,,Operational,PDF
-grib2/3/12/31-34,Modelo de definición de la retícula 3.12 — Mercator transversal,31-34,4,Ni - número de puntos a lo largo del eje i,,,,,Operational,PDF
-grib2/3/12/35-38,Modelo de definición de la retícula 3.12 — Mercator transversal,35-38,4,Nj - número de puntos a lo largo del eje j,,,,,Operational,PDF
-grib2/3/12/39-42,Modelo de definición de la retícula 3.12 — Mercator transversal,39-42,4,LaR - latitud geográfica del punto de referencia,,,,,Operational,PDF
-grib2/3/12/43-46,Modelo de definición de la retícula 3.12 — Mercator transversal,43-46,4,LoR - longitud geográfica del punto de referencia,,,,,Operational,PDF
-grib2/3/12/47,Modelo de definición de la retícula 3.12 — Mercator transversal,47,1,Banderines de resolución y de componentes,véase la Tabla de banderines 3.3,,,3.3,Operational,PDF
-grib2/3/12/48-51,Modelo de definición de la retícula 3.12 — Mercator transversal,48-51,4,m - factor de escala en el punto de referencia – relación entre la distancia en el mapa y la distancia en el esferoide (valores de coma flotante IEEE de 32 bits),,,,,Operational,PDF
-grib2/3/12/52-55,Modelo de definición de la retícula 3.12 — Mercator transversal,52-55,4,"XR v falsa distancia en dirección este, coordenada en la dirección i del punto de referencia, en unidades de 10-2 m",,,,,Operational,PDF
-grib2/3/12/56-59,Modelo de definición de la retícula 3.12 — Mercator transversal,56-59,4,"YR - falsa distancia en dirección norte, coordenada en la dirección j del punto de referencia, en unidades de 10-2 m",,,,,Operational,PDF
-grib2/3/12/60,Modelo de definición de la retícula 3.12 — Mercator transversal,60,1,Modo de barrido,véanse los banderines de la Tabla de banderines 3.4,,,3.4,Operational,PDF
-grib2/3/12/61-64,Modelo de definición de la retícula 3.12 — Mercator transversal,61-64,4,"Di - incremento de longitud en la dirección i, en unidades de 10-2 m",,,,,Operational,PDF
-grib2/3/12/65-68,Modelo de definición de la retícula 3.12 — Mercator transversal,65-68,4,"Dj - incremento de longitud en la dirección j, en unidades de 10-2 m",,,,,Operational,PDF
-grib2/3/12/69-72,Modelo de definición de la retícula 3.12 — Mercator transversal,69-72,4,"x1 - coordenada del primer punto de retícula en la dirección i, en unidades de 10-2 m",,,,,Operational,PDF
-grib2/3/12/73-76,Modelo de definición de la retícula 3.12 — Mercator transversal,73-76,4,"y1 - coordenada del primer punto de retícula en la dirección j, en unidades de 10-2 m",,,,,Operational,PDF
-grib2/3/12/77-80,Modelo de definición de la retícula 3.12 — Mercator transversal,77-80,4,"x2 - coordenada del último punto de retícula en la dirección i, en unidades de 10-2 m",,,,,Operational,PDF
-grib2/3/12/81-84,Modelo de definición de la retícula 3.12 — Mercator transversal,81-84,4,"y2 - coordenada del último punto de retícula en la dirección j, en unidades de 10-2 m",,,,,Operational,PDF
+ID,Title_es,OctetNo,OctetCount,Contents_es,Note_es,noteIDs,codeTable,flagTable,Status,translation_source
+grib2/3/12/15,Mercator transversal,15,1,Forma de la Tierra,véase la Tabla de cifrado 3.2,,3.2,,Operational,PDF
+grib2/3/12/16,Mercator transversal,16,1,Factor de escala del radio de la Tierra esférica,,,,,Operational,PDF
+grib2/3/12/17-20,Mercator transversal,17-20,4,Valor ajustado del radio de la Tierra esférica,,,,,Operational,PDF
+grib2/3/12/21,Mercator transversal,21,1,Factor de escala del eje mayor de la Tierra esferoidal achatada,,,,,Operational,PDF
+grib2/3/12/22-25,Mercator transversal,22-25,4,Valor ajustado del eje mayor de la Tierra esferoidal achatada,,,,,Operational,PDF
+grib2/3/12/26,Mercator transversal,26,1,Factor de escala del eje menor de la Tierra esferoidal achatada,,,,,Operational,PDF
+grib2/3/12/27-30,Mercator transversal,27-30,4,Valor ajustado del eje menor de la Tierra esferoidal achatada,,,,,Operational,PDF
+grib2/3/12/31-34,Mercator transversal,31-34,4,Ni - número de puntos a lo largo del eje i,,,,,Operational,PDF
+grib2/3/12/35-38,Mercator transversal,35-38,4,Nj - número de puntos a lo largo del eje j,,,,,Operational,PDF
+grib2/3/12/39-42,Mercator transversal,39-42,4,LaR - latitud geográfica del punto de referencia,,,,,Operational,PDF
+grib2/3/12/43-46,Mercator transversal,43-46,4,LoR - longitud geográfica del punto de referencia,,,,,Operational,PDF
+grib2/3/12/47,Mercator transversal,47,1,Banderines de resolución y de componentes,véase la Tabla de banderines 3.3,,,3.3,Operational,PDF
+grib2/3/12/48-51,Mercator transversal,48-51,4,m - factor de escala en el punto de referencia – relación entre la distancia en el mapa y la distancia en el esferoide (valores de coma flotante IEEE de 32 bits),,,,,Operational,PDF
+grib2/3/12/52-55,Mercator transversal,52-55,4,"XR v falsa distancia en dirección este, coordenada en la dirección i del punto de referencia, en unidades de 10-2 m",,,,,Operational,PDF
+grib2/3/12/56-59,Mercator transversal,56-59,4,"YR - falsa distancia en dirección norte, coordenada en la dirección j del punto de referencia, en unidades de 10-2 m",,,,,Operational,PDF
+grib2/3/12/60,Mercator transversal,60,1,Modo de barrido,véanse los banderines de la Tabla de banderines 3.4,,,3.4,Operational,PDF
+grib2/3/12/61-64,Mercator transversal,61-64,4,"Di - incremento de longitud en la dirección i, en unidades de 10-2 m",,,,,Operational,PDF
+grib2/3/12/65-68,Mercator transversal,65-68,4,"Dj - incremento de longitud en la dirección j, en unidades de 10-2 m",,,,,Operational,PDF
+grib2/3/12/69-72,Mercator transversal,69-72,4,"x1 - coordenada del primer punto de retícula en la dirección i, en unidades de 10-2 m",,,,,Operational,PDF
+grib2/3/12/73-76,Mercator transversal,73-76,4,"y1 - coordenada del primer punto de retícula en la dirección j, en unidades de 10-2 m",,,,,Operational,PDF
+grib2/3/12/77-80,Mercator transversal,77-80,4,"x2 - coordenada del último punto de retícula en la dirección i, en unidades de 10-2 m",,,,,Operational,PDF
+grib2/3/12/81-84,Mercator transversal,81-84,4,"y2 - coordenada del último punto de retícula en la dirección j, en unidades de 10-2 m",,,,,Operational,PDF

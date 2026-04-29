@@ -1,20 +1,20 @@
-﻿ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translation_source
-grib2/4/20/10,Modèle de définition du produit 4.20 — Produit radar,10,1,Catégorie du paramètre,(voir la table de code 4.1),,4.1,,Operational,PDF
-grib2/4/20/11,Modèle de définition du produit 4.20 — Produit radar,11,1,Numéro du paramètre,(voir la table de code 4.2),,4.2,,Operational,PDF
-grib2/4/20/12,Modèle de définition du produit 4.20 — Produit radar,12,1,Type du processus de production,(voir la table de code 4.3),,4.3,,Operational,PDF
-grib2/4/20/13,Modèle de définition du produit 4.20 — Produit radar,13,1,Nombre de stations radar,,,,,Operational,PDF
-grib2/4/20/14,Modèle de définition du produit 4.20 — Produit radar,14,1,Indicateur d'unité de l'intervalle de temps,,,,,Operational,PDF
-grib2/4/20/15-18,Modèle de définition du produit 4.20 — Produit radar,15-18,4,Latitude de la station (10-6 degrés),,,,,Operational,PDF
-grib2/4/20/19-22,Modèle de définition du produit 4.20 — Produit radar,19-22,4,Longitude de la station (10-6 degrés),,,,,Operational,PDF
-grib2/4/20/23-24,Modèle de définition du produit 4.20 — Produit radar,23-24,2,Altitude de la station (mètres),,,,,Operational,PDF
-grib2/4/20/25-28,Modèle de définition du produit 4.20 — Produit radar,25-28,4,Identification de la station (alphanumérique),,,,,Operational,PDF
-grib2/4/20/29-30,Modèle de définition du produit 4.20 — Produit radar,29-30,2,Indicatif de la station (numérique),,,,,Operational,PDF
-grib2/4/20/31,Modèle de définition du produit 4.20 — Produit radar,31,1,Mode de fonctionnement,(voir la table de code 4.12),,4.12,,Operational,PDF
-grib2/4/20/32,Modèle de définition du produit 4.20 — Produit radar,32,1,Constante d'étalonnage de la réflectivité (dixièmes de dB),,,,,Operational,PDF
-grib2/4/20/33,Modèle de définition du produit 4.20 — Produit radar,33,1,Indicateur de contrôle de qualité,(voir la table de code 4.13),,4.13,,Operational,PDF
-grib2/4/20/34,Modèle de définition du produit 4.20 — Produit radar,34,1,Indicateur de filtre de fouillis,(voir la table de code 4.14),,4.14,,Operational,PDF
-grib2/4/20/35,Modèle de définition du produit 4.20 — Produit radar,35,1,Angle constant de site de l'antenne (dixièmes de degré vrai),,,,,Operational,PDF
-grib2/4/20/36-37,Modèle de définition du produit 4.20 — Produit radar,36-37,2,Intervalle de totalisation (minutes),,,,,Operational,PDF
-grib2/4/20/38,Modèle de définition du produit 4.20 — Produit radar,38,1,Réflectivité de référence pour les plafonds d'échos (dB),,,,,Operational,PDF
-grib2/4/20/39-41,Modèle de définition du produit 4.20 — Produit radar,39-41,3,Espacement des cellules de distance (m),,,,,Operational,PDF
-grib2/4/20/42-43,Modèle de définition du produit 4.20 — Produit radar,42-43,2,Écartement radial (dixièmes de degré vrai),,,,,Operational,PDF
+ID,Title_fr,OctetNo,OctetCount,Contents_fr,Note_fr,noteIDs,codeTable,flagTable,Status,translation_source
+grib2/4/20/10,Produit radar,10,1,Catégorie du paramètre,(voir la table de code 4.1),,4.1,,Operational,PDF
+grib2/4/20/11,Produit radar,11,1,Numéro du paramètre,(voir la table de code 4.2),,4.2,,Operational,PDF
+grib2/4/20/12,Produit radar,12,1,Type du processus de production,(voir la table de code 4.3),,4.3,,Operational,PDF
+grib2/4/20/13,Produit radar,13,1,Nombre de stations radar,,,,,Operational,PDF
+grib2/4/20/14,Produit radar,14,1,Indicateur d'unité de l'intervalle de temps,,,,,Operational,PDF
+grib2/4/20/15-18,Produit radar,15-18,4,Latitude de la station (10-6 degrés),,,,,Operational,PDF
+grib2/4/20/19-22,Produit radar,19-22,4,Longitude de la station (10-6 degrés),,,,,Operational,PDF
+grib2/4/20/23-24,Produit radar,23-24,2,Altitude de la station (mètres),,,,,Operational,PDF
+grib2/4/20/25-28,Produit radar,25-28,4,Identification de la station (alphanumérique),,,,,Operational,PDF
+grib2/4/20/29-30,Produit radar,29-30,2,Indicatif de la station (numérique),,,,,Operational,PDF
+grib2/4/20/31,Produit radar,31,1,Mode de fonctionnement,(voir la table de code 4.12),,4.12,,Operational,PDF
+grib2/4/20/32,Produit radar,32,1,Constante d'étalonnage de la réflectivité (dixièmes de dB),,,,,Operational,PDF
+grib2/4/20/33,Produit radar,33,1,Indicateur de contrôle de qualité,(voir la table de code 4.13),,4.13,,Operational,PDF
+grib2/4/20/34,Produit radar,34,1,Indicateur de filtre de fouillis,(voir la table de code 4.14),,4.14,,Operational,PDF
+grib2/4/20/35,Produit radar,35,1,Angle constant de site de l'antenne (dixièmes de degré vrai),,,,,Operational,PDF
+grib2/4/20/36-37,Produit radar,36-37,2,Intervalle de totalisation (minutes),,,,,Operational,PDF
+grib2/4/20/38,Produit radar,38,1,Réflectivité de référence pour les plafonds d'échos (dB),,,,,Operational,PDF
+grib2/4/20/39-41,Produit radar,39-41,3,Espacement des cellules de distance (m),,,,,Operational,PDF
+grib2/4/20/42-43,Produit radar,42-43,2,Écartement radial (dixièmes de degré vrai),,,,,Operational,PDF

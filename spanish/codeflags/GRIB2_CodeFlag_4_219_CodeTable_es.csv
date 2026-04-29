@@ -1,8 +1,8 @@
 ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
-grib2/4/219/0,Tabla de cifrado 4.219 – Indicador de calidad de la altura de la cima de la nube,,0,,Calidad nominal de la altura de la cima de la nube,,,,Operational,PDF
-grib2/4/219/1,Tabla de cifrado 4.219 – Indicador de calidad de la altura de la cima de la nube,,1,,Niebla en segmento,,,,Operational,PDF
-grib2/4/219/2,Tabla de cifrado 4.219 – Indicador de calidad de la altura de la cima de la nube,,2,,Estimación de altura de baja calidad,,,,Operational,PDF
-grib2/4/219/3,Tabla de cifrado 4.219 – Indicador de calidad de la altura de la cima de la nube,,3,,Niebla en segmento y estimación de altura de baja calidad,,,,Operational,PDF
-grib2/4/219/4-191,Tabla de cifrado 4.219 – Indicador de calidad de la altura de la cima de la nube,,4-191,,Reservadas,,,,Operational,PDF
-grib2/4/219/192-254,Tabla de cifrado 4.219 – Indicador de calidad de la altura de la cima de la nube,,192-254,,Reservadas para uso local,,,,Operational,PDF
-grib2/4/219/255,Tabla de cifrado 4.219 – Indicador de calidad de la altura de la cima de la nube,,255,,Valor faltante,,,,Operational,PDF
+grib2/4/219/0,Indicador de calidad de la altura de la cima de la nube,,0,,Calidad nominal de la altura de la cima de la nube,,,,Operational,PDF
+grib2/4/219/1,Indicador de calidad de la altura de la cima de la nube,,1,,Niebla en segmento,,,,Operational,PDF
+grib2/4/219/2,Indicador de calidad de la altura de la cima de la nube,,2,,Estimación de altura de baja calidad,,,,Operational,PDF
+grib2/4/219/3,Indicador de calidad de la altura de la cima de la nube,,3,,Niebla en segmento y estimación de altura de baja calidad,,,,Operational,PDF
+grib2/4/219/4-191,Indicador de calidad de la altura de la cima de la nube,,4-191,,Reservadas,,,,Operational,PDF
+grib2/4/219/192-254,Indicador de calidad de la altura de la cima de la nube,,192-254,,Reservadas para uso local,,,,Operational,PDF
+grib2/4/219/255,Indicador de calidad de la altura de la cima de la nube,,255,,Valor faltante,,,,Operational,PDF

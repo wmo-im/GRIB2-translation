@@ -1,8 +1,8 @@
 ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
-grib2/5/2/0,Tabla de cifrado 5.2 Definición de la función de los valores de las coordenadas matriciales,,0,,Juego de valores de coordenadas explícitas,,,,Operational,PDF
-grib2/5/2/1,Tabla de cifrado 5.2 Definición de la función de los valores de las coordenadas matriciales,,1,,Coordenadas lineales f(1) = C1 f(n) = f(n-1) + C2,,,,Operational,PDF
-grib2/5/2/2-10,Tabla de cifrado 5.2 Definición de la función de los valores de las coordenadas matriciales,,2-10,,Reservadas,,,,Operational,PDF
-grib2/5/2/11,Tabla de cifrado 5.2 Definición de la función de los valores de las coordenadas matriciales,,11,,Coordenadas geométricas f(1) = C1 f(n) = C2 x f(n-1),,,,Operational,PDF
-grib2/5/2/12-191,Tabla de cifrado 5.2 Definición de la función de los valores de las coordenadas matriciales,,12-191,,Reservadas,,,,Operational,PDF
-grib2/5/2/192-254,Tabla de cifrado 5.2 Definición de la función de los valores de las coordenadas matriciales,,192-254,,Reservadas para uso local,,,,Operational,PDF
-grib2/5/2/255,Tabla de cifrado 5.2 Definición de la función de los valores de las coordenadas matriciales,,255,,Valor faltante,,,,Operational,PDF
+grib2/5/2/0,Definición de la función de los valores de las coordenadas matriciales,,0,,Juego de valores de coordenadas explícitas,,,,Operational,PDF
+grib2/5/2/1,Definición de la función de los valores de las coordenadas matriciales,,1,,Coordenadas lineales f(1) = C1 f(n) = f(n-1) + C2,,,,Operational,PDF
+grib2/5/2/2-10,Definición de la función de los valores de las coordenadas matriciales,,2-10,,Reservadas,,,,Operational,PDF
+grib2/5/2/11,Definición de la función de los valores de las coordenadas matriciales,,11,,Coordenadas geométricas f(1) = C1 f(n) = C2 x f(n-1),,,,Operational,PDF
+grib2/5/2/12-191,Definición de la función de los valores de las coordenadas matriciales,,12-191,,Reservadas,,,,Operational,PDF
+grib2/5/2/192-254,Definición de la función de los valores de las coordenadas matriciales,,192-254,,Reservadas para uso local,,,,Operational,PDF
+grib2/5/2/255,Definición de la función de los valores de las coordenadas matriciales,,255,,Valor faltante,,,,Operational,PDF

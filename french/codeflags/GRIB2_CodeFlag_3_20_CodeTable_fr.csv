@@ -1,6 +1,6 @@
 ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
-grib2/3/20/0,Table de code 3.20 — Type de lignes horizontales,,0,,Rhumb,,,,Operational,PDF
-grib2/3/20/1,Table de code 3.20 — Type de lignes horizontales,,1,,Grand cercle,,,,Operational,PDF
-grib2/3/20/2-191,Table de code 3.20 — Type de lignes horizontales,,2-191,,En réserve,,,,Operational,PDF
-grib2/3/20/192-254,Table de code 3.20 — Type de lignes horizontales,,192-254,,En réserve pour un usage local,,,,Operational,PDF
-grib2/3/20/255,Table de code 3.20 — Type de lignes horizontales,,255,,Valeur manquante,,,,Operational,PDF
+grib2/3/20/0,Type de lignes horizontales,,0,,Rhumb,,,,Operational,PDF
+grib2/3/20/1,Type de lignes horizontales,,1,,Grand cercle,,,,Operational,PDF
+grib2/3/20/2-191,Type de lignes horizontales,,2-191,,En réserve,,,,Operational,PDF
+grib2/3/20/192-254,Type de lignes horizontales,,192-254,,En réserve pour un usage local,,,,Operational,PDF
+grib2/3/20/255,Type de lignes horizontales,,255,,Valeur manquante,,,,Operational,PDF

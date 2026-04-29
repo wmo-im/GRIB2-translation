@@ -1,16 +1,16 @@
 ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
-grib2/4/238/0,Table de code 4.238 – Source ou puits,,0,,En réserve,,,,Operational,PDF
-grib2/4/238/1,Table de code 4.238 – Source ou puits,,1,,Aéronautique,,,,Operational,PDF
-grib2/4/238/2,Table de code 4.238 – Source ou puits,,2,,Éclair,,,,Operational,PDF
-grib2/4/238/3,Table de code 4.238 – Source ou puits,,3,,Sources biogéniques,,,,Operational,PDF
-grib2/4/238/4,Table de code 4.238 – Source ou puits,,4,,Sources anthropiques,,,,Operational,PDF
-grib2/4/238/5,Table de code 4.238 – Source ou puits,,5,,Feux incontrôlés,,,,Operational,PDF
-grib2/4/238/6,Table de code 4.238 – Source ou puits,,6,,Sources naturelles,,,,Operational,PDF
-grib2/4/238/7,Table de code 4.238 – Source ou puits,,7,,Volcans,,,,Operational,PDF
-grib2/4/238/8,Table de code 4.238 – Source ou puits,,8,,Biocombustibles,,,,Operational,PDF
-grib2/4/238/9,Table de code 4.238 – Source ou puits,,9,,Combustibles fossiles,,,,Operational,PDF
-grib2/4/238/10,Table de code 4.238 – Source ou puits,,10,,Zones humides,,,,Operational,PDF
-grib2/4/238/11,Table de code 4.238 – Source ou puits,,11,,Océans,,,,Operational,PDF
-grib2/4/238/12-191,Table de code 4.238 – Source ou puits,,12-191,,En réserve,,,,Operational,PDF
-grib2/4/238/192-254,Table de code 4.238 – Source ou puits,,192-254,,En réserve pour un usage local,,,,Operational,PDF
-grib2/4/238/255,Table de code 4.238 – Source ou puits,,255,,Valeur manquante,,,,Operational,PDF
+grib2/4/238/0,Source ou puits,,0,,En réserve,,,,Operational,PDF
+grib2/4/238/1,Source ou puits,,1,,Aéronautique,,,,Operational,PDF
+grib2/4/238/2,Source ou puits,,2,,Éclair,,,,Operational,PDF
+grib2/4/238/3,Source ou puits,,3,,Sources biogéniques,,,,Operational,PDF
+grib2/4/238/4,Source ou puits,,4,,Sources anthropiques,,,,Operational,PDF
+grib2/4/238/5,Source ou puits,,5,,Feux incontrôlés,,,,Operational,PDF
+grib2/4/238/6,Source ou puits,,6,,Sources naturelles,,,,Operational,PDF
+grib2/4/238/7,Source ou puits,,7,,Volcans,,,,Operational,PDF
+grib2/4/238/8,Source ou puits,,8,,Biocombustibles,,,,Operational,PDF
+grib2/4/238/9,Source ou puits,,9,,Combustibles fossiles,,,,Operational,PDF
+grib2/4/238/10,Source ou puits,,10,,Zones humides,,,,Operational,PDF
+grib2/4/238/11,Source ou puits,,11,,Océans,,,,Operational,PDF
+grib2/4/238/12-191,Source ou puits,,12-191,,En réserve,,,,Operational,PDF
+grib2/4/238/192-254,Source ou puits,,192-254,,En réserve pour un usage local,,,,Operational,PDF
+grib2/4/238/255,Source ou puits,,255,,Valeur manquante,,,,Operational,PDF

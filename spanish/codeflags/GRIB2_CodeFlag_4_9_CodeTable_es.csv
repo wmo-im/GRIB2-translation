@@ -1,13 +1,13 @@
 ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
-grib2/4/9/0,Tabla de cifrado 4.9 – Tipo de probabilidad,,0,,Probabilidad del fenómeno inferior al límite inferior,,,,Operational,PDF
-grib2/4/9/1,Tabla de cifrado 4.9 – Tipo de probabilidad,,1,,Probabilidad del fenómeno superior al límite superior,,,,Operational,PDF
-grib2/4/9/2,Tabla de cifrado 4.9 – Tipo de probabilidad,,2,,"Probabilidad del fenómeno entre los límites inferior y superior (el intervalo incluye el límite inferior, pero no el superior)",,,,Operational,PDF
-grib2/4/9/3,Tabla de cifrado 4.9 – Tipo de probabilidad,,3,,Probabilidad del fenómeno superior al límite inferior,,,,Operational,PDF
-grib2/4/9/4,Tabla de cifrado 4.9 – Tipo de probabilidad,,4,,Probabilidad del fenómeno inferior al límite superior,,,,Operational,PDF
-grib2/4/9/5,Tabla de cifrado 4.9 – Tipo de probabilidad,,5,,Probabilidad del fenómeno equivalente al límite inferior,,,,Operational,PDF
-grib2/4/9/6,Tabla de cifrado 4.9 – Tipo de probabilidad,,6,,Probabilidad del fenómeno en la categoría superior a lo normal,(véanse las notas 1 y 2),"7,9",,Operational,PDF
-grib2/4/9/7,Tabla de cifrado 4.9 – Tipo de probabilidad,,7,,Probabilidad del fenómeno en la categoría próxima a lo normal,(véanse las notas 1 y 2),"7,9",,Operational,PDF
-grib2/4/9/8,Tabla de cifrado 4.9 – Tipo de probabilidad,,8,,Probabilidad del fenómeno en la categoría inferior a lo normal,(véanse las notas 1 y 2),"7,9",,Operational,PDF
-grib2/4/9/9-191,Tabla de cifrado 4.9 – Tipo de probabilidad,,9-191,,Reservadas,,,,Operational,PDF
-grib2/4/9/192-254,Tabla de cifrado 4.9 – Tipo de probabilidad,,192-254,,Reservadas para uso local,,,,Operational,PDF
-grib2/4/9/255,Tabla de cifrado 4.9 – Tipo de probabilidad,,255,,Valor faltante,,,,Operational,PDF
+grib2/4/9/0,Tipo de probabilidad,,0,,Probabilidad del fenómeno inferior al límite inferior,,,,Operational,PDF
+grib2/4/9/1,Tipo de probabilidad,,1,,Probabilidad del fenómeno superior al límite superior,,,,Operational,PDF
+grib2/4/9/2,Tipo de probabilidad,,2,,"Probabilidad del fenómeno entre los límites inferior y superior (el intervalo incluye el límite inferior, pero no el superior)",,,,Operational,PDF
+grib2/4/9/3,Tipo de probabilidad,,3,,Probabilidad del fenómeno superior al límite inferior,,,,Operational,PDF
+grib2/4/9/4,Tipo de probabilidad,,4,,Probabilidad del fenómeno inferior al límite superior,,,,Operational,PDF
+grib2/4/9/5,Tipo de probabilidad,,5,,Probabilidad del fenómeno equivalente al límite inferior,,,,Operational,PDF
+grib2/4/9/6,Tipo de probabilidad,,6,,Probabilidad del fenómeno en la categoría superior a lo normal,(véanse las notas 1 y 2),"7,9",,Operational,PDF
+grib2/4/9/7,Tipo de probabilidad,,7,,Probabilidad del fenómeno en la categoría próxima a lo normal,(véanse las notas 1 y 2),"7,9",,Operational,PDF
+grib2/4/9/8,Tipo de probabilidad,,8,,Probabilidad del fenómeno en la categoría inferior a lo normal,(véanse las notas 1 y 2),"7,9",,Operational,PDF
+grib2/4/9/9-191,Tipo de probabilidad,,9-191,,Reservadas,,,,Operational,PDF
+grib2/4/9/192-254,Tipo de probabilidad,,192-254,,Reservadas para uso local,,,,Operational,PDF
+grib2/4/9/255,Tipo de probabilidad,,255,,Valor faltante,,,,Operational,PDF

@@ -1,6 +1,6 @@
 ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
-grib2/4/210/0,Table de code 4.210 – Intensité des traînées de condensation,,0,,Absence de traînées de condensation,,,,Operational,PDF
-grib2/4/210/1,Table de code 4.210 – Intensité des traînées de condensation,,1,,Présence de traînées de condensation,,,,Operational,PDF
-grib2/4/210/2-191,Table de code 4.210 – Intensité des traînées de condensation,,2-191,,En réserve,,,,Operational,PDF
-grib2/4/210/192-254,Table de code 4.210 – Intensité des traînées de condensation,,192-254,,En réserve pour un usage local,,,,Operational,PDF
-grib2/4/210/255,Table de code 4.210 – Intensité des traînées de condensation,,255,,Valeur manquante,,,,Operational,PDF
+grib2/4/210/0,Intensité des traînées de condensation,,0,,Absence de traînées de condensation,,,,Operational,PDF
+grib2/4/210/1,Intensité des traînées de condensation,,1,,Présence de traînées de condensation,,,,Operational,PDF
+grib2/4/210/2-191,Intensité des traînées de condensation,,2-191,,En réserve,,,,Operational,PDF
+grib2/4/210/192-254,Intensité des traînées de condensation,,192-254,,En réserve pour un usage local,,,,Operational,PDF
+grib2/4/210/255,Intensité des traînées de condensation,,255,,Valeur manquante,,,,Operational,PDF

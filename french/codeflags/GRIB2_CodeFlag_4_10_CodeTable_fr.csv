@@ -1,16 +1,16 @@
 ID,Title_fr,SubTitle_fr,CodeFlag,Value,MeaningParameterDescription_fr,Note_fr,noteIDs,UnitComments_fr,Status,translation_source
-grib2/4/10/0,Table de code 4.10 – Calcul statistique,,0,,Moyenne,,,,Operational,PDF
-grib2/4/10/1,Table de code 4.10 – Calcul statistique,,1,,Total,(voir la note 1),92,,Operational,PDF
-grib2/4/10/2,Table de code 4.10 – Calcul statistique,,2,,Maximum,,,,Operational,PDF
-grib2/4/10/3,Table de code 4.10 – Calcul statistique,,3,,Minimum,,,,Operational,PDF
-grib2/4/10/4,Table de code 4.10 – Calcul statistique,,4,,Différence (entre la valeur à la fin de l'intervalle de temps et la valeur au début de cet intervalle),,,,Operational,PDF
-grib2/4/10/5,Table de code 4.10 – Calcul statistique,,5,,Moyenne quadratique,,,,Operational,PDF
-grib2/4/10/6,Table de code 4.10 – Calcul statistique,,6,,Écart type,,,,Operational,PDF
-grib2/4/10/7,Table de code 4.10 – Calcul statistique,,7,,Covariance (variance temporelle),(voir la note 2),93,,Operational,PDF
-grib2/4/10/8,Table de code 4.10 – Calcul statistique,,8,,Différence (entre la valeur au début de l'intervalle de temps et la valeur à la fin de cet intervalle),,,,Operational,PDF
-grib2/4/10/9,Table de code 4.10 – Calcul statistique,,9,,Ratio,(voir la note 3),97,,Operational,PDF
-grib2/4/10/10,Table de code 4.10 – Calcul statistique,,10,,Anomalie normalisée,,,,Operational,PDF
-grib2/4/10/11,Table de code 4.10 – Calcul statistique,,11,,Somme,,,,Operational,PDF
-grib2/4/10/12-191,Table de code 4.10 – Calcul statistique,,12-191,,En réserve,,,,Operational,PDF
-grib2/4/10/192-254,Table de code 4.10 – Calcul statistique,,192-254,,En réserve pour un usage local,,,,Operational,PDF
-grib2/4/10/255,Table de code 4.10 – Calcul statistique,,255,,Valeur manquante,,,,Operational,PDF
+grib2/4/10/0,Calcul statistique,,0,,Moyenne,,,,Operational,PDF
+grib2/4/10/1,Calcul statistique,,1,,Total,(voir la note 1),92,,Operational,PDF
+grib2/4/10/2,Calcul statistique,,2,,Maximum,,,,Operational,PDF
+grib2/4/10/3,Calcul statistique,,3,,Minimum,,,,Operational,PDF
+grib2/4/10/4,Calcul statistique,,4,,Différence (entre la valeur à la fin de l'intervalle de temps et la valeur au début de cet intervalle),,,,Operational,PDF
+grib2/4/10/5,Calcul statistique,,5,,Moyenne quadratique,,,,Operational,PDF
+grib2/4/10/6,Calcul statistique,,6,,Écart type,,,,Operational,PDF
+grib2/4/10/7,Calcul statistique,,7,,Covariance (variance temporelle),(voir la note 2),93,,Operational,PDF
+grib2/4/10/8,Calcul statistique,,8,,Différence (entre la valeur au début de l'intervalle de temps et la valeur à la fin de cet intervalle),,,,Operational,PDF
+grib2/4/10/9,Calcul statistique,,9,,Ratio,(voir la note 3),97,,Operational,PDF
+grib2/4/10/10,Calcul statistique,,10,,Anomalie normalisée,,,,Operational,PDF
+grib2/4/10/11,Calcul statistique,,11,,Somme,,,,Operational,PDF
+grib2/4/10/12-191,Calcul statistique,,12-191,,En réserve,,,,Operational,PDF
+grib2/4/10/192-254,Calcul statistique,,192-254,,En réserve pour un usage local,,,,Operational,PDF
+grib2/4/10/255,Calcul statistique,,255,,Valeur manquante,,,,Operational,PDF

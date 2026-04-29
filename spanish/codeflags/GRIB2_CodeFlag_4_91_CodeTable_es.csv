@@ -1,16 +1,16 @@
 ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
-grib2/4/91/0,Tabla de cifrado 4.91 – Tipo de intervalo,,0,,Inferior al primer límite,,,,Operational,PDF
-grib2/4/91/1,Tabla de cifrado 4.91 – Tipo de intervalo,,1,,Superior al segundo límite,,,,Operational,PDF
-grib2/4/91/2,Tabla de cifrado 4.91 – Tipo de intervalo,,2,,"Comprendido entre el primero y el segundo límites. El intervalo incluye el primer límite, pero no el segundo",,,,Operational,PDF
-grib2/4/91/3,Tabla de cifrado 4.91 – Tipo de intervalo,,3,,Superior al primer límite,,,,Operational,PDF
-grib2/4/91/4,Tabla de cifrado 4.91 – Tipo de intervalo,,4,,Inferior al segundo límite,,,,Operational,PDF
-grib2/4/91/5,Tabla de cifrado 4.91 – Tipo de intervalo,,5,,Inferior o igual al primer límite,,,,Operational,PDF
-grib2/4/91/6,Tabla de cifrado 4.91 – Tipo de intervalo,,6,,Superior o igual al segundo límite,,,,Operational,PDF
-grib2/4/91/7,Tabla de cifrado 4.91 – Tipo de intervalo,,7,,Comprendido entre el primero y el segundo límites. El intervalo incluye el primero y el segundo límites,,,,Operational,PDF
-grib2/4/91/8,Tabla de cifrado 4.91 – Tipo de intervalo,,8,,Superior o igual al primer límite,,,,Operational,PDF
-grib2/4/91/9,Tabla de cifrado 4.91 – Tipo de intervalo,,9,,Inferior o igual al segundo límite,,,,Operational,PDF
-grib2/4/91/10,Tabla de cifrado 4.91 – Tipo de intervalo,,10,,"Comprendido entre el primer y el segundo límites. El intervalo incluye el segundo límite, pero no el primero",,,,Operational,PDF
-grib2/4/91/11,Tabla de cifrado 4.91 – Tipo de intervalo,,11,,Igual al primer límite,,,,Operational,PDF
-grib2/4/91/12-191,Tabla de cifrado 4.91 – Tipo de intervalo,,12-191,,Reservadas,,,,Operational,PDF
-grib2/4/91/192-254,Tabla de cifrado 4.91 – Tipo de intervalo,,192-254,,Reservadas para uso local,,,,Operational,PDF
-grib2/4/91/255,Tabla de cifrado 4.91 – Tipo de intervalo,,255,,Valor faltante,,,,Operational,PDF
+grib2/4/91/0,Tipo de intervalo,,0,,Inferior al primer límite,,,,Operational,PDF
+grib2/4/91/1,Tipo de intervalo,,1,,Superior al segundo límite,,,,Operational,PDF
+grib2/4/91/2,Tipo de intervalo,,2,,"Comprendido entre el primero y el segundo límites. El intervalo incluye el primer límite, pero no el segundo",,,,Operational,PDF
+grib2/4/91/3,Tipo de intervalo,,3,,Superior al primer límite,,,,Operational,PDF
+grib2/4/91/4,Tipo de intervalo,,4,,Inferior al segundo límite,,,,Operational,PDF
+grib2/4/91/5,Tipo de intervalo,,5,,Inferior o igual al primer límite,,,,Operational,PDF
+grib2/4/91/6,Tipo de intervalo,,6,,Superior o igual al segundo límite,,,,Operational,PDF
+grib2/4/91/7,Tipo de intervalo,,7,,Comprendido entre el primero y el segundo límites. El intervalo incluye el primero y el segundo límites,,,,Operational,PDF
+grib2/4/91/8,Tipo de intervalo,,8,,Superior o igual al primer límite,,,,Operational,PDF
+grib2/4/91/9,Tipo de intervalo,,9,,Inferior o igual al segundo límite,,,,Operational,PDF
+grib2/4/91/10,Tipo de intervalo,,10,,"Comprendido entre el primer y el segundo límites. El intervalo incluye el segundo límite, pero no el primero",,,,Operational,PDF
+grib2/4/91/11,Tipo de intervalo,,11,,Igual al primer límite,,,,Operational,PDF
+grib2/4/91/12-191,Tipo de intervalo,,12-191,,Reservadas,,,,Operational,PDF
+grib2/4/91/192-254,Tipo de intervalo,,192-254,,Reservadas para uso local,,,,Operational,PDF
+grib2/4/91/255,Tipo de intervalo,,255,,Valor faltante,,,,Operational,PDF

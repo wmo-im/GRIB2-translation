@@ -1,6 +1,6 @@
 ID,Title_es,SubTitle_es,CodeFlag,Value,MeaningParameterDescription_es,Note_es,noteIDs,UnitComments_es,Status,translation_source
-grib2/4/205/0,Tabla de cifrado 4.205 – Presencia de aerosol,,0,,Ausencia de aerosol,,,,Operational,PDF
-grib2/4/205/1,Tabla de cifrado 4.205 – Presencia de aerosol,,1,,Presencia de aerosol,,,,Operational,PDF
-grib2/4/205/2-191,Tabla de cifrado 4.205 – Presencia de aerosol,,2-191,,Reservadas,,,,Operational,PDF
-grib2/4/205/192-254,Tabla de cifrado 4.205 – Presencia de aerosol,,192-254,,Reservadas para uso local,,,,Operational,PDF
-grib2/4/205/255,Tabla de cifrado 4.205 – Presencia de aerosol,,255,,Valor faltante,,,,Operational,PDF
+grib2/4/205/0,Presencia de aerosol,,0,,Ausencia de aerosol,,,,Operational,PDF
+grib2/4/205/1,Presencia de aerosol,,1,,Presencia de aerosol,,,,Operational,PDF
+grib2/4/205/2-191,Presencia de aerosol,,2-191,,Reservadas,,,,Operational,PDF
+grib2/4/205/192-254,Presencia de aerosol,,192-254,,Reservadas para uso local,,,,Operational,PDF
+grib2/4/205/255,Presencia de aerosol,,255,,Valor faltante,,,,Operational,PDF
